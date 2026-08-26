@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Matéria — Foco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Aviso de login -->
+  <section id="tela-deslogado" class="tela-login" hidden>
+    <div class="login-caixa">
+      <p class="eyebrow">preparação · concurso</p>
+      <h1 class="marca">Foco<span class="ponto">.</span></h1>
+      <p class="sub">Você precisa entrar primeiro.</p>
+      <a class="btn-primario" href="index.html">Ir para o login</a>
+    </div>
+  </section>
+
+  <!-- Detalhe de uma matéria -->
+  <section id="tela-mat" class="tela-app" hidden>
+    <header class="topo">
+      <span class="marca-mini">Foco<span class="ponto">.</span> · Matéria</span>
+      <div class="topo-dir">
+        <a href="materias.html" class="mini">Todas as matérias</a>
+        <a href="calendario.html" class="mini">Calendário</a>
+        <a href="atividades.html" class="mini">Atividades</a>
+        <a href="pomodoro.html" class="mini">Pomodoro</a>
+        <span id="quem-sou" class="quem-sou"></span>
+        <button id="btn-sair" class="mini">Sair</button>
+      </div>
+    </header>
+
+    <main class="cal-main">
+      <div class="cal-cabecalho">
+        <div>
+          <h2 id="titulo-mat" class="titulo-secao">Carregando…</h2>
+          <p id="resumo-mat" class="resumo-geral"></p>
+        </div>
+        <div class="cal-acoes">
+          <a id="link-questoes" class="mini" href="atividades.html">Questões da matéria</a>
+        </div>
+      </div>
+
+      <!-- barra de progresso + contadores -->
+      <div id="painel-progresso" class="mat-progresso"></div>
+
+      <!-- filtro rápido -->
+      <div id="filtros" class="mat-filtros"></div>
+
+      <!-- conteúdo: estudado x programado -->
+      <div id="conteudo-mat" class="mat-conteudo"></div>
+    </main>
+  </section>
+
+  <script type="module" src="js/materia.js"></script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atividades — Foco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Aviso de login -->
+  <section id="tela-deslogado" class="tela-login" hidden>
+    <div class="login-caixa">
+      <p class="eyebrow">preparação · concurso</p>
+      <h1 class="marca">Foco<span class="ponto">.</span></h1>
+      <p class="sub">Você precisa entrar primeiro.</p>
+      <a class="btn-primario" href="index.html">Ir para o login</a>
+    </div>
+  </section>
+
+  <!-- Atividades -->
+  <section id="tela-ativ" class="tela-app" hidden>
+    <header class="topo">
+      <span class="marca-mini">Foco<span class="ponto">.</span> · Atividades</span>
+      <div class="topo-dir">
+        <a href="calendario.html" class="mini">Calendário</a>
+        <a href="materias.html" class="mini">Matérias</a>
+        <a href="pomodoro.html" class="mini">Pomodoro</a>
+        <span id="quem-sou" class="quem-sou"></span>
+        <button id="btn-sair" class="mini">Sair</button>
+      </div>
+    </header>
+
+    <main class="cal-main">
+      <div class="cal-cabecalho">
+        <div>
+          <h2 class="titulo-secao">Cadernos de questões</h2>
+          <p id="resumo-ativ" class="resumo-geral">Carregando…</p>
+        </div>
+      </div>
+
+      <!-- Formulário: cria um caderno com a 1ª tentativa -->
+      <form id="form-ativ" class="ativ-form" autocomplete="off">
+        <label class="campo-data" style="flex:1 1 200px">
+          <span>Nome do caderno</span>
+          <input name="nome" placeholder="ex.: Crase — bloco 1" required />
+        </label>
+        <label class="campo-data">
+          <span>Data</span>
+          <input name="data" type="date" required />
+        </label>
+        <label class="campo-data">
+          <span>Matéria</span>
+          <select name="disciplina" id="sel-disc"></select>
+        </label>
+        <label class="campo-data">
+          <span>Qtd. questões</span>
+          <input name="total" type="number" min="0" placeholder="0" />
+        </label>
+        <label class="campo-data">
+          <span>Acertos</span>
+          <input name="acertos" type="number" min="0" placeholder="0" />
+        </label>
+        <label class="campo-data">
+          <span>Tempo (min)</span>
+          <input name="tempoMin" type="number" min="0" placeholder="0" />
+        </label>
+        <button class="btn-primario" type="submit">Criar caderno</button>
+      </form>
+
+      <!-- Tópicos da matéria (marque os que este caderno cobre) -->
+      <div id="bloco-topicos" class="topicos-bloco" hidden>
+        <div class="topicos-head">
+          <span>Tópicos do caderno <small>(opcional — vêm do seu plano)</small></span>
+          <div class="topicos-acoes">
+            <button type="button" class="mini" id="top-nenhum">Limpar</button>
+          </div>
+        </div>
+        <div id="lista-topicos" class="topicos-lista"></div>
+      </div>
+
+      <!-- Placar por matéria -->
+      <div id="placar" class="placar"></div>
+
+      <!-- Lista de cadernos -->
+      <h3 class="titulo-secao" style="margin-top:26px">Seus cadernos</h3>
+      <div id="lista-cadernos" class="cad-lista"></div>
+
+      <!-- Histórico legado (registros soltos do formato antigo), se houver -->
+      <div id="bloco-legado" hidden>
+        <h3 class="titulo-secao" style="margin-top:26px">Registros antigos</h3>
+        <div id="lista-ativ" class="ativ-lista"></div>
+      </div>
+    </main>
+  </section>
+
+  <!-- Modal de refeito -->
+  <div id="modal-refeito" class="modal-fundo" hidden>
+    <div class="modal-caixa" role="dialog" aria-modal="true">
+      <h3 class="modal-tit">Refazer caderno</h3>
+      <p class="modal-sub" id="refeito-nome"></p>
+      <div class="refeito-campos">
+        <label class="campo-data"><span>Data</span><input id="rf-data" type="date" /></label>
+        <label class="campo-data"><span>Qtd. questões</span><input id="rf-total" type="number" min="0" placeholder="0" /></label>
+        <label class="campo-data"><span>Acertos</span><input id="rf-acertos" type="number" min="0" placeholder="0" /></label>
+        <label class="campo-data"><span>Tempo (min)</span><input id="rf-tempo" type="number" min="0" placeholder="0" /></label>
+      </div>
+      <div class="modal-botoes">
+        <button class="mini" id="rf-cancelar">Cancelar</button>
+        <button class="mini perigo" id="rf-salvar" style="background:var(--accent);border-color:var(--accent)">Salvar tentativa</button>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="js/atividades.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "rules": {
+    "concursos": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid"
+      }
+    },
+    "disciplinas": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["concursoId"]
+      }
+    },
+    "itens": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["data", "ordem"]
+      }
+    },
+    "pdfs": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["disciplinaId"]
+      }
+    },
+    "sessoes": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["pdfId"]
+      }
+    },
+    "revisoes": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["pdfId", "dataAgendada", "feita"]
+      }
+    },
+    "atividades": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["data", "disciplina"]
+      }
+    },
+    "pomodoros": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["data", "fase"]
+      }
+    },
+    "cadernos": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        ".indexOn": ["disciplina"]
+      }
+    }
+  }
+}

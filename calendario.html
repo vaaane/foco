@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendário — Foco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Aviso de login (se abrir esta página sem estar logado) -->
+  <section id="tela-deslogado" class="tela-login" hidden>
+    <div class="login-caixa">
+      <p class="eyebrow">preparação · concurso</p>
+      <h1 class="marca">Foco<span class="ponto">.</span></h1>
+      <p class="sub">Você precisa entrar primeiro.</p>
+      <a class="btn-primario" href="index.html">Ir para o login</a>
+    </div>
+  </section>
+
+  <!-- Calendário -->
+  <section id="tela-cal" class="tela-app" hidden>
+    <header class="topo">
+      <span class="marca-mini">Foco<span class="ponto">.</span> · Calendário</span>
+      <div class="topo-dir">
+        <a href="atividades.html" class="mini">Atividades</a>
+        <a href="materias.html" class="mini">Matérias</a>
+        <a href="pomodoro.html" class="mini">Pomodoro</a>
+        <span id="quem-sou" class="quem-sou"></span>
+        <button id="btn-sair" class="mini">Sair</button>
+      </div>
+    </header>
+
+    <main class="cal-main">
+      <div class="cal-cabecalho">
+        <div>
+          <h2 class="titulo-secao">Plano de estudos</h2>
+          <p id="resumo-geral" class="resumo-geral">Carregando…</p>
+        </div>
+        <div class="cal-acoes">
+          <button id="btn-carregar" class="btn-primario" hidden>Carregar plano do Eduardo</button>
+          <button id="btn-recarregar" class="mini" hidden>Recarregar plano do zero</button>
+        </div>
+      </div>
+
+      <div id="metricas" class="metricas"></div>
+
+      <div id="lista-dias" class="lista-dias"></div>
+    </main>
+  </section>
+
+  <script type="module" src="js/calendario.js"></script>
+</body>
+</html>

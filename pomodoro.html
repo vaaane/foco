@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pomodoro — Foco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <section id="tela-deslogado" class="tela-login" hidden>
+    <div class="login-caixa">
+      <p class="eyebrow">preparação · concurso</p>
+      <h1 class="marca">Foco<span class="ponto">.</span></h1>
+      <p class="sub">Você precisa entrar primeiro.</p>
+      <a class="btn-primario" href="index.html">Ir para o login</a>
+    </div>
+  </section>
+
+  <section id="tela-pomo" class="tela-app" hidden>
+    <header class="topo">
+      <span class="marca-mini">Foco<span class="ponto">.</span> · Pomodoro</span>
+      <div class="topo-dir">
+        <a href="calendario.html" class="mini">Calendário</a>
+        <a href="atividades.html" class="mini">Atividades</a>
+        <a href="materias.html" class="mini">Matérias</a>
+        <span id="quem-sou" class="quem-sou"></span>
+        <button id="btn-sair" class="mini">Sair</button>
+      </div>
+    </header>
+
+    <main class="cal-main">
+      <div class="cal-cabecalho">
+        <div>
+          <h2 class="titulo-secao">Análise do Pomodoro</h2>
+          <p id="resumo-pomo" class="resumo-geral">Carregando…</p>
+        </div>
+      </div>
+
+      <div id="cartoes" class="pomo-cartoes"></div>
+      <div id="por-dia" class="pomo-por-dia"></div>
+      <div id="tempo-real" class="pomo-tempo-real" style="margin-top:26px"></div>
+    </main>
+  </section>
+
+  <script type="module" src="js/pomodoro.js"></script>
+</body>
+</html>

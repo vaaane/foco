@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foco — Estudos para concurso</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Tela de login -->
+  <section id="tela-login" class="tela-login">
+    <div class="login-caixa">
+      <p class="eyebrow">preparação · concurso</p>
+      <h1 class="marca">Foco<span class="ponto">.</span></h1>
+      <p class="sub">Seu posto de comando de estudos: PDFs, pomodoro e revisões, num lugar só.</p>
+
+      <form id="form-login" class="form-login" autocomplete="on">
+        <input name="usuario" type="text" placeholder="Usuário" autocomplete="username" required />
+        <input name="senha" type="password" placeholder="Senha" autocomplete="current-password" required />
+        <p id="erro-login" class="erro-login" hidden></p>
+        <button id="btn-entrar" class="btn-primario" type="submit">Entrar</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- App -->
+  <section id="tela-app" class="tela-app" hidden>
+    <header class="topo">
+      <span class="marca-mini">Foco<span class="ponto">.</span></span>
+      <div class="topo-dir">
+        <a href="calendario.html" class="mini">Calendário</a>
+        <a href="atividades.html" class="mini">Atividades</a>
+        <a href="materias.html" class="mini">Matérias</a>
+        <span id="quem-sou" class="quem-sou"></span>
+        <button id="btn-sair" class="mini">Sair</button>
+      </div>
+    </header>
+
+    <main class="grade">
+      <!-- Coluna: concursos -->
+      <div class="coluna">
+        <h2 class="titulo-secao">Concursos</h2>
+
+        <form id="form-concurso" class="form-linha" autocomplete="off">
+          <input name="nome" placeholder="Nome do concurso" required />
+          <input name="banca" placeholder="Banca (opcional)" />
+          <label class="campo-data">
+            <span>Data da prova</span>
+            <input name="dataProva" type="date" />
+          </label>
+          <input name="horasPorDia" type="number" min="0" step="0.5" placeholder="Horas/dia" />
+          <button class="btn-primario" type="submit">Adicionar</button>
+        </form>
+
+        <ul id="lista-concursos" class="lista"></ul>
+      </div>
+
+      <!-- Coluna: disciplinas -->
+      <div id="painel-disciplinas" class="coluna" hidden>
+        <h2 id="titulo-disciplinas" class="titulo-secao">Disciplinas</h2>
+
+        <form id="form-disciplina" class="form-linha" autocomplete="off">
+          <input name="nome" placeholder="Nome da disciplina" required />
+          <input name="peso" type="number" min="0" placeholder="Peso (nº de questões)" />
+          <button class="btn-primario" type="submit">Adicionar</button>
+        </form>
+
+        <ul id="lista-disciplinas" class="lista"></ul>
+      </div>
+    </main>
+  </section>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
