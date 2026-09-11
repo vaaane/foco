@@ -129,27 +129,12 @@ function renderBanco() {
   $("#bc-responder").onclick = iniciarResponder;
   if (b.resumoMd) $("#bc-resumo").onclick = renderResumo;
 
-  // pré-visualização: primeiras questões, com gabarito escondido
-  const previa = b.questoes.slice(0, 3).map((q) => cardQuestaoPrevia(q)).join("");
   conteudo.innerHTML = `
     <div class="bc-info">
       <p class="resumo-geral">${b.total} questões reais de banca, com gabarito e comentário. Clique em <b>Responder</b> para começar${b.resumoMd ? ", ou em <b>Resumo</b> para revisar a teoria" : ""}.</p>
     </div>
-    ${renderAnalise()}
-    <h2 class="titulo-secao">Amostra</h2>
-    <div class="bc-previa">${previa}
-      <p class="bc-previa-mais">…e mais ${Math.max(0, b.total - 3)} questões.</p>
-    </div>`;
+    ${renderAnalise()}`;
   desenharGrafico();
-}
-
-function cardQuestaoPrevia(q) {
-  return `
-    <div class="bc-q previa">
-      <div class="bc-q-head"><span class="bc-q-num">${q.numero}</span>
-        <span class="bc-q-banca">${escapar(q.banca || "")}</span></div>
-      <p class="bc-q-enun">${escapar(q.enunciado)}</p>
-    </div>`;
 }
 
 /* ============================ VISTA: RESUMO ============================ */
@@ -274,7 +259,6 @@ function renderQuestao() {
   const escolhida = resp.respostas[q.numero]; // undefined = ainda não respondeu
   const certa = q.gabarito.toUpperCase();
   const respondida = escolhida != null;
-  const acertou = respondida && escolhida === certa;
 
   // placar correndo
   let ok = 0, resp_count = 0;
@@ -312,16 +296,11 @@ function renderQuestao() {
       .map(([k, v]) => opcao(k.toUpperCase(), `<b>${k})</b> ${escapar(v)}`)).join("");
   }
 
-  // feedback (só após responder)
+  // após responder, mostra só o comentário — as cores nas alternativas
+  // (verde = correta, vermelho = a marcada errada) já sinalizam o resultado.
   let feedback = "";
   if (respondida) {
-    const txtCerta = q.tipo === "certo_errado" ? certa : `alternativa ${certa}`;
-    feedback = `
-      <div class="bc-feedback ${acertou ? "ok" : "erro"}">
-        <span class="bc-fb-verdito">${acertou ? "✓ Você acertou" : "✗ Você errou"}</span>
-        ${acertou ? "" : `<span class="bc-fb-certa">Resposta correta: <b>${txtCerta}</b></span>`}
-      </div>
-      ${blocoComentario(q, false)}`;
+    feedback = blocoComentario(q, false);
   }
 
   const ultima = resp.i === total - 1;
