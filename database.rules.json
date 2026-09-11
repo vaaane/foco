@@ -10,56 +10,77 @@
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["concursoId"]
+        ".indexOn": [
+          "concursoId"
+        ]
       }
     },
     "itens": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["data", "ordem"]
+        ".indexOn": [
+          "data",
+          "ordem"
+        ]
       }
     },
     "pdfs": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["disciplinaId"]
+        ".indexOn": [
+          "disciplinaId"
+        ]
       }
     },
     "sessoes": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["pdfId"]
+        ".indexOn": [
+          "pdfId"
+        ]
       }
     },
     "revisoes": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["pdfId", "dataAgendada", "feita"]
+        ".indexOn": [
+          "pdfId",
+          "dataAgendada",
+          "feita"
+        ]
       }
     },
     "atividades": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["data", "disciplina"]
+        ".indexOn": [
+          "data",
+          "disciplina"
+        ]
       }
     },
     "pomodoros": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["data", "fase"]
+        ".indexOn": [
+          "data",
+          "fase"
+        ]
       }
     },
     "cadernos": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
         ".write": "auth != null && auth.uid === $uid",
-        ".indexOn": ["disciplina"]
+        ".indexOn": [
+          "disciplina"
+        ]
       }
     },
     "usuarios": {
@@ -68,6 +89,12 @@
           ".read": "auth != null && auth.uid === $uid",
           ".write": "auth != null && auth.uid === $uid"
         }
+      }
+    },
+    "respostasBanco": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid"
       }
     }
   }

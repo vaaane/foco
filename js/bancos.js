@@ -10,7 +10,7 @@
 // Atividades junto com o resto. Nada de novo no schema do banco de dados.
 
 import { sair, aoMudarUsuario } from "./auth.js";
-import { criarCaderno, listarCadernos, adicionarTentativa } from "./db.js";
+import { salvarTentativaBanco, listarTentativasBanco } from "./db.js";
 
 const $ = (s) => document.querySelector(s);
 const telaDeslogado = $("#tela-deslogado");
@@ -24,7 +24,7 @@ const DOMINIO_LOGIN = "@foco.app";
 
 let indice = null; // { bancos: [...] }
 let edital = null; // { itens: [...] }
-let cadernos = []; // cadernos já existentes do usuário (para não duplicar)
+let tentativas = []; // histórico de tentativas do banco aberto (respostasBanco)
 
 $("#btn-sair").addEventListener("click", () => sair());
 
@@ -33,10 +33,9 @@ aoMudarUsuario(async (user) => {
   telaDeslogado.hidden = true; telaBancos.hidden = false;
   quemSou.textContent = (user.email || "").replace(DOMINIO_LOGIN, "") || "conectado";
   try {
-    [indice, edital, cadernos] = await Promise.all([
+    [indice, edital] = await Promise.all([
       buscarJSON("bancos/indice.json"),
       buscarJSON("bancos/edital-see-df.json").catch(() => null),
-      listarCadernos().catch(() => []),
     ]);
   } catch (e) {
     conteudo.innerHTML = `<p class="resumo-geral">Não consegui carregar os bancos. ${escapar(e.message || "")}</p>`;
@@ -102,6 +101,7 @@ async function abrirBanco(arquivo) {
   try {
     bancoAtual = await buscarJSON(`bancos/${arquivo}`);
     bancoAtual._arquivo = arquivo;
+    tentativas = await listarTentativasBanco(bancoAtual.id).catch(() => []);
   } catch (e) {
     conteudo.innerHTML = `<p class="resumo-geral">Não consegui abrir o banco. ${escapar(e.message || "")}</p>`;
     return;
@@ -128,9 +128,12 @@ function renderBanco() {
     <div class="bc-info">
       <p class="resumo-geral">${b.total} questões reais de banca, com gabarito e comentário. Clique em <b>Responder</b> para começar${b.resumoMd ? ", ou em <b>Resumo</b> para revisar a teoria" : ""}.</p>
     </div>
+    ${renderAnalise()}
+    <h2 class="titulo-secao">Amostra</h2>
     <div class="bc-previa">${previa}
       <p class="bc-previa-mais">…e mais ${Math.max(0, b.total - 3)} questões.</p>
     </div>`;
+  desenharGrafico();
 }
 
 function cardQuestaoPrevia(q) {
@@ -234,21 +237,16 @@ async function finalizar() {
   const tempoMin = Math.max(1, Math.round((Date.now() - resp.iniciadoEm) / 60000));
   const hoje = new Date().toISOString().slice(0, 10);
 
-  // Grava como tentativa de caderno (aparece no placar de Atividades).
+  // Salva a tentativa completa (data + nota + TODAS as respostas). Automático.
+  let salvou = true;
   try {
-    const existente = cadernos.find((c) => c.nome === b.titulo);
-    if (existente) {
-      await adicionarTentativa(existente.id, { data: hoje, total, acertos, tempoMin });
-    } else {
-      await criarCaderno({
-        nome: b.titulo,
-        disciplina: b.disciplina || "",
-        topicos: (b.itensEdital || []).map((n) => `Item ${n}`),
-        primeira: { data: hoje, total, acertos, tempoMin },
-      });
-      cadernos = await listarCadernos().catch(() => cadernos);
-    }
+    await salvarTentativaBanco(bancoAtual.id, {
+      data: hoje, total, acertos, tempoMin,
+      respostas: resp.respostas,
+    });
+    tentativas = await listarTentativasBanco(bancoAtual.id).catch(() => tentativas);
   } catch (e) {
+    salvou = false;
     console.warn("Não consegui salvar a tentativa:", e);
   }
 
@@ -273,13 +271,113 @@ async function finalizar() {
       <details class="bc-com"><summary>Comentário</summary><div class="md">${renderMarkdown(q.comentario || "")}</div></details>
     </div>`).join("");
 
+  const avisoSalvar = salvou
+    ? `<p class="bc-salvo">✓ Tentativa salva em ${formatarData(hoje)}.</p>`
+    : `<p class="bc-salvo erro">Não consegui salvar esta tentativa (veja a conexão).</p>`;
+
   conteudo.innerHTML = `
     <div class="bc-resultado">
       <div class="bc-nota"><span class="bc-nota-pct">${pct}%</span>
         <span class="bc-nota-frac">${acertos} de ${total} certas · ${tempoMin} min</span></div>
     </div>
+    ${avisoSalvar}
+    ${renderAnalise()}
     <h2 class="titulo-secao">Revisão</h2>
     <div class="bc-revisao">${revisao}</div>`;
+  desenharGrafico();
+}
+
+/* ============================ ANÁLISE DE RENDIMENTO ============================ */
+// Usa `tentativas` (já carregada). Mostra: gráfico de evolução da nota (linha)
+// + lista das tentativas (data, nota, tempo). Chamada no resultado e no banco.
+
+function renderAnalise() {
+  if (!tentativas || tentativas.length === 0) {
+    return `<div class="bc-analise-vazia"><p class="resumo-geral">Ainda não há tentativas salvas. Responda o banco para começar a acompanhar seu rendimento.</p></div>`;
+  }
+  const linhas = [...tentativas]
+    .slice()
+    .reverse()
+    .map((t, idx) => {
+      const n = tentativas.length - idx;
+      const pct = t.total ? Math.round((t.acertos / t.total) * 100) : 0;
+      return `<tr>
+        <td>${n}ª</td>
+        <td>${formatarData(t.data)}</td>
+        <td><b>${pct}%</b></td>
+        <td>${t.acertos}/${t.total}</td>
+        <td>${t.tempoMin || "—"} min</td>
+      </tr>`;
+    }).join("");
+
+  const melhor = Math.max(...tentativas.map((t) => (t.total ? t.acertos / t.total : 0)));
+  const ultima = tentativas[tentativas.length - 1];
+  const ultimaPct = ultima.total ? Math.round((ultima.acertos / ultima.total) * 100) : 0;
+
+  return `
+    <section class="bc-analise">
+      <div class="bc-analise-head">
+        <h2 class="titulo-secao">Rendimento</h2>
+        <span class="bc-analise-resumo">${tentativas.length} tentativa(s) · melhor ${Math.round(melhor * 100)}% · última ${ultimaPct}%</span>
+      </div>
+      <div class="bc-grafico-wrap"><canvas id="bc-grafico" height="180"></canvas></div>
+      <table class="bc-tent-tab">
+        <thead><tr><th>#</th><th>Data</th><th>Nota</th><th>Acertos</th><th>Tempo</th></tr></thead>
+        <tbody>${linhas}</tbody>
+      </table>
+    </section>`;
+}
+
+// Desenha a evolução da nota em canvas puro (sem biblioteca externa).
+function desenharGrafico() {
+  const cv = document.getElementById("bc-grafico");
+  if (!cv || !tentativas.length) return;
+  const dpr = window.devicePixelRatio || 1;
+  const larg = cv.clientWidth || 600;
+  const alt = 180;
+  cv.width = larg * dpr; cv.height = alt * dpr;
+  const ctx = cv.getContext("2d");
+  ctx.scale(dpr, dpr);
+
+  const css = getComputedStyle(document.documentElement);
+  const cor = (css.getPropertyValue("--accent") || "#f5a623").trim();
+  const corLinha = (css.getPropertyValue("--line") || "#223038").trim();
+  const corTxt = (css.getPropertyValue("--muted") || "#8ba0a8").trim();
+
+  const pad = { t: 16, r: 14, b: 26, l: 34 };
+  const w = larg - pad.l - pad.r;
+  const h = alt - pad.t - pad.b;
+  const pts = tentativas.map((t) => (t.total ? (t.acertos / t.total) * 100 : 0));
+  const n = pts.length;
+  const x = (i) => pad.l + (n === 1 ? w / 2 : (w * i) / (n - 1));
+  const y = (v) => pad.t + h - (h * v) / 100;
+
+  // grades 0/50/100
+  ctx.strokeStyle = corLinha; ctx.fillStyle = corTxt;
+  ctx.font = "11px system-ui, sans-serif"; ctx.textAlign = "right"; ctx.textBaseline = "middle";
+  [0, 50, 100].forEach((v) => {
+    ctx.beginPath(); ctx.moveTo(pad.l, y(v)); ctx.lineTo(larg - pad.r, y(v)); ctx.stroke();
+    ctx.fillText(v + "%", pad.l - 6, y(v));
+  });
+
+  // linha
+  ctx.strokeStyle = cor; ctx.lineWidth = 2; ctx.beginPath();
+  pts.forEach((v, i) => { const px = x(i), py = y(v); i ? ctx.lineTo(px, py) : ctx.moveTo(px, py); });
+  ctx.stroke();
+
+  // pontos + rótulo da nota
+  ctx.fillStyle = cor; ctx.textAlign = "center"; ctx.textBaseline = "bottom";
+  pts.forEach((v, i) => {
+    const px = x(i), py = y(v);
+    ctx.beginPath(); ctx.arc(px, py, 3.5, 0, Math.PI * 2); ctx.fill();
+    ctx.fillText(Math.round(v) + "%", px, py - 7);
+  });
+}
+
+function formatarData(iso) {
+  if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso || "—";
+  const [a, m, d] = iso.split("-");
+  return `${d}/${m}/${a}`;
 }
 
 function renderAlternativasRevisao(q, dada, certa) {

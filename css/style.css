@@ -1034,3 +1034,20 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 .md-tab th, .md-tab td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
 .md-tab th { background: var(--surface-2); font-weight: 600; }
 .bc-resumo { max-width: 760px; }
+
+/* ---- Bancos: análise de rendimento ---- */
+.bc-salvo { font-size: .85rem; color: #3ecf8e; text-align: center; margin: -14px 0 20px; }
+.bc-salvo.erro { color: #e5484d; }
+
+.bc-analise { margin: 8px 0 28px; }
+.bc-analise-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.bc-analise-head .titulo-secao { margin: 0; }
+.bc-analise-resumo { font-size: .82rem; color: var(--muted); }
+.bc-grafico-wrap { margin: 12px 0 16px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+#bc-grafico { width: 100%; display: block; }
+.bc-analise-vazia { margin: 8px 0 24px; }
+
+.bc-tent-tab { border-collapse: collapse; width: 100%; font-size: .88rem; }
+.bc-tent-tab th, .bc-tent-tab td { border-bottom: 1px solid var(--line); padding: 8px 10px; text-align: left; }
+.bc-tent-tab th { color: var(--muted); font-weight: 500; font-size: .78rem; text-transform: uppercase; letter-spacing: .03em; }
+.bc-tent-tab tbody tr:hover { background: var(--surface-2); }

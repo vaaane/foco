@@ -470,3 +470,41 @@ export async function atualizarEmenta(campos) {
   const uid = exigirLogin();
   await update(ref(db, `usuarios/${uid}/ementa`), campos);
 }
+
+/* ===================== BANCOS DE QUESTÕES — TENTATIVAS ===================== */
+// Cada vez que o usuário responde um banco inteiro, guardamos uma tentativa
+// com a data de conclusão, a nota e TODAS as respostas dadas (para revisar
+// depois quais errou e comparar o rendimento entre tentativas).
+//
+//   respostasBanco/{uid}/{bancoId}/{tentativaId} = {
+//     concluidoEm,               // timestamp do servidor
+//     data,                      // "AAAA-MM-DD" (dia da conclusão)
+//     total, acertos, tempoMin,  // nota geral
+//     respostas: { "1": "C", "2": "B", ... }  // numero da questão -> valor marcado
+//   }
+// bancoId é o id do banco (ex.: "aula-00-fundamentos-tendencias"), então cada
+// banco tem seu próprio histórico de tentativas.
+
+export async function salvarTentativaBanco(bancoId, dados) {
+  const uid = exigirLogin();
+  const novo = push(ref(db, `respostasBanco/${uid}/${bancoId}`));
+  await set(novo, {
+    concluidoEm: serverTimestamp(),
+    data: dados.data || new Date().toISOString().slice(0, 10),
+    total: Number(dados.total) || 0,
+    acertos: Number(dados.acertos) || 0,
+    tempoMin: Number(dados.tempoMin) || 0,
+    respostas: dados.respostas && typeof dados.respostas === "object" ? dados.respostas : {},
+  });
+  return novo.key;
+}
+
+// Todas as tentativas de um banco, da mais antiga para a mais recente
+// (ordem cronológica facilita o gráfico de evolução).
+export async function listarTentativasBanco(bancoId) {
+  const uid = exigirLogin();
+  const snap = await get(ref(db, `respostasBanco/${uid}/${bancoId}`));
+  const lista = paraLista(snap);
+  lista.sort((a, b) => (a.concluidoEm || 0) - (b.concluidoEm || 0));
+  return lista;
+}
