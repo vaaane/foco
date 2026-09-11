@@ -939,6 +939,12 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 .em-no > .em-cabecalho > .em-titulo,
 .em-no > .em-cabecalho .em-toggle .em-titulo { font-weight: 500; }
 
+.em-num {
+  flex-shrink: 0; color: var(--accent); font-weight: 600;
+  font-size: .82rem; font-variant-numeric: tabular-nums;
+  min-width: 2.2em;
+}
+
 .em-contador {
   flex-shrink: 0; font-size: .72rem; color: var(--muted);
   font-variant-numeric: tabular-nums; white-space: nowrap;

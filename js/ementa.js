@@ -40,14 +40,15 @@ function folhas(node) {
 }
 
 function render() {
-  arvoreEl.innerHTML = ementaData.map((n) => renderNo(n, 0)).join("");
+  arvoreEl.innerHTML = ementaData.map((n, i) => renderNo(n, 0, `${i + 1}`)).join("");
   arvoreEl.querySelectorAll('input[data-indeterminado="1"]').forEach((el) => {
     el.indeterminate = true;
   });
   renderProgressoGeral();
 }
 
-function renderNo(node, prof) {
+// "num" é o prefixo hierárquico deste nó, na ordem do edital (ex.: "3.2.7").
+function renderNo(node, prof, num) {
   const temFilhos = Array.isArray(node.filhos) && node.filhos.length > 0;
 
   if (!temFilhos) {
@@ -55,6 +56,7 @@ function renderNo(node, prof) {
     return `
       <label class="em-item" style="--prof:${prof}">
         <input type="checkbox" data-leaf="${node.id}" ${marcado ? "checked" : ""} />
+        <span class="em-num">${num}</span>
         <span class="em-titulo">${escapar(node.titulo)}</span>
       </label>`;
   }
@@ -73,12 +75,13 @@ function renderNo(node, prof) {
           ${indeterminado ? 'data-indeterminado="1"' : ""} />
         <button type="button" class="em-toggle" data-expandir="${node.id}" aria-expanded="${aberto}">
           <svg class="em-seta" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 6l6 6-6 6"/></svg>
+          <span class="em-num">${num}</span>
           <span class="em-titulo">${escapar(node.titulo)}</span>
         </button>
         <span class="em-contador">${feitos}/${total}</span>
       </div>
       <div class="em-filhos" ${aberto ? "" : "hidden"}>
-        ${node.filhos.map((f) => renderNo(f, prof + 1)).join("")}
+        ${node.filhos.map((f, i) => renderNo(f, prof + 1, `${num}.${i + 1}`)).join("")}
       </div>
     </div>`;
 }
