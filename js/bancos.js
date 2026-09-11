@@ -553,13 +553,24 @@ function renderMarkdown(md) {
     if ((m = l.match(/^###\s+(.*)/))) { html += `<h4>${inline(m[1])}</h4>`; i++; continue; }
     if ((m = l.match(/^##\s+(.*)/))) { html += `<h3>${inline(m[1])}</h3>`; i++; continue; }
     if ((m = l.match(/^#\s+(.*)/))) { html += `<h2>${inline(m[1])}</h2>`; i++; continue; }
-    // lista
+    // separador horizontal (---) — ignora
+    if (/^\s*---+\s*$/.test(l)) { i++; continue; }
+    // lista com marcador
     if (/^\s*-\s+/.test(l)) {
       html += "<ul>";
       while (i < linhas.length && /^\s*-\s+/.test(linhas[i])) {
         html += `<li>${inline(linhas[i].replace(/^\s*-\s+/, ""))}</li>`; i++;
       }
       html += "</ul>";
+      continue;
+    }
+    // lista numerada (1. 2. 3.)
+    if (/^\s*\d+\.\s+/.test(l)) {
+      html += "<ol>";
+      while (i < linhas.length && /^\s*\d+\.\s+/.test(linhas[i])) {
+        html += `<li>${inline(linhas[i].replace(/^\s*\d+\.\s+/, ""))}</li>`; i++;
+      }
+      html += "</ol>";
       continue;
     }
     // parágrafo / vazio

@@ -1,0 +1,119 @@
+{
+  "esquema": 1,
+  "id": "aula-03-tics-educacao",
+  "aula": "03",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 03",
+  "subtitulo": "TICs na Educação e Mediação Pedagógica",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 03 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    3
+  ],
+  "tagsEdital": [
+    {
+      "n": 3,
+      "titulo": "Tecnologias da informação e comunicação na educação (TICs)"
+    }
+  ],
+  "resumoMd": "### A) Tecnologias da Informação e Comunicação na Escola\n- **Papel das TICs:** Não são meros recursos técnicos ou substitutos do professor, mas ferramentas pedagógicas para potencializar a interatividade, a pesquisa, a expressão criativa e o aprendizado colaborativo.\n- **Mediação Pedagógica:** O professor continua sendo o **principal mediador** no processo de ensino-aprendizagem. O computador ou a internet não medeiam sozinhos o conhecimento.\n- **Integração Curricular:** O uso da tecnologia deve ser cotidiano, intencional e transversal (inserido no Projeto Político-Pedagógico da escola), e não isolado ou esporádico (ex.: ir ao laboratório de informática uma vez ao mês sem objetivo pedagógico).\n\n### B) Letramento Digital e Ambientes Virtuais (AVAs)\n- **Letramento Digital:** Práticas sociais de leitura e escrita imersas no ambiente digital (redes sociais, hipertextos, vídeos, comunicação síncrona/assíncrona). Trata-se do uso crítico e emancipatório da linguagem digital.\n- **Ambientes Virtuais de Aprendizagem (AVAs):** Espaços interativos de construção coletiva de saberes e cooperação, superando a mera disponibilização passiva de arquivos.\n- **Características das TICs no Ensino:** Interatividade, dinamismo, multimídia, hipermídia, flexibilidade e comunicação em rede.\n\n---",
+  "total": 6,
+  "questoes": [
+    {
+      "id": "a03_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Santa Cecília do Sul)/Pedagogia/2019 - Para Martha Gabriel, o professor exerce um papel essencial nesse novo mundo digital, não mais como um “provedor de conteúdos”, mas funcionando como um:",
+      "alternativas": {
+        "a": "Catalisador de reflexões e conexões para seus alunos nesse ambiente mais complexo.",
+        "b": "Promotor de uma formação puramente moral e intelectual.",
+        "c": "Transmissor de conteúdos de forma global sem se preocupar com as individualidades.",
+        "d": "Elo entre a verdade científica e o aluno como um ser fragmentado.",
+        "e": "Especialista do conhecimento para repassar e aplicar ao aluno."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O papel descrito nessa alternativa condiz com um professor mediador do\nconhecimento e não aplicador de conteúdos.\nA alternativa B está incorreta. O professor é muito mais que um doutrinador e formador do cognitivo dos\nalunos.\nA alternativa C está incorreta. A alternativa está incoerente com a descrição do enunciado.\nA alternativa D está incorreta. Não existe verdade científica e nem é possível ter um aluno fragmentado.\nA alternativa E está incorreta. A alternativa está incoerente com a descrição do enunciado."
+    },
+    {
+      "id": "a03_002",
+      "numero": 2,
+      "banca": "CEFETMINAS",
+      "tipo": "multipla",
+      "enunciado": "CEFETMINAS - Técnico (IF Sudeste MG)/Assuntos Educacionais/Barbacena/2019 - Conforme Bandeira (2017), o impacto nas relações interpessoais e sociais decorrente do avanço acelerado das tecnologias de comunicação e de informação cada vez mais requer de educadores e profissionais engajados na elaboração de material didático a consciência desse fenômeno, para que possam utilizá-las em favor da criação, da produção e da distribuição dos recursos educativos. Para isso, diferentes condições devem ser consideradas nas escolas brasileiras de ensino básico. Informe se é verdadeiro (V) ou falso (F) o que se afirma sobre essas condições ( ) Uso das tecnologias para criação, produção e seleção do material didático independentemente do contexto do público alvo. ( ) Disponibilidade de tecnologias e de seus suportes para guiar a definição da proposta políticopedagógica da escola. ( ) Duração da carga horária da prática educativa para o desenvolvimento dos objetivos e dos conteúdos do material didático. ( ) Adequação entre os vários tipos de material didático e as mídias. ( ) Possibilidade de favorecer a comunicação didática entre o professor e aluno. ( ) Suporte para veicular o material didático com apoio mais no recurso audiovisual e nas mídias digitais e menos no texto impresso. De acordo com as afirmações, a sequência correta é",
+      "alternativas": {
+        "a": "(F); (V); (F): (V); (F); (F).",
+        "b": "(F); (F); (V); (V); (V); (F).",
+        "c": "(V); (F); (V); (F); (F); (V).",
+        "d": "(V); (V); (F); (V); (F); (F).",
+        "e": "(F); (F); (V); (F); (V); (F)."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. Pelo contrário, a criação e produção do material didático depende do contexto.\nAfirmativa II está incorreta. As tecnologias não vão guiar o PPP da escola, apenas fazem parte dele.\nAfirmativa III está correta. Essa é uma previsão possível do uso de recursos educativos.\nAfirmativa IV está correta. Faz parte da construção do uso de tecnologias digitais na escola.\nAfirmativa V está correta. O uso da tecnologia e de recursos favorece a didática.\nAfirmativa VI está correta. O texto impresso sempre terá seu lugar na escola por sua facilidade de uso.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a03_003",
+      "numero": 3,
+      "banca": "CONTEMAX",
+      "tipo": "multipla",
+      "enunciado": "CONTEMAX - Professor A (Pref Lucena)/Anos Iniciais/2019 - Assinale a alternativa correta sobre o uso de novas tecnologias como computadores, tablets e celulares nas escolas:",
+      "alternativas": {
+        "a": "As novas tecnologias afastam a criança do seu tempo de ser criança por promover a importância da interação das crianças com as máquinas em detrimento da interação das crianças com outras crianças.",
+        "b": "O uso das novas tecnologias, quando pensado e planejado para fins pedagógicos, pode integrar de maneira coerente o universo infantil quando possibilita a inclusão no mundo digital e a ampliação das formas de aprender e comunicar-se.",
+        "c": "As novas tecnologias são um empecilho no trabalho do professor, pois restringem o leque de atividades didáticas possíveis e as boas condições de concentração nas tarefas.",
+        "d": "O uso das novas tecnologias relativiza a autoridade do professor por reforçar o fato de que todos somos aprendizes na interação com o novo e com o outro.",
+        "e": "As novas tecnologias são responsáveis pela atual defasagem na educação brasileira, que sempre foi exemplo para o mundo e hoje está entre as piores do ranking mundial."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A tecnologia no seu uso consciente na escola favorece o desenvolvimento.\nA alternativa B está correta. O uso consciente gera aprendizado nas crianças.\nA alternativa C está incorreta. Pelo contrário, as novas tecnologias podem facilitar a didática do docente.\nA alternativa D está incorreta. O uso da tecnologia nada tem a ver com a autoridade. Tem relação com a\ndidática isso sim.\nA alternativa E está incorreta. Pelo contrário, se houvesse mais uso da tecnologia a educação poderia estar\nbem melhor."
+    },
+    {
+      "id": "a03_004",
+      "numero": 4,
+      "banca": "CONTEMAX",
+      "tipo": "multipla",
+      "enunciado": "CONTEMAX - Professor A (Pref Lucena)/Anos Iniciais/2019 - O uso da informática, de plataformas multimídias, de recursos vinculados às linguagens digitais e da internet estão cada vez mais presentes como tecnologias nas escolas com potencialidades para qualificar o processo educativo. Sobre estas novas tecnologias da informação e comunicação, é correto afirmar:",
+      "alternativas": {
+        "a": "As tecnologias pouco colaboram para tornar o processo ensino-aprendizagem mais prazeroso, eficiente e de qualidade.",
+        "b": "A integração das novas tecnologias à educação deverá ocorrer de forma aleatória, sem o estabelecimento de objetivos específicos ou projetos próprios, pois o que importa é oferecer aos alunos o acesso ao computador.",
+        "c": "São usadas para substituir as técnicas e metodologias convencionais, como, por exemplo, o livro, o quadro de giz e o mimeógrafo.",
+        "d": "A obtenção de resultados qualitativos no processo educacional escolar com o uso dessas tecnologias depende da forma como elas são introduzidas e utilizadas nesse processo.",
+        "e": "São usadas como forma de distração e entretenimento na escola e deveriam ser abolidas de um ambiente que deveria promover a aprendizagem."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, o uso das tecnologias pode favorecer a didática.\nA alternativa B está incorreta. O Planejamento faz parte de qualquer ação pedagógica.\nA alternativa C está incorreta. Essas tecnologias mais antigas poderão ser usadas na escola ainda. Não há\numa substituição. Cada tecnologia pode ter seu alcance e utilidade.\nA alternativa D está correta. Exatamente. A tecnologia para dar certo na educação depende de como ela é\nusada.\nA alternativa E está incorreta. Pelo contrário, a tecnologia deve ser usada para aprendizagem."
+    },
+    {
+      "id": "a03_005",
+      "numero": 5,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Diretor de Escola (Pref Peruíbe)/2019 - As tecnologias estão à disposição de todos, e os alunos cada vez mais estão se apropriando delas, o que cria oportunidades para os professores, conforme afirma Carvalho e Ivanoff (2009). Com relação ao uso das TICs (Tecnologias da Informação e Comunicação), os autores afirmam que",
+      "alternativas": {
+        "a": "o desafio para o professor nos processos educativos contemporâneos é saber explorar as oportunidades que as tecnologias trazem.",
+        "b": "durante o uso das TICs em sala de aula, é preciso preservar a autonomia dos alunos, oportunizando o uso das redes sociais, independentemente da temática estudada.",
+        "c": "o processo de ensinar e aprender delimita-se à sala de aula, pois é o ambiente e o contexto adequado em que esse processo pode ser explorado.",
+        "d": "os desafios do uso das TICs estão ao alcance do professor, como o mais importante possibilitador de inclusão tecnológica.",
+        "e": "a conservação do ambiente tecnológico e o investimento em tecnologia requerem professores habilitados e capazes não só de ministrar suas aulas, mas também entendedores de manutenção dos equipamentos."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. As tecnologias devem ser utilizadas como recurso pedagógico.\nA alternativa B está incorreta. Pelo contrário, é preciso ter um norte da temática estudada senão os alunos\nse perdem nas redes sociais.\nA alternativa C está incorreta. Deve ser ampliado para além da sala de aula com o uso das tecnologias.\nA alternativa D está incorreta. Muitos professores não dominam o uso da tecnologia.\nA alternativa E está incorreta. Não requer um conhecimento tão específico em tecnologia, apenas de seu\nuso básico."
+    },
+    {
+      "id": "a03_006",
+      "numero": 6,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Diretor de Escola (Pref Peruíbe)/2019 - De acordo com Almeida, In Vieira, Almeida e Alonso (2003), ao analisar a presença das TICs (Tecnologias da Informação e Comunicação) na educação atual, é possível afirmar:",
+      "alternativas": {
+        "a": "A principal finalidade das TICs é informatizar as atividades administrativas, agilizando e promovendo o controle e a gestão técnica.",
+        "b": "A qualidade da interação promovida pelas TICs desvincula- se da condição para criação de cultura e comunidades colaborativas de aprendizagem.",
+        "c": "A articulação da escola com outros espaços de informação, via TICs, gera mudanças que tendem a trazer maior rigidez na relação ensino e aprendizagem, para a reafirmação do papel da escola em nossa sociedade.",
+        "d": "A presença das TICs no processo de ensino e aprendizagem não requer relação e integração com os conteúdos trabalhados em sala de aula, pois define-se como atividade extra-sala com finalidade própria.",
+        "e": "Com o acesso à internet, o uso das TICs contribui para a expansão do acesso à informação atualizada, ultrapassando os limites das matérias tradicionais e favorecendo a comunicação colaborativa."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. As TICs são para auxiliar no trabalho pedagógico.\nA alternativa B está incorreta. Pelo contrário, as TICs são vinculadas a cultura e comunidades colaborativas\nde aprendizagem.\nA alternativa C está incorreta. Pelo contrário, as TICs geram maios flexibilidade na didática.\nA alternativa D está incorreta. Pelo contrário, requer integração com os conteúdos trabalhados em sala de\naula.\nA alternativa E está correta. Exatamente. As TICs favorecem ao uso da didática em sala de aula."
+    }
+  ]
+}

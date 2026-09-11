@@ -1,0 +1,153 @@
+{
+  "esquema": 1,
+  "id": "aula-01-planejamento-organizacao",
+  "aula": "01",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 01",
+  "subtitulo": "Planejamento e Organização do Trabalho Pedagógico",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 01 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    1,
+    18
+  ],
+  "tagsEdital": [
+    {
+      "n": 1,
+      "titulo": "Planejamento e organização do trabalho pedagógico"
+    },
+    {
+      "n": 18,
+      "titulo": "Componentes do processo de ensino (objetivos, conteúdos, métodos)"
+    }
+  ],
+  "resumoMd": "### A) Conceitos e Níveis de Planejamento Educacional\n- **Planejamento Educacional:** Nível macro (sistema educacional, políticas públicas em nível nacional, estadual ou municipal).\n- **Planejamento Escolar (PPP):** Nível institucional/escola. Expressa a identidade, missão, princípios e ações da comunidade escolar.\n- **Planejamento do Ensino (ou Plano de Ensino):** Previsão e organização das ações do professor para a disciplina/ano/semestre.\n- **Plano Didático ou Plano de Aula:** Detalhamento operacional das etapas de uma aula ou sequência de aulas.\n\n### B) Principais Autores sobre Planejamento\n- **Cipriano Carlos Luckesi:** O planejamento é um ato **político, consciente e transformador**. É a previsão de ações orientadas por um compromisso social, opondo-se ao simples preenchimento burocrático de fichas.\n- **José Carlos Libâneo:** O planejamento é um processo de **racionalização, organização e coordenação da ação docente**. Articula a atividade escolar com o contexto social. Defende a centralidade da previsão dos conteúdos e dos componentes do ensino (Objetivos - Conteúdos - Métodos - Avaliação).\n- **Celso dos Santos Vasconcellos:** Defende o planejamento como um **Plano de Ação Mediada** sobre a realidade, estruturado a partir do diagnóstico das necessidades da escola e dos alunos.\n\n### C) Componentes e Estruturas do Planejamento Didático\n- **Sequência Lógica do Plano de Aula (Libâneo):**\n  1. Escolha/Definição do Tema\n  2. Formulação dos Objetivos (gerais e específicos)\n  3. Seleção dos Conteúdos\n  4. Escolha dos Métodos e Estratégias / Recursos Didáticos\n  5. Processo Avaliativo\n- **Tipos de Conteúdos (Antoni Zabala):**\n  - **Conceituais:** Saberes, fatos, conceitos, nomes, leis, teorias.\n  - **Procedimentais:** \"Saber fazer\", regras, técnicas, habilidades práticas, algoritmos.\n  - **Atitudinais:** Valores, atitudes, normas, ética, convivência social.\n- **Sequência Didática (Dolz & Schneuwly):** Atividades organizadas de modo sistemático em torno de um gênero textual (oral ou escrito) ou tema, visando o domínio gradativo e prático pelos alunos.\n- **Trabalho por Projetos:** Articulação de saberes interdisciplinares com foco na resolução de problemas reais do contexto do aluno.\n\n---",
+  "total": 8,
+  "questoes": [
+    {
+      "id": "a01_001",
+      "numero": 1,
+      "banca": "IESES",
+      "tipo": "multipla",
+      "enunciado": "IESES - Professor (Pref Palhoça)/Nível Superior/2018 - Planejamento é um processo de racionalização, organização e coordenação da ação docente, articulando a atividade escolar e a problemática do contexto social. A escola, os professores e alunos são integrantes da dinâmica das relações sociais. Nessa perspectiva, relacione: I. Planejamento Educacional. II. Planejamento da Escola ou planejamento Escolar. III. Planejamento Curricular. IV. Planejamento de Ensino. ( ) Atividade que envolve o processo de reflexão, de decisões sobre a organização, funcionamento e a proposta pedagógica da instituição. \"É um processo de racionalização, organização e coordenação da ação docente, articulando a atividade escolar e problemática do contexto social” (LIBÂNEO, 1992). ( ) É o “… processo de decisão sobre a atuação concreta dos professores no cotidiano de seu trabalho pedagógico, envolvendo as ações e situações em constante interação entre professor e alunos e entre os próprios alunos”. (PADILHA, 2001) ( ) Também denominado Planejamento do Sistema de Educação, “… é o de maior abrangêcia, correspondendo ao planejamento que é feito em novel nacional, estadual ou municipal. Incorpora e reflete as grandes políticas educacionais”. (VASCONCELOS, 2000). ( ) É o “… processo de tomada de decisões sobre a dinâmica da ação escolar. É previsão sistemática e ordenada de toda a vida escolar do aluno. Portanto, essa modalidade de planejar constitui um instrumento que orienta a ação educativa na escola, pois a preocupação é com a proposta geral das experiências de aprendizagem que a escola deve oferecer ao estudante, através dos diversos componentes curriculares”. (VASCONCELOS, 1995).",
+      "alternativas": {
+        "a": "III, I, IV, II.",
+        "b": "II, IV, I, III.",
+        "c": "II, I, IV, III.",
+        "d": "I, IV, III, II."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira proposição ( ) é II. Planejamento da Escola ou Planejamento escolar. A descrição da afirmativa\npropõe uma visão ampla de educação e da escola como um todo. É nessa esfera que ocorre o planejamento\ncoletivo da escola. O estudo do contexto social é um componente do Planejamento da Escola.\nA segunda proposição ( ) é IV. Planejamento de Ensino. O termo \"atuação concreta do cotidiano\" diz\nrespeito a atuação direta dos professores com os alunos em sala de aula. Portanto, é o Planejamento de\nEnsino.\nA terceira proposição ( ) é I. Planejamento Educacional. Os termos \"Sistemas de Educação\" e \"esferas\nnacional, estadual e municipal\" estão atrelados ao Planejamento de grandes redes de ensino. Portanto, é\nPlanejamento Educacional.\nA quarta proposição ( ) é III. Planejamento Curricular. A descrição da afirmativa utiliza o termo \"experiências\nescolares\" que está intimamente ligado a noção de currículo. A ideia da afirmação como um todo é o\nplanejamento aquilo que o estudante aprende dentro da escola.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a01_002",
+      "numero": 2,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC - Professor de Educação Básica (SEDF)/Atividades/2013 - A preocupação com a melhoria da qualidade da Educação levantou a necessidade de descentralização e democratização da gestão escolar e a participação tornou-se um conceito nuclear. Sobre a temática do planejamento educacional participativo, julgue os itens a seguir: I. Planejamento Educacional pode ser pensado como um processo contínuo que se preocupa com o 'para onde ir' e 'quais as maneiras adequadas para chegar lá’, tendo em vista a situação presente e possibilidades futuras, para que o desenvolvimento da educação atenda tanto às necessidades da sociedade. II. Planejamento Curricular é o processo de tomada de decisões sobre a dinâmica da ação escolar, é previsão sistemática e ordenada de toda a vida escolar do aluno. Portanto, essa modalidade de planejar constitui um mero instrumento que orienta a ação educativa na escola, uma vez que a preocupação com a proposta geral das experiências de aprendizagem que a escola deve oferecer ao estudante não está explicitada através dos diversos componentes curriculares. III. Planejamento Escolar é o planejamento global da escola, envolvendo o processo de reflexão, de decisões sobre a organização, o funcionamento e a proposta pedagógica da instituição. É um processo de racionalização, organjzação e coordenação da ação docente, articulando a atividade escolar e a problemática do contexto social (LIBÂNEO, J. C. Organização e gestão escolar: teoria e prática. 4. ed. Goiânia: Editora alternativa, 2001). Relaciona-se com o Planejamento Político-Social, tem como preocupação fundamental responder às questões “para quê”, “para quem” e também “com o quê”. A preocupação central é definir fins, buscar conceber visões globalizantes e de eficácia; serve para situações de crise e em que a proposta é de transformação, em médio prazo e/ou longo prazo (GANDIN, D. A prática do planejamento participativo. 2.ed. Petrópolis: Vozes, 1994 ). São corretas as afirmativas:",
+      "alternativas": {
+        "a": "I e III, apenas.",
+        "b": "II e III, apenas.",
+        "c": "I e II, apenas.",
+        "d": "todas as afirmativas são corretas."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A descrição da afirmativa propõe uma visão ampla do processo educativo\nenquanto sistema de ensino. Não é uma descrição focada em aspectos didáticos.\nAfirmativa II está incorreta. A alternativa coloca que os documentos oficiais de currículo são um mero\ninstrumento burocrático e que as experiências oferecidas aos estudantes na escola não constam de nenhuma\nforma em alguma prescrição curricular. Embora o currículo real transforme a prescrição do currículo, não é\npossível afirmar que a experiência do aluno na escola não tem nenhuma relação com os documentos oficiais.\nLogicamente que há uma intencionalidade nas propostas oficiais e que de alguma maneira tem consequência\ndentro da escola, mesmo que não seja exatamente igual.\nAfirmativa III está correta. O termo \"planejamento global da escola\" já compreende a descrição do conceito.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a01_003",
+      "numero": 3,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Salto do Jacuí)/Anos Iniciais/2019 - Segundo Vasconcellos, entende-se por__________________todo o processo de educação escolar, que por ser intencional e sistemático, implica a elaboração e realização (incluindo a avaliação) de um programa de experiências pedagógicas a serem vivenciadas em sala de aula. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.",
+      "alternativas": {
+        "a": "currículo",
+        "b": "projeto social",
+        "c": "planejamento setorial",
+        "d": "projeto político",
+        "e": "proposta de planejamento"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O currículo possui uma intenção e uma sistematização, pois está lidando com\nconhecimento e valores para serem elaborados pelos alunos.\nA alternativa B está incorreta. Não há em termo em Vasconcellos.\nA alternativa C está incorreta. Não há em termo em Vasconcellos.\nA alternativa D está incorreta. Não há em termo em Vasconcellos.\nA alternativa E está incorreta. Não há em termo em Vasconcellos."
+    },
+    {
+      "id": "a01_004",
+      "numero": 4,
+      "banca": "FUNRIO",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO - Professor II (Mesquita)/Orientador Educacional/2016 - Para Libâneo, o planejamento do ensino é uma das três modalidades de planejamento articuladas entre si: o plano da escola, o de ensino e o de aulas. O planejamento escolar está condicionado ao preparo dos alunos em relação às tarefas da aprendizagem, o que torna necessário conhecer as condicionantes socioculturais e materiais. Esse conhecimento deve servir como:",
+      "alternativas": {
+        "a": "ponto de apoio pedagógico para o trabalho docente.",
+        "b": "esquema para uma ótima administração da escola.",
+        "c": "fonte de objetivos específicos para processos participativos.",
+        "d": "base para o movimento de manutenção da educação conservadora.",
+        "e": "ponto de apoio para a inserção do aluno na qualificação profissional"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Exatamente. O planejamento pedagógico para Libâneo é um ponto de apoio e\nnão uma cartilha a ser seguida cegamente.\nA alternativa B está incorreta. Esta descrição é de um planejamento administrativo e não um planejamento\npedagógico.\nA alternativa C está incorreta. A descrição da alternativa é muito vaga. Libâneo deixa claro que o\nplanejamento é apoio para os professores, uma vez que pensa a centralidade educativa no docente.\nA alternativa D está incorreta. Pelo contrário, Libâneo é a favor da educação crítica através dos conteúdos.\nA alternativa E está incorreta. Libâneo não enfoca o currículo na formação profissional, mas na apropriação\ndos conteúdos para a reflexão crítica do aluno."
+    },
+    {
+      "id": "a01_005",
+      "numero": 5,
+      "banca": "NUCEPE UESPI",
+      "tipo": "multipla",
+      "enunciado": "NUCEPE UESPI - Professor (SEDUC PI)/PRONATEC/2015 - Analise o caso abaixo: Na rotina do professor Romão, é uma constante aparecer na aula sem a menor ideia do que vai tratar. Não lê, não prepara as aulas, assim, não sabe o tipo de tarefa que vai propor, então inventa na hora e na aula seguinte não se lembra de cobrar os alunos, nem comenta sobre o que havia pedido. Na maioria das vezes não sabe o que vai ministrar, então se põe a conversar com os alunos e a discutir banalidades. Quando é cobrado pela equipe pedagógica da escola, sempre argumenta que não tem tempo de planejar aulas ou que esta tarefa é uma perda de tempo. A atitude do professor Romão em recusar-se a planejar, desconsidera principalmente uma das funções do planejamento apontada por Libâneo (2004). Referimo-nos, de forma imediata, à função de",
+      "alternativas": {
+        "a": "atualizar o conteúdo do plano sempre que é revisto, aperfeiçoando-o em relação aos progressos feitos no campo de conhecimentos, adequando-o às condições de aprendizagem dos alunos, aos métodos, técnicas e recursos de ensino que vão sendo incorporados à experiência cotidiana.",
+        "b": "assegurar a unidade e a coerência do trabalho docente, uma vez que torna possível inter-relacionar, num plano, os elementos que compõem o processo de ensino: os objetivos, os métodos e técnicas e a avaliação.",
+        "c": "facilitar a preparação das aulas: selecionar o material didático em tempo hábil, saber que tarefas professor e alunos devem executar, replanejar o trabalho frente a novas situações que aparecem no decorrer das aulas.",
+        "d": "prever objetivos, conteúdos e métodos a partir da consideração das exigências postas pela realidade social do nível de preparo e das condições socioculturais e individuais dos alunos.",
+        "e": "expressar os vínculos entre o posicionamento filosófico, político-pedagógico e profissional e as ações efetivas que o professor irá realizar na sala de aula, através de objetivos, conteúdos, métodos e formas organizativas do ensino."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A questão pede de maneira imediata. Não é possível a atualização de\nconteúdo se nem mesmo o professor prepara as aulas.\nA alternativa B está incorreta. A questão pede de maneira imediata. Não é possível unidade e coerência no\ntrabalho se o professor nem prepara as aulas. Este item pode ser pedido posteriormente ao professor\nRomão.\nA alternativa C está correta. Exatamente. De maneira imediata, o professor Romão está precisando preparar\nas aulas, selecionar o material didático que vai usar e pensar criticamente sobre o seu cotidiano na escola.\nA alternativa D está incorreta. O professor não planeja as aulas, portanto não tem objetivos de ensino.\nA alternativa E está incorreta. O professor não planeja as aulas, portanto não possui clara sua posição\nfilosófica ou político-pedagógica."
+    },
+    {
+      "id": "a01_006",
+      "numero": 6,
+      "banca": "IF RS",
+      "tipo": "multipla",
+      "enunciado": "IF RS - Pedagogo (IF RS)/Orientação Educacional/2011/EDITAL 28-2011 - Para que o professor possa atingir efetivamente os objetivos, é necessário que realize um conjunto de operações didáticas coordenadas entre si, ou seja, o planejamento, a direção do ensino e da aprendizagem e a avaliação (LIBÂNEO, 1994). No que diz respeito ao planejamento escolar, o professor deve:",
+      "alternativas": {
+        "a": "As alternativas B, C, D, E se encontram corretas;",
+        "b": "Possuir conhecimento das características sociais, culturais e individuais dos alunos, bem como o nível de preparo escolar em que se encontram;",
+        "c": "Conhecer os vários métodos de ensino e procedimentos didáticos, a fim de poder escolhê-los conforme os temas a serem tratados, características dos alunos, etc.;",
+        "d": "Compreender as relações entre a educação escolar e os objetivos sócio-políticos e pedagógicos, ligandoos aos objetivos de ensino;",
+        "e": "Prever atividades didáticas em termos da sua organização e coordenação em face aos objetivos propostos, quanto a sua revisão e adequação no decorrer do processo de ensino."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Todas as alternativas anteriores estão corretas\nA alternativa B está correta. A descrição da alternativa trata sobre a importância do contexto social e escolar\ndo aluno\nA alternativa C está correta. A escolha de metodologia de ensino também faz parte do planejamento. É \"o\ncomo fazer\"\nA alternativa D está correta. Diz respeito às questões reflexivas do planejamento, uma vez que elas são\nimportantes para definir os objetivos que são imprescindíveis.\nA alternativa E está correta. A interligação das aulas e dos saberes em uma organização sequencial faz parte\nde um bom planejamento de ensino.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a01_007",
+      "numero": 7,
+      "banca": "Legalle",
+      "tipo": "multipla",
+      "enunciado": "Legalle - Professor (Pref Silveira Martins)/Educação Artística/2014 - De acordo com Libâneo, “o planejamento escolar é uma tarefa docente que inclui tanto a previsão das atividades didáticas em termos de organização e coordenação em face dos objetivos propostos, quanto a sua revisão e adequação no decorrer do processo de ensino”. Portanto, o planejamento de aula é um instrumento essencial para o professor elaborar sua metodologia conforme o objetivo a ser alcançado, tendo que ser criteriosamente adequado para as diferentes turmas, havendo flexibilidade caso necessite de alterações. Entre as alternativas abaixo, assinale a ordem da elaboração um plano de aula:",
+      "alternativas": {
+        "a": "Objetivo/ Tema/ Avaliação/ Estratégia/ Material.",
+        "b": "Material/ Objetivo/ Tema/ Estratégia/ Avaliação.",
+        "c": "Avaliação/ Objetivo/ Tema/ Estratégia/ Material.",
+        "d": "Estratégia/ Tema/ Material/Objetivo/ Avaliação.",
+        "e": "Tema/ Objetivo/ Material/ Estratégias/ Avaliação."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O objetivo não vem antes do que o tema.\nA alternativa B está incorreta. O objetivo não vem antes do que o material.\nA alternativa C está incorreta. A avaliação é o último assunto a ser tratado no plano de aula.\nA alternativa D está incorreta. A estratégia não vem antes que o tema.\nA alternativa E está correta. A sequência está do ponto de vista correta. É preciso escolher primeiro o tema,\ntraçar objetivos, escolher o material, pensar estratégias e por último pensar no processo avaliativo."
+    },
+    {
+      "id": "a01_008",
+      "numero": 8,
+      "banca": "SELECON",
+      "tipo": "multipla",
+      "enunciado": "SELECON - Professor (SME Cuiabá)/Artes/Ensino Fundamental/2019 - Segundo Libâneo (1994), há três modalidades de planejamento articuladas entre si o plano da escola (ou projeto político-pedagógico), o plano de ensino (ou de unidades) e o plano de aulas, sendo que:",
+      "alternativas": {
+        "a": "os planos não são sempre necessários, podendo a escola ficar entregue aos rumos estabelecidos pelos interesses de momento e os dominantes na sociedade",
+        "b": "os planejamentos são suficientes para assegurar o andamento do processo de ensino, desde que sejam inflexíveis e não se dê importância à objetividade",
+        "c": "o planejamento não assegura, por si só, o andamento do processo de ensino porque é preciso que os planos estejam continuamente ligados à prática, de modo que sejam sempre revistos e refeitos",
+        "d": "os planos são elaborados pelos professores, que devem se ater a sua experiência e prática pedagógica, sobrepondo-a a conhecimentos referentes ao processo didático e a metodologias das disciplinas"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, os Planos de aula são sempre necessários. O termo \"não\"\ninvalidou a alternativa.\nA alternativa B está incorreta. Pelo contrário, o planejamento tem que ser flexível para dar conta das\ndificuldades dos alunos e de possíveis questões do contexto cultural.\nA alternativa C está correta. Exatamente. O planejamento não pode estar só no papel, por isso os planos\ndevem ser alvos constantes de reflexão do professor de acordo com a prática.\nA alternativa D está incorreta. Pelo contrário, não deve haver sobreposição da prática pedagógica sobre a\nmetodologia. Esta forma de atuar caracteriza o senso comum e não o saber profissional docente."
+    }
+  ]
+}

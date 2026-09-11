@@ -1,0 +1,656 @@
+{
+  "esquema": 1,
+  "id": "aula-02-teorias-curriculo",
+  "aula": "02",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 02",
+  "subtitulo": "Teorias do Currículo e Prática Escolar",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 02 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    2,
+    19
+  ],
+  "tagsEdital": [
+    {
+      "n": 2,
+      "titulo": "Currículo: do proposto à prática"
+    },
+    {
+      "n": 19,
+      "titulo": "Interdisciplinaridade e transdisciplinaridade"
+    }
+  ],
+  "resumoMd": "### A) Evolução Histórica e Teorias do Currículo (Tomaz Tadeu da Silva / Alice Casimiro)\n1. **Teorias Tradicionais (Foco na Organização e Eficiência):**\n   - Autores: Bobbitt e Ralph Tyler.\n   - Visão: Currículo neutro, técnico, focado na transmissão de conteúdos, eficiência industrial, definição estrita de objetivos, seleção de experiências e avaliação focada em metas.\n   - Pergunta central: *Como ensinar? O que ensinar?*\n2. **Teorias Críticas (Foco nas Relações de Poder, Ideologia e Classe Social):**\n   - Autores: Michael Apple, Bourdieu, Passeron, Henry Giroux, Paulo Freire, Althusser.\n   - Visão: O currículo não é neutro; é um instrumento de seleção cultural condicionado pelas ideologias dominantes para manter as estruturas sociais e econômicas. Discute dominação, emancipação e reprodução social.\n   - Pergunta central: *Por que ensinar este conteúdo e não outro? A quem interessa este conhecimento?*\n3. **Teorias Pós-Críticas (Foco na Identidade, Subjetividade e Diversidade):**\n   - Autores: Tomaz Tadeu da Silva, Homi Bhabha, Stuart Hall.\n   - Visão: Ênfase nas questões de identidade, alteridade, gênero, sexualidade, etnia, raça, cultura, subjetividade e multiculturalismo.\n   - Pergunta central: *Quem nós somos? Como as identidades são construídas no currículo?*\n\n### B) As Três Manifestações Curriculares (Libâneo / Franco)\n- **Currículo Formal (ou Prescrito / Oficial):** Estabelecido nos documentos normativos oficiais (BNCC, Diretrizes Curriculares, Currículo em Movimento da SEE-DF, Proposta Pedagógica oficial).\n- **Currículo Real (ou Em Ação):** É o currículo que efetivamente se concretiza na sala de aula no dia a dia, fruto das adaptações, interpretações e interações entre professores e alunos.\n- **Currículo Oculto:** Não está escrito nem prescrito em nenhum documento oficial. É composto pelos valores, atitudes, comportamentos, gestos, normas não ditas e ideologias veiculadas no cotidiano escolar (ex.: disposição das carteiras, tratamento da indisciplina, regras não escritas).\n\n---",
+  "total": 40,
+  "questoes": [
+    {
+      "id": "a02_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref P das Missões)/Educação Física/2019 - Conforme Libâneo (2004), o currículo é um ponto essencial da estrutura educacional e faz parte do Projeto Político Pedagógico (PPP) da instituição de ensino. Em relação aos níveis de currículo, avalie as seguintes assertivas: I. Denomina-se currículo formal o conjunto de diretrizes normativas prescritas institucionalmente, como por exemplo, os Parâmetros Curriculares Nacionais e propostas curriculares dos estados e municípios. É o currículo legal, expresso em diretrizes curriculares, objetivos e conteúdos das áreas ou disciplinas de estudo. II. O currículo real é o currículo que acontece dentro da sala de aula com professores e alunos a cada dia, em decorrência de um projeto pedagógico e dos planos de ensino. É composto de todas aquelas adaptações feitas cotidianamente pelo professor, é o currículo que sai da prática dos professores. III. O currículo oculto representa tudo o que os alunos aprendem diariamente em meio às várias práticas, atitudes, comportamentos, gestos, percepções, que vigoram no meio social e escolar. É constituído por todos os saberes que não estão prescritos nas diretrizes curriculares, são conhecimentos adquiridos fora da escola, com a família, os amigos, ou ainda no espaço escolar, através de brincadeiras de corredores, tipos de cartazes pendurados na parede, etc. IV. O currículo informal é aquele que não aparece no planejamento do professor. Se manifesta entre outras formas na maneira como os funcionários tratam os alunos e seus pais, no modo de organização da sala de aula, no uso da quadra de esportes, nas condições de higiene, no próprio espaço da escola como um todo. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas II.",
+        "b": "Apenas III.",
+        "c": "Apenas I e IV.",
+        "d": "Apenas I, II e III.",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O currículo formal é prescrito através dos documentos oficiais.\nAfirmativa II está correta. O currículo real é aquele que é interpretado pelos professores na aplicação\nem sala de aula. O currículo real tem como base o currículo prescrito legal, mas não existe uma\ncorrespondência de planos. O currículo prescrito é transformado pela ação dos docentes.\nAfirmativa III está correta. O currículo oculto é baseado nos valores, ideologias e identidades da\nescola. Principalmente os professores contribuem com sua visão de mundo que não estão descritas nos\ndocumentos oficiais.\nAfirmativa IV está incorreta. Libâneo não utiliza esta descrição de currículo informal.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a02_002",
+      "numero": 2,
+      "banca": "IESES",
+      "tipo": "multipla",
+      "enunciado": "IESES - Professor (Pref Palhoça)/Nível Superior/2018 - Planejamento é um processo de racionalização, organização e coordenação da ação docente, articulando a atividade escolar e a problemática do contexto social. A escola, os professores e alunos são integrantes da dinâmica das relações sociais. Nessa perspectiva, relacione: I. Planejamento Educacional. II. Planejamento da Escola ou planejamento Escolar. III. Planejamento Curricular. IV. Planejamento de Ensino. ( ) Atividade que envolve o processo de reflexão, de decisões sobre a organização, funcionamento e a proposta pedagógica da instituição. \"É um processo de racionalização, organização e coordenação da ação docente, articulando a atividade escolar e problemática do contexto social” (LIBÂNEO, 1992). ( ) É o “… processo de decisão sobre a atuação concreta dos professores no cotidiano de seu trabalho pedagógico, envolvendo as ações e situações em constante interação entre professor e alunos e entre os próprios alunos”. (PADILHA, 2001) ( ) Também denominado Planejamento do Sistema de Educação, “… é o de maior abrangêcia, correspondendo ao planejamento que é feito em novel nacional, estadual ou municipal. Incorpora e reflete as grandes políticas educacionais”. (VASCONCELOS, 2000). ( ) É o “… processo de tomada de decisões sobre a dinâmica da ação escolar. É previsão sistemática e ordenada de toda a vida escolar do aluno. Portanto, essa modalidade de planejar constitui um instrumento que orienta a ação educativa na escola, pois a preocupação é com a proposta geral das experiências de aprendizagem que a escola deve oferecer ao estudante, através dos diversos componentes curriculares”. (VASCONCELOS, 1995).",
+      "alternativas": {
+        "a": "III, I, IV, II.",
+        "b": "II, IV, I, III.",
+        "c": "II, I, IV, III.",
+        "d": "I, IV, III, II."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira proposição ( ) é II. Planejamento da Escola ou Planejamento escolar. A descrição da\nafirmativa propõe uma visão ampla de educação e da escola como um todo. É nessa esfera que ocorre o\nplanejamento coletivo da escola. O estudo do contexto social é um componente do Planejamento da\nEscola.\nA segunda proposição ( ) é IV. Planejamento de Ensino. O termo \"atuação concreta do cotidiano\"\ndiz respeito a atuação direta dos professores com os alunos em sala de aula. Portanto, é o Planejamento\nde Ensino.\nA terceira proposição ( ) é I. Planejamento Educacional. Os termos \"Sistemas de Educação\" e\n\"esferas nacional, estadual e municipal\" estão atrelados ao Planejamento de grandes redes de ensino.\nPortanto, é Planejamento Educacional.\nA quarta proposição ( ) é III. Planejamento Curricular. A descrição da afirmativa utiliza o termo\n\"experiências escolares\" que está intimamente ligado a noção de currículo. A ideia da afirmação como\num todo é o planejamento aquilo que o estudante aprende dentro da escola.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a02_003",
+      "numero": 3,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC - Professor de Educação Básica (SEDF)/Atividades/2013 - A preocupação com a melhoria da qualidade da Educação levantou a necessidade de descentralização e democratização da gestão escolar e a participação tornou-se um conceito nuclear. Sobre a temática do planejamento educacional participativo, julgue os itens a seguir: I. Planejamento Educacional pode ser pensado como um processo contínuo que se preocupa com o 'para onde ir' e 'quais as maneiras adequadas para chegar lá’, tendo em vista a situação presente e possibilidades futuras, para que o desenvolvimento da educação atenda tanto às necessidades da sociedade. II. Planejamento Curricular é o processo de tomada de decisões sobre a dinâmica da ação escolar, é previsão sistemática e ordenada de toda a vida escolar do aluno. Portanto, essa modalidade de planejar constitui um mero instrumento que orienta a ação educativa na escola, uma vez que a preocupação com a proposta geral das experiências de aprendizagem que a escola deve oferecer ao estudante não está explicitada através dos diversos componentes curriculares. III. Planejamento Escolar é o planejamento global da escola, envolvendo o processo de reflexão, de decisões sobre a organização, o funcionamento e a proposta pedagógica da instituição. É um processo de racionalização, organização e coordenação da ação docente, articulando a atividade escolar e a problemática do contexto social (LIBÂNEO, J. C. Organização e gestão escolar: teoria e prática. 4. ed. Goiânia: Editora alternativa, 2001). Relaciona-se com o Planejamento Político- Social, tem como preocupação fundamental responder às questões “para quê”, “para quem” e também “com o quê”. A preocupação central é definir fins, buscar conceber visões globalizantes e de eficácia; serve para situações de crise e em que a proposta é de transformação, em médio prazo e/ou longo prazo (GANDIN, D. A prática do planejamento participativo. 2.ed. Petrópolis: Vozes, 1994 ). São corretas as afirmativas:",
+      "alternativas": {
+        "a": "I e III, apenas.",
+        "b": "II e III, apenas.",
+        "c": "I e II, apenas.",
+        "d": "todas as afirmativas são corretas."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A descrição da afirmativa propõe uma visão ampla do processo educativo\nenquanto sistema de ensino. Não é uma descrição focada em aspectos didáticos.\nAfirmativa II está incorreta. A alternativa coloca que os documentos oficiais de currículo são um mero\ninstrumento burocrático e que as experiências oferecidas aos estudantes na escola não constam de\nnenhuma forma em alguma prescrição curricular. Embora o currículo real transforme a prescrição do\ncurrículo, não é possível afirmar que a experiência do aluno na escola não tem nenhuma relação com os\ndocumentos oficiais. Logicamente que há uma intencionalidade nas propostas oficiais e que de alguma\nmaneira tem consequência dentro da escola, mesmo que não seja exatamente igual.\nAfirmativa III está correta. O termo \"planejamento global da escola\" já compreende a descrição do\nconceito.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a02_004",
+      "numero": 4,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Analista (MPE SC)/Pedagogia/2014 - Discussões sobre conhecimento, verdade, poder e identidade marcam, invariavelmente, as discussões sobre questões curriculares. O documento orientador Indagações sobre currículo: currículo, conhecimento e cultura (Brasília: Ministério da Educação, Secretaria de Educação Básica, 2007) apresenta o entendimento de currículo como: “(…) (1) ............... que se desdobram em torno do conhecimento, em meio a relações sociais, e que contribuem para a construção das (2) ................... de nossos/as estudantes. Currículo associa-se, assim, ao conjunto de esforços pedagógicos desenvolvidos com (3) ............ . Assinale a alternativa que completa corretamente as lacunas numeradas do texto.",
+      "alternativas": {
+        "a": "(1) as experiências escolares • (2) identidades • (3) intenções educativas",
+        "b": "(1) as experiências escolares • (2) escolhas • (3) intenções morais",
+        "c": "(1) ideias • (2) experiências escolares •(3) responsabilidade",
+        "d": "(1) propostas • (2) aprendizagens • (3) autoridade",
+        "e": "(1) práticas • (2) escolhas • (3) os professores"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O conceito de currículo diz respeito ao conjunto das experiências escolares\nque são realizadas conforme uma intencionalidade expressa em documentos oficiais ou na prática\ncotidiana. Assim como o currículo é promotor de identidades uma vez que há princípios e valores na\nsua formulação.\nA alternativa B está incorreta. O princípio da responsabilidade não está bem colocado nesta descrição,\numa vez que o conceito tratado aqui de currículo diz respeito a uma visão crítica e não apenas na\nresponsabilização dos professores pelos resultados.\nA alternativa C está incorreta. Os conceitos de ideias e responsabilidade não dizem respeito a descrição\ndo currículo, pois ele é fruto das experiências escolares, das identidades e da intencionalidade\neducativa.\nA alternativa D está incorreta. O currículo atualmente não tem como princípio a autoridade, mas a\nparticipação da comunidade escolar.\nA alternativa E está incorreta. Os termos escolhidos não dizem respeito ao conceito geral de Moreira e\nCandau. Os autores fazem uma leitura da cultura como influenciadora do currículo na escola e das\nexperiências que lá existem. Ademais, há o critério da intencionalidade que não está na alternativa."
+    },
+    {
+      "id": "a02_005",
+      "numero": 5,
+      "banca": "FACET",
+      "tipo": "multipla",
+      "enunciado": "FACET - Supervisor Escolar (Pref Sobrado)/2016 - Planejamento do currículo e do projeto pedagógico pode ser conceituado como:",
+      "alternativas": {
+        "a": "atividade que reúne um grupo intelectual da unidade escolar que estará apto a apresentar propostas inovadoras, confirmando a liderança dos supervisores escolares num processo que é eminentemente pedagógico e centralizado.",
+        "b": "tarefa que articula a prática pedagógica docente aos princípios educacionais, objetivos de ensino e metas qualitativas de aprendizagem, numa relação coerente com as políticas públicas que expressam o papel do Estado e a garantia da qualidade educativa.",
+        "c": "exercício de seleção de conteúdos e metodologias possíveis diante de uma realidade difícil, devido às carências culturais dos educandos que não possuem referências teóricas embasadoras.",
+        "d": "atividade que constrói programas específicos de cada componente curricular, obedecendo a sua lógica histórica, e considerando o entrosamento necessário entre as lideranças da escola, dos diferentes bairros e dos poderes políticos locais.",
+        "e": "exercício que relaciona os objetivos de ensino às estratégias, recursos didáticos, livros e revistas pedagógicas, coerentes com as propostas docentes, ressaltando o processo intelectual da elaboração acadêmica."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A descrição da alternativa propõe o currículo feito por especialistas. Na\ndescrição da questão (projeto pedagógico) pede-se um conceito de currículo que tenha como\ninterlocutores os professores.\nA alternativa B está correta. Coloca os princípios atualizados da Racionalidade Tyleriana que podem\nser expressos pela qualidade da aprendizagem e vínculo com os objetivos. Metas e avaliação estão\nintimamente ligadas nesta alternativa.\nA alternativa C está incorreta. O termo \"carências culturais\" está inadequado. Se fosse seguir esta\nlógica, nenhuma criança poderia aprender pois é \"carente cultural\". Não condiz com o objetivo da\nquestão.\nA alternativa D está incorreta. O termo \"poderes políticos locais\" está inadequado. O currículo não tem\nque estar em articulação com os prefeitos e vereadores (por exemplo), mas com os documentos oficiais.\nA alternativa E está correta. O currículo não pode ser apenas acadêmico. Além disso, ele deve ter\nrelação com o contexto da escola como enuncia a questão (projeto pedagógico)."
+    },
+    {
+      "id": "a02_006",
+      "numero": 6,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Orientador Educacional (Pref Campos Novos)/2019 - O currículo constituiu um dos fatores que maior influência na qualidade do ensino. Não existe uma noção, mas várias noções de currículo, tantas quantas as perspectivas adotadas. Sobre os fundamentos do currículo, é correto afirmar: 1) O currículo formal, oficial, prescrito, explícito: é tudo aquilo que é imposto pelo sistema de ensino, como as LDB, PCNs, propostas pedagógicas, etc. 2) A função da teoria curricular é compreender e descrever fenômenos da prática curricular. 3) O currículo real, em ação: é o que será realizado em sala, ou seja, é o planejamento de aula que o professor faz e vai praticar em sala de aula. 4)Atualmente são três as teorias curriculares. São elas: Tradicional, Críticas e Pós-Críticas. 5) O currículo oculto: são as simbologias que formam o ambiente escolar, que não estão expressos em palavras ou não estão formalmente no papel. Assinale a alternativa que indica todas as afirmativas corretas.",
+      "alternativas": {
+        "a": "São corretas apenas as afirmativas 1 e 2.",
+        "b": "São corretas apenas as afirmativas 3, 4 e 5.",
+        "c": "São corretas apenas as afirmativas 1, 2, 3 e 4.",
+        "d": "São corretas apenas as afirmativas 1, 3, 4 e 5.",
+        "e": "São corretas as afirmativas 1, 2, 3, 4 e 5."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa 1 está correta. A descrição de currículo formal é exatamente o que está nos documentos\noficiais.\nAfirmativa 2 está correta. A teoria curricular pretende compreender como a realidade atual em\ntermos de prescrição e transformação de cultural e conhecimento.\nAfirmativa 3 está correta. A descrição de currículo real é exatamente o que ocorre entre professores\ne alunos na sala de aula.\nAfirmativa 4 está correta. Tradicional são as teorias que são prescritivas do currículo. Críticas são\naquelas que trazem a questão da intencionalidade e da cultura de modo geral. e Pós-Críticas são aquelas\nque tratam do multiculturalismo.\nAfirmativa V está correta. O currículo oculto é aquele que é expresso em valores, intenções e\nidentidade que não está em documentos oficiais.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a02_007",
+      "numero": 7,
+      "banca": "FUNCERN",
+      "tipo": "multipla",
+      "enunciado": "FUNCERN - Professor (CP Trairí)/Ensino Fundamental II/2018 - As teorias do currículo, em suas concepções, mostram aspectos como ideologia, reprodução cultural e social, poder, classe social, relações de produção, capitalismo, emancipação, dentre outros. Tais teorias são geralmente classificadas em tradicionais, críticas e pós-críticas. As teorias críticas, que surgiram em meados da década de 1960, têm como objetivo",
+      "alternativas": {
+        "a": "transmitir os saberes cientificamente acumulados e inquestionáveis, capazes de direcionarem o ensino e as técnicas em sala de aula.",
+        "b": "formar cidadãos críticos capazes de assimilarem os conhecimentos cientificamente formalizados, capacitando-os para o mercado de trabalho.",
+        "c": "questionar o status quo social, entendido como responsável pelas injustiças sociais e reprodução da divisão de classe.",
+        "d": "ensinar o modus vivendi e as representações sociais nos relacionamentos, através de conhecimentos sobre raça, etnia e multiculturalismo."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Esta descrição é referente ao currículo tradicional que é prescrito\nsegundo os conteúdos hegemônicos\nA alternativa B está incorreta. Esta descrição é do currículo tradicional como eficiência que vê o aluno\ncomo um recipiente para colocar possíveis comportamento adequados ao mercado de trabalho.\nA alternativa C está correta. As teorias críticas questionam os conteúdos hegemônicos para a\nmanutenção da sociedade assim como ela é.\nA alternativa D está incorreta. Esta descrição diz respeito ao multiculturalismo que aborda questões\nidentitárias. Teoria Pós-Crítica."
+    },
+    {
+      "id": "a02_008",
+      "numero": 8,
+      "banca": "FUNCERN",
+      "tipo": "multipla",
+      "enunciado": "FUNCERN - Professor (CP Trairí)/Pedagogo/2018 -A palavra currículo é muito familiar a todos que trabalham nas escolas e nos sistemas educacionais. Diferentes concepções refletem diferentes compromissos e posições teóricas. Cabe ressaltar que as discussões curriculares inevitavelmente recaem sobre questões relativas ao conhecimento, à verdade, ao poder e à identidade. O currículo compreendido como identidade, espaço, território, saber e relação de poder numa visão multiculturalista pertence a concepção",
+      "alternativas": {
+        "a": "Tradicionalista.",
+        "b": "Pós-crítica.",
+        "c": "Fundamentalista.",
+        "d": "Tecnicista."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O currículo tradicional é descrito como a prescrição de normas oficiais\ne pela relação entre objetivos e avaliação. Não é a descrição da questão no enunciado.\nA alternativa B está correta. As Teorias Pós-críticas têm íntima relação como multiculturalismo e com\nidentidade, território, saber e poder. O multiculturalismo trata que diferentes culturas no mesmo\nespaço. Todos estes temas fazem parte das Teorias Pós-críticas.\nA alternativa C está incorreta. Não há este termo na classificação de Teoria do Currículo.\nA alternativa D está incorreta. Este termo é próprio da classificação de tendências pedagógicas que já\nestudamos na Aula 00. Não é próprio para classificar Teorias Curriculares."
+    },
+    {
+      "id": "a02_009",
+      "numero": 9,
+      "banca": "AOCP",
+      "tipo": "multipla",
+      "enunciado": "AOCP - Professor (Pref Feira de Santana)/Geografia/2018 - Sobre as teorias pós-críticas de currículo, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. Desconfiam profundamente dos impulsos emancipadores e libertadores da teoria crítica. II. Enfatizam a indeterminação, a incerteza no conhecimento. III. e afirmam a importância da linearidade e sequencialidade do currículo.",
+      "alternativas": {
+        "a": "Apenas I e II.",
+        "b": "Apenas I.",
+        "c": "Apenas II.",
+        "d": "Apenas III.",
+        "e": "Apenas II e III."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Pelas teorias Pós-críticas serem pós-modernas há uma crítica a forma como\nos marxistas (Karl Marx) pensam a libertação humana.\nAfirmativa II está correta. As teorias Pós-críticas determinam que não há conhecimento certo ou\nerrado, mas sim questões de identidade dentro do mundo multicultural.\nAfirmativa III está incorreta. Esta descrição é da teoria tradicional do currículo que segue a lógica\nTyleriana.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a02_010",
+      "numero": 10,
+      "banca": "FUNDEP",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP - Técnico em Educação (Itatiaiuçu)/2017 - Depois das teorias críticas e pós-críticas do currículo, torna-se impossível pensar o currículo simplesmente através de conceitos técnicos como os de ensino e eficiência ou de categorias psicológicas como as de aprendizagem e desenvolvimento ou ainda de imagens estáticas como as de grade curricular e lista de conteúdos. Num cenário pós-crítico, o currículo pode ser todas essas coisas, pois ele é também aquilo que dele se faz. O currículo tem significados que vão muito além daqueles aos quais as teorias tradicionais nos confiaram. O currículo é lugar, espaço e território. O currículo é relação de poder. O currículo é trajetória, viagem e percurso. [...] O currículo é documento de identidade. SILVA, Tomaz Tadeu. Documentos de identidade: uma introdução às teorias de currículo. Belo Horizonte: Autêntica, 2003 (Adaptação). Considerando a definição de currículo, avalie as afirmações a seguir. I. A construção do currículo constitui um processo de seleção cultural, o que pode colocar em desvantagem determinados grupos sociais e culturais. II. O sistema educativo confere ao currículo efetividade que envolve múltiplas relações, razão pela qual este deve ser considerado práxis e sua materialização corresponde à forma como foi idealizado. III. As teorias críticas reconhecem a estética de poderes diversos diluídos nas relações sociais, conferindo ao currículo a função de atuar em processos para a inclusão escolar. IV. É desafio da escola incluir no currículo experiências culturais diversificadas que não reproduzem estruturas de vida social em suas assimetrias e desigualdades. Estão corretas as afirmativas:",
+      "alternativas": {
+        "a": "I e II, apenas.",
+        "b": "II e III, apenas.",
+        "c": "I, II e III, apenas.",
+        "d": "I, III e IV, apenas."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O currículo é a seleção de uma cultura. É por isso que há a diferença entre\nconhecimento e conhecimento escolar. Este último é sempre uma seleção do universo cultural da\nHumanidade.\nAfirmativa II está incorreta. Pelo contrário, por conta dos agentes do currículo na escola (professores)\na prescrição curricular nunca é como a idealizada. Há uma diferença de planos entre aquilo que é\nidealizado e aquilo que acontece na prática. A afirmativa usa termos de Sacristán, mas a ideia geral dela\né de prescrição curricular Tyleriana.\nAfirmativa III está correta. Exatamente. As Teorias Críticas reconhecem a importância do contexto\nescolar, inclusive aquele que é excludente e necessita de apoio para inclusão.\nAfirmativa IV está incorreta. Dentro das Teorias de Currículo Críticas e Pós-Críticas, há essas\nnecessidades de inserir novos elementos culturais no currículo. Descrição feita corretamente dentro\ndestes dois campos curriculares.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a02_011",
+      "numero": 11,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Pedagogo (IF PB)/2019 - Relacione as colunas abaixo. 1. Integração pelas competências e habilidades a serem formadas nos alunos. 2. Integração de conceitos das disciplinas mantendo a lógica dos saberes disciplinares de referência. 3. Integração via interesses dos alunos e buscando referência nas questões sociais e políticas mais amplas (via disciplinas escolares) ( ) Constitui os processos interdisciplinares. Por vezes, mesmo que seja uma proposta interessante por ensinar os princípios das disciplinas de forma mais coerente com matrizes disciplinares de referência, permanece em uma lógica acadêmica. As questões do cotidiano só aparecem como “contextualização” das disciplinas, visando a dinamizar a aula e motivar o aluno. Por exemplo, o aluno não precisa entender o cotidiano em sua complexidade para atender às avaliações. ( ) Perspectiva instrumental. O que importa é formar o aluno para “saber fazer” uma ação, sendo os saberes integrados na ação. É inegável que muitos de nossos saberes se expressam e precisam se expressar em um “saber fazer” – uma habilidade ou um comportamento –, mas reduzir os saberes ao saber fazer é uma perspectiva limitada e coercitiva da prática pedagógica. Um exemplo de aplicação dessa modalidade pode ser encontrado em princípios curriculares das provas do Exame Nacional do Ensino Médio (ENEM). ( ) Pode-se situar nessa modalidade, sob perspectivas diversas, o currículo por projetos, mais na linha progressivista, distanciada de questões sócio-políticas mais amplas; o currículo por temas geradores, mais na linha da valorização dos saberes populares, dentre outros. A sequência correta obtida, no sentido de cima para baixo, é",
+      "alternativas": {
+        "a": "1, 3, 2",
+        "b": "1, 2, 3",
+        "c": "2, 3, 1",
+        "d": "2, 1, 3",
+        "e": "3, 1, 2"
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira proposição( ) é 2. Integração de conceitos das disciplinas mantendo a lógica dos saberes\ndisciplinares de referência. O próprio conceito de interdisciplinaridade é que se tenha relações entre as\ndisciplinas.\nA segunda proposição( ) é 1. Integração pelas competências e habilidades a serem formadas nos\nalunos. O conceito de habilidades e competências está diretamente ligado ao saber fazer. Dessa forma,\nnão está em jogo conteúdos, mas possibilidades do sujeito realizar determinadas tarefas complexas.\nA terceira proposição( ) é 3. Integração via interesses dos alunos e buscando referência nas questões\nsociais e políticas mais amplas (via disciplinas escolares). O currículo por projetos está ancorado no\ncontexto social do aluno, pois o sujeito tem que estar motivado a pesquisar assuntos de sua vida\ncotidiana e interesses.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a02_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "INCAB (ex-FUNCAB) - Pedagogo (Pref. Araruama)/2015 - No currículo por competência os resultados a serem obtidos dirigem o processo educacional, assim:",
+      "alternativas": {
+        "a": "primeiramente se definem os resultados, depois os processos necessários para alcançá-los.",
+        "b": "os encontros educacionais são centrados na aquisição do conhecimento, em contraposição à sua simples aplicação.",
+        "c": "o enfoque é dado ao que tem que ser ensinado pelo educando e não ao que tem que ser aprendido.",
+        "d": "o sistema de avaliação enfatiza a avaliação somativa em detrimento da formativa.",
+        "e": "a organização e o fluxo do aprendizado dependem de uma relação hierárquica estabelecida entre o professor e o aprendiz."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O currículo por competência possui uma influência da Racionalidade\nTyleriana que tem como princípio traçar objetivos que possam ser verificados por avaliação formal.\nA alternativa B está incorreta. Pelo contrário, o currículo por competências é a aplicação de habilidades\nem situações complexas e não em conteúdos.\nA alternativa C está incorreta. Não é isso. O currículo por competências advoga a favor das\naprendizagens de habilidades em situações complexas.\nA alternativa D está incorreta. O sistema de avaliação do currículo por competência tem relação com\nos objetivos. A avaliação somativa é apenas o acúmulo de pontos sem relação com objetivos\nanteriormente traçados.\nA alternativa E está incorreta. O currículo por competências não preza pela relação hierárquica. Esta\nforma de ensino é própria da Pedagogia Tradicional"
+    },
+    {
+      "id": "a02_013",
+      "numero": 13,
+      "banca": "FGV",
+      "tipo": "multipla",
+      "enunciado": "FGV - Professor (Pref. SP)/Ensino Fundamental II e Médio/Ciências/2016 - Leia a tira a seguir. Assinale a opção que melhor se relaciona com o questionamento apresentado pelo personagem da tira acima",
+      "alternativas": {
+        "a": "O currículo escolar deve valorizar os conteúdos, não interferindo na estrutura da escola.",
+        "b": "O currículo deve ser um recipiente neutro de conteúdos.",
+        "c": "A composição do currículo escolar reflete disputas (corporativas, políticas, culturais e outras) na definição do que deve ser ensinado na escola.",
+        "d": "O currículo escolar real deve ser a única resposta possível para a questão: o que deve ser ensinado?",
+        "e": "O currículo deve se limitar aos conteúdos e matérias das áreas a se ensinar."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, o personagem critica o excesso de conteúdos escolares e\na ausência de temas relacionados à criticidade humana.\nA alternativa B está incorreta. A charge discute exatamente a ausência de valores na sala de aula.\nA alternativa C está correta. O currículo pensado com criticidade deve contemplar áreas da cultura que\nsejam parte de disputas narrativas na sociedade. Dessa forma, abre-se espaço para o uso da crítica\ndentro de sala de aula.\nA alternativa D está incorreta. O currículo real não é esta definição. O currículo real é a aplicação de\nconteúdos normativos realizado por interpretação própria e livre pelos professores. Há uma\ntransformação da prescrição curricular.\nA alternativa E está incorreta. A charge questiona a limitação realizada por conteúdos disciplinares. A\npersonagem preza por discussão crítica de vários temas que não estão nas matérias"
+    },
+    {
+      "id": "a02_014",
+      "numero": 14,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref. Porto Mauá)/2019 - Qualquer proposta cuja finalidade é a aprendizagem de alguém está determinada por uma ideia e um tipo de sociedade e de pessoa, pois não existe educação neutra. As alternativas curriculares necessitam ter coerência com os objetivos pretendidos. Nesse sentido, é correto afirmar que:",
+      "alternativas": {
+        "a": "Não deve haver a inclusão de novos conteúdos de aprendizagem no currículo escolar, e sim a ampliação do tempo do aluno na escola.",
+        "b": "Deve-se realizar a organização dos conteúdos em disciplinas, sempre priorizando e considerando a relevância de algumas preponderando sobre outras.",
+        "c": "A fragmentação das disciplinas é a única forma e maneira de apresentar e organizar o currículo escolar.",
+        "d": "O currículo escolar deve oferecer os meios para uma análise crítica e construtiva da nossa sociedade, facilitando o conhecimento da situação real do mundo atual.",
+        "e": "A escola, assim como o currículo, deve girar exclusivamente em torno das matérias e das disciplinas, que são o centro da sua ação."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, se o aluno não possui determinados conteúdos para\naprender é mais do que necessário a inserção de conteúdos que ainda não domina.\nA alternativa B está incorreta. O enunciado da questão crítica exatamente suposta neutralidade das\ndisciplinas. Não é neutro o fato de algumas disciplinas serem mais importantes que outras, pois isto\nserve a interesses políticos, sociais e econômicos hegemônicos na sociedade.\nA alternativa C está incorreta. Pelo contrário, a integração dos saberes promove maior aprendizagem\nescolar.\nA alternativa D está correta. Uma visão crítica de currículo leva em consideração a forma como a\nsociedade está estruturada em segmentos sociais e diferentes formas de exclusão social.\nA alternativa E está incorreta. No enunciado da questão está a proposição de uma concepção crítica.\nDessa forma, o currículo deve considerar o contexto social e a intencionalidade curricular."
+    },
+    {
+      "id": "a02_015",
+      "numero": 15,
+      "banca": "FUNDEP",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP - Professor Nível Superior (Ibirité)/Normal Superior ou Pedagogia/2016 - Quanto à definição de currículo escolar, é incorreto afirmar:",
+      "alternativas": {
+        "a": "O currículo não é mais entendido, simplesmente, como relação e distribuição das disciplinas e a suas respectivas cargas horárias. Não é, também, o número de horas-aula e dos dias letivos.",
+        "b": "O currículo não se constitui apenas por uma seriação de estudos, chamado de base curricular para um determinado curso, ou uma listagem de conhecimentos e conteúdos das diferentes disciplinas para serem ensinados de forma sistemática, na sala de aula.",
+        "c": "O currículo escolar não se delimita a apenas relacionar normas relativas à vida escolar que um aluno deve cumprir na escola.",
+        "d": "O currículo escolar não envolve as situações circunstanciais da vida social do aluno fora da escola, uma vez que seu campo de abrangência é a escola e o que acontece prioritariamente no seu interior."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está correta. Exatamente. O currículo é entendido como uma seleção da cultura e possui\ninfluências de intenções econômicas e políticas diversas, bem como considera o contexto social e escolar\ndos alunos.\nA alternativa B está correta. Na mesma direção da alternativa anterior. O currículo não é apenas\nacadêmico, mas cultural, identitário e transformador.\nA alternativa C está correta. O currículo envolve aspectos culturais e de identidade também. Ele não é\nsó um manual dos conteúdos a serem aprendidos.\nA alternativa D está incorreta. Pelo contrário, o currículo envolve o contexto social do aluno, já que a\ncultura faz parte de sua formulação."
+    },
+    {
+      "id": "a02_016",
+      "numero": 16,
+      "banca": "CONSULPLAN",
+      "tipo": "multipla",
+      "enunciado": "CONSULPLAN - Instrutor de Informática (Cascavel)/2016 - O termo “currículo” associa-se a diferentes concepções e relações. Quando falamos do “currículo escolar” referimo-nos a um território específico que expressa os modos como a educação escolar é concebida de acordo com as influências históricas, políticas e sociais que afetam a estrutura da escola e da ação docente. De acordo com Moreira e Candau (2007, p. 18), podemos entender o currículo a partir das seguintes contribuições; analise-as. I. Os conteúdos a serem ensinados e aprendidos. II. As experiências de aprendizagem escolares a serem vividas pelos alunos. III. Os planos pedagógicos elaborados por professores, escolas e sistemas educacionais. IV. Os objetivos a serem alcançados por meio do processo de ensino. V. Os processos de avaliação que terminam por influir nos conteúdos e nos procedimentos selecionados nos diferentes graus da escolarização. Estão corretas as afirmativas",
+      "alternativas": {
+        "a": "I, II, III, IV e V.",
+        "b": "I, III e IV, apenas.",
+        "c": "II, IV e V, apenas.",
+        "d": "I, II, IV e V, apenas",
+        "e": "II, III, IV e V, apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. De acordo com os autores, os conteúdos fazem parte das aprendizagens que\ndeve acontecer o currículo.\nAfirmativa II está correta. Os autores propõem que o currículo de certa forma dirige as experiências\ndo aluno na escola.\nAfirmativa III está correta. Os planos devem ter por base os currículos oficiais e aquele construído\npelo cotidiano da escola. (currículo real)\nAfirmativa IV está correta. Os autores são a favor de metas de ensino, desde que elas não sejam únicas\nda delimitação curricular. É necessário que o currículo tenha como base a cultura mais ampla. Mas da\nforma como está escrito considera-se correto.\nAfirmativa V está correta. Os autores colocam que a avalição (principalmente aquelas em larga escala)\npode influenciar os conteúdos e procedimentos de um currículo.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a02_017",
+      "numero": 17,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Salto do Jacuí)/Anos Iniciais/2019 - Segundo Vasconcellos, entende-se por__________________todo o processo de educação escolar, que por ser intencional e sistemático, implica a elaboração e realização (incluindo a avaliação) de um programa de experiências pedagógicas a serem vivenciadas em sala de aula. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.",
+      "alternativas": {
+        "a": "currículo",
+        "b": "projeto social",
+        "c": "planejamento setorial",
+        "d": "projeto político",
+        "e": "proposta de planejamento"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O currículo possui uma intenção e uma sistematização, pois está lidando\ncom conhecimento e valores para serem elaborados pelos alunos.\nA alternativa B está incorreta. Não há em termo em Vasconcellos.\nA alternativa C está incorreta. Não há em termo em Vasconcellos.\nA alternativa D está incorreta. Não há em termo em Vasconcellos.\nA alternativa E está incorreta. Não há em termo em Vasconcellos."
+    },
+    {
+      "id": "a02_018",
+      "numero": 18,
+      "banca": "CESGRANRIO",
+      "tipo": "multipla",
+      "enunciado": "CESGRANRIO - Pedagogo (UNIRIO)/2016 Não esqueçamos que os padrões de funcionamento da escolarização tendem à homogeneização. A escola tem sido e é um mecanismo de normatização. [...] A escola tem-se configurado, em sua ideologia e em seus usos organizativos e pedagógicos, como um instrumento de homogeneização e de assimilação à cultura dominante. SACRISTÁN, José Gimeno. Currículo e diversidade cultural, In: Territórios contestados: o currículo e os novos mapas políticos e culturais. Petrópolis: Vozes, 1995, p. 82-113. Adaptado. As críticas de Gimeno Sacristán e da charge indicam um desafio à Educação:",
+      "alternativas": {
+        "a": "O erro, como uma vantagem pedagógica, defendido pela Teoria Sociocognitivista.",
+        "b": "A valorização das diferentes identidades culturais, proposta pela Educação Intercultural.",
+        "c": "O combate às desigualdades sociais e educacionais, defendido pela Nova Sociologia da Educação.",
+        "d": "A valorização de questões de gênero e sexualidade, tal como propõe a Teoria Queer e os Estudos Feministas.",
+        "e": "A ampliação de novas fontes de conhecimento, proposta pelo Pensamento Complexo e pela Interdisciplinaridade."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A charge não trata do erro, mas do pensamento diferente dos demais\nalunos\nA alternativa B está correta. O aluno pensa diferente provavelmente por que possui uma cultura ou\ncontexto social diferenciado. A Educação Intercultural está dentro das Teorias Críticas de Currículo\nA alternativa C está incorreta. A charge não diz respeito à desigualdade, mas a diferenciação do\npensamento em relação aos demais alunos.\nA alternativa D está incorreta. A charge não trata sobre diversidade de gênero e sexualidade, apenas\ndiversidade de pensamento.\nA alternativa E está incorreta. A charge não trata de novas fontes de conhecimento, mas da diversidade\ncultural."
+    },
+    {
+      "id": "a02_019",
+      "numero": 19,
+      "banca": "FGV",
+      "tipo": "multipla",
+      "enunciado": "FGV - Professor (Pref SP)/Ensino Fundamental II e Médio/Arte/2016 - Observe a figura a seguir. (Adaptado. Fonte: SACRISTÁN, 2000, p.36. In: São Paulo: “Diálogos interdisciplinares a caminho da autoria”) O documento “Diálogos interdisciplinares a caminho da autoria”, organizado pela Secretaria Municipal de Educação de São Paulo, apresenta este esquema para sintetizar a compreensão de currículo construída na Rede. A partir da análise desse esquema é possível identificar três conjuntos de condicionantes na estrutura desse currículo. Assinale a afirmativa que os apresenta.",
+      "alternativas": {
+        "a": "A seleção natural, as condições institucionais e os fatores de cunho filosófico teórico, ou seja, as concepções sociais.",
+        "b": "A seleção cultural, as condições individuais e os fatores de cunho filosófico teórico, ou seja, as concepções curriculares.",
+        "c": "A seleção cultural, as condições institucionais e os fatores de cunho filosófico teórico, ou seja, as concepções curriculares.",
+        "d": "A seleção natural, as condições individuais e os fatores de cunho pedagógico-teórico, ou seja, as concepções curriculares.",
+        "e": "A seleção social, as condições estruturais e os fatores de cunho filosófico, ou seja, a seleção de conteúdos."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Sacristán não fala de seleção natural, mas usa o termo seleção cultural.\nA alternativa B está incorreta. Esta não é a definição de seleção cultural, pois não tem relação com\ncondições individuais, mas ela é sobretudo coletiva.\nA alternativa C está correta. Esta é a definição de seleção cultural que está diretamente ligada a\nquestões institucionais e coletivas de quais conhecimentos são legítimos e quais que não são. Há sempre\numa intencionalidade nas escolhas do currículo.\nA alternativa D está incorreta. Sacristán não fala de seleção natural, mas usa o termo seleção cultural.\nA alternativa E está incorreta. Sacristán não fala de seleção social, mas usa o termo seleção cultural."
+    },
+    {
+      "id": "a02_020",
+      "numero": 20,
+      "banca": "FUNDEP",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP - Técnico (UFVJM)/Assuntos Educacionais/2017 - De acordo com Sacristán (1998), o termo currículo origina da palavra latina currere, que se reporta à carreira, a um percurso a ser realizado e, por consequência, à sua representação ou apresentação. A partir das reflexões de Sacristán (1998) sobre o que se deve considerar na conceitualização de currículo, é correto afirmar:",
+      "alternativas": {
+        "a": "O estudo do currículo deve valer para possibilitar uma visão da cultura que se dá na escola, em sua dimensão oculta e manifesta, considerando as condições em que se desenvolve.",
+        "b": "No currículo, ideias e práticas agem isoladamente.",
+        "c": "Refere-se a um projeto que só pode ser compreendido de maneira pontual e neutra.",
+        "d": "Deve ser visto como projeto cultural elaborado, desvinculado da profissionalização do docente e fechado em si mesmo."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Sacristán coloca que o currículo está inserido dentro de uma realidade\ncultural e que muitas vezes não estão evidentes algumas questões do contexto social. Mas há também a\nmanifestação de identidades culturais claras dentro do contexto escolar.\nA alternativa B está incorreta. Sacristán não pensa o currículo de maneira desconexa ou isolada\nA alternativa C está incorreta. Pelo contrário, Sacristán revela que o currículo é complexo e com\nintencionalidade.\nA alternativa D está incorreta. Pelo contrário, Sacristán não usaria o termo \"fechado em si mesmo\",\npois ele é a favor da ampliação do horizonte cultural dos alunos."
+    },
+    {
+      "id": "a02_021",
+      "numero": 21,
+      "banca": "FUNRIO",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO - Professor II (Mesquita)/Orientador Educacional/2016 - Para Libâneo, o planejamento do ensino é uma das três modalidades de planejamento articuladas entre si: o plano da escola, o de ensino e o de aulas. O planejamento escolar está condicionado ao preparo dos alunos em relação às tarefas da aprendizagem, o que torna necessário conhecer as condicionantes socioculturais e materiais. Esse conhecimento deve servir como:",
+      "alternativas": {
+        "a": "ponto de apoio pedagógico para o trabalho docente.",
+        "b": "esquema para uma ótima administração da escola.",
+        "c": "fonte de objetivos específicos para processos participativos.",
+        "d": "base para o movimento de manutenção da educação conservadora.",
+        "e": "ponto de apoio para a inserção do aluno na qualificação profissional"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Exatamente. O planejamento pedagógico para Libâneo é um ponto de\napoio e não uma cartilha a ser seguida cegamente.\nA alternativa B está incorreta. Esta descrição é de um planejamento administrativo e não um\nplanejamento pedagógico.\nA alternativa C está incorreta. A descrição da alternativa é muito vaga. Libâneo deixa claro que o\nplanejamento é apoio para os professores, uma vez que pensa a centralidade educativa no docente.\nA alternativa D está incorreta. Pelo contrário, Libâneo é a favor da educação crítica através dos\nconteúdos.\nA alternativa E está incorreta. Libâneo não enfoca o currículo na formação profissional, mas na\napropriação dos conteúdos para a reflexão crítica do aluno."
+    },
+    {
+      "id": "a02_022",
+      "numero": 22,
+      "banca": "NUCEPE UESPI",
+      "tipo": "multipla",
+      "enunciado": "NUCEPE UESPI - Professor (SEDUC PI)/PRONATEC/2015 - Analise o caso abaixo: Na rotina do professor Romão, é uma constante aparecer na aula sem a menor ideia do que vai tratar. Não lê, não prepara as aulas, assim, não sabe o tipo de tarefa que vai propor, então inventa na hora e na aula seguinte não se lembra de cobrar os alunos, nem comenta sobre o que havia pedido. Na maioria das vezes não sabe o que vai ministrar, então se põe a conversar com os alunos e a discutir banalidades. Quando é cobrado pela equipe pedagógica da escola, sempre argumenta que não tem tempo de planejar aulas ou que esta tarefa é uma perda de tempo. A atitude do professor Romão em recusar-se a planejar, desconsidera principalmente uma das funções do planejamento apontada por Libâneo (2004). Referimo-nos, de forma imediata, à função de",
+      "alternativas": {
+        "a": "atualizar o conteúdo do plano sempre que é revisto, aperfeiçoando-o em relação aos progressos feitos no campo de conhecimentos, adequando-o às condições de aprendizagem dos alunos, aos métodos, técnicas e recursos de ensino que vão sendo incorporados à experiência cotidiana.",
+        "b": "assegurar a unidade e a coerência do trabalho docente, uma vez que torna possível inter-relacionar, num plano, os elementos que compõem o processo de ensino: os objetivos, os métodos e técnicas e a avaliação.",
+        "c": "facilitar a preparação das aulas: selecionar o material didático em tempo hábil, saber que tarefas professor e alunos devem executar, replanejar o trabalho frente a novas situações que aparecem no decorrer das aulas.",
+        "d": "prever objetivos, conteúdos e métodos a partir da consideração das exigências postas pela realidade social do nível de preparo e das condições socioculturais e individuais dos alunos.",
+        "e": "expressar os vínculos entre o posicionamento filosófico, político-pedagógico e profissional e as ações efetivas que o professor irá realizar na sala de aula, através de objetivos, conteúdos, métodos e formas organizativas do ensino."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A questão pede de maneira imediata. Não é possível a atualização de\nconteúdo se nem mesmo o professor prepara as aulas.\nA alternativa B está incorreta. A questão pede de maneira imediata. Não é possível unidade e coerência\nno trabalho se o professor nem prepara as aulas. Este item pode ser pedido posteriormente ao professor\nRomão.\nA alternativa C está correta. De maneira imediata, o professor Romão está precisando preparar as\naulas, selecionar o material didático que vai usar e pensar criticamente sobre o seu cotidiano na escola.\nA alternativa D está incorreta. O professor não planeja as aulas, portanto não tem objetivos de ensino.\nA alternativa E está incorreta. O professor não planeja as aulas, portanto não possui clara sua posição\nfilosófica ou político-pedagógica."
+    },
+    {
+      "id": "a02_023",
+      "numero": 23,
+      "banca": "IF RS",
+      "tipo": "multipla",
+      "enunciado": "IF RS - Pedagogo (IF RS)/Orientação Educacional/2011/EDITAL 28-2011 - Para que o professor possa atingir efetivamente os objetivos, é necessário que realize um conjunto de operações didáticas coordenadas entre si, ou seja, o planejamento, a direção do ensino e da aprendizagem e a avaliação (LIBÂNEO, 1994). No que diz respeito ao planejamento escolar, o professor deve:",
+      "alternativas": {
+        "a": "As alternativas B, C, D, E se encontram corretas;",
+        "b": "Possuir conhecimento das características sociais, culturais e individuais dos alunos, bem como o nível de preparo escolar em que se encontram;",
+        "c": "Conhecer os vários métodos de ensino e procedimentos didáticos, a fim de poder escolhê-los conforme os temas a serem tratados, características dos alunos, etc.;",
+        "d": "Compreender as relações entre a educação escolar e os objetivos sócio-políticos e pedagógicos, ligando-os aos objetivos de ensino;",
+        "e": "Prever atividades didáticas em termos da sua organização e coordenação em face aos objetivos propostos, quanto a sua revisão e adequação no decorrer do processo de ensino."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Todas as alternativas anteriores estão corretas\nA alternativa B está correta. A descrição da alternativa trata sobre a importância do contexto social e\nescolar do aluno\nA alternativa C está correta. A escolha de metodologia de ensino também faz parte do planejamento. É\n\"o como fazer\"\nA alternativa D está correta. Diz respeito às questões reflexivas do planejamento, uma vez que elas são\nimportantes para definir os objetivos que são imprescindíveis.\nA alternativa E está correta. A interligação das aulas e dos saberes em uma organização sequencial faz\nparte de um bom planejamento de ensino.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a02_024",
+      "numero": 24,
+      "banca": "Legalle",
+      "tipo": "multipla",
+      "enunciado": "Legalle - Professor (Pref. Silveira Martins)/Educação Artística/2014 - De acordo com Libâneo, “o planejamento escolar é uma tarefa docente que inclui tanto a previsão das atividades didáticas em termos de organização e coordenação em face dos objetivos propostos, quanto a sua revisão e adequação no decorrer do processo de ensino”. Portanto, o planejamento de aula é um instrumento essencial para o professor elaborar sua metodologia conforme o objetivo a ser alcançado, tendo que ser criteriosamente adequado para as diferentes turmas, havendo flexibilidade caso necessite de alterações. Entre as alternativas abaixo, assinale a ordem da elaboração um plano de aula:",
+      "alternativas": {
+        "a": "Objetivo/ Tema/ Avaliação/ Estratégia/ Material.",
+        "b": "Material/ Objetivo/ Tema/ Estratégia/ Avaliação.",
+        "c": "Avaliação/ Objetivo/ Tema/ Estratégia/ Material.",
+        "d": "Estratégia/ Tema/ Material/Objetivo/ Avaliação.",
+        "e": "Tema/ Objetivo/ Material/ Estratégias/ Avaliação."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O objetivo não vem antes do que o tema.\nA alternativa B está incorreta. O objetivo não vem antes do que o material.\nA alternativa C está incorreta. A avaliação é o último assunto a ser tratado no plano de aula.\nA alternativa D está incorreta. A estratégia não vem antes que o tema.\nA alternativa E está correta. A sequência está do ponto de vista correta. É preciso escolher primeiro o\ntema, traçar objetivos, escolher o material, pensar estratégias e por último pensar no processo\navaliativo."
+    },
+    {
+      "id": "a02_025",
+      "numero": 25,
+      "banca": "SELECON",
+      "tipo": "multipla",
+      "enunciado": "SELECON - Professor (SME Cuiabá)/Artes/Ensino Fundamental/2019 - Segundo Libâneo (1994), há três modalidades de planejamento articuladas entre si o plano da escola (ou projeto político-pedagógico), o plano de ensino (ou de unidades) e o plano de aulas, sendo que:",
+      "alternativas": {
+        "a": "os planos não são sempre necessários, podendo a escola ficar entregue aos rumos estabelecidos pelos interesses de momento e os dominantes na sociedade",
+        "b": "os planejamentos são suficientes para assegurar o andamento do processo de ensino, desde que sejam inflexíveis e não se dê importância à objetividade",
+        "c": "o planejamento não assegura, por si só, o andamento do processo de ensino porque é preciso que os planos estejam continuamente ligados à prática, de modo que sejam sempre revistos e refeitos",
+        "d": "os planos são elaborados pelos professores, que devem se ater a sua experiência e prática pedagógica, sobrepondo-a a conhecimentos referentes ao processo didático e a metodologias das disciplinas"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, os Planos de aula são sempre necessários. O termo \"não\"\ninvalidou a alternativa.\nA alternativa B está incorreta. Pelo contrário, o planejamento tem que ser flexível para dar conta das\ndificuldades dos alunos e de possíveis questões do contexto cultural.\nA alternativa C está correta. Exatamente. O planejamento não pode estar só no papel, por isso os planos\ndevem ser alvos constantes de reflexão do professor de acordo com a prática.\nA alternativa D está incorreta. Pelo contrário, não deve haver sobreposição da prática pedagógica sobre\na metodologia. Esta forma de atuar caracteriza o senso comum e não o saber profissional docente."
+    },
+    {
+      "id": "a02_026",
+      "numero": 26,
+      "banca": "FCC",
+      "tipo": "multipla",
+      "enunciado": "FCC - Professor (Pref. Macapá)/Anos Iniciais/Educação Infantil, Ensino Fundamental I/2018 - No projeto pedagógico de uma instituição de educação infantil, o currículo deve ser:",
+      "alternativas": {
+        "a": "organizado pela equipe gestora da escola e planejado pelos professores de educação infantil, tendo como referência principal o ensino para a alfabetização.",
+        "b": "estruturado de acordo com os objetivos, conteúdos e conjunto de regras estabelecidos pela Secretaria da Educação e especialistas, no desenvolvimento da criança de 0 a 6 anos de idade.",
+        "c": "expressão do conjunto de conhecimentos reconhecidos nacionalmente como necessários para a formação da criança.",
+        "d": "um conjunto de ações e conhecimentos definidos pelos parâmetros curriculares nacionais da educação infantil para as crianças de baixa renda, uma vez que elas constituem a maioria no país.",
+        "e": "concebido como um conjunto de práticas que buscam articular as experiências e os saberes das crianças com os conhecimentos que fazem parte do patrimônio cultural, artístico, científico e tecnológico."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O currículo não pode ser apenas planejado pela equipe gestora, mas\noutros atores devem participar: equipe gestora das Secretarias de Educação, pais de alunos e\ncomunidade escolar em geral. Além disso, o objetivo da Educação Infantil nos currículos oficiais não é a\nalfabetização, mas a construção da cultura da escrita.\nA alternativa B está incorreta. O currículo não pode ser apenas planejado pela Secretaria de Educação.\nSão necessários outros atores: equipe gestora da escola, professores, pais de alunos e comunidade\nescolar em geral.\nA alternativa C está incorreta. Pelo contrário, Young argumenta criticamente contra um conhecimento\nlegítimo para todos. O autor é a favor das diferenças culturais inseridas no campo curricular.\nA alternativa D está incorreta. Novamente uma afirmação de currículo prescritivo que Young não\nacredita ser possível, uma vez que ele é a favor das diferenças culturais.\nA alternativa E está correta. Os termos \"experiências das crianças\" coadunam com a proposta de Young\nde considerar a cultura e o contexto social inseridos no campo curricular."
+    },
+    {
+      "id": "a02_027",
+      "numero": 27,
+      "banca": "FCC",
+      "tipo": "multipla",
+      "enunciado": "FCC - Professor (Pref. Macapá)/Anos Iniciais/Educação Infantil, Ensino Fundamental I/2018 - No projeto pedagógico de uma instituição de educação infantil, o currículo deve ser:",
+      "alternativas": {
+        "a": "organizado pela equipe gestora da escola e planejado pelos professores de educação infantil, tendo como referência principal o ensino para a alfabetização.",
+        "b": "estruturado de acordo com os objetivos, conteúdos e conjunto de regras estabelecidos pela Secretaria da Educação e especialistas, no desenvolvimento da criança de 0 a 6 anos de idade.",
+        "c": "expressão do conjunto de conhecimentos reconhecidos nacionalmente como necessários para a formação da criança.",
+        "d": "um conjunto de ações e conhecimentos definidos pelos parâmetros curriculares nacionais da educação infantil para as crianças de baixa renda, uma vez que elas constituem a maioria no país.",
+        "e": "concebido como um conjunto de práticas que buscam articular as experiências e os saberes das crianças com os conhecimentos que fazem parte do patrimônio cultural, artístico, científico e tecnológico."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O currículo não pode ser apenas planejado pela equipe gestora, mas\noutros atores devem participar: equipe gestora das Secretarias de Educação, pais de alunos e\ncomunidade escolar em geral. Além disso, o objetivo da Educação Infantil nos currículos oficiais não é a\nalfabetização, mas a construção da cultura da escrita.\nA alternativa B está incorreta. O currículo não pode ser apenas planejado pela Secretaria de Educação.\nSão necessários outros atores: equipe gestora da escola, professores, pais de alunos e comunidade\nescolar em geral.\nA alternativa C está incorreta. Pelo contrário, Young argumenta criticamente contra um conhecimento\nlegítimo para todos. O autor é a favor das diferenças culturais inseridas no campo curricular.\nA alternativa D está incorreta. Novamente uma afirmação de currículo prescritivo que Young não\nacredita ser possível, uma vez que ele é a favor das diferenças culturais.\nA alternativa E está correta. Os termos \"experiências das crianças\" coadunam com a proposta de Young\nde considerar a cultura e o contexto social inseridos no campo curricular."
+    },
+    {
+      "id": "a02_028",
+      "numero": 28,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Diretor de Escola (Pref. Peruíbe)/2019 - O currículo, segundo Libâneo, Oliveira e Toschi (2010), pode ser compreendido a partir de três manifestações: currículo formal, currículo real e currículo oculto. Com base no exposto, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "O currículo oculto é aquele estabelecido pelos sistemas de ensino, expresso em diretrizes curriculares, nos objetivos e nos conteúdos das áreas ou disciplinas de estudo.",
+        "b": "O currículo formal refere-se às influências que afetam a aprendizagem dos alunos e o trabalho dos professores, originam-se da experiência cultural, dos valores e significados do meio social.",
+        "c": "O currículo real expressa a orientação dos sistemas de ensino, revelando o conjunto de disciplinas e resultados de aprendizagens pretendidos.",
+        "d": "A distinção entre esses vários níveis de currículo serve para mostrar que aquilo que os alunos aprendem na escola ou deixam de aprender depende de muitos fatores e não apenas das disciplinas previstas na grade curricular.",
+        "e": "O currículo formal é o que, de fato, acontece nas salas de aula, em decorrência de um projeto pedagógico e dos planos de ensino. Refere-se às ideias e práticas, à percepção e aos usos do currículo real."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. O currículo oculto é expresso pelos valores que os diferentes atores\nescolares produzem no cotidiano da escola. É formador de identidade através de diferentes ações do dia\na dia.\nA alternativa B está incorreta. O currículo formal é o currículo prescrito de Raph Tyler. Assim, não é\npossível o currículo ter como fonte a \"experiência cultural\", uma vez que ele é proposto por especialistas\nna área.\nA alternativa C está incorreta. O currículo real é aquele que possui influência do contexto social e dos\ninúmeros atores do cotidiano escolar.\nA alternativa D está correta. Os vários níveis do currículo dizem respeito aos diferentes contextos\nsociais que estão inseridos em cada realidade.\nA alternativa E está incorreta. O currículo que acontece de fato na sala de aula é o real, que sofre\ninterferência do professor e dos alunos de acordo com o contexto escolar."
+    },
+    {
+      "id": "a02_029",
+      "numero": 29,
+      "banca": "FGV",
+      "tipo": "multipla",
+      "enunciado": "FGV - Professor (Pref Boa Vista)/Licenciado em Pedagogia/2018 - “André e Pedro são professores de História e estão elaborando o programa curricular das séries para as quais irão lecionar. Enquanto André se dedica a pensar ‘como’ vai ensinar a lista de conteúdos que elencou, Pedro o interrompe a todo momento, propondo que reflitam sobre por que ensinar tal conteúdo e não outro.” Sobre as possíveis concepções acerca do currículo escolar dos dois professores, analise as afirmativas a seguir. I. André se aproxima mais das teorias tradicionais do currículo, buscando formas de transmitir os conteúdos tidos como inquestionáveis. II. Pedro se aproxima mais das teorias críticas e pós-críticas do currículo, que estão preocupadas com as conexões entre saber, identidade e poder. III. André e Pedro traduzem concepção próxima às teorias tradicionais do currículo, preocupando-se com “o quê” ensinar. Está correto somente o que se afirma em:",
+      "alternativas": {
+        "a": "I;",
+        "b": "II;",
+        "c": "III;",
+        "d": "I e II;",
+        "e": "I e III."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. É uma teoria tradicional do currículo pela preocupação com os conteúdos,\nbem como a prescrição do currículo estar implícita no termo \"inquestionável\".\nAfirmativa II está correta. As conexões entre o saber fazem parte das teorias críticas, uma vez que\nadvogam a favor de diferentes conhecimentos. A questão do poder dialoga com as teorias críticas, pois\nestá em evidência a questão da ideologia. O termo \"identidade\" dialoga com as teorias pós-críticas, pois\nremete às questões de identidade, alteridade e diferença.\nAfirmativa III está incorreta. As teorias tradicionais não se preocupam com o que ensinar, uma vez\nque os conteúdos que prescrevem são científicos e inquestionáveis. O questionamento da seleção dos\nconteúdos é próprio das teorias críticas que argumentam a não neutralidade do conhecimento.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a02_030",
+      "numero": 30,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Pedagogo (Pref. Porto Mauá)/2019 - Abordar as questões sobre o currículo escolar, em especial, sobre o currículo integrado ou interdisciplinar significa entender que: I. Para a crescente diversidade cultural e linguística encontrada nas escolas, esse tipo de currículo é essencial para a aprendizagem, devido à formação e aos conhecimentos prévios trazidos pelos alunos das diversas culturas e histórias. II. Desta maneira o professor tem o controle curricular excessivamente centralizado, com conteúdos detalhados, favorecendo, assim, a realização de testes e provas baseados em cada disciplina. III. O aluno vivencia a realidade e as possibilidades de uma sociedade culturalmente diversa em vários aspectos no seu entorno, aprofundando os seus conhecimentos e as suas habilidades cognitivas, bem como ampliando a sua consciência social. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas II.",
+        "b": "Apenas I e II.",
+        "c": "Apenas I e III.",
+        "d": "Apenas II e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A interdisciplinaridade dialoga com os conhecimentos prévios dos alunos,\npois essa forma de saber discente possui qualidades de diferentes fontes de conhecimento.\nAfirmativa II está incorreta. Pelo contrário, na interdisciplinaridade o foco não é no produto (testes e\nprovas), mas no processo (investigação e pesquisa)\nAfirmativa III está correta. O entorno social é uma possibilidade interdisciplinar, pois a\npermeabilidade dos saberes é muito fluida.\nAlternativa correta letra C"
+    },
+    {
+      "id": "a02_031",
+      "numero": 31,
+      "banca": "IESES",
+      "tipo": "multipla",
+      "enunciado": "IESES - Professor (Pref. Palhoça)/Anos Iniciais/1º ao 5º ano do Ensino Fundamental/2019/Edital 003 SME 2019 Sobre os Temas Transversais, é correto afirmar:",
+      "alternativas": {
+        "a": "Os Temas Transversais são disciplinas autônomas que privilegiam o ensino conteudista em detrimento de uma formação disciplinar do educando.",
+        "b": "Os Temas Transversais propõem uma prática pedagógica onde é fundamental o trabalho dos conteúdos de forma descontextualizada.",
+        "c": "Os Temas Transversais caracterizam-se por um conjunto de assuntos que aparecem transversalizados em áreas determinadas do currículo, que se constituem na necessidade de um trabalho mais significativo e expressivo de temáticas sociais na escola.",
+        "d": "Os Temas Transversais, com suas especificidades, valorizam os preceitos morais e definem os papéis sociais, como forma de enquadrar o educando ao modelo padrão de sociedade."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Os temas transversais não são disciplinas.\nA alternativa B está incorreta. Pelo contrário, o trabalho deve ser feito de forma contextualizada.\nA alternativa C está correta. Os temas transversais atravessam o currículo nas diferentes disciplinas.\nA alternativa D está incorreta. Pelo contrário, os temas transversais questionam determinados papéis\nsociais vigentes na sociedade. Há uma problematização tanto de determinados aspectos morais e do\npapel social estereotipado."
+    },
+    {
+      "id": "a02_032",
+      "numero": 32,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Campinas)/Educação Básica II/Anos Iniciais/2019 - Com relação à transversalidade e à interdisciplinaridade no processo de construção dos saberes nas diversas áreas de conhecimento, é correto afirmar que",
+      "alternativas": {
+        "a": "pela abordagem interdisciplinar, ocorre a transversalidade do conhecimento constitutivo de diferentes disciplinas, por meio da ação didático-pedagógica mediada pela pedagogia dos projetos temáticos.",
+        "b": "a transversalidade é uma abordagem teórico-metodológica em que a ênfase incide sobre o trabalho de integração das diferentes áreas do conhecimento, um real trabalho de cooperação e troca, aberto ao diálogo e ao planejamento.",
+        "c": "a interdisciplinaridade é entendida como uma forma de se fragmentar o conhecimento e de organizar o trabalho didático-pedagógico em que temas são integrados às disciplinas, às áreas ditas convencionais de forma a estarem presentes em todas elas.",
+        "d": "na prática educativa, a interdisciplinaridade orienta para a necessidade de se instituir uma analogia entre aprender conhecimentos teoricamente sistematizados e as questões da vida real.",
+        "e": "a transversalidade refere-se à abordagem epistemológica dos objetos de conhecimento e pressupõe a transferência de métodos de uma disciplina para outra, e a interdisciplinaridade se refere à dimensão didático-pedagógica."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A transversalidade começa pela ação interdisciplinar e depois transcende\nesse processo, estabelecendo diálogo com a própria realidade cotidiana.\nA alternativa B está incorreta. A integração de diferentes áreas do conhecimento é a\ninterdisciplinaridade.\nA alternativa C está incorreta. Pelo contrário, a interdisciplinaridade é a integração de saberes\ndisciplinares.\nA alternativa D está incorreta. Não é uma analogia, é uma comunicação com a realidade local que passa\npelos saberes disciplinares integrados.\nA alternativa E está incorreta. A interdisciplinaridade é a integração de diferentes disciplinas. A\ntransversalidade é a saída da própria concepção de disciplina."
+    },
+    {
+      "id": "a02_033",
+      "numero": 33,
+      "banca": "IMPARH",
+      "tipo": "multipla",
+      "enunciado": "IMPARH - Professor (SME Fortaleza)/Substituto /Artes/2018/Edital 104.2018 - A estrutura globalizante do currículo, de acordo com Anastasiou (2003), ocorre pelo grau de relações disciplinares chamado de:",
+      "alternativas": {
+        "a": "multidisciplinaridade.",
+        "b": "interdisciplinaridade.",
+        "c": "transdisciplinaridade.",
+        "d": "currículo complexo."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. É ver diferentes disciplinas.\nA alternativa B está incorreta. É a integração de diferentes disciplinas.\nA alternativa C está correta. Excede a própria noção de disciplina, pois possui uma globalização\nintrínseca ao ato educativo.\nA alternativa D está incorreta. Não há este termo na teoria curricular."
+    },
+    {
+      "id": "a02_034",
+      "numero": 34,
+      "banca": "QUADRIX",
+      "tipo": "multipla",
+      "enunciado": "QUADRIX - Professor (Pref. Cristalina)/Pedagogo/2018 - Quanto à organização didáticopedagógica na escola, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Multidisciplinaridade é a abordagem que reúne duas ou mais disciplinas para abordar um conteúdo com maior aprofundamento.",
+        "b": "Transdisciplinaridade diz respeito a um tema ser abordado por diversas disciplinas sem uma relação direta entre elas.",
+        "c": "Transdisciplinaridade é uma abordagem em que a divisão por disciplinas deixa de existir.",
+        "d": "Multidisciplinaridade é a abordagem em que a divisão por disciplinas deixa de existir.",
+        "e": "Interdisciplinaridade diz respeito à abordagem que reúne apenas duas disciplinas para o aprofundamento de um tema."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. É a aplicação de diferentes disciplinas, não necessariamente de forma\nmais aprofundada.\nA alternativa B está incorreta. A transversalidade não tem relação direta com integração de diferentes\ndisciplinas.\nA alternativa C está correta. A transversalidade é a não existência de disciplina como conhecemos.\nA alternativa D está incorreta. Pelo contrário, na multidisciplinaridade existem disciplinas bem\nestabelecidas.\nA alternativa E está incorreta. Pode existir mais de duas disciplinas integradas na\ninterdisciplinaridade."
+    },
+    {
+      "id": "a02_035",
+      "numero": 35,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica (Pref Cerquilho) /Artes/2019 - Lendo o texto Transversalidade e Interdisciplinaridade, de Lenise Garcia (s.d.), Joel verificou que “A transversalidade e a interdisciplinaridade são modos de se trabalhar o conhecimento que buscam uma reintegração de aspectos que ficaram isolados uns dos outros pelo tratamento disciplinar”. O texto em questão permitiu que Joel tomasse consciência de que “Existem temas cujo estudo exige uma abordagem particularmente ampla e diversificada. Alguns deles foram inseridos nos parâmetros curriculares nacionais, que os denominam Temas___________________e os caracteriza como temas que “tratam de processos que estão sendo intensamente vividos pela sociedade, pelas comunidades, pelas famílias, pelos alunos e educadores em seu cotidiano”. Assinale a alternativa que complementa o texto de forma correta.",
+      "alternativas": {
+        "a": "Interdisciplinares",
+        "b": "Transversais",
+        "c": "Pedagógicos",
+        "d": "Curriculares"
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A questão fala de temas transversais de modo indireto, embora cite o\ntermo interdisciplinaridade.\nA alternativa B está correta. Os temas transversais são especialmente importantes para os PCNs, pois\nneste documento diz que são assuntos de relevância social.\nA alternativa C está incorreta. O uso do termo \"Temas Pedagógicos\" não está nos PCNs.\nA alternativa D está incorreta. O uso do termo \"Temas Curriculares\" não está nos PCNs."
+    },
+    {
+      "id": "a02_036",
+      "numero": 36,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Porto Mauá)/2019 - Os profissionais que defendem e propõem um trabalho escolar interdisciplinar argumentam, a respeito do aprendizado, que:",
+      "alternativas": {
+        "a": "Os alunos se sentem mais motivados em função do trabalho interdisciplinar realizado na escola.",
+        "b": "A integração da aprendizagem sobre um tema central parece não favorecer o desenvolvimento de um maior pensamento crítico em relação ao trabalho realizado sem um requisito integrador.",
+        "c": "Os alunos mostram mais criatividade e atenção e, até mesmo, melhor assimilação devido às múltiplas conexões possíveis.",
+        "d": "O aumento do interesse pelo ensino interdisciplinar, por parte do professor, ainda provoca um ensino de controle e domínio do saber deste sobre o aluno.",
+        "e": "A capacidade de trabalhar com o aluno de forma interdisciplinar é considerada periférica e não central no processo de construção da aprendizagem."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A interdisciplinaridade não possui relação com motivação na sua teoria\nbásica.\nA alternativa B está incorreta. Pelo contrário, a integração da aprendizagem a um tema central favorece\nao pensamento crítico, pois melhora as conexões entre as áreas de conhecimento.\nA alternativa C está correta. As diferentes conexões com outras áreas favorecem a criatividade e a\nreflexão crítica.\nA alternativa D está incorreta. Pelo contrário, o trabalho pedagógico interdisciplinar pode favorecer o\nprotagonismo do estudante.\nA alternativa E está incorreta. Pelo contrário, a aprendizagem interdisciplinar é central para o processo\neducativo. Ela conecta diferentes saberes para a construção da cidadania."
+    },
+    {
+      "id": "a02_037",
+      "numero": 37,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Monitor (Pref Água Santa)/Educação Básica/2019 - Por interdisciplinaridade entende-se:",
+      "alternativas": {
+        "a": "O ensino dos conteúdos, nos anos iniciais, de forma fragmentada e objetiva.",
+        "b": "O trabalho sobre os erros e as dificuldades dos alunos.",
+        "c": "A integração entre disciplinas próximas, de acordo com o método ou o objeto que abordam, quando se fizer necessário.",
+        "d": "O uso de métodos disciplinares rígidos para aqueles alunos que não têm limites.",
+        "e": "A avaliação que a escola faz de cada docente, de modo a analisar o desempenho de cada um."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Não fragmentada. É integrada.\nA alternativa B está incorreta. Não é uma educação compensatória. É uma proposta de conexão de\nsaberes.\nA alternativa C está correta. É o diálogo entre disciplinas.\nA alternativa D está incorreta. Pelo contrário, métodos disciplinares rígidos não favorecer o trabalho\ninterdisciplinar. Isso porque é necessário o protagonismo do estudante.\nA alternativa E está incorreta. A avaliação por desempenho não dialoga com a interdisciplinaridade,\npois é melhor a utilização de avaliação como acompanhamento da aprendizagem."
+    },
+    {
+      "id": "a02_038",
+      "numero": 38,
+      "banca": "IBADE",
+      "tipo": "multipla",
+      "enunciado": "IBADE - Técnico Administrativo em Educação (IF RO)/Pedagogo/2019 - É contrário aos pressupostos da interdisciplinaridade:",
+      "alternativas": {
+        "a": "mais de uma disciplina trabalhar unida em um projeto comum.",
+        "b": "proporcionar significado ao saber através da troca de conhecimento entre áreas.",
+        "c": "planejar de forma a considerar quais conceitos podem ser explorados por outras disciplinas.",
+        "d": "relação complexa e livre dos saberes sem a existência de disciplinas.",
+        "e": "trabalhar por projetos que propiciem a busca por soluções com a ajuda de diversas disciplinas."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. Os projetos fazem parte da interdisciplinaridade, pois conectam diferentes\ndisciplinas.\nA alternativa B está correta. Falar em troca de saberes é o mesmo que dizer \"diálogo entre as\ndisciplinas\". está dentro da teoria da interdisciplinaridade.\nA alternativa C está correta. A participação de outras disciplinas faz parte do diálogo que é necessário\nter para que a interdisciplinaridade aconteça.\nA alternativa D está incorreta. Não é livre. Deve ser estabelecidos critérios de conexão entre as\ndisciplinas.\nA alternativa E está correta. O currículo por projetos dialoga com a teoria da interdisciplinaridade, pois\npara realizar um projeto é necessário conversar com diferentes disciplinas."
+    },
+    {
+      "id": "a02_039",
+      "numero": 39,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Administrador Escolar (Pref Campos Novos)/2019 - É correto afirmar sobre a organização do currículo:",
+      "alternativas": {
+        "a": "O currículo diz respeito apenas a uma relação de conteúdos.",
+        "b": "O processo de desenvolvimento do currículo é cultural e, portanto, neutro.",
+        "c": "A organização do currículo deve procurar viabilizar uma maior contextualização e transdisciplinaridade.",
+        "d": "O currículo deve ser organizado baseando-se em conteúdos isolados.",
+        "e": "O processo de desenvolvimento do currículo não é cultural e, portanto, não é neutro."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Currículo não é sinônimo de conteúdos. Currículo é organização de\nexperiências escolares.\nA alternativa B está incorreta. Pelo contrário, a seleção de assuntos estudados dentro da cultura não é\nneutra. A escolha é ideológica.\nA alternativa C está correta. A aprendizagem por contexto dialoga com a transdisciplinaridade, pois\nmuitos assuntos não podem ser contidos em apenas uma disciplina.\nA alternativa D está incorreta. Pelo contrário, o currículo deve ter a integração de conteúdos.\nA alternativa E está incorreta. O processo de desenvolvimento do currículo é cultural, pois a cultura é\na base do conhecimento."
+    },
+    {
+      "id": "a02_040",
+      "numero": 40,
+      "banca": "Instituto Consulplan",
+      "tipo": "multipla",
+      "enunciado": "Instituto Consulplan - Técnico (Pref Gonçalves)/O.M.E./2022 - Sobre os Parâmetros Curriculares Nacionais (PCNs), analise as afirmativas a seguir. I. Documentos elaborados a fim de servir como ponto de partida para o trabalho docente, norteando as atividades realizadas na sala de aula. II. Em sua abordagem, os PCNs definem que os currículos e os conteúdos devem ser trabalhados essencialmente como transmissão de conhecimentos. III. Apresentam-se nesses documentos os temas transversais, assim nomeados por não pertencerem a nenhuma disciplina específica, mas atravessarem todas elas, sendo a todas pertinentes. Está correto o que se afirma em",
+      "alternativas": {
+        "a": "I, II e III.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Os PCNs é um documento norteador do trabalho docente. Todo texto oficial\nvai direcionar o trabalho do professor, pois são recomendações de cima para baixo.\nAfirmativa II está incorreta. Os PCNs não trabalham com transmissão de conhecimentos, pois não são\nbaseados na pedagogia tradicional. Os PCNs são fundamentados nas pedagogias ativas.\nAfirmativa III está correta. Os temas transversais não se encaixam em disciplinas, pois eles permeiam\ntodas as matérias. São assuntos que não conseguem ser contidos em uma área disciplinar apenas.\nAlternativa correta letra C\nRESUMO\n🔾 Conceito de Currículo\nDefinição geral: experiências de aprendizagem planejadas e guiadas\n🔾 Principais definições de Currículo\nPlanejamento Curricular: Objetivos e avaliação estão ligados.\nConhecimento e Poder: a seleção dos conteúdos possui interesse ideológico, social e econômico\nConhecimento e Contexto Social: os sujeitos constroem conhecimentos no meio social. É preciso\nconsiderar o contexto para o planejamento curricular\nMulticulturalismo: o currículo é focado em grupos com busca na identidade, alteridade e diferença\n(movimento negro, feminismo e LGBTQIA+)\n🔾 Classificação das Teorias do Currículo\nTradicional: Seguem a lógica de Raph Tyler: objetivos e avaliação estão ligados.\nCrítica: Questionam a intenção do currículo e colocam a questão da cultural como central.\nPós-Crítica: Abrangem identidade, diferença e alteridade (multiculturalismo)\n🔾 Currículo formal, real e oculto\nFormal: currículo oficial no papel\nReal: currículo efetivamente aplicado pelo professor em sala de aula.\nOculto: currículo não evidente oficialmente com base em valores e situações do cotidiano escolar\n🔾 Interdisciplinaridade e Transdisciplinaridade\nInterdisciplinaridade: diálogo entre as disciplinas.\nTransdisciplinaridade: superação da própria noção de disciplina\n🔾 Teorias Curriculares Principais\nApropriação Crítica dos Conteúdos: Ênfase nos conteúdos para reflexão crítica da realidade\nPor Competências: Ênfase no saber fazer em situações complexas. Diminuição dos conteúdos.\nPor Projetos: Os alunos constroem o próprio conhecimento com ajuda do professor\nCurrículo na Educação Básica e letramento: o letramento perpassa diferentes disciplinas e áreas de\nconhecimento.\n🔾 Teorias Curriculares Específicas\nGimeno Sacristán: O planejamento curricular prescrito não corresponde exatamente ao currículo real\naplicado na escola. Os planos não possuem correspondência. Práxis: a transformação do currículo\nprescrito dentro da institucionalidade. Trama institucional: diferentes sistemas de ensino com planos não\ncorrespondentes na prática ao currículo.\nVera Candau e Antônio Flávio Moreira: A cultura é o elemento central\nCelso Vasconcellos: Atividade Humana como centralidade. Superação da dicotomia entre conteúdos e\ninteresses do aluno."
+    }
+  ]
+}

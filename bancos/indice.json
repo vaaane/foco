@@ -25,6 +25,61 @@
           "titulo": "Aspectos pedagógicos e sociais da prática educativa"
         }
       ]
+    },
+    {
+      "arquivo": "aula-01-planejamento-organizacao.json",
+      "aula": "01",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 01",
+      "itensEdital": [
+        1,
+        18
+      ],
+      "tagsEdital": [
+        {
+          "n": 1,
+          "titulo": "Planejamento e organização do trabalho pedagógico"
+        },
+        {
+          "n": 18,
+          "titulo": "Componentes do processo de ensino (objetivos, conteúdos, métodos)"
+        }
+      ],
+      "total": 8
+    },
+    {
+      "arquivo": "aula-02-teorias-curriculo.json",
+      "aula": "02",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 02",
+      "itensEdital": [
+        2,
+        19
+      ],
+      "tagsEdital": [
+        {
+          "n": 2,
+          "titulo": "Currículo: do proposto à prática"
+        },
+        {
+          "n": 19,
+          "titulo": "Interdisciplinaridade e transdisciplinaridade"
+        }
+      ],
+      "total": 40
+    },
+    {
+      "arquivo": "aula-03-tics-educacao.json",
+      "aula": "03",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 03",
+      "itensEdital": [
+        3
+      ],
+      "tagsEdital": [
+        {
+          "n": 3,
+          "titulo": "Tecnologias da informação e comunicação na educação (TICs)"
+        }
+      ],
+      "total": 6
     }
   ]
 }
