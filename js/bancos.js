@@ -172,7 +172,18 @@ function renderQuestao() {
   const b = bancoAtual;
   const q = b.questoes[resp.i];
   const total = b.questoes.length;
-  const escolhida = resp.respostas[q.numero];
+  const escolhida = resp.respostas[q.numero]; // undefined = ainda não respondeu
+  const certa = q.gabarito.toUpperCase();
+  const respondida = escolhida != null;
+  const acertou = respondida && escolhida === certa;
+
+  // placar correndo
+  let ok = 0, resp_count = 0;
+  for (const qq of b.questoes) {
+    const dada = resp.respostas[qq.numero];
+    if (dada != null) { resp_count++; if (dada === qq.gabarito.toUpperCase()) ok++; }
+  }
+  const erros = resp_count - ok;
 
   topoTitulo.textContent = `Questão ${resp.i + 1} de ${total}`;
   topoSub.textContent = b.titulo;
@@ -181,42 +192,73 @@ function renderQuestao() {
     if (confirm("Sair sem finalizar? Suas respostas nesta rodada serão perdidas.")) renderBanco();
   };
 
+  // monta as opções. Depois de respondida, marca certa/errada e trava.
+  const opcao = (valor, rotulo) => {
+    let cls = "bc-op";
+    if (respondida) {
+      cls += " travada";
+      if (valor === certa) cls += " correta";
+      else if (valor === escolhida) cls += " incorreta";
+    } else if (valor === escolhida) {
+      cls += " sel";
+    }
+    return `<button class="${cls}" data-op="${valor}" ${respondida ? "disabled" : ""}>${rotulo}</button>`;
+  };
+
   let opcoes = "";
   if (q.tipo === "certo_errado") {
-    opcoes = ["CERTO", "ERRADO"].map((v) =>
-      `<button class="bc-op ${escolhida === v ? "sel" : ""}" data-op="${v}">${v === "CERTO" ? "Certo" : "Errado"}</button>`
-    ).join("");
+    opcoes = ["CERTO", "ERRADO"].map((v) => opcao(v, v === "CERTO" ? "Certo" : "Errado")).join("");
   } else {
-    opcoes = Object.entries(q.alternativas).map(([k, v]) =>
-      `<button class="bc-op ${escolhida === k.toUpperCase() ? "sel" : ""}" data-op="${k.toUpperCase()}">
-        <b>${k})</b> ${escapar(v)}</button>`
-    ).join("");
+    opcoes = Object.entries(q.alternativas)
+      .map(([k, v]) => opcao(k.toUpperCase(), `<b>${k})</b> ${escapar(v)}`)).join("");
   }
 
+  // feedback (só após responder)
+  let feedback = "";
+  if (respondida) {
+    const txtCerta = q.tipo === "certo_errado" ? certa : `alternativa ${certa}`;
+    feedback = `
+      <div class="bc-feedback ${acertou ? "ok" : "erro"}">
+        <span class="bc-fb-verdito">${acertou ? "✓ Você acertou" : "✗ Você errou"}</span>
+        ${acertou ? "" : `<span class="bc-fb-certa">Resposta correta: <b>${txtCerta}</b></span>`}
+      </div>
+      ${q.comentario ? `<details class="bc-com"><summary>Ver comentário</summary><div class="md">${renderMarkdown(q.comentario)}</div></details>` : ""}`;
+  }
+
+  const ultima = resp.i === total - 1;
   conteudo.innerHTML = `
+    <div class="bc-placar">
+      <span class="bc-placar-item">Respondidas <b>${resp_count}/${total}</b></span>
+      <span class="bc-placar-item ok">Acertos <b>${ok}</b></span>
+      <span class="bc-placar-item erro">Erros <b>${erros}</b></span>
+    </div>
     <div class="bc-progresso-resp">
-      <div class="prog-barra"><span class="seg-feito" style="width:${((resp.i) / total) * 100}%"></span></div>
+      <div class="prog-barra"><span class="seg-feito" style="width:${(resp_count / total) * 100}%"></span></div>
     </div>
     <div class="bc-q responder">
       <div class="bc-q-head"><span class="bc-q-num">${q.numero}</span>
         <span class="bc-q-banca">${escapar(q.banca || "")}</span></div>
       <p class="bc-q-enun">${escapar(q.enunciado)}</p>
       <div class="bc-ops">${opcoes}</div>
+      ${feedback}
       <div class="bc-nav">
         <button class="mini" id="bc-ant" ${resp.i === 0 ? "disabled" : ""}>← Anterior</button>
-        <button class="btn-primario" id="bc-prox">${resp.i === total - 1 ? "Finalizar" : "Próxima →"}</button>
+        <button class="btn-primario" id="bc-prox">${ultima ? "Finalizar" : "Próxima →"}</button>
       </div>
     </div>`;
 
-  conteudo.querySelectorAll("[data-op]").forEach((el) =>
-    el.addEventListener("click", () => {
-      resp.respostas[q.numero] = el.dataset.op;
-      conteudo.querySelectorAll("[data-op]").forEach((o) => o.classList.toggle("sel", o === el));
-    })
-  );
+  // clicar numa opção confirma na hora (só se ainda não respondeu)
+  if (!respondida) {
+    conteudo.querySelectorAll("[data-op]").forEach((el) =>
+      el.addEventListener("click", () => {
+        resp.respostas[q.numero] = el.dataset.op;
+        renderQuestao(); // re-renderiza travado, com feedback
+      })
+    );
+  }
   $("#bc-ant").onclick = () => { if (resp.i > 0) { resp.i--; renderQuestao(); } };
   $("#bc-prox").onclick = () => {
-    if (resp.i === total - 1) finalizar();
+    if (ultima) finalizar();
     else { resp.i++; renderQuestao(); }
   };
 }
