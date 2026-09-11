@@ -61,6 +61,14 @@
         ".write": "auth != null && auth.uid === $uid",
         ".indexOn": ["disciplina"]
       }
+    },
+    "usuarios": {
+      "$uid": {
+        "ementa": {
+          ".read": "auth != null && auth.uid === $uid",
+          ".write": "auth != null && auth.uid === $uid"
+        }
+      }
     }
   }
 }

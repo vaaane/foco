@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pomodoro — Foco</title>
+  <title>Ementa — Foco</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -22,7 +22,7 @@
   </section>
 
   <!-- App -->
-  <section id="tela-pomo" class="app" hidden>
+  <section id="tela-ementa" class="app" hidden>
 
     <div class="overlay" id="overlay"></div>
 
@@ -32,22 +32,28 @@
         <a href="index.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></svg>
           Concursos
-        </a>        <a href="calendario.html" class="sb-item">
+        </a>
+        <a href="calendario.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3.5" y="4.5" width="17" height="16" rx="2.5"/><path d="M3.5 9h17M8 3v3M16 3v3"/></svg>
           Calendário
-        </a>        <a href="materias.html" class="sb-item">
+        </a>
+        <a href="materias.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 4 3 8l9 4 9-4-9-4Z"/><path d="M3 12l9 4 9-4M3 16l9 4 9-4"/></svg>
           Matérias
-        </a>        <a href="atividades.html" class="sb-item">
+        </a>
+        <a href="atividades.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3.5 6 1.2 1.2L7 5M3.5 12l1.2 1.2L7 11M3.5 18l1.2 1.2L7 17"/></svg>
           Atividades
-        </a>        <a href="pomodoro.html" class="sb-item ativo">
+        </a>
+        <a href="pomodoro.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="13" r="8"/><path d="M12 13V8.5M9.5 3h5M18.5 6.5l1.5-1.5"/></svg>
           Pomodoro
-        </a>        <a href="ementa.html" class="sb-item">
+        </a>
+        <a href="ementa.html" class="sb-item ativo">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M5 4v16M5 8h5M5 14h5M13 8h6M13 14h6"/></svg>
           Ementa
-        </a>      </nav>
+        </a>
+      </nav>
       <div class="sb-rodape">
         <div class="sb-user">
           <b>Foco<span class="ponto">.</span></b>
@@ -67,29 +73,30 @@
 
       <div class="topo-pag">
         <div>
-          <h1>Pomodoro</h1>
-          <p>Quanto tempo de foco você acumulou.</p>
+          <h1>Ementa</h1>
+          <p>Marque os tópicos do edital conforme for estudando.</p>
         </div>
       </div>
 
       <div class="painel">
         <main class="cal-main">
-          <div class="cal-cabecalho">
-            <div>
-              <h2 class="titulo-secao">Análise do Pomodoro</h2>
-              <p id="resumo-pomo" class="resumo-geral">Carregando…</p>
+          <div class="mat-progresso">
+            <div class="prog-topo">
+              <span id="prog-pct" class="prog-pct">0%</span>
+              <span id="prog-lbl" class="prog-lbl">carregando…</span>
+            </div>
+            <div class="prog-barra">
+              <span id="prog-barra-interna" class="seg-feito" style="width:0%"></span>
             </div>
           </div>
 
-          <div id="cartoes" class="pomo-cartoes"></div>
-          <div id="por-dia" class="pomo-por-dia"></div>
-          <div id="tempo-real" class="pomo-tempo-real" style="margin-top:26px"></div>
+          <div id="arvore-ementa" class="em-arvore"></div>
         </main>
       </div>
     </div>
   </section>
 
   <script defer src="js/shell.js"></script>
-  <script type="module" src="js/pomodoro.js"></script>
+  <script type="module" src="js/ementa.js"></script>
 </body>
 </html>

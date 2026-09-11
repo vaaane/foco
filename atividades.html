@@ -11,7 +11,7 @@
 </head>
 <body>
 
-  <!-- Aviso de login -->
+  <!-- Aviso de login (se abrir esta página sem estar logado) -->
   <section id="tela-deslogado" class="tela-login" hidden>
     <div class="login-caixa">
       <p class="eyebrow">preparação · concurso</p>
@@ -21,80 +21,121 @@
     </div>
   </section>
 
-  <!-- Atividades -->
-  <section id="tela-ativ" class="tela-app" hidden>
-    <header class="topo">
-      <span class="marca-mini">Foco<span class="ponto">.</span> · Atividades</span>
-      <div class="topo-dir">
-        <a href="calendario.html" class="mini">Calendário</a>
-        <a href="materias.html" class="mini">Matérias</a>
-        <a href="pomodoro.html" class="mini">Pomodoro</a>
-        <span id="quem-sou" class="quem-sou"></span>
-        <button id="btn-sair" class="mini">Sair</button>
-      </div>
-    </header>
+  <!-- App -->
+  <section id="tela-ativ" class="app" hidden>
 
-    <main class="cal-main">
-      <div class="cal-cabecalho">
+    <div class="overlay" id="overlay"></div>
+
+    <aside class="sidebar">
+      <div class="sb-marca">Foco<span class="ponto">.</span></div>
+      <nav class="sb-nav">
+        <a href="index.html" class="sb-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></svg>
+          Concursos
+        </a>        <a href="calendario.html" class="sb-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3.5" y="4.5" width="17" height="16" rx="2.5"/><path d="M3.5 9h17M8 3v3M16 3v3"/></svg>
+          Calendário
+        </a>        <a href="materias.html" class="sb-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 4 3 8l9 4 9-4-9-4Z"/><path d="M3 12l9 4 9-4M3 16l9 4 9-4"/></svg>
+          Matérias
+        </a>        <a href="atividades.html" class="sb-item ativo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3.5 6 1.2 1.2L7 5M3.5 12l1.2 1.2L7 11M3.5 18l1.2 1.2L7 17"/></svg>
+          Atividades
+        </a>        <a href="pomodoro.html" class="sb-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="13" r="8"/><path d="M12 13V8.5M9.5 3h5M18.5 6.5l1.5-1.5"/></svg>
+          Pomodoro
+        </a>        <a href="ementa.html" class="sb-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M5 4v16M5 8h5M5 14h5M13 8h6M13 14h6"/></svg>
+          Ementa
+        </a>      </nav>
+      <div class="sb-rodape">
+        <div class="sb-user">
+          <b>Foco<span class="ponto">.</span></b>
+          <span id="quem-sou" class="quem-sou"></span>
+        </div>
+        <button class="mini perigo" id="btn-sair">Sair</button>
+      </div>
+    </aside>
+
+    <div class="conteudo">
+      <div class="barra-mobile">
+        <button class="hamb" id="hamb" aria-label="Abrir menu">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        </button>
+        <span class="marca-mini">Foco<span class="ponto">.</span></span>
+      </div>
+
+      <div class="topo-pag">
         <div>
-          <h2 class="titulo-secao">Cadernos de questões</h2>
-          <p id="resumo-ativ" class="resumo-geral">Carregando…</p>
+          <h1>Atividades</h1>
+          <p>Cadernos de questões e histórico de tentativas.</p>
         </div>
       </div>
 
-      <!-- Formulário: cria um caderno com a 1ª tentativa -->
-      <form id="form-ativ" class="ativ-form" autocomplete="off">
-        <label class="campo-data" style="flex:1 1 200px">
-          <span>Nome do caderno</span>
-          <input name="nome" placeholder="ex.: Crase — bloco 1" required />
-        </label>
-        <label class="campo-data">
-          <span>Data</span>
-          <input name="data" type="date" required />
-        </label>
-        <label class="campo-data">
-          <span>Matéria</span>
-          <select name="disciplina" id="sel-disc"></select>
-        </label>
-        <label class="campo-data">
-          <span>Qtd. questões</span>
-          <input name="total" type="number" min="0" placeholder="0" />
-        </label>
-        <label class="campo-data">
-          <span>Acertos</span>
-          <input name="acertos" type="number" min="0" placeholder="0" />
-        </label>
-        <label class="campo-data">
-          <span>Tempo (min)</span>
-          <input name="tempoMin" type="number" min="0" placeholder="0" />
-        </label>
-        <button class="btn-primario" type="submit">Criar caderno</button>
-      </form>
-
-      <!-- Tópicos da matéria (marque os que este caderno cobre) -->
-      <div id="bloco-topicos" class="topicos-bloco" hidden>
-        <div class="topicos-head">
-          <span>Tópicos do caderno <small>(opcional — vêm do seu plano)</small></span>
-          <div class="topicos-acoes">
-            <button type="button" class="mini" id="top-nenhum">Limpar</button>
+      <div class="painel">
+        <main class="cal-main">
+          <div class="cal-cabecalho">
+            <div>
+              <h2 class="titulo-secao">Cadernos de questões</h2>
+              <p id="resumo-ativ" class="resumo-geral">Carregando…</p>
+            </div>
           </div>
-        </div>
-        <div id="lista-topicos" class="topicos-lista"></div>
+
+          <!-- Formulário: cria um caderno com a 1ª tentativa -->
+          <form id="form-ativ" class="ativ-form" autocomplete="off">
+            <label class="campo-data" style="flex:1 1 200px">
+              <span>Nome do caderno</span>
+              <input name="nome" placeholder="ex.: Crase — bloco 1" required />
+            </label>
+            <label class="campo-data">
+              <span>Data</span>
+              <input name="data" type="date" required />
+            </label>
+            <label class="campo-data">
+              <span>Matéria</span>
+              <select name="disciplina" id="sel-disc"></select>
+            </label>
+            <label class="campo-data">
+              <span>Qtd. questões</span>
+              <input name="total" type="number" min="0" placeholder="0" />
+            </label>
+            <label class="campo-data">
+              <span>Acertos</span>
+              <input name="acertos" type="number" min="0" placeholder="0" />
+            </label>
+            <label class="campo-data">
+              <span>Tempo (min)</span>
+              <input name="tempoMin" type="number" min="0" placeholder="0" />
+            </label>
+            <button class="btn-primario" type="submit">Criar caderno</button>
+          </form>
+
+          <!-- Tópicos da matéria (marque os que este caderno cobre) -->
+          <div id="bloco-topicos" class="topicos-bloco" hidden>
+            <div class="topicos-head">
+              <span>Tópicos do caderno <small>(opcional — vêm do seu plano)</small></span>
+              <div class="topicos-acoes">
+                <button type="button" class="mini" id="top-nenhum">Limpar</button>
+              </div>
+            </div>
+            <div id="lista-topicos" class="topicos-lista"></div>
+          </div>
+
+          <!-- Placar por matéria -->
+          <div id="placar" class="placar"></div>
+
+          <!-- Lista de cadernos -->
+          <h3 class="titulo-secao" style="margin-top:26px">Seus cadernos</h3>
+          <div id="lista-cadernos" class="cad-lista"></div>
+
+          <!-- Histórico legado (registros soltos do formato antigo), se houver -->
+          <div id="bloco-legado" hidden>
+            <h3 class="titulo-secao" style="margin-top:26px">Registros antigos</h3>
+            <div id="lista-ativ" class="ativ-lista"></div>
+          </div>
+        </main>
       </div>
-
-      <!-- Placar por matéria -->
-      <div id="placar" class="placar"></div>
-
-      <!-- Lista de cadernos -->
-      <h3 class="titulo-secao" style="margin-top:26px">Seus cadernos</h3>
-      <div id="lista-cadernos" class="cad-lista"></div>
-
-      <!-- Histórico legado (registros soltos do formato antigo), se houver -->
-      <div id="bloco-legado" hidden>
-        <h3 class="titulo-secao" style="margin-top:26px">Registros antigos</h3>
-        <div id="lista-ativ" class="ativ-lista"></div>
-      </div>
-    </main>
+    </div>
   </section>
 
   <!-- Modal de refeito -->
@@ -115,6 +156,7 @@
     </div>
   </div>
 
+  <script defer src="js/shell.js"></script>
   <script type="module" src="js/atividades.js"></script>
 </body>
 </html>

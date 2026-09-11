@@ -452,3 +452,21 @@ export async function listarPomodoros() {
   lista.sort((a, b) => (a.data < b.data ? 1 : a.data > b.data ? -1 : (b.criadoEm || 0) - (a.criadoEm || 0)));
   return lista;
 }
+
+/* ===================== EMENTA (checklist do edital) ===================== */
+// usuarios/{uid}/ementa/{id} = true — cada item marcado como concluído.
+// Fora do padrão "coleção/uid" acima porque não é uma lista de registros,
+// e sim um mapa direto id → true (a árvore em si vem de ementa-data.js).
+
+export async function carregarEmenta() {
+  const uid = exigirLogin();
+  const snap = await get(ref(db, `usuarios/${uid}/ementa`));
+  return snap.val() || {};
+}
+
+// `campos` = { id: true (marca) | null (desmarca), ... } — uma escrita só,
+// então marcar um nó pai e todos os filhos de uma vez fica atômico.
+export async function atualizarEmenta(campos) {
+  const uid = exigirLogin();
+  await update(ref(db, `usuarios/${uid}/ementa`), campos);
+}
