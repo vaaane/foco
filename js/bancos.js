@@ -10,7 +10,10 @@
 // Atividades junto com o resto. Nada de novo no schema do banco de dados.
 
 import { sair, aoMudarUsuario } from "./auth.js";
-import { salvarTentativaBanco, listarTentativasBanco } from "./db.js";
+import {
+  salvarTentativaBanco, listarTentativasBanco,
+  carregarComentariosBanco, salvarComentarioBanco, restaurarComentarioBanco,
+} from "./db.js";
 
 const $ = (s) => document.querySelector(s);
 const telaDeslogado = $("#tela-deslogado");
@@ -25,6 +28,7 @@ const DOMINIO_LOGIN = "@foco.app";
 let indice = null; // { bancos: [...] }
 let edital = null; // { itens: [...] }
 let tentativas = []; // histórico de tentativas do banco aberto (respostasBanco)
+let comentEditados = {}; // { [numero]: { texto, oculto } } — edições do usuário
 
 $("#btn-sair").addEventListener("click", () => sair());
 
@@ -101,7 +105,10 @@ async function abrirBanco(arquivo) {
   try {
     bancoAtual = await buscarJSON(`bancos/${arquivo}`);
     bancoAtual._arquivo = arquivo;
-    tentativas = await listarTentativasBanco(bancoAtual.id).catch(() => []);
+    [tentativas, comentEditados] = await Promise.all([
+      listarTentativasBanco(bancoAtual.id).catch(() => []),
+      carregarComentariosBanco(bancoAtual.id).catch(() => ({})),
+    ]);
   } catch (e) {
     conteudo.innerHTML = `<p class="resumo-geral">Não consegui abrir o banco. ${escapar(e.message || "")}</p>`;
     return;
@@ -157,6 +164,98 @@ function renderResumo() {
   $("#bc-voltar-banco").onclick = renderBanco;
   $("#bc-responder2").onclick = iniciarResponder;
   conteudo.innerHTML = `<article class="bc-resumo md">${renderMarkdown(b.resumoMd)}</article>`;
+}
+
+/* ===================== COMENTÁRIO EDITÁVEL ===================== */
+// Texto efetivo do comentário de uma questão: edição do usuário > original.
+// Retorna { texto, oculto, editado }.
+function comentarioEfetivo(q) {
+  const e = comentEditados[q.numero];
+  if (e) return { texto: e.texto || "", oculto: !!e.oculto, editado: true };
+  return { texto: q.comentario || "", oculto: false, editado: false };
+}
+
+// Bloco <details> do comentário, com botões editar/apagar e editor embutido.
+// `aberto` mantém o <details> aberto após uma ação. Os botões usam data-attrs
+// e são ligados por ligarComentario() depois de inserir no DOM.
+function blocoComentario(q, aberto = false) {
+  const { texto, oculto, editado } = comentarioEfetivo(q);
+  const temAlgo = texto && !oculto;
+  const rotuloResumo = temAlgo ? "Ver comentário" : "Comentário (vazio)";
+  const etiqueta = editado ? `<span class="bc-com-tag">${oculto ? "apagado" : "editado"}</span>` : "";
+
+  const corpo = oculto
+    ? `<p class="bc-com-vazio">Comentário apagado.</p>`
+    : (temAlgo ? `<div class="md">${renderMarkdown(texto)}</div>` : `<p class="bc-com-vazio">Sem comentário.</p>`);
+
+  const acoes = `
+    <div class="bc-com-acoes">
+      <button type="button" class="mini" data-com-editar="${q.numero}">Editar</button>
+      ${(!oculto && temAlgo) ? `<button type="button" class="mini perigo" data-com-apagar="${q.numero}">Apagar</button>` : ""}
+      ${editado ? `<button type="button" class="mini" data-com-restaurar="${q.numero}">Restaurar original</button>` : ""}
+    </div>`;
+
+  return `
+    <details class="bc-com" data-com-q="${q.numero}" ${aberto ? "open" : ""}>
+      <summary>${rotuloResumo}${etiqueta}</summary>
+      <div class="bc-com-corpo">${corpo}</div>
+      ${acoes}
+    </details>`;
+}
+
+// Liga os botões de um bloco de comentário dentro de `raiz` (document por padrão).
+// `aoMudar` é chamado após salvar/apagar/restaurar, para re-renderizar a vista.
+function ligarComentario(raiz, aoMudar) {
+  const escopo = raiz || document;
+  escopo.querySelectorAll("[data-com-editar]").forEach((bt) =>
+    bt.addEventListener("click", () => abrirEditorComentario(Number(bt.dataset.comEditar), aoMudar))
+  );
+  escopo.querySelectorAll("[data-com-apagar]").forEach((bt) =>
+    bt.addEventListener("click", async () => {
+      const n = Number(bt.dataset.comApagar);
+      if (!confirm("Apagar o comentário desta questão? (só para você)")) return;
+      const q = bancoAtual.questoes.find((x) => x.numero === n);
+      const atual = comentarioEfetivo(q);
+      comentEditados[n] = { texto: atual.texto, oculto: true };
+      try { await salvarComentarioBanco(bancoAtual.id, n, comentEditados[n]); }
+      catch (e) { console.warn("Falha ao apagar comentário:", e); }
+      aoMudar && aoMudar();
+    })
+  );
+  escopo.querySelectorAll("[data-com-restaurar]").forEach((bt) =>
+    bt.addEventListener("click", async () => {
+      const n = Number(bt.dataset.comRestaurar);
+      if (!confirm("Restaurar o comentário original desta questão?")) return;
+      delete comentEditados[n];
+      try { await restaurarComentarioBanco(bancoAtual.id, n); }
+      catch (e) { console.warn("Falha ao restaurar comentário:", e); }
+      aoMudar && aoMudar();
+    })
+  );
+}
+
+// Abre um editor de texto simples (textarea) para o comentário da questão n.
+function abrirEditorComentario(n, aoMudar) {
+  const det = conteudo.querySelector(`.bc-com[data-com-q="${n}"]`);
+  if (!det) return;
+  det.open = true;
+  const q = bancoAtual.questoes.find((x) => x.numero === n);
+  const { texto } = comentarioEfetivo(q);
+  const corpo = det.querySelector(".bc-com-corpo");
+  const acoes = det.querySelector(".bc-com-acoes");
+  corpo.innerHTML = `<textarea class="bc-com-editor" rows="8">${escapar(texto)}</textarea>
+    <p class="bc-com-dica">Aceita markdown (negrito **assim**, listas com -). Vale só para você.</p>`;
+  acoes.innerHTML = `
+    <button type="button" class="btn-primario" data-com-salvar="${n}">Salvar</button>
+    <button type="button" class="mini" data-com-cancelar="${n}">Cancelar</button>`;
+  acoes.querySelector("[data-com-salvar]").addEventListener("click", async () => {
+    const novo = det.querySelector(".bc-com-editor").value;
+    comentEditados[n] = { texto: novo, oculto: false };
+    try { await salvarComentarioBanco(bancoAtual.id, n, comentEditados[n]); }
+    catch (e) { console.warn("Falha ao salvar comentário:", e); }
+    aoMudar && aoMudar();
+  });
+  acoes.querySelector("[data-com-cancelar]").addEventListener("click", () => aoMudar && aoMudar());
 }
 
 /* ============================ VISTA: RESPONDER ============================ */
@@ -222,7 +321,7 @@ function renderQuestao() {
         <span class="bc-fb-verdito">${acertou ? "✓ Você acertou" : "✗ Você errou"}</span>
         ${acertou ? "" : `<span class="bc-fb-certa">Resposta correta: <b>${txtCerta}</b></span>`}
       </div>
-      ${q.comentario ? `<details class="bc-com"><summary>Ver comentário</summary><div class="md">${renderMarkdown(q.comentario)}</div></details>` : ""}`;
+      ${blocoComentario(q, false)}`;
   }
 
   const ultima = resp.i === total - 1;
@@ -261,6 +360,8 @@ function renderQuestao() {
     if (ultima) finalizar();
     else { resp.i++; renderQuestao(); }
   };
+  // botões editar/apagar/restaurar do comentário (re-renderiza a questão)
+  if (respondida) ligarComentario(conteudo, () => renderQuestao());
 }
 
 /* ============================ RESULTADO ============================ */
@@ -301,7 +402,7 @@ async function finalizar() {
   $("#bc-refazer").onclick = iniciarResponder;
   $("#bc-voltar-lista").onclick = renderLista;
 
-  const revisao = detalhe.map(({ q, dada, certa, ok }) => `
+  const revisaoHTML = () => detalhe.map(({ q, dada, certa, ok }) => `
     <div class="bc-q rev ${ok ? "ok" : "erro"}">
       <div class="bc-q-head">
         <span class="bc-q-num">${q.numero}</span>
@@ -310,7 +411,7 @@ async function finalizar() {
       </div>
       <p class="bc-q-enun">${escapar(q.enunciado)}</p>
       ${renderAlternativasRevisao(q, dada, certa)}
-      <details class="bc-com"><summary>Comentário</summary><div class="md">${renderMarkdown(q.comentario || "")}</div></details>
+      ${blocoComentario(q, false)}
     </div>`).join("");
 
   const avisoSalvar = salvou
@@ -325,8 +426,14 @@ async function finalizar() {
     ${avisoSalvar}
     ${renderAnalise()}
     <h2 class="titulo-secao">Revisão</h2>
-    <div class="bc-revisao">${revisao}</div>`;
+    <div class="bc-revisao">${revisaoHTML()}</div>`;
   desenharGrafico();
+  // religar os botões de comentário; ao editar, re-renderiza só a revisão
+  const religarRevisao = () => {
+    const cont = conteudo.querySelector(".bc-revisao");
+    if (cont) { cont.innerHTML = revisaoHTML(); ligarComentario(cont, religarRevisao); }
+  };
+  ligarComentario(conteudo.querySelector(".bc-revisao"), religarRevisao);
 }
 
 /* ============================ ANÁLISE DE RENDIMENTO ============================ */

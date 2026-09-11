@@ -1070,3 +1070,16 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 .bc-feedback.ok .bc-fb-verdito { color: #3ecf8e; }
 .bc-feedback.erro .bc-fb-verdito { color: #e5484d; }
 .bc-fb-certa { font-size: .9rem; color: var(--text); }
+
+/* ---- Bancos: comentário editável ---- */
+.bc-com-tag { margin-left: 8px; font-size: .68rem; background: var(--accent-weak); color: var(--accent); border-radius: 5px; padding: 1px 7px; vertical-align: middle; }
+.bc-com-corpo { margin-top: 8px; }
+.bc-com-vazio { color: var(--muted); font-size: .9rem; font-style: italic; }
+.bc-com-acoes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.bc-com-editor {
+  width: 100%; box-sizing: border-box; resize: vertical; min-height: 120px;
+  background: var(--surface); color: var(--text); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; font-family: inherit; font-size: .92rem; line-height: 1.5;
+}
+.bc-com-editor:focus { outline: none; border-color: var(--accent); }
+.bc-com-dica { color: var(--muted); font-size: .78rem; margin: 6px 0 0; }

@@ -508,3 +508,36 @@ export async function listarTentativasBanco(bancoId) {
   lista.sort((a, b) => (a.concluidoEm || 0) - (b.concluidoEm || 0));
   return lista;
 }
+
+/* ===================== BANCOS — COMENTÁRIOS EDITADOS ===================== */
+// O comentário original de cada questão vem do JSON estático (só leitura). Aqui
+// guardamos as edições do usuário, que sobrepõem o original só para ele:
+//
+//   comentariosBanco/{uid}/{bancoId}/{numero} = { texto, oculto, editadoEm }
+//     texto   = comentário reescrito pelo usuário ("" se só ocultou)
+//     oculto  = true -> não mostrar comentário nesta questão
+//
+// Ausência de registro = usa o comentário original do JSON. Assim editar/apagar
+// nunca altera o arquivo do repo e vale em qualquer dispositivo do usuário.
+
+export async function carregarComentariosBanco(bancoId) {
+  const uid = exigirLogin();
+  const snap = await get(ref(db, `comentariosBanco/${uid}/${bancoId}`));
+  return snap.val() || {}; // { [numero]: { texto, oculto, editadoEm } }
+}
+
+// Salva a edição de uma questão. `numero` é o número da questão no banco.
+export async function salvarComentarioBanco(bancoId, numero, { texto = "", oculto = false }) {
+  const uid = exigirLogin();
+  await set(ref(db, `comentariosBanco/${uid}/${bancoId}/${numero}`), {
+    texto: String(texto || ""),
+    oculto: !!oculto,
+    editadoEm: serverTimestamp(),
+  });
+}
+
+// Remove a edição do usuário (volta a mostrar o comentário original do JSON).
+export async function restaurarComentarioBanco(bancoId, numero) {
+  const uid = exigirLogin();
+  await remove(ref(db, `comentariosBanco/${uid}/${bancoId}/${numero}`));
+}
