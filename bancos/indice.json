@@ -4,13 +4,27 @@
     {
       "arquivo": "aula-00-fundamentos-tendencias.json",
       "aula": "00",
-      "titulo": "Fundamentos da Educação e Tendências Pedagógicas",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 00",
       "itensEdital": [
         10,
         11,
         14
       ],
-      "total": 53
+      "total": 53,
+      "tagsEdital": [
+        {
+          "n": 10,
+          "titulo": "Educação/sociedade e prática escolar"
+        },
+        {
+          "n": 11,
+          "titulo": "Tendências pedagógicas na prática escolar"
+        },
+        {
+          "n": 14,
+          "titulo": "Aspectos pedagógicos e sociais da prática educativa"
+        }
+      ]
     }
   ]
 }

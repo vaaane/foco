@@ -2,7 +2,7 @@
   "esquema": 1,
   "id": "aula-00-fundamentos-tendencias",
   "aula": "00",
-  "titulo": "Fundamentos da Educação e Tendências Pedagógicas",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 00",
   "disciplina": "Temas Educacionais e Pedagógicos",
   "concurso": "SEE-DF",
   "fonte": "Estratégia Concursos — Aula 00 (Carla Abreu e Otávio A. M. Prado)",
@@ -822,6 +822,20 @@
       "id": "tep_053",
       "banca": "IBFC",
       "tipo": "multipla"
+    }
+  ],
+  "tagsEdital": [
+    {
+      "n": 10,
+      "titulo": "Educação/sociedade e prática escolar"
+    },
+    {
+      "n": 11,
+      "titulo": "Tendências pedagógicas na prática escolar"
+    },
+    {
+      "n": 14,
+      "titulo": "Aspectos pedagógicos e sociais da prática educativa"
     }
   ]
 }

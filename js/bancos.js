@@ -55,7 +55,7 @@ async function buscarJSON(caminho) {
 
 function renderLista() {
   topoTitulo.textContent = "Bancos de questões";
-  topoSub.textContent = "Questões reais de banca, organizadas por aula e por item do edital.";
+  topoSub.textContent = "Um banco por aula. As tags mostram os itens do edital que ele cobre.";
   topoAcoes.innerHTML = "";
 
   const bancos = (indice && indice.bancos) || [];
@@ -64,43 +64,29 @@ function renderLista() {
     return;
   }
 
-  // Agrupa por item do edital (um banco pode aparecer em mais de um item).
-  const itensDoEdital = (edital && edital.itens) || [];
-  const porItem = new Map(); // n -> { titulo, bancos: [] }
-  for (const it of itensDoEdital) porItem.set(it.n, { titulo: it.titulo, bancos: [] });
-  const semItem = [];
-
-  for (const b of bancos) {
-    const itens = Array.isArray(b.itensEdital) ? b.itensEdital : [];
-    if (!itens.length) semItem.push(b);
-    for (const n of itens) {
-      if (!porItem.has(n)) porItem.set(n, { titulo: `Item ${n}`, bancos: [] });
-      porItem.get(n).bancos.push(b);
-    }
-  }
-
-  let html = "";
-  for (const [n, grupo] of porItem) {
-    if (!grupo.bancos.length) continue; // só mostra itens que já têm banco
-    html += `<h2 class="titulo-secao bc-item-titulo">Item ${n} — ${escapar(grupo.titulo)}</h2>`;
-    html += `<div class="bc-grade">${grupo.bancos.map(cardBanco).join("")}</div>`;
-  }
-  if (semItem.length) {
-    html += `<h2 class="titulo-secao bc-item-titulo">Sem item do edital</h2>`;
-    html += `<div class="bc-grade">${semItem.map(cardBanco).join("")}</div>`;
-  }
-
-  conteudo.innerHTML = html || `<p class="resumo-geral">Nenhum banco para mostrar.</p>`;
+  // Lista simples: um card por banco (aula).
+  const html = `<div class="bc-grade">${bancos.map(cardBanco).join("")}</div>`;
+  conteudo.innerHTML = html;
   conteudo.querySelectorAll("[data-abrir]").forEach((el) =>
     el.addEventListener("click", () => abrirBanco(el.dataset.abrir))
   );
 }
 
+// Rótulo completo de um item do edital: "10. Educação/sociedade e prática escolar".
+// Usa tagsEdital do próprio banco; se faltar, cai no mapa do edital; senão, só o número.
+function rotuloEdital(b, n) {
+  const t = (b.tagsEdital || []).find((x) => x.n === n);
+  if (t && t.titulo) return `${n}. ${t.titulo}`;
+  const it = ((edital && edital.itens) || []).find((x) => x.n === n);
+  return it ? `${n}. ${it.titulo}` : `Item ${n}`;
+}
+
 function cardBanco(b) {
-  const tags = (b.itensEdital || []).map((n) => `<span class="bc-tag">Item ${n}</span>`).join("");
+  const tags = (b.itensEdital || [])
+    .map((n) => `<span class="bc-tag">${escapar(rotuloEdital(b, n))}</span>`)
+    .join("");
   return `
     <button class="bc-card" data-abrir="${escapar(b.arquivo)}">
-      <span class="bc-aula">Aula ${escapar(b.aula || "?")}</span>
       <span class="bc-card-tit">${escapar(b.titulo || b.arquivo)}</span>
       <span class="bc-card-meta">${b.total || "?"} questões</span>
       <span class="bc-tags">${tags}</span>
@@ -125,7 +111,7 @@ async function abrirBanco(arquivo) {
 
 function renderBanco() {
   const b = bancoAtual;
-  topoTitulo.textContent = `Aula ${b.aula} — ${b.titulo}`;
+  topoTitulo.textContent = b.titulo;
   topoSub.textContent = `${b.fonte || ""}${b.itensEdital?.length ? " · itens " + b.itensEdital.join(", ") : ""}`;
 
   topoAcoes.innerHTML = `
@@ -160,7 +146,7 @@ function cardQuestaoPrevia(q) {
 
 function renderResumo() {
   const b = bancoAtual;
-  topoTitulo.textContent = `Resumo — Aula ${b.aula}`;
+  topoTitulo.textContent = `Resumo — ${b.titulo}`;
   topoSub.textContent = b.titulo;
   topoAcoes.innerHTML = `
     <button class="mini" id="bc-voltar-banco">← Banco</button>
@@ -186,7 +172,7 @@ function renderQuestao() {
   const escolhida = resp.respostas[q.numero];
 
   topoTitulo.textContent = `Questão ${resp.i + 1} de ${total}`;
-  topoSub.textContent = `Aula ${b.aula} — ${b.titulo}`;
+  topoSub.textContent = b.titulo;
   topoAcoes.innerHTML = `<button class="mini" id="bc-sair-resp">Sair</button>`;
   $("#bc-sair-resp").onclick = () => {
     if (confirm("Sair sem finalizar? Suas respostas nesta rodada serão perdidas.")) renderBanco();
@@ -268,7 +254,7 @@ async function finalizar() {
 
   const pct = Math.round((acertos / total) * 100);
   topoTitulo.textContent = "Resultado";
-  topoSub.textContent = `Aula ${b.aula} — ${b.titulo}`;
+  topoSub.textContent = b.titulo;
   topoAcoes.innerHTML = `
     <button class="mini" id="bc-refazer">Refazer</button>
     <button class="btn-primario" id="bc-voltar-lista">Bancos</button>`;
