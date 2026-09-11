@@ -1,0 +1,196 @@
+{
+  "esquema": 1,
+  "concurso": "SEE-DF",
+  "titulo": "Temas Educacionais e Pedagógicos — Itens do Edital",
+  "itens": [
+    {
+      "n": 1,
+      "titulo": "Planejamento e organização do trabalho pedagógico",
+      "aulas": [
+        "01",
+        "04"
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Currículo: do proposto à prática",
+      "aulas": [
+        "02"
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Tecnologias da informação e comunicação na educação (TICs)",
+      "aulas": [
+        "03"
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Educação para a diversidade, cidadania, direitos humanos e EaD",
+      "aulas": [
+        "16",
+        "17",
+        "12"
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "Educação integral",
+      "aulas": [
+        "05"
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Educação do campo",
+      "aulas": [
+        "13"
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Educação de Jovens e Adultos (EJA)",
+      "aulas": [
+        "18"
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Educação ambiental",
+      "aulas": [
+        "14"
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "Fundamentos legais da Educação especial/inclusiva",
+      "aulas": [
+        "19"
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "Educação/sociedade e prática escolar",
+      "aulas": [
+        "00",
+        "09"
+      ]
+    },
+    {
+      "n": 11,
+      "titulo": "Tendências pedagógicas na prática escolar",
+      "aulas": [
+        "00",
+        "07"
+      ]
+    },
+    {
+      "n": 12,
+      "titulo": "Didática e prática histórico-cultural",
+      "aulas": [
+        "06",
+        "21"
+      ]
+    },
+    {
+      "n": 13,
+      "titulo": "Didática na formação do professor",
+      "aulas": [
+        "06",
+        "21"
+      ]
+    },
+    {
+      "n": 14,
+      "titulo": "Aspectos pedagógicos e sociais da prática educativa",
+      "aulas": [
+        "00",
+        "07"
+      ]
+    },
+    {
+      "n": 15,
+      "titulo": "Processos de ensino e de aprendizagem",
+      "aulas": [
+        "07"
+      ]
+    },
+    {
+      "n": 16,
+      "titulo": "Relação professor/aluno",
+      "aulas": [
+        "08"
+      ]
+    },
+    {
+      "n": 17,
+      "titulo": "Compromisso social e ético do professor",
+      "aulas": [
+        "08"
+      ]
+    },
+    {
+      "n": 18,
+      "titulo": "Componentes do processo de ensino (objetivos, conteúdos, métodos)",
+      "aulas": [
+        "01",
+        "06"
+      ]
+    },
+    {
+      "n": 19,
+      "titulo": "Interdisciplinaridade e transdisciplinaridade",
+      "aulas": [
+        "02",
+        "04"
+      ]
+    },
+    {
+      "n": 20,
+      "titulo": "Avaliação escolar e suas implicações pedagógicas",
+      "aulas": [
+        "20"
+      ]
+    },
+    {
+      "n": 21,
+      "titulo": "Papel político-pedagógico e organicidade do ensinar, aprender e pesquisar",
+      "aulas": [
+        "04",
+        "21"
+      ]
+    },
+    {
+      "n": 22,
+      "titulo": "Projeto político-pedagógico da escola (PPP)",
+      "aulas": [
+        "10"
+      ]
+    },
+    {
+      "n": 23,
+      "titulo": "Políticas públicas para a Educação Básica",
+      "aulas": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "n": 24,
+      "titulo": "Gestão democrática",
+      "aulas": [
+        "11"
+      ]
+    },
+    {
+      "n": 25,
+      "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)",
+      "aulas": [
+        "12",
+        "13",
+        "16"
+      ]
+    }
+  ]
+}

@@ -955,3 +955,80 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 @media (max-width: 620px) {
   .em-cabecalho, .em-item { padding-left: calc(4px + var(--prof, 0) * 14px); }
 }
+
+/* ============================================================
+   BANCOS DE QUESTÕES (bancos.html)
+   ============================================================ */
+.bc-item-titulo { margin-top: 26px; }
+.bc-item-titulo:first-child { margin-top: 0; }
+
+.bc-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.bc-card {
+  display: flex; flex-direction: column; gap: 6px; text-align: left;
+  background: var(--surface-2); border: 1px solid var(--line);
+  border-radius: 12px; padding: 16px; cursor: pointer; font-family: inherit;
+  color: var(--text); transition: border-color .12s, transform .12s;
+}
+.bc-card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.bc-aula { font-size: .72rem; color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+.bc-card-tit { font-weight: 600; font-size: 1rem; line-height: 1.25; }
+.bc-card-meta { font-size: .82rem; color: var(--muted); }
+.bc-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 2px; }
+.bc-tag { font-size: .68rem; background: var(--accent-weak); color: var(--accent); border-radius: 5px; padding: 1px 7px; }
+
+.bc-info { margin-bottom: 18px; }
+.bc-previa { display: grid; gap: 10px; }
+.bc-previa-mais { color: var(--muted); font-size: .85rem; text-align: center; margin: 4px 0 0; }
+
+.bc-q { background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; }
+.bc-q.previa { opacity: .85; }
+.bc-q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: .78rem; flex-wrap: wrap; }
+.bc-q-num { background: var(--accent); color: #0e1417; font-weight: 700; border-radius: 6px; padding: 1px 9px; }
+.bc-q-banca { color: var(--muted); }
+.bc-q-enun { margin: 0 0 12px; line-height: 1.5; }
+
+.bc-ops { display: grid; gap: 8px; }
+.bc-op {
+  text-align: left; padding: 11px 14px; border-radius: 9px;
+  border: 1px solid var(--line); background: var(--surface);
+  color: var(--text); font-family: inherit; font-size: .93rem; cursor: pointer;
+  transition: border-color .1s, background .1s;
+}
+.bc-op:hover { border-color: var(--muted); }
+.bc-op.sel { border-color: var(--accent); background: var(--accent-weak); }
+
+.bc-nav { display: flex; justify-content: space-between; gap: 10px; margin-top: 16px; }
+.bc-progresso-resp { margin-bottom: 16px; }
+
+.bc-resultado { display: flex; justify-content: center; margin: 10px 0 26px; }
+.bc-nota { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.bc-nota-pct { font-size: 2.6rem; font-weight: 700; color: var(--accent); line-height: 1; }
+.bc-nota-frac { color: var(--muted); font-size: .9rem; }
+
+.bc-revisao { display: grid; gap: 14px; }
+.bc-q.rev.ok { border-left: 3px solid #3ecf8e; }
+.bc-q.rev.erro { border-left: 3px solid #e5484d; }
+.bc-veredito { margin-left: auto; font-weight: 600; }
+.bc-veredito.ok { color: #3ecf8e; }
+.bc-veredito.erro { color: #e5484d; }
+
+.bc-alts { list-style: none; padding: 0; margin: 0 0 8px; display: grid; gap: 5px; }
+.bc-alts li { padding: 7px 11px; border: 1px solid var(--line); border-radius: 8px; font-size: .9rem; }
+.bc-alts li.certa { border-color: #3ecf8e; background: rgba(62,207,142,.10); }
+.bc-alts li.marcada-errada { border-color: #e5484d; background: rgba(229,72,77,.10); }
+.bc-ce { color: var(--muted); font-size: .9rem; }
+
+.bc-com { margin-top: 10px; border-top: 1px dashed var(--line); padding-top: 9px; }
+.bc-com summary { cursor: pointer; color: var(--accent); font-size: .88rem; }
+
+/* markdown (resumo e comentários) */
+.md h2 { font-size: 1.2rem; margin: 20px 0 8px; }
+.md h3 { font-size: 1.02rem; margin: 16px 0 6px; }
+.md h4 { font-size: .92rem; margin: 12px 0 5px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+.md p { margin: 6px 0; line-height: 1.55; }
+.md ul { margin: 6px 0; padding-left: 20px; display: grid; gap: 3px; }
+.md code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-size: .88em; }
+.md-tab { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: .88rem; }
+.md-tab th, .md-tab td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+.md-tab th { background: var(--surface-2); font-weight: 600; }
+.bc-resumo { max-width: 760px; }

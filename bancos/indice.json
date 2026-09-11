@@ -1,0 +1,16 @@
+{
+  "esquema": 1,
+  "bancos": [
+    {
+      "arquivo": "aula-00-fundamentos-tendencias.json",
+      "aula": "00",
+      "titulo": "Fundamentos da Educação e Tendências Pedagógicas",
+      "itensEdital": [
+        10,
+        11,
+        14
+      ],
+      "total": 53
+    }
+  ]
+}

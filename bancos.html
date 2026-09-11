@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Matérias — Foco</title>
+  <title>Bancos de questões — Foco</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -11,7 +11,6 @@
 </head>
 <body>
 
-  <!-- Aviso de login (se abrir esta página sem estar logado) -->
   <section id="tela-deslogado" class="tela-login" hidden>
     <div class="login-caixa">
       <p class="eyebrow">preparação · concurso</p>
@@ -21,8 +20,7 @@
     </div>
   </section>
 
-  <!-- App -->
-  <section id="tela-mat" class="app" hidden>
+  <section id="tela-bancos" class="app" hidden>
 
     <div class="overlay" id="overlay"></div>
 
@@ -32,26 +30,32 @@
         <a href="index.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></svg>
           Concursos
-        </a>        <a href="calendario.html" class="sb-item">
+        </a>
+        <a href="calendario.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><rect x="3.5" y="4.5" width="17" height="16" rx="2.5"/><path d="M3.5 9h17M8 3v3M16 3v3"/></svg>
           Calendário
-        </a>        <a href="materias.html" class="sb-item ativo">
+        </a>
+        <a href="materias.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 4 3 8l9 4 9-4-9-4Z"/><path d="M3 12l9 4 9-4M3 16l9 4 9-4"/></svg>
           Matérias
-        </a>        <a href="atividades.html" class="sb-item">
+        </a>
+        <a href="atividades.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3.5 6 1.2 1.2L7 5M3.5 12l1.2 1.2L7 11M3.5 18l1.2 1.2L7 17"/></svg>
           Atividades
         </a>
-        <a href="bancos.html" class="sb-item">
+        <a href="bancos.html" class="sb-item ativo">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 6.5C4 5 6 4 9 4s5 1 5 2.5M4 6.5V18c0 1.5 2 2.5 5 2.5s5-1 5-2.5m-10-11.5v0M14 6.5C14 5 16 4 19 4s1 0 1 0M20 6.5V18c0 1.5-2 2.5-5 2.5"/><path d="M14 6.5V18"/></svg>
           Bancos
-        </a>        <a href="pomodoro.html" class="sb-item">
+        </a>
+        <a href="pomodoro.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="13" r="8"/><path d="M12 13V8.5M9.5 3h5M18.5 6.5l1.5-1.5"/></svg>
           Pomodoro
-        </a>        <a href="ementa.html" class="sb-item">
+        </a>
+        <a href="ementa.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M5 4v16M5 8h5M5 14h5M13 8h6M13 14h6"/></svg>
           Ementa
-        </a>      </nav>
+        </a>
+      </nav>
       <div class="sb-rodape">
         <div class="sb-user">
           <b>Foco<span class="ponto">.</span></b>
@@ -71,27 +75,21 @@
 
       <div class="topo-pag">
         <div>
-          <h1>Matérias</h1>
-          <p>Progresso e desempenho em cada disciplina.</p>
+          <h1 id="topo-titulo">Bancos de questões</h1>
+          <p id="topo-sub">Questões reais de banca, organizadas por aula e por item do edital.</p>
         </div>
+        <div class="cal-acoes" id="topo-acoes"></div>
       </div>
 
       <div class="painel">
-        <main class="cal-main">
-          <div class="cal-cabecalho">
-            <div>
-              <h2 class="titulo-secao">Distribuição por matéria</h2>
-              <p id="resumo-mat" class="resumo-geral">Carregando…</p>
-            </div>
-          </div>
-
-          <div id="lista-mat" class="mat-lista"></div>
+        <main id="conteudo-bancos" class="cal-main">
+          <p class="resumo-geral">Carregando bancos…</p>
         </main>
       </div>
     </div>
   </section>
 
   <script defer src="js/shell.js"></script>
-  <script type="module" src="js/materias.js"></script>
+  <script type="module" src="js/bancos.js"></script>
 </body>
 </html>

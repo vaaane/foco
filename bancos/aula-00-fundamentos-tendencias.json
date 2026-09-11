@@ -1,0 +1,827 @@
+{
+  "esquema": 1,
+  "id": "aula-00-fundamentos-tendencias",
+  "aula": "00",
+  "titulo": "Fundamentos da Educação e Tendências Pedagógicas",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 00 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    10,
+    11,
+    14
+  ],
+  "resumoMd": "## Educação × Sociedade\n\n- **Conservação / manutenção dos privilégios sociais:** visão acrítica ou mecânica da educação — foco na instrução pura e na repetição.\n- **Transformação social:** educação ligada à emancipação, ao desenvolvimento humano e democrático e à complexidade do ser e do saber (fundamentação histórico-crítica / marxista).\n\n## Tendências pedagógicas segundo Dermeval Saviani\n\nCritério: a relação **Educação e Sociedade** e o problema da marginalidade.\n\n| Grupo | O que sustenta | Exemplos |\n|---|---|---|\n| **Não-críticas** | A educação equaliza a sociedade (harmoniosa; a marginalidade é desvio). | Tradicional, Nova (Escola Nova), Tecnicista |\n| **Crítico-reprodutivistas** | A educação reproduz a estrutura de classes e marginaliza. | Violência simbólica (Bourdieu e Passeron), Escola como AIE (Althusser), Escola dualista (Baudelot e Establet) |\n| **Críticas / dialéticas** | A educação é mediação na prática social para transformar a realidade. | Histórico-Crítica (Saviani) |\n\n## Tendências pedagógicas segundo José Carlos Libâneo\n\nCritério: contexto sociopolítico e objetivos educacionais.\n\n### Liberais — preservam o sistema vigente e adaptam o indivíduo\n- **Tradicional:** centrada no professor; transmissão de conteúdos; disciplina rígida; memorização.\n- **Renovada Progressivista (Escola Nova — Dewey, Anísio Teixeira):** centrada no aluno; \"aprender a aprender\"; experiência direta.\n- **Renovada Não-Diretiva (Carl Rogers):** desenvolvimento pessoal; professor facilitador.\n- **Tecnicista (Skinner / behaviorismo):** eficiência, produtividade, tecnologia educacional, instrução programada.\n\n### Progressistas — analisam criticamente a realidade e propõem transformá-la\n- **Libertadora (Paulo Freire):** educação problematizadora; temas geradores; conscientização; contra a \"educação bancária\".\n- **Libertária (Cestari, Freinet):** autogestão pedagógica; anti-autoritária; transformação a partir do grupo.\n- **Crítico-Social dos Conteúdos (Libâneo):** acesso aos conteúdos científicos universalizados, articulados à realidade social e política dos alunos.\n",
+  "total": 53,
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "FUNDATEC- Pref. Foz do Iguaçu - 2016. Conforme a escola epistemológica empirista (DAMASCENO, 2011), o conhecimento deve ser:",
+      "alternativas": {
+        "a": "Construído.",
+        "b": "Reproduzido.",
+        "c": "Experienciado.",
+        "d": "Relacionado.",
+        "e": "Categorizado."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. O conhecimento construído não é próprio do empirismo, mas do\nconstrutivismo que é uma vertente da pedagogia que só foi iniciada no século XX.\nA alternativa B está incorreta. O conhecimento reproduzido é próprio da instrução e não da filosofia\nempirista.\nA alternativa C está correta. O empirismo propõe que o ser humano adquira o conhecimento através dos\nsentidos e da experiência.\nA alternativa D está incorreta. Não há essa terminologia dentro da filosofia empirista.\nA alternativa E está incorreta. As categorias são próprias da filosofia marxista e não da empirista.",
+      "id": "tep_001",
+      "banca": "FUNDATEC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 2,
+      "enunciado": "FUNDEP - Educador em Saúde (Pref Lagoa Santa) /2019 - Segundo Paulo Freire (1987), na visão “Bancária” da Educação, o saber é:",
+      "alternativas": {
+        "a": "uma doação dos que se julgam sábios e que julgam tudo saber.",
+        "b": "uma doação que se funda numa das manifestações instrumentais da ideologia da opressão – a absolutização da ignorância.",
+        "c": "a absolutização da sabedoria, que constitui o que é chamado de alienação da ignorância.",
+        "d": "a alienação da sabedoria, que se mantém em posição fixa, invariável."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Jugar-se sábio não é uma terminologia que Paulo Freire utiliza para conceituar\neducação bancária. Jugar-se saber não está dentro da teoria freiriana de educação bancária, pois essa forma\nde educação possui critérios de existência dentro da relação opressor-oprimido.\nA alternativa B está correta. Essa é uma consequência da relação opressor-oprimido que caracteriza uma\ndoação fundada na ideologia dominante (opressora). Dessa forma, os alunos são vistos como tábulas rasas\ndesprovidos de conhecimento e cultura.\nA alternativa C está incorreta. Não existe esta terminologia em Paulo Freire de absolutização da sabedoria.\nLembremos que Paulo Freire não é um autor marxista ortodoxo. Ele utiliza elementos da fenomenologia e\nda Teologia da Libertação para construir seu campo de saber em paralelo com o filósofo Marx. O termo\nalienação é próprio da filosofia marxista. Não está presente na obra de Freire. Ele prefere utilizar o termo\noprimido.\nA alternativa D está incorreta. Não existe essa terminologia em Paulo Freire de alienação da sabedoria.\nLembremos que Paulo Freire não é um autor marxista ortodoxo. Ele utiliza elementos da fenomenologia e\nda Teologia da Libertação para construir seu campo de saber em paralelo com o filósofo Marx. O termo\nalienação é próprio da filosofia marxista. Não está presente na obra de Freire. Ele prefere utilizar o termo\noprimido.",
+      "id": "tep_002",
+      "banca": "FUNDEP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 3,
+      "enunciado": "VUNESP - Supervisor de Ensino (Pref Peruíbe) /2019 - “Recentemente, jovem professor universitário, de opção democrática, comentava comigo o que lhe parecia ter sido um desvio seu no uso de sua autoridade. Disse, constrangido, ter se oposto a que aluno de outra classe continuasse na porta entreaberta de sua sala, a manter uma conversa gesticulada com uma das alunas. Ele tivera inclusive que parar sua fala em face do descompasso que a situação provocava”. Com esse relato em Pedagogia da autonomia, Freire (2011) compreende que ensinar exige:",
+      "alternativas": {
+        "a": "liberdade e autoridade.",
+        "b": "a concretização das palavras pelo exemplo.",
+        "c": "respeito à autonomia do ser do educando.",
+        "d": "saber escutar.",
+        "e": "disponibilidade para o diálogo."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O texto da questão é enfático em considerar a questão da autoridade. No livro\nPedagogia da Autonomia, Freire discorre sobre a liberdade e autoridade do educador. A descrição que é feita\nda situação de sala de aula no título da questão também sugere os conceitos de liberdade e autoridade.\nA alternativa B está incorreta. A situação descrita por Freire no título da questão não sugere este conceito.\nPara este conceito, Paulo Freire utilizou o termo coerência.\nA alternativa C está incorreta. A situação descrita por Freire no título da questão não sugere este conceito.\nO respeito à autonomia é possibilitado pela construção da autoridade e da liberdade do educando.\nA alternativa D está incorreta. A situação descrita por Freire no título da questão não sugere esse conceito.\nPaulo Freire prefere o termo dialogicidade.\nA alternativa E está incorreta. A situação descrita por Freire no título da questão não sugere esse conceito.",
+      "id": "tep_003",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 4,
+      "enunciado": "VUNESP - Diretor de Escola (Pref Olímpia)/2019 - Em Pedagogia da autonomia: saberes necessários à prática educativa, Paulo Freire afirma: “Não preciso de um professor de ética para me dizer que não posso, como orientador de dissertação de mestrado ou de tese de doutoramento, surpreender o pós-graduando com críticas duras ao seu trabalho porque um dos examinadores foi severo em sua arguição. Se isso ocorre e eu concordo com as críticas feitas pelo professor, não há outro caminho senão solidarizar-me de público com o orientando, dividindo com ele a responsabilidade do equívoco ou do erro criticado. Não preciso de um professor de Ética para me dizer isso.” Nessa passagem, Paulo Freire combate a ideia de que ensinar não é transferir conhecimento; para o autor, o exemplo demonstra que ensinar exige:",
+      "alternativas": {
+        "a": "consciência do inacabamento.",
+        "b": "reconhecimento de ser condicionado.",
+        "c": "bom senso.",
+        "d": "curiosidade.",
+        "e": "convicção de que a mudança é possível."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A consciência do inacabamento é relativa ao conceito de humanização em\nPaulo Freire. Não é o caso do relato feito na descrição da questão.\nA alternativa B está incorreta. O termo condicionamento é próprio da instrução, pois vem da psicologia de\nSkinner. Paulo Freire utilizaria o termo \"reconhecimento de ser oprimido\".\nA alternativa C está correta. O bom senso é um argumento utilizado por Paulo Freire em Pedagogia da\nAutonomia. Isso porque é um livro introdutório para qualquer pessoa que vai realizar um ato educativo. Na\ndescrição da questão também há a sugestão deste conceito.\nA alternativa D está incorreta. Paulo Freire não usa o termo curiosidade, mas \"curiosidade epistemológica\".\nEsta última pode ser caracterizada como o desejo humanizador do sujeito querer conhecer mais ou ser mais.\nA alternativa E está incorreta. Embora Paulo Freire utilize esse termo, ele não pode ser usado na\ninterpretação da descrição da questão.",
+      "id": "tep_004",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 5,
+      "enunciado": "VUNESP - Professor de Educação Básica I (Pref Olímpia) /2019) - Bizzo (1998) mostra em sua obra que, em algumas situações, o ensino de ciências pode parecer fácil, mas seus objetivos não são atingidos. Em outras situações, ainda que apresente dificuldades para alunos e professor, pode propiciar grande envolvimento de ambos. De acordo com o autor, o ponto principal é reconhecer que o papel do ensino de ciências é o de:",
+      "alternativas": {
+        "a": "identificar alunos talentosos e prepará-los para que possam, se tiverem interesse, tornar-se cientistas no futuro, suprindo a falta de cientistas no mundo de hoje.",
+        "b": "permitir o domínio de fundamentos científicos indispensáveis para realizar tarefas triviais como ler jornal, assistir à televisão e tomar decisões a respeito de questões ambientais.",
+        "c": "levar os alunos a memorizar listas de fatos e os nomes exóticos de plantas e de animais, como forma de promover o desenvolvimento necessário para compreender conceitos mais elaborados.",
+        "d": "promover o desenvolvimento intelectual de alunos na faixa etária correspondente às séries mais avançadas do ensino fundamental, sendo dispensável essa disciplina nas séries iniciais.",
+        "e": "encontrar resultados inéditos e princípios científicos ainda desconhecidos, nas experiências realizadas nos laboratórios escolares, para serem comunicados em congressos."
+      },
+      "gabarito": "B",
+      "comentario": "Embora essa seja uma questão sobre ensino de ciências, podemos utilizá-la para pensarmos as teorias de\neducação nas alternativas. A banca realiza diferentes abordagens de ciência relacionando-as com as teorias\nde educação que já estudamos. Mas a tendência hoje na maioria dos autores é a teoria crítica. Veja como\nconseguimos resolver a questão.\nA alternativa A está incorreta. Essa descrição é relativa à característica da pedagogia tradicional que\npressupõe os talentos entre os alunos. Dessa forma, estamos ainda dentro da pedagogia da essência. Este\nessencialismo encontra-se na natureza humana através das aptidões inatas.\nA alternativa B está correta. Diante do mundo letrado cabe à escola ensinar os conhecimentos acumulados\npela humanidade. Observe que esta descrição dialoga com as teorias críticas de educação de Saviani. Isto é,\na preocupação em fornecer os conteúdos historicamente acumulados.\nA alternativa C está incorreta. A memorização é própria da instrução e da pedagogia tecnicista.\nA alternativa D está incorreta. Nenhuma disciplina pode ser dispensável. É incoerente com o\ndesenvolvimento intelectual.\nA alternativa E está incorreta. Realizar experiências através da ação dos educandos é uma característica da\nPedagogia Nova.",
+      "id": "tep_005",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 6,
+      "enunciado": "FUNDATEC - Monitor (Pref Água Santa) /Educação Básica/2019) - O pedagogo, educador e filósofo que defende a ideia de que ensinar não é transferir conhecimento, mas criar as possibilidades para sua própria produção, e que ensinar exige consciência do inacabamento e apreensão da realidade é conhecido como:",
+      "alternativas": {
+        "a": "Wallon.",
+        "b": "Piaget.",
+        "c": "Cortella.",
+        "d": "Freire.",
+        "e": "Rogers."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Wallon é um autor dentro da psicologia que possui conceito sobre afetividade.\nA alternativa B está incorreta. Piaget é um autor dentro da psicologia que discorre sobre a construção da\ninteligência na criança.\nA alternativa C está incorreta. Cortella é um autor que fala atualmente sobre a relação entre família, escola\ne sociedade.\nA alternativa D está correta. Paulo Freire utiliza o termo \"consciência do inacabamento\" para desenvolver\nsua teoria de humanização.\nA alternativa E está incorreta. Carl Rogers é um autor da psicologia que trabalha o conceito de se tornar\npessoa dentro do campo educativo.",
+      "id": "tep_006",
+      "banca": "FUNDATEC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 7,
+      "enunciado": "OBJETIVA CONCURSOS - Pedagogo (Pref Nonoai)/2018 - Em conformidade com ALARCÃO, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: ( ) O aluno tem de se assumir como um ser (mente num corpo com alma) que observa o mundo e se observa a si, se questiona e procura atribuir sentido aos objetos, aos acontecimentos e às interações. Tem de se convencer de que tem que ir à procura do saber; buscar ajuda nos livros, nas discussões, nas conversas, no pensamento, no professor. ( ) A sala de aula deixou de ser um espaço onde se transmite conhecimentos, passando a ser um espaço onde se procura e onde se produz conhecimento.",
+      "alternativas": {
+        "a": "C - E.",
+        "b": "E - C.",
+        "c": "C - C.",
+        "d": "E - E."
+      },
+      "gabarito": "C",
+      "comentario": "As duas afirmativas são verdadeiras. Ambas as alternativas dialogam com a Pedagogia Nova. Isso porque na\nprimeira afirmativa é colocada a centralidade da educação na criança. O aluno pensa sobre todo o\nconhecimento que está a sua volta. A segunda afirmativa, contrapõe a Pedagogia Tradicional e a Escola Nova.\nDessa forma, a sala de aula não é mais um espaço de transmissão de conhecimento, mas de pesquisa e\nconstrução do saber. Esta descrição é muito similar a proposta de John Dewey para educação nas escolas.\nA alternativa C está correta.",
+      "id": "tep_007",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 8,
+      "enunciado": "FCC - Pedagogo (Pref Macapá) /2018 - O termo “educação bancária” foi cunhado pelo educador:",
+      "alternativas": {
+        "a": "Anísio Teixeira.",
+        "b": "Darcy Ribeiro.",
+        "c": "Jean Piaget.",
+        "d": "Paulo Freire.",
+        "e": "Ivan Illich."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Anísio Teixeira é um autor da Escola Nova no Brasil. Dessa forma, ele não\nutiliza o termo \"educação bancária\" que é próprio da Pedagogia Libertadora de Paulo Freire.\nA alternativa B está incorreta. Darcy Ribeiro não é um educador, mas um legislador que conseguiu aprovar\na Lei de Diretrizes e Bases da Educação Nacional.\nA alternativa C está incorreta. Jean Piaget não é um educador, mas um cientista que se propôs a entender a\nconstrução da inteligência na criança.\nA alternativa D está correta. Paulo Freire usa o termo \"educação bancária\" para se referia à Pedagogia\nTradicional. Uma pedagogia centrada na transmissão de conhecimentos.\nA alternativa E está incorreta. Ivan IIIich é um autor que desenvolveu o conceito da sociedade sem escolas.\nA educação bancária não faz parte de sua análise educacional.",
+      "id": "tep_008",
+      "banca": "FCC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 9,
+      "enunciado": "FCC - Pedagogo (Pref Macapá) /2018) - Numa concepção crítica de educação, o erro do aluno também pode indicar:",
+      "alternativas": {
+        "a": "forma incorreta de se construir o conhecimento.",
+        "b": "avaliação das condições emocionais da criança.",
+        "c": "uma necessidade do aluno chamar a atenção do professor.",
+        "d": "construção de um conhecimento ainda não acabado.",
+        "e": "consequência de um ensino mal administrado."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Esta forma de ver o erro do aluno é próprio da Pedagogia Tradicional.\nA alternativa B está incorreta. Esta forma de ver o erro do aluno não faz parte da concepção crítica da\neducação e tão pouco das teorias não-críticas.\nA alternativa C está incorreta. Esta forma de ver o erro do aluno não faz parte da teoria crítica de educação,\nmas possivelmente do senso comum do professor.\nA alternativa D está correta. O erro do aluno na concepção crítica diz respeito a um conhecimento ainda não\nacabado. Temos que lembrar que a concepção crítica de educação realiza a síntese entre a Pedagogia\nTradicional e a Escola Nova. Dessa forma, há a incorporação de compreender a psicologia da criança, mas\ntambém valorizar os conteúdos acumulados historicamente pela humanidade.\nA alternativa E está incorreta. O erro visto desta forma é relacionado com a Pedagogia Tecnicista. Isso porque\no erro é visto como uma peça fora da engrenagem. A educação é vista de forma produtiva. Se houve erro do\naluno, então o ensino foi mal administrado. Não há reflexão sobre diferentes formas de pensar do aluno e\ndo professor.",
+      "id": "tep_009",
+      "banca": "FCC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 10,
+      "enunciado": "FCC - Educador Social (FCRIA)/Nível Superior/Pedagogo/2018 - A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais. Considerando os diferentes formatos educacionais, é correto afirmar que a educação informal ocorre:",
+      "alternativas": {
+        "a": "nas escolas oficiais por meio do currículo.",
+        "b": "nos cursos regulares de educação à distância.",
+        "c": "em cursos de formação profissional técnica.",
+        "d": "na capacitação e treinamento para o trabalho.",
+        "e": "nas experiências do dia-a-dia."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A escola oficial acontece pela educação formal.\nA alternativa B está incorreta. Os cursos regulares de educação são caracterizados como educação formal.\nA alternativa C está incorreta. Os cursos de formação profissional são caracterizados como educação formal.\nA alternativa D está incorreta. Capacitação e treinamento para o trabalho são caracterizados como educação\nformal.\nA alternativa E está correta. As experiências cotidianas são caracterizadas como educação informal.",
+      "id": "tep_010",
+      "banca": "FCC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 11,
+      "enunciado": "CONTEMAX - Professor (Pref Coremas) /Polivalente/2016 A teoria da instrução de ensino mostra que alguns passos sequenciais são necessários. A sequência correta dessa instrução é:",
+      "alternativas": {
+        "a": "Planejar, organizar, direcionar e avaliar.",
+        "b": "Organizar, planejar e avaliar.",
+        "c": "Planejar, organizar, avaliar e direcionar.",
+        "d": "Planejar, organizar e avaliar.",
+        "e": "Organizar, direcionar e planejar."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A educação como instrução utiliza dos elementos de planejamento,\norganização, direcionamento e avaliação. Todos estes aspectos fazem parte do processo de racionalização e\nprodutividade da pedagogia tecnicista.\nA alternativa B está incorreta. Faltou o elemento organização.\nA alternativa C está incorreta. O direcionamento que pode ser entendido como verticalização do ensino está\ndepois do processo avaliativo. Na verdade, é o professor que direciona o ensino antes do processo de\navaliação.\nA alternativa D está incorreta. Faltou o elemento direcionar.\nA alternativa E está incorreta. Faltou o elemento do planejamento.",
+      "id": "tep_011",
+      "banca": "CONTEMAX",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 12,
+      "enunciado": "FUNRIO - Professor (Pref Alta Floresta) /Anos Iniciais/2019 - A essa tendência especificamente há grande valorização da experiência vivida pelo aluno como base do desenvolvimento da aprendizagem, sendo considerada como forma metodológica os exercícios de codificação e decodificação de situaçõeslimite como recuso pedagógico. Trata-se da tendência pedagógica:",
+      "alternativas": {
+        "a": "Libertadora.",
+        "b": "Não-diretiva.",
+        "c": "Histórico-crítica.",
+        "d": "Libertária.",
+        "e": "Tecnicista."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A pedagogia libertadora parte da problematização por parte do educando para\npropor mudanças no seu processo de humanização. Os elementos de codificação e decodificação fazem\nmenção ao processo de alfabetização de adultos ocorrido em Angicos (RN).\nA alternativa B está incorreta. A pedagogia não-diretiva não possui direcionamento nenhum. Tão pouco em\nsituações-problema.\nA alternativa C está incorreta. A pedagogia Histórico-Crítica parte da prática social do educando com ênfase\ndos conteúdos assimilados historicamente pela sociedade.\nA alternativa D está incorreta. Essa tendência é própria do anarquismo e não de Paulo Freire.\nA alternativa E está incorreta. Esta tendência não parte de problemas vivenciados pelo sujeito, mas impõe o\nmodelo a ser seguido verticalizado.",
+      "id": "tep_012",
+      "banca": "FUNRIO",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 13,
+      "enunciado": "COPERVE-UFSC - Pedagogo (UFSC)/Educacional/2012 - Dermeval Saviani (2007) divide sua obra “História das Ideias Pedagógicas no Brasil” em quatro períodos. Relacione a coluna 2 de acordo com a coluna 1. Coluna 1 I. Primeiro período (1549 – 1759) II. Segundo período (1759 – 1932) III. Terceiro período (1932 – 1969) IV. Quarto período (1969 – 2001) Coluna 2 ( ) Predomínio da pedagogia nova. ( ) Configuração da concepção pedagógica produtivista. ( ) Monopólio da vertente religiosa da pedagogia tradicional. ( ) Coexistência entre as vertentes religiosa e leiga da pedagogia tradicional. Assinale a alternativa que apresenta a sequência CORRETA, de cima para baixo.",
+      "alternativas": {
+        "a": "IV – III – I – II",
+        "b": "II – IV – III – I",
+        "c": "I – II – IV – III",
+        "d": "III – II – I – IV",
+        "e": "III – IV – I – II"
+      },
+      "gabarito": "E",
+      "comentario": "A primeira lacuna é número III, pois o predomínio da Escola Nova ocorreu após o Governo Getúlio Vargas\nem 1930.\nA segunda lacuna é número IV, pois o período compreendido está grande parte dentro da Ditadura Militar\n(1964-1985) que incentivou a pedagogia tecnicista ou produtivista.\nA terceira lacuna é número I, pois se trata da primeira forma de educação no Brasil ministrada pelos Jesuítas\n(1549-1759)\nA quarta lacuna é número II, pois se trata do período das reformas pombalinas de educação. Neste período\nexistiu uma coexistência entre a pedagogia tradicional religiosa e pedagogia tradicional leiga. Esta última foi\nincentivada pela Coroa Portuguesa através de Cartas Régias fornecidas aos professores leigos.\nAlternativa E está correta.",
+      "id": "tep_013",
+      "banca": "COPERVE",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 14,
+      "enunciado": "CCC IFCE - Técnico (IF CE)/Assuntos Educacionais/2016 - As teorias crítico-reprodutivistas postulam não ser possível compreender a educação senão a partir dos seus condicionantes sociais. Relacione as teorias aos seus principais representantes. (T1) Teoria do sistema de ensino como violência simbólica. (T2) Teoria da escola como aparelho ideológico do estado. (T3) Teoria da escola dualista. ( ) Bourdieu e Passeron. ( ) Althusser. ( ) Establet. e Baudelot.",
+      "alternativas": {
+        "a": "T1; T3; T2.",
+        "b": "T1; T2; T3.",
+        "c": "T2; T1; T3.",
+        "d": "T2; T3; T1.",
+        "e": "T3; T2; T1."
+      },
+      "gabarito": "B",
+      "comentario": "T1 - O sistema de ensino como violência simbólica é uma teoria de Bourdie e Passeron. A violência simbólica\nseria a dominação de uma cultura elitizada sobre a cultura proletária.\nT2 - Teoria dos Aparelhos Ideológicos do Estado. Althusser propõe que o Estado dissemina sua ideologia pela\nescola oficial.\nT3 - Escola dualista. Esta Teoria propõe o conflito de duas ideologias: burguesa e a proletária.\nAlternativa B está correta.",
+      "id": "tep_014",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 15,
+      "enunciado": "VUNESP - Professor de Educação Básica (Pref Cerquilho) /Artes/2019 - Joana, ao estudar as relações entre educação e sociedade, encontrou em Libâneo (1985, cap. 6), uma explicação sobre as tendências pedagógicas na escola. Dentre as tendências por ele apresentadas, chamou-lhe atenção as progressistas, que “são as que concebem a educação como inserida no contexto das relações sociais; abrangem a pedagogia libertadora, a pedagogia libertária e a pedagogia crítico-social dos conteúdos. De certa forma, incluem, também, as teorias",
+      "alternativas": {
+        "a": "crítico-reprodutivistas”.",
+        "b": "escolanovistas”.",
+        "c": "humanistas”.",
+        "d": "tecnicistas”.",
+        "e": "liberais”."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. As teorias crítico-reprodutivistas pressupõem relações entre educação e\nsociedade, embora estas relações sejam mais determinísticas do ponto de vista da sociedade sobre a\neducação.\nA alternativa B está incorreta. A Pedagogia Nova não pressupõe relação entre educação e sociedade. Esta\nteoria é não-crítica.\nA alternativa C está incorreta. Não há classificação com o termo pedagogia humanista na teoria de Libâneo.\nA alternativa D está incorreta. A Pedagogia Tecnicista não pressupõe relação entre educação e sociedade.\nEsta teoria é não-crítica.\nA alternativa E está incorreta. A Pedagogia Liberal não pressupõe relação entre educação e sociedade. Esta\nteoria é não-crítica.",
+      "id": "tep_015",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 16,
+      "enunciado": "CPCON UEPB - Professor (Pref Portalegre) /Pedagogo/2017 - Sobre as tendências pedagógicas, marque a alternativa CORRETA:",
+      "alternativas": {
+        "a": "Na pedagogia liberal tecnicista os conteúdos são compreendidos como sendo informações, princípios científicos, leis etc., estabelecidos e ordenados numa sequência lógica e psicológica por especialistas. Tais conteúdos decorrem, assim, da ciência objetiva, contudo, por privilegiar a pesquisa, a investigação e a sistematização do conhecimento, promovem descobertas e autonomia de pensamento.",
+        "b": "Na tendência tradicional, a pedagogia liberal se caracteriza por acentuar o ensino não diretivo. Reforça o papel da escola na formação de atitudes. Os procedimentos didáticos, a competência na matéria, as aulas e livros têm importância relevante, face ao propósito de favorecer à pessoa um clima de autodesenvolvimento e realização pessoal, o que implica estar bem consigo próprio e com seus semelhantes.",
+        "c": "A tendência da pedagogia crítico-social dos conteúdos propõe uma síntese superadora das pedagogias tradicional e renovada, valorizando a ação pedagógica enquanto inserida na prática social concreta. Entende a escola como instituição responsável pela transmissão e reprodução do conhecimento acumulado pela sociedade. A assimilação desse conhecimento, por parte do aluno, é passiva, daí resulta o saber criticamente reelaborado.",
+        "d": "A pedagogia libertária abrange quase todas as tendências antiautoritárias em educação, entre elas, a anarquista, a psicanalista, a dos sociólogos, e também a dos professores progressistas. Dentre os inspiradores dessa tendência podem ser citados: Burrhus Frederic Skinner, Ivan Petrovich Pavlov, Célestin Freinet, Carl Rogers, e Lev Semyonovich Vygotsky.",
+        "e": "A pedagogia liberal defende a ideia de que a função da escola é preparar os indivíduos para o desempenho de papéis sociais, de acordo com suas aptidões individuais, por isso os indivíduos precisam aprender a se adaptar aos valores e às normas vigentes na sociedade de classes através do desenvolvimento da cultura individual."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A Pedagogia Tecnicista não pressupõe a compreensão de conteúdo, mas a\nmemorização. Além disso, esta tendência pedagógica não tem como objetivo autonomia de pensamento,\nmas resultados objetivos específicos.\nA alternativa B está incorreta. Pelo contrário, a Pedagogia Tradicional Liberal é extremamente diretiva, pois\no ensino é centrado no professor.\nA alternativa C está incorreta. A descrição desta alternativa é relativa a Pedagogia Histórico-Crítica e não da\nPedagogia Crítico-Social dos Conteúdos. Está última não tem como parâmetro a prática social concreta do\nestudante, mas apenas considera a realidade sociopolítica do aluno.\nA alternativa D está incorreta. Os autores Skinner e Vygotsky são da psicologia e não tem nenhuma relação\ncom pensadores anarquistas.\nA alternativa E está correta. A Pedagogia Liberal defende que todos os alunos podem progredir segundo\nsuas aptidões e talento. Há uma função redentora da educação, porém ingênua por não considerar as\nrelações sociais.",
+      "id": "tep_016",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 17,
+      "enunciado": "CEV UECE - Técnico (FUNECE)/Assuntos Educacionais/2017 - Os autores classificam as tendências pedagógicas em dois grupos: as de cunho liberal e as de cunho progressista. Atente ao que se diz a respeito das tendências pedagógicas e assinale com V o que for verdadeiro e com F o que for falso. ( ) Na Pedagogia Libertadora, a atividade de ensinar é centrada no professor, que expõe e interpreta a matéria. ( ) Os métodos de uma Pedagogia Crítico-Social dos Conteúdos não partem de um saber artificial, depositado a partir de fora, nem do saber espontâneo. ( ) Na Tendência Liberal Renovada Não-Diretiva, o professor é apenas um elo de ligação entre a verdade científica e o aluno, cabendo-lhe empregar o sistema instrucional previsto. ( ) Os conteúdos na Tendência Tradicional são separados da experiência do aluno e das realidades sociais, valendo pelo valor intelectual. A sequência correta, de cima para baixo, é:",
+      "alternativas": {
+        "a": "F, V, F, V.",
+        "b": "F, V, V, F.",
+        "c": "V, F, V, F.",
+        "d": "V, F, F, V."
+      },
+      "gabarito": "A",
+      "comentario": "A primeira afirmativa está incorreta. A Pedagogia Libertadora não é centrada no professor, mas no diálogo\nentre educador e educando.\nA segunda afirmativa está correta. A Pedagogia Crítico-Social dos Conteúdos não parte do saber espontâneo\nda Pedagogia Nova, nem da transmissão de conhecimentos de fora para dentro.\nA terceira afirmativa está incorreta. Na Pedagogia Renovada não há sistema instrucional de ensino a ser\naplicado. Pelo contrário, existe a necessidade de considerar a singularidade de cada sujeito.\nA quarta afirmativa está correta. A Pedagogia Tradicional separa a experiências do aluno fora de sala de\naula do saber adquirido formalmente na escola.\nA alternativa A está correta.",
+      "id": "tep_017",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 18,
+      "enunciado": "CEBRASPE (CESPE) - Professor de Nível Superior (Pref SL) /1º ao 5º ano/2017 - No que se refere às tendências pedagógicas e aos aspectos históricos a elas relacionados, assinale a opção correta.",
+      "alternativas": {
+        "a": "A concepção pedagógica progressista postula que a educação é um bem de produção e um bem de consumo cuja importância está relacionada ao processo de desenvolvimento econômico.",
+        "b": "Atualmente, o lema aprender a aprender, diferentemente do ideal da Escola Nova, relaciona-se à exigência de constante atualização decorrente da necessidade de ampliar a esfera da empregabilidade.",
+        "c": "Denominam-se tendências pedagógicas renovadas aquelas denominadas pelo amplo movimento de contraposição à pedagogia tradicional que se desenvolveu a partir do final do século XIX e se estendeu às primeiras duas décadas do século XX.",
+        "d": "A pedagogia da Escola Nova surgiu no contexto da década de 60 do século passado, que, marcada pela crítica à ordenação vigente e pela rebelião dos jovens, propiciou o surgimento das pedagogias não diretivas.",
+        "e": "Denominam-se contra-hegemônicas as pedagogias que, orientadas e subsidiadas pelo Banco Mundial, buscam intencional e sistematicamente colocar a educação a serviço das forças vigentes."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A descrição feita da educação como racionalização e produtiva é da Pedagogia\nTecnicista, isto é, teoria não-crítica. A concepção progressista realiza a crítica da formação pensando em\nmudar a sociedade.\nA alternativa B está correta. O lema \"aprender a aprender\" é uma proposição de nossa época. Não faz parte\ndo ideário da Escola Nova original.\nA alternativa C está incorreta. As pedagogias renovadas foram desenvolvidas a partir das primeiras décadas\ndo século XX. No Brasil a partir de 1930. Não há menção ao século XIX no desenvolvimento das Pedagogia\nRenovadas. Nesta época a influência era da pedagogia tradicional.\nA alternativa D está incorreta. A Escola Nova surgir após 1930 no Governo de Getúlio Vargas.\nA alternativa E está incorreta. Esta alternativa é uma contradição em si. Se as pedagogias não contrahegemônicas, como serão a favor das forças vigentes? Pelo contrário, as pedagogias não dominantes seriam\nem oposição às forças vigentes.",
+      "id": "tep_018",
+      "banca": "CEBRASPE (CESPE)",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 19,
+      "enunciado": "CONSULTEC - Professor (Ilhéus)/Séries Iniciais/2016 Sobre as teorias que fundamentam a prática pedagógica e tendo como referência os conhecimentos sobre o tema, analise as afirmativas a seguir. I. A Pedagogia Progressista incentiva a participação ativa dos alunos na sua própria formação, privilegiando técnicas didáticas que estimulam essa atitude. II. A Pedagogia Tradicional prioriza a racionalidade, a objetividade e a memorização, e, nessa prática, o professor repassa o conhecimento para um aluno participativo. III. A mudança de paradigmas na ciência e na sociedade refletiu na relação educador e educandos, exigindo que o professor transforme sua prática docente e sua relação com o aluno e com o conhecimento, buscando, por meio da educação, formar um sujeito crítico, criativo e questionador. IV. A Pedagogia defendida por Paulo Freire implica a concepção do ser humano como “histórico e inacabado” e, consequentemente, sempre pronto a aprender, e isso se reflete na necessidade da formação continuada dos professores. A alternativa em que todas as afirmativas são corretas é a",
+      "alternativas": {
+        "a": "I e II apenas.",
+        "b": "I, II e III.",
+        "c": "I, II e IV.",
+        "d": "I, III e IV.",
+        "e": "II, III e IV."
+      },
+      "gabarito": "D",
+      "comentario": "Afirmativa I está correta. Na Pedagogia Nova a educação é centrada no aluno e ativa.\nAfirmativa II está incorreta. Na Pedagogia Tradicional o aluno não é participativo, mas passivo. Apenas\nescuta as lições do professor. Não participa.\nAfirmativa III está correta. Esta proposta dialoga com a educação para complexidade do ser e do saber. é\nnecessário que os alunos se tornem críticos em relação ao mundo e busquem novas soluções para os desafios\natuais.\nAfirmativa IV está correta. Paulo Freire trabalha com o conceito de humanização do educando, tendo em\nvista a criança da própria história e coletiva.\nA alternativa D está correta.",
+      "id": "tep_019",
+      "banca": "CONSULTEC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 20,
+      "enunciado": "IDECAN - Professor de Ensino Básico, Técnico e Tecnológico (IF Baiano) /Licenciatura em Pedagogia/2019 O método utilizado pela Escola Nova no Brasil é centrado no aluno. A escola tem o papel de formadora de atitudes, preocupando-se mais com a parte psicológica do que com a social ou pedagógica. O grande pioneiro da Escola Nova no Brasil foi",
+      "alternativas": {
+        "a": "Paulo Freire.",
+        "b": "Skinner.",
+        "c": "Anísio Teixeira.",
+        "d": "José de Alencar.",
+        "e": "Monteiro Lobato."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Paulo Freire é idealizador da Pedagogia Libertadora.\nA alternativa B está incorreta. Skinner é da psicologia comportamental e não da Escola Nova.\nA alternativa C está correta. Anísio Teixeira foi um dos pioneiros da Escola Nova no Brasil\nA alternativa D está incorreta. José de Alencar foi um escritor. Sem relação com a Escola Nova.\nA alternativa E está incorreta. Monteiro Lobato foi um escritor. Sem relação com a Escola Nova.",
+      "id": "tep_020",
+      "banca": "IDECAN",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 21,
+      "enunciado": "IESES - Professor (Pref Palhoça) /Nível Superior/2018 - Os professores Saviani (1997) e Libâneo (1990) propõem a reflexão sobre as tendências pedagógicas. Mostrando que as principais tendências pedagógicas usadas na educação brasileira se dividem em duas grandes linhas de pensamento pedagógico. Tratandose das Tendências Liberais, podemos citar:",
+      "alternativas": {
+        "a": "Tradicional, Renovadora não Progressiva, Tecnicista e Libertadora.",
+        "b": "Tradicional, Renovadora Progressiva, Renovadora não diretiva (Escola Nova) e Libertária.",
+        "c": "Tradicional, Renovadora Progressiva, Renovadora não diretiva (Escola Nova) e Tecnicista.",
+        "d": "Tradicional, Renovadora, Histórico-Crítica e Libertadora."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Não existe o termo \"Renovadora não progressista\".\nA alternativa B está incorreta. A Pedagogia Libertária não é liberal, mas contra-hegemônica. Isso por que\nela é oriunda do pensamento anarquista na Europa e no Brasil.\nA alternativa C está correta. Todas as pedagogias liberais estão assinaladas nesta alternativa.\nA alternativa D está incorreta. A Pedagogia Histórico-Crítica e Libertadora não são liberais. Estas teorias da\neducação são pedagogia críticas.",
+      "id": "tep_021",
+      "banca": "IESES",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 22,
+      "enunciado": "FUNRIO - Professor (Pref Alta Floresta) /Atendimento Educacional Especializado/APAE e CEEDA/2019 A aprendizagem baseada na resolução de problemas está presente em uma tendência pedagógica:",
+      "alternativas": {
+        "a": "Liberal Tecnicista.",
+        "b": "Liberal Tradicional.",
+        "c": "Progressista Histórico-Crítica.",
+        "d": "Progressista Libertadora.",
+        "e": "Escola Nova."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. A Pedagogia Liberal Tecnicista propõe a aprendizagem pela memorização,\nracionalização e produtividade.\nA alternativa B está incorreta. A Pedagogia Tradicional Liberal é centrada no professor e nos conteúdos do\ncurrículo e não em resolução de problemas.\nA alternativa C está incorreta. A Pedagogia Histórico-Crítica é centra da prática social do aluno\nA alternativa D está correta. A Pedagogia Libertadora se propõe a trabalhar com situações problemas dos\nalunos.\nA alternativa E está incorreta. A Pedagogia Nova se propõe a trabalhar o aluno como ativo e dentro dos seus\ncentros de interesses.",
+      "id": "tep_022",
+      "banca": "FUNRIO",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 23,
+      "enunciado": "SELECON - Professor II (Pref SJQM) /Pedagogia/2019 - Segundo Gadotti (1987), o pensamento pedagógico brasileiro começa a ter autonomia apenas com o desenvolvimento das teorias:",
+      "alternativas": {
+        "a": "do otimismo pedagógico",
+        "b": "da igreja jesuítica",
+        "c": "do anarquismo",
+        "d": "da Escola Nova"
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Não há este termo otimismo pedagógico no que se refere ao desenvolvimento\nas teorias educacionais.\nA alternativa B está incorreta. Pelo contrário, os Jesuítas apenas replicaram o método da escolástica na\nEuropa.\nA alternativa C está incorreta. A corrente anarquista em termos de didática esteve muito próxima da\npedagogia tradicional em alguns pontos.\nA alternativa D está correta. Após 1930, o Brasil teve vários pensadores pedagógicos dentro da Escola Nova:\nAnísio Teixeira, Fernando Azevedo, Cecília Meireles.",
+      "id": "tep_023",
+      "banca": "SELECON",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 24,
+      "enunciado": "IBADE - Orientador Educacional (Pref Jaru) /2019 - Dentro do movimento escolanovista, desenvolveu se nos Estados Unidos uma de suas mais destacadas correntes, a Pedagogia Pragmática ou Progressivista, cujo principal representante é John Dewey. As ideias desse educador exerceram uma significativa influência no movimento da Escola Nova na América Latina e, particularmente, no Brasil. Formou se, então, o Movimento dos Pioneiros da Escola Nova, cuja atuação foi decisiva na formulação da política educacional, na legislação, na investigação acadêmica e na prática escolar. Esse movimento, no Brasil, foi liderado por:",
+      "alternativas": {
+        "a": "Paulo Freire.",
+        "b": "Lourenço Filho.",
+        "c": "Rubem Alves.",
+        "d": "Fernando de Azevedo.",
+        "e": "Anísio Teixeira."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Paulo Freire não é ideólogo da Escola Nova, mas da Pedagogia Libertadora.\nA alternativa B está incorreta. Embora esteja vinculado à Escola Nova, mas não foi uma liderança.\nA alternativa C está incorreta. Rubem Alves é um autor atual e não esteve vinculado do ponto de vista\nhistórico com a Escola Nova.\nA alternativa D está incorreta. Embora esteja vinculado à Escola Nova, mas não foi uma liderança.\nA alternativa E está correta. Anísio Teixeira foi a grande liderança da Escola Nova. O INEP (Instituto Nacional\nde Pesquisas Educacionais Anísio Teixeira) recebeu seu nome como um aspecto indubitável de sua liderança.",
+      "id": "tep_024",
+      "banca": "IBADE",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 25,
+      "enunciado": "CRESCER - Professor (Pref Pio IX) /Educação Infantil/2017 - A tendência pedagógica em que o professor facilita o desenvolvimento livre e espontâneo do aluno onde o mais importante não é o ensino e sim a aprendizagem é a:",
+      "alternativas": {
+        "a": "Comportamentalista.",
+        "b": "Liberal renovada ou escola nova.",
+        "c": "Social.",
+        "d": "Tradicional."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Este termo tem relação com a Pedagogia Tecnicista sendo que ela é\nextremamente diretiva.\nA alternativa B está correta. Desenvolvimento livre e espontâneo são características da Escola Nova.\nA alternativa C está incorreta. Não há esse termo na classificação de tendências pedagógicas.\nA alternativa D está incorreta. A Pedagogia Tradicional propõe o ensino centrado no professor e na aquisição\ndos conteúdos curriculares.",
+      "id": "tep_025",
+      "banca": "CRESCER",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 26,
+      "enunciado": "CS UFG - Pedagogo (IF GOIANO) /2019 - A Escola Nova, de acordo com Gadotti (2003), representou um dos movimentos mais vigorosos de renovação da educação depois da criação da escola pública burguesa. O educador norte-americano John Dewey, integrante do movimento escolanovista, propôs que o ensino deveria, prioritariamente, dar-se pela:",
+      "alternativas": {
+        "a": "ação.",
+        "b": "instrução.",
+        "c": "repetição.",
+        "d": "memorização."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Dewey propõe uma educação ativa, mas não questionava as sociedades\ndivididas em classes sociais. Por isso, a Pedagogia Nova é considerada burguesa.\nA alternativa B está incorreta. Dewey não é um representante da Pedagogia Tecnicista. A instrução é uma\nforma de pensar a educação que não tem relação com o pedagogo citado.\nA alternativa C está incorreta. Dewey não tem relação com a Pedagogia Tradicional.\nA alternativa D está incorreta. Dewey não tem relação com a Pedagogia Tradicional.",
+      "id": "tep_026",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 27,
+      "enunciado": "IDECAN - Técnico (UNIVASF)/Assuntos Educacionais/2019 - As tendências pedagógicas são concepções filosóficas estudadas ao longo da história da educação e que se dividem em duas grandes áreas: as tendências pedagógicas liberais e as tendências pedagógicas progressistas. Assinale a alternativa que identifica corretamente as tendências pedagógicas progressistas.",
+      "alternativas": {
+        "a": "Tradicional, libertadora e tecnicista.",
+        "b": "Tradicional, crítico-social dos conteúdos e libertária.",
+        "c": "Tecnicista, tradicional e libertária.",
+        "d": "Libertadora, tecnicista e libertária.",
+        "e": "Libertadora, libertária e crítico-social dos conteúdos."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. As tendências tradicional e tecnicista são liberais.\nA alternativa B está incorreta. A tendência tradicional é liberal.\nA alternativa C está incorreta. As tendências tradicional e tecnicista são liberais.\nA alternativa D está incorreta. A tendência tecnicista é liberal.\nA alternativa E está correta. Todas são progressistas.",
+      "id": "tep_027",
+      "banca": "IDECAN",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 28,
+      "enunciado": "COPEVE (UFAL) - Monitor (SEDUC AL) /Anos Iniciais/1º ao 5º Ano/2012 - Os professores Saviani (1997) e Libâneo (1990) propõem a reflexão sobre as tendências pedagógicas, mostrando que as principais tendências pedagógicas usadas na educação brasileira se dividem em duas grandes linhas de pensamento pedagógico. Elas são: Tendências Liberais e Tendências Progressistas. As opções abaixo indicam o grupo das Tendências Liberais, exceto",
+      "alternativas": {
+        "a": "Renovadora progressista.",
+        "b": "Libertária.",
+        "c": "Renovadora não diretiva.",
+        "d": "Tecnicista.",
+        "e": "Tradicional."
+      },
+      "gabarito": "B",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. A Escola Nova é liberal, pois é democrática só no discurso e dentro da sala de\naula.\nA alternativa B está incorreta. A tendência libertária é fundamentada no anarquismo e possui o bjetivo de\nmudança social. É progressista.\nA alternativa C está correta. A proposta de educação de Carl Rogers é liberal, pois não tem como objetivo a\nmudança social.\nA alternativa D está correta. A pedagogia tecnicista é liberal, pois pensa a formação para adaptação ao\nmercado de trabalho.\nA alternativa E está correta. A tendência tradicional é liberal, pois tem como objetivo a adaptação dos alunos\nà sociedade.",
+      "id": "tep_028",
+      "banca": "COPEVE (UFAL)",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 29,
+      "enunciado": "CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/Atividades/2017 - Julgue o próximo item, relativo à didática, formação de professores e tendências pedagógicas na educação. Nas tendências pedagógicas liberais, como a renovada não diretiva, a escolanovista e a tecnicista, predomina a abordagem voltada à liberdade e aos interesses individuais na sociedade.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "É questionável a abordagem da liberdade dentro das pedagogias liberais, pois não existe\nnenhum ser humano totalmente livre dentro do sistema capitalista. Por outro lado, esta é uma ilusão\nburguesa vendida como ideologia e/ou crença. Pode ser considerada correta dentro destes termos\nideológicos. Além disso, a assertiva está correta pela menção da liberdade individual, já que é um valor\ndentro do capitalismo.",
+      "id": "tep_029",
+      "banca": "CEBRASPE (CESPE)",
+      "tipo": "certo_errado"
+    },
+    {
+      "numero": 30,
+      "enunciado": "COMPEC UFAM - Técnico (UFAM)/Assuntos Educacionais/2013 - Embora haja dificuldades para o estabelecimento de uma síntese das diferentes tendências pedagógicas, cujas influências se refletem no ecletismo encontrado na prática escolar, a teoria de Libâneo (1990) as classifica em dois grupos. Segundo este autor, as tendências pedagógicas podem ser classificadas em:",
+      "alternativas": {
+        "a": "Progressistas e Não-Progressistas.",
+        "b": "Tradicionais e Não-Tradicionais.",
+        "c": "Liberais e Progressistas.",
+        "d": "Capitalistas e Neoliberais.",
+        "e": "Socialistas e Democráticas."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Não existe o termo Não-Progressistas. É utilizado o termo liberal.\nA alternativa B está incorreta. Não existe o termo Não-Tradicionais.\nA alternativa C está correta. A tendência liberal é favorável à manutenção da sociedade. A tendência\nprogressista é favorável à mudança social.\nA alternativa D está incorreta. Capitalismo e neoliberalismo viraram quase sinônimos nos tempos atuais.\nNão seria possível classificar as tendências pedagógicas dessa forma, já que quase não existiria diferenciação\nentre os dois conceitos.\nA alternativa E está incorreta. O uso do termo socialista não é utilizado pelo autor, pois as categorias\nnecessitam serem amplas.",
+      "id": "tep_030",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 31,
+      "enunciado": "CONSESP - Professor (Panorama)/Educação Infantil I/2017 - Aproximando-se muito do quadro teórico de Saviani, José Carlos Libâneo classifica as “tendências pedagógicas da prática escolar” em “liberais” e “progressistas”. (GADOTTI, Moacir, 2004, p. 17) Entre as alternativas a seguir estão as tendências pedagógicas. Dessa forma, identifique entre elas aquela que não faz parte das tendências liberais. I A teoria da margem da apreciação nacional poderá ser utilizada em substituição ao princípio da proporcionalidade.",
+      "alternativas": {
+        "a": "Tradicional.",
+        "b": "Renovada.",
+        "c": "Renovada não-diretiva.",
+        "d": "Tecnicista.",
+        "e": "Libertadora."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. É tendência liberal, pois pensa a adaptação dos indivíduos.\nA alternativa B está incorreta. É tendência liberal, a democratização fica só no discurso e dentro da sala de\naula.\nA alternativa C está incorreta. É tendência liberal, pois o objetivo é aprofundar a subjetividade dos\nestudantes. Não há perspectiva de mudança social.\nA alternativa D está incorreta. É tendência liberal, pois o objetivo é a formação para o mercado de trabalho.\nA alternativa E está correta. É tendência progressista, pois a pedagogia de Paulo Freire tem como objetivo a\ntransformação da sociedade.",
+      "id": "tep_031",
+      "banca": "CONSESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 32,
+      "enunciado": "CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/Administração/2017 - Com relação à influência do contexto sociocultural nas tendências pedagógicas, julgue o item a seguir. No Brasil, há autores que consideram que as principais tendências pedagógicas pertencem a duas categorias: as liberais, em uma perspectiva mais democrática de educação, e as progressistas, fundamentadas em uma análise crítica da sociedade. A adoção tanto de uma quanto de outra categoria nos sistemas de ensino brasileiros resultou na superação do modelo que reproduz a divisão social do trabalho.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A tendência liberal não fundamenta a superação da divisão social do trabalho, pois o\ncapitalismo aprofunda estas segmentações do mundo corporativo e industrial.",
+      "id": "tep_032",
+      "banca": "CEBRASPE (CESPE)",
+      "tipo": "certo_errado"
+    },
+    {
+      "numero": 33,
+      "enunciado": "VUNESP - Professor (Pref Birigui) /Educação Infantil/2018 - Paulo Freire testemunha, em sua obra “Educação como prática da liberdade” (2014), uma visão dialética, de interdependência, entre educação e sociedade, analisando a transição histórica, política e cultural do Brasil. Ele argumenta em favor de uma educação que:",
+      "alternativas": {
+        "a": "dialogue com todos, valorize as diferenças e os saberes de senso comum, pois as pessoas, em sua maioria, não atingem a consciência crítica e o saber sistematizado, mas devem ser respeitadas e aprender cada qual no seu limite.",
+        "b": "liberte os homens de explicações ideológicas e promova, por meio do diálogo, uma leitura de mundo que os eleve da consciência ingênua para a crítica, da condição de massa de manobra para a de sujeito que se integra à sociedade e a transforma.",
+        "c": "integre as pessoas na sociedade, de forma produtiva e responsável, cada qual com sua cultura, com vistas a um futuro melhor para todos, com preservação da natureza e eliminação da desigualdade econômica e de instrução.",
+        "d": "pratique o diálogo, a liberdade de ensinar e de aprender, fazendo de todos e de cada um senhor de suas decisões e responsável por suas consequências como único meio de construir uma democracia no Brasil, cuja tradição política é autoritária.",
+        "e": "liberte os educandos de explicações de senso comum, substituindo-as por conceitos científicos e infundindo-lhes responsabilidade pela transformação da realidade brasileira e superação da própria pobreza material e política."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, Paulo Freire acreditava que todas as pessoas podem atingir a\nconsciência crítica.\nA alternativa B está correta. Paulo freire pensa a libertação com o desenvolvimento da consciência crítica\natravés do diálogo.\nA alternativa C está incorreta. Paulo Freire não pensa uma educação produtiva, mas uma educação\ntransformadora.\nA alternativa D está incorreta. Paulo Freire acreditava que as decisões não são individuais. As decisões são\ncoletivas.\nA alternativa E está incorreta. Paulo Freire acreditava no respeito à diversidade cultural. Ele não fazia\napologia que a ciência pode tudo.",
+      "id": "tep_033",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 34,
+      "enunciado": "DIPS UFLA - Técnico (UFLA)/Assuntos Educacionais/2018 - Saviani (1985), na obra “Escola e Democracia”, apresenta as principais teorias pedagógicas existentes na educação brasileira, as contribuições e limites de cada uma delas. Propõe o desenvolvimento de uma teoria crítica que possa captar a natureza específica da educação e a busca pela compreensão das complexas mediações pelas quais se dá sua inserção contraditória na sociedade capitalista. Considerando as ideias expressas nessa obra, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "a": "Compreende-se que a Escola Nova traz a perspectiva de democracia e renovação em contraposição à escola tradicional, configurando-se como uma teoria de igualdade e justiça.",
+        "b": "As teorias pedagógicas brasileiras, a partir da análise feita pelo autor, podem ser classificadas em dois grandes grupos: as teorias não críticas e as teorias crítico-reprodutivistas.",
+        "c": "A Pedagogia Histórico-Crítica é proposta como uma teoria dialética, cujo intuito é o de manter continuamente a vinculação entre educação e sociedade, tomando professores e alunos como agentes sociais, a serviço da transformação social.",
+        "d": "A educação, numa perspectiva crítica, é compreendida como uma atividade mediadora no seio da prática social global, e busca, de forma dialética, a transformação do sujeito e das relações sociais numa proposta de emancipação e mudança da realidade."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está incorreta. A Escola Nova não é uma teoria da igualdade e da justiça, pois ela não tem\ncomo objetivo a transformação social. Para esta tendência, a democracia fica restrita no âmbito do discurso\ne na sala de aula.\nA alternativa B está correta. Saviani define estas duas categorias: não críticas e crítico-reprodutivista.\nA alternativa C está correta. É uma teoria dialética, pois pensa de forma equilibrada a relação educação e\nsociedade.\nA alternativa D está correta. É uma teoria crítica, pois pensa de forma equilibrada a relação educação e\nsociedade.",
+      "id": "tep_034",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 35,
+      "enunciado": "CONTEMAX - Professor A (Pref Lucena)/Anos Iniciais/2019 “A educação é dividida pelo autor em duas grandes correntes: a concepção bancária e a concepção problematizadora. Por educação bancária é entendida a educação tradicional que reflete uma sociedade opressora e discriminatória no qual os alunos são vistos como recipientes vazios que docilmente devem receber os depósitos ou conteúdos programáticos pré-definidos, sendo os educadores, neste contexto, depositantes de conteúdos. Deste ato de depositar, como depositar valores em um banco financeiro, advém o nome de educação bancária. Uma visão de educação mais humana é levantada pelo autor em contraposição à educação bancária. Tal visão ou concepção é tida como sendo problematizadora à medida que a mesma é uma constante busca que visa com que os educandos transformem o mundo em que vivem. Para tanto, os mesmos devem compreender a realidade que os cerca através de uma visão crítica da mesma, respeitando-se sua cultura e história de vida. Tal concepção educacional baseia-se na estimulação da criatividade dos educandos e numa relação de simbiose entre educador e educando na medida em que procurar misturar os papéis dos mesmos, pois crê o autor que ninguém educa ninguém e ninguém se educa a si mesmo, mas os homens educam-se em comunhão, mediatizados pelo mundo”. Assinale a alternativa correta sobre a proposta pedagógica de Paulo Freire que é analisada no texto:",
+      "alternativas": {
+        "a": "Pedagogia Bancária.",
+        "b": "Pedagogia Libertadora.",
+        "c": "Pedagogia Militar.",
+        "d": "Pedagogia Neoliberal.",
+        "e": "Pedagogia Moderno Futurista."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O sinônimo de Pedagogia Bancária é Pedagogia Tradicional.\nA alternativa B está correta. Este é o termo correto.\nA alternativa C está incorreta. A Pedagogia Militar é tecnicista.\nA alternativa D está incorreta. A Pedagogia neoliberal é tecnicista.\nA alternativa E está incorreta. Termo totalmente inadequado.",
+      "id": "tep_035",
+      "banca": "CONTEMAX",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 36,
+      "enunciado": "FGV - Analista Técnico (MPE BA) /Pedagogia/2017 - “De modo semelhante ao que ocorreu no trabalho fabril, pretendeu-se a objetivação do trabalho pedagógico. Buscou-se, então, com base em justificativas teóricas derivadas da corrente filosófico-psicológica do behaviorismo, planejar a educação de modo a dotá-la de uma organização racional capaz de minimizar as interferências subjetivas que pudessem pôr em risco sua eficiência”. (SAVIANI, D. As concepções pedagógicas na história da educação brasileira. In: Lombardi, J.C.; Saviani, D.; Nascimento, M. (Orgs.). Navegando na história da educação brasileira. Campinas: HISTEDBR, 2016. p. 60-75). O trecho em destaque se refere à pedagogia:",
+      "alternativas": {
+        "a": "tradicional;",
+        "b": "libertária;",
+        "c": "tecnicista;",
+        "d": "não diretiva;",
+        "e": "jesuíta."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A pedagogia tradicional não é comportamental. Ela é essencialista.\nA alternativa B está incorreta. A pedagogia libertária tem como fundamento o anarquismo.\nA alternativa C está correta. A pedagogia tecnicista possui como fundamento a psicologia comportamental\n(behaviorismo)\nA alternativa D está incorreta. A pedagogia renovada não diretiva não possui relação com a psicologia\ncomportamental, pois a psicologia que a dá fundamento é do autor Carl Rogers.\nA alternativa E está incorreta. A pedagogia jesuíta é tradicional. Ela é essencialista.",
+      "id": "tep_036",
+      "banca": "FGV",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 37,
+      "enunciado": "AOCP - Professor (Pref Feira de Santana) /Educação Física/2018 - A construção do conhecimento escolar é vista de modo distinto, dependendo da dimensão epistemológica que fundamente o trabalho docente. Sobre o papel do educador e do educando na construção do conhecimento escolar, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Na escola tradicional, a pedagogia se caracteriza por acentuar o ensino matemático, no qual o aluno é educado para atingir sua plena realização como pessoa, cooperando com os colegas para a construção do conhecimento. Os conteúdos, os procedimentos didáticos, a relação professor-aluno não têm nenhuma relação com o cotidiano do aluno e muito menos com as realidades sociais.",
+        "b": "Na escola tradicional, a autoridade do conhecimento reside no aluno e exige uma atitude receptiva/passiva do professor perante o conteúdo escolar.",
+        "c": "Na escola tecnicista, a relação com o conhecimento é subjetiva, o professor é o mediador das informações e o aluno deve fixá-las.",
+        "d": "Na escola multiculturalista, não existe autoridade do conhecimento nem relação de poder, todos sabem algo e devem compartilhar seu saber com os colegas e professores na escola. É pelo compartilhar dos saberes comuns que se constrói o conhecimento. Assim, todos são responsáveis pela construção do conhecimento escolar.",
+        "e": "Na escola progressista crítica, o papel do aluno é ativo, ele participa da construção do conhecimento e o professor é o mediador entre o saber do aluno e o conhecimento científico."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A escola tradicional não tem relação com o ensino da matemática, mas com\na centralidade do docente no papel educativo.\nA alternativa B está incorreta. A autoridade na escola tradicional reside no professor.\nA alternativa C está incorreta. A pedagogia tecnicista possui uma relação objetiva com o conhecimento.\nA alternativa D está incorreta. O multiculturalismo não retira a autoridade do conhecimento do professor.\nA alternativa E está correta. O sentido de ativo aqui é diferente da Escola Nova. Ativo na construção do\nconhecimento e não como centralidade do processo educativo. O papel do professor está correto: mediador.",
+      "id": "tep_037",
+      "banca": "AOCP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 38,
+      "enunciado": "FUNDATEC - Psicopedagogo (Pref Ronda Alta) /2019 - O docente assume um papel ativo na formação de seus alunos, auxiliando e incitando a reconstrução dos esquemas de pensamento, sentimento e comportamento de cada indivíduo. Essa concepção inclui:",
+      "alternativas": {
+        "a": "A manipulação do pensamento estudantil.",
+        "b": "O despertar da ativa participação intelectual do próprio educando.",
+        "c": "O treino das habilidades sociais.",
+        "d": "A quebra de paradigmas culturais.",
+        "e": "O conceito de educação integral."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A manipulação não possui relação com a formação intelectual dos alunos.\nA alternativa B está correta. O sentido de ativo está na formação intelectual dos estudantes.\nA alternativa C está incorreta. A formação intelectual não possui relação com o treino de habilidades.\nA alternativa D está incorreta. A formação intelectual não possui relação com paradigmas culturais.\nA alternativa E está incorreta. A formação intelectual não possui relação com a educação integral nesta\nquestão.",
+      "id": "tep_038",
+      "banca": "FUNDATEC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 39,
+      "enunciado": "COPESE-UFT - Professor (Palmas)/Nível II/Pedagogia - Magistério/2013 - No conceito de educação problematizadora de Paulo Freire está implícito uma concepção de conhecimento como: I. Constituído de informações e fatos a serem transferidos aos alunos. II. Ato intencional dirigido para alguma coisa. III. Ato de transmissão do conhecimento historicamente acumulado pela humanidade. IV. Ato que envolve intercomunicação, intersubjetividade. Assinale a opção CORRETA.",
+      "alternativas": {
+        "a": "Todos os itens estão corretos.",
+        "b": "Apenas o item II está correto.",
+        "c": "Apenas os itens II e IV estão certos.",
+        "d": "Apenas o item IV está correto."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. Paulo Freire é contrário ao processo de memorização na educação.\nAfirmativa II está correta. A intencionalidade define o fenômeno educativo.\nAfirmativa III está incorreta. Esta é a definição da Pedagogia Histórico-Crítica. Não é a preocupação de Paulo\nFreire.\nAfirmativa IV está correta. A descrição da assertiva possui relação com a dialogicidade de Paulo Freire.\nAlternativa correta letra C.",
+      "id": "tep_039",
+      "banca": "COPESE",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 40,
+      "enunciado": "CEBRASPE (CESPE) - Especialista em Assistência Penitenciária/Pedagogia/2013 - Julgue o item a seguir, relativo à concepção progressista de Paulo Freire aplicada à educação de jovens e adultos. O ponto central do conceito de educação bancária consiste na conscientização e no comprometimento do aluno.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Educação bancária não possui conscientização. Educação bancária pressupões transferência\nde informações ao aluno. Processo mnemônico.",
+      "id": "tep_040",
+      "banca": "CEBRASPE (CESPE)",
+      "tipo": "certo_errado"
+    },
+    {
+      "numero": 41,
+      "enunciado": "VUNESP - Especialista em Saúde I (Pref Cubatão)/Pedagogo/2012 - Considere as características relacionadas ao conceito de educação bancária, de Paulo Freire, apresentadas a seguir. I. Na educação bancária, as relações são fundamentalmente narradoras e dissertadoras. II. Na educação bancária, os conteúdos são narrados e ouvidos passivamente. III. Na educação bancária, a realidade é estática e a memorização dos conteúdos é mecânica. IV. Na educação bancária, o ato educativo resume-se em depositar. Com relação às características da concepção bancária da educação como instrumento de opressão, apresentadas por Paulo Freire, está correto o contido em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "II, apenas.",
+        "c": "III, apenas.",
+        "d": "IV, apenas.",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A educação bancária é passiva. Estão corretos os termos narradoras e dissertadora\n(do docente).\nAfirmativa II está correta. A educação bancária é passiva.\nAfirmativa III está correta. A educação bancária é baseada na valorização da memória do aluno.\nAfirmativa IV está correta. A educação bancária funciona como um depósito: o professor transfere o saber\no aluno. No dia da prova, ele tira um extrato para ver se o aluno reteve o conhecimento.\nAlternativa correta letra E.",
+      "id": "tep_041",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 42,
+      "enunciado": "IBADE - Orientador Educacional (Pref Jaru)/2019 - No livro “Pedagogia do Oprimido”, Paulo Freire desenvolve o conceito de “educação bancária”, uma educação rígida, autoritária e antidialógica, na qual o professor tem o papel de transferir o seu saber para alunos dóceis e passivos, como se eles tivessem a cabeça oca, com gavetas para armazenar cada conteúdo separadamente. A educação proposta por Paulo Freire é flexível, participativa e dialógica. Professor e alunos, buscam, juntos, “em comunhão”, construir conhecimento valorizando o que já sabem. O educador dá à sua proposta o nome de Educação:",
+      "alternativas": {
+        "a": "independente.",
+        "b": "redentora.",
+        "c": "problematizadora.",
+        "d": "liberal.",
+        "e": "comunitária."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Não é utilizado este termo.\nA alternativa B está incorreta. A pedagogia tradicional é redentora.\nA alternativa C está correta. A problematização faz parte da metodologia freiriana.\nA alternativa D está incorreta. Paulo Freire não possui relação com a pedagogia liberal. Ele é progressista.\nA alternativa E está incorreta. Não é utilizado este termo.",
+      "id": "tep_042",
+      "banca": "IBADE",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 43,
+      "enunciado": "CETAP - Professor (Pref Tailândia) /Ensino Fundamental Anos Finais/2015 - Sobre a pedagogia de Paulo Freire, NÃO é CORRETO afirmar que:",
+      "alternativas": {
+        "a": "a pedagogia como ato educacional e político seria o caminho que possibilitaria a prática da liberdade.",
+        "b": "a concepção de educação é vista como instrumento de libertação, como processo dialético de conscientização.",
+        "c": "a condição de pobreza e analfabetismo em que o aprendiz se encontrava poderia colocá-lo numa condição de alienação e massificação.",
+        "d": "o autor defendia uma prática educativa que só pode alcançar efetividade e eficácia na medida da participação livre e crítica dos educandos.",
+        "e": "o conceito de educação de Paulo Freire condiz com os conceitos de transmissão de hábitos bons ou virtudes humanizadoras para que o homem cresça em ciência e saber."
+      },
+      "gabarito": "E",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. Paulo Freire afirma a relação entre educação e política.\nA alternativa B está correta. Paulo Freire coloca a conscientização como objetivo de sua pedagogia.\nA alternativa C está correta. A alienação possui relação com a ignorância acadêmica.\nA alternativa D está correta. A participação é um elemento chave para a construção da criticidade.\nA alternativa E está incorreta. Paulo Freire define educação como um ato político com o objetivo da\nconscientização.",
+      "id": "tep_043",
+      "banca": "CETAP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 44,
+      "enunciado": "CONSULPLAN - Professor (Ibiraçu)/MAMP B/Matemática/2015 - “De acordo com Libâneo (2002), as tendências pedagógicas originaram‐se de movimentos sociais e filosóficos, num dado momento histórico, que propiciam também a união das práticas didático‐pedagógicas, com os desejos e aspirações da sociedade de forma a favorecer o conhecimento.” Acerca destas tendências pedagógicas, assinale a afirmativa correta.",
+      "alternativas": {
+        "a": "Dividem‐se em pedagogia liberal e pedagogia progressista.",
+        "b": "A pedagogia liberal é dividida em tendências tradicional, renovada progressista, renovada não diretiva e libertária.",
+        "c": "As tendências liberais partem da análise crítica das realidades sociais que sustentam as finalidades sociopolíticas da educação.",
+        "d": "Nas tendências da pedagogia progressista, os conteúdos são conhecimentos e valores sociais acumulados através dos tempos e repassados alunos como verdades absolutas."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O autor define apenas em dois grupos principais: liberal e progressista.\nA alternativa B está incorreta. A pedagogia libertária não é liberal. A pedagogia libertária é progressista.\nA alternativa C está incorreta. As tendências liberais não parte da análise crítica da realidade, pois não\npretendem transformá-la.\nA alternativa D está incorreta. Pelo contrário, na tendência progressista os conteúdos são passados como\nhistoricamente definidos e passíveis de mudanças.",
+      "id": "tep_044",
+      "banca": "CONSULPLAN",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 45,
+      "enunciado": "IBFC - Professor de Educação Básica (SEDF)/Artes Cênicas - Teatro/2013 - No que concerne aos aspectos pedagógicos e sociais da prática educativa, Saviani (1985, 1997, 2005, 2006, 2007) e Libâneo (1983,1990,1994, 2006) propõem uma reflexão sobre tendências pedagógicas. De acordo com a bibliografia referente à temática, julgue os itens a seguir: I. A tendência tradicional foi a primeira a ser instituída no Brasil. Nesta, o professor é a figura central e o aluno é um receptor passivo dos conhecimentos considerados como verdades absolutas. Há repetição de exercícios com exigência de memorização. II. A Tendência Renovadora Não-Diretiva é caracterizada por centralizar-se no aluno, de modo a valorizar as tentativas experimentais, a pesquisa, a descoberta e o estudo do meio, tendo no professor a figura de um facilitador. Já na tendência Renovadora Progressiva, que tem em Anísio Teixeira o grande pioneiro, por meio da Escola Nova no Brasil, o método é centrado no aluno e a escola tem o papel de formadora de atitudes, preocupando-se mais com a parte psicológica do que com a social ou pedagógica. III. A tendência Tecnicista (ou behaviorista) tem em Skinner o expoente principal. Neste método de ensino, o aluno é visto como depositário passivo dos conhecimentos, que devem ser acumulados através de associações. O professor é quem deposita os conhecimentos, pois ele é um especialista na aplicação de manuais, sendo sua prática controlada. Tal tendência articula-se diretamente com o sistema produtivo, com o objetivo de aperfeiçoar a ordem social vigente, que é o capitalismo, formando mão de obra especializada para o mercado de trabalho. IV. No que tange às Tendências Progressistas, tem-se que partem de uma análise crítica das realidades sociais, sustentam implicitamente as finalidades sociopolíticas da educação e são condizentes com as ideias implantadas pelo capitalismo. O desenvolvimento e popularização da análise marxista da sociedade possibilitou o desenvolvimento da tendência progressista, que se ramifica em três correntes: libertadora, libertária, histórico-crítica. É correto o que se afirma em:",
+      "alternativas": {
+        "a": "todas afirmativas são corretas.",
+        "b": "II, III, apenas.",
+        "c": "I, III, apenas.",
+        "d": "I, III, IV, apenas."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A pedagogia tradicional foi aplicada pelos jesuítas no início da colonização do\nBrasil. O papel do aluno é passivo. A repetição e a memorização são as principais características desta\ntendência.\nAfirmativa II está incorreta. O termo a ser utilizado corretamente é tendência liberal renovadora\nprogressivista.\nAfirmativa III está correta. A tendência tecnicista possui o foco do aluno para o mercado de trabalho, bem\ncomo possui relação com a psicologia comportamental.\nAfirmativa IV está incorreta. Pelo contrário, não são condizentes com o capitalismo, pois as tendência\nprogressistas querem a mudança social.\nAlternativa correta letra C.",
+      "id": "tep_045",
+      "banca": "IBFC",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 46,
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref F Vasconcelos) /Artes/2018 - No capítulo 6 da obra Democratização da Escola Pública, Libâneo (1985) trata das tendências pedagógicas para introduzir “a pedagogia crítico-social dos conteúdos”. Conforme essa tendência, a educação está inserida no movimento da prática social global como tarefa crítico-transformadora, e, daí, segundo o autor, decorrem duas consequências práticas para o trabalho docente. Uma delas é que esse trabalho deve ser contextualizado histórica e socialmente, isto é, articular ensino e realidade. A outra diz respeito ao trabalho docente ser um processo simultâneo de transmissão/assimilação ativa, no qual o professor intervém trazendo o conhecimento sistematizado, e o aluno",
+      "alternativas": {
+        "a": "deve reproduzir exatamente o que lhe foi transmitido.",
+        "b": "desenvolve a apropriação espontânea a partir de sua criatividade.",
+        "c": "acaba por ter uma mera formação política com o conhecimento ensinado.",
+        "d": "é capaz de reelaborá-lo criticamente, com os recursos que traz para a situação de aprendizagem.",
+        "e": "precisa contestar grande parte dos saberes transmitidos na escola para vir a ser vitorioso no mundo atual."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Este papel de reprodução do conhecimento é próprio da pedagogia\ntradicional.\nA alternativa B está incorreta. A espontaneidade é uma característica da Escola Nova.\nA alternativa C está incorreta. O uso do termo “mera” inviabilizou a alternativa.\nA alternativa D está correta. O papel do aluno está em receber os conteúdos e fazer a ligação com a sua\nrealidade social.\nA alternativa E está incorreta. Não cabe ao aluno a contestação pura e simples dos saberes transmitidos.",
+      "id": "tep_046",
+      "banca": "VUNESP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 47,
+      "enunciado": "CEBRASPE (CESPE) - Analista Legislativo (CAM DEP) /Área XV/Consultor Legislativo/2014 - Como uma espécie de coroamento do processo que vinha se desenvolvendo desde a criação da Associação Brasileira de Educação (ABE), em 1924, foi lançado em 1932 o Manifesto dos Pioneiros da Educação Nova. Dirigido “ao povo e ao governo”, esse manifesto propunha-se a realizar a reconstrução social pela reconstrução educacional. D. Saviani. O legado educacional do “Longo Século XX” brasileiro. In D. Saviani; J. Almeida; R. Souza.; V. Valdemarin. O legado educacional do século XX no Brasil. Campinas, SP: Autores Associados, 2004, p. 33 (com adaptações). A partir do texto acima, julgue o item a seguir, relativo ao pensamento educacional brasileiro. A centralidade do aluno no processo educativo, em uma perspectiva de aprendizagem que valoriza a vinculação dos saberes escolares com a vida cotidiana, a experiência prática e o inquérito e a reflexão crítica são aspectos integrantes da filosofia subjacente à proposta de uma Escola Nova, tal como defendida por Anísio Teixeira.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Anísio Teixeira é um autor escolanovista. Dessa forma, é coerente o processo educativo estar\nvinculado ao cotidiano do aluno.",
+      "id": "tep_047",
+      "banca": "CEBRASPE (CESPE)",
+      "tipo": "certo_errado"
+    },
+    {
+      "numero": 48,
+      "enunciado": "INTEGRI BRASIL - Professor (Pref Salesópolis)/Ensino Fundamental I/PEB I/2015 - Saviani em “A pedagogia histórico-crítica”, afirma que a escola não é o único local para a educação e saber, mas é nela que todo aquele conhecimento sistematizado será:",
+      "alternativas": {
+        "a": "compartilhado e sociabilizado.",
+        "b": "individualizado e normatizado.",
+        "c": "normatizado e normalizado.",
+        "d": "normatizado e compartilhado."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Para a PHC (Pedagogia Histórico-Crítica) a escola é o local de difusão do\nconhecimento.\nA alternativa B está incorreta. Para a PHC (Pedagogia Histórico-Crítica) a escola é o local de difusão do\nconhecimento. Não cabe a individualização dos saber nesta pedagogia.\nA alternativa C está incorreta. O uso do termo “normatizado” inviabilizou a alternativa.\nA alternativa D está incorreta. O uso do termo “normatizado” inviabilizou a alternativa.",
+      "id": "tep_048",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 49,
+      "enunciado": "UPA - Professor (Pref Caririaçu) /Educação Básica II/Ciências Biológicas/2012 - Os professores Saviani (1997) e Libâneo (1990) propõem a reflexão sobre as tendências pedagógicas, mostrando que as principais tendências pedagógicas usadas na educação brasileira se dividem em duas grandes linhas de pensamento pedagógico. Elas são:",
+      "alternativas": {
+        "a": "Tradicional e libertária.",
+        "b": "Progressista e tecnicista.",
+        "c": "Liberal e progressista.",
+        "d": "Libertária e crítico-social."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Estas são pedagogias dentro das tendências.\nA alternativa B está incorreta. O uso do termo “tecnicista” inviabilizou a alternativa.\nA alternativa C está correta. São as duas linhas do pensamento pedagógico para Libâneo.\nA alternativa D está incorreta. Estas são pedagogias dentro das tendências.",
+      "id": "tep_049",
+      "banca": "UPA",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 50,
+      "enunciado": "FUNRIO - Pedagogo (IF Baiano) /2016 - “A contradição entre as classes marca a questão educacional e o papel da escola. Quando a sociedade capitalista tende a generalizar a escola, esta generalização aparece de forma contraditória, porque a sociedade burguesa preconizou a generalização da educação escolar básica.” (SAVIANI, Dermeval. O trabalho como princípio educativo frente as novas tecnologias. In: Novas tecnologias, trabalho e educação. Petrópolis /RJ: Vozes, 1994. O trecho acima de Dermeval Saviani chama atenção e analisa a escola no prisma da sociedade burguesa. Tal sociedade entende ser função da escola",
+      "alternativas": {
+        "a": "estabelecer uma Educação básica forte e coerente para todas as classes sociais.",
+        "b": "incentivar uma escola pragmática, adestradora e instrumental para toda a população.",
+        "c": "criar uma escola para as elites de formação profissional restrita e voltada para o mercado de trabalho.",
+        "d": "fortalecer o ensino fundamental e médio profissionalizando a todos os alunos.",
+        "e": "perpetuar a escola clássica, formativa e de ampla base científica e cultural para as classes dirigentes."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A pedagogia tradicional é elitista e não popular.\nA alternativa B está incorreta. A escola pragmática é uma tendência da pedagogia Nova. A descrição do\nenunciado pressupõe a pedagogia tradicional.\nA alternativa C está incorreta. A formação profissional é uma tendência da pedagogia tecnicista. A descrição\ndo enunciado pressupõe a pedagogia tradicional.\nA alternativa D está incorreta. A formação profissional é uma tendência da pedagogia tecnicista. A descrição\ndo enunciado pressupõe a pedagogia tradicional.\nA alternativa E está correta. A pedagogia tradicional é elitista, pois visa manter os privilégios sociais das\nclasses dominadoras.",
+      "id": "tep_050",
+      "banca": "FUNRIO",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 51,
+      "enunciado": "FUNDEP - Pedagogo (IFNMG)/2014 - Tendo como base as reflexões feitas por Saviani (2005) sobre as concepções pedagógicas na história da educação brasileira, é INCORRETO afirmar:",
+      "alternativas": {
+        "a": "que em 1549, os primeiros colégios implantados pelos jesuítas no Brasil tiveram incentivo e subsídio da coroa portuguesa.",
+        "b": "que a implantação das reformas pombalinas da instrução pública, contrapondo ao predomínio das ideias religiosas e baseadas nas ideias laicas influenciadas pelo Iluminismo, estabelece o privilégio do Estado em matéria de instrução, a partir de 1759.",
+        "c": "que em 1932, o movimento dos renovadores lançou o Manifesto dos Pioneiros da Educação Nova, defendendo a influência da Igreja Católica no ensino.",
+        "d": "que na década de 60, a teoria do capital humano foi desenvolvida e divulgada, tendo como consequência o entendimento da educação como algo decisivo do ponto de vista do desenvolvimento econômico, um bem de produção."
+      },
+      "gabarito": "C",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. Os colégios jesuítas apoio por parte da Coroa Portuguesa.\nA alternativa B está correta. As reformas pombalinas possuíram influência do Iluminismo. O período era do\nAbsolutismo Esclarecido.\nA alternativa C está incorreta. A Escola Nova não possuir relação com a Igreja Católica.\nA alternativa D está correta. A teoria do capital humano está descrita de forma correta, bem como a\ncontextualização histórica.",
+      "id": "tep_051",
+      "banca": "FUNDEP",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 52,
+      "enunciado": "CVEST IFPE - Auxiliar (IF PE) /Assuntos Educacionais/2014 - No que se refere à função social da escola, Demerval Saviani (2001) afirma que existem duas grandes divisões nas teorias educacionais. Para uma delas, a “Visão da educação como instrumento de equalização social, portanto, de superação da marginalidade, na qual a sociedade é concebida como essencialmente harmônica, tendendo à integração de seus membros”. Esta visão pertence à teoria",
+      "alternativas": {
+        "a": "empirista.",
+        "b": "freiriana.",
+        "c": "crítica.",
+        "d": "crítico social dos conteúdos.",
+        "e": "não-crítica."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Não é utilizado este termo pelo autor.\nA alternativa B está incorreta. Paulo Freire não é favorável à equalização social, mas na sua transformação.\nA alternativa C está incorreta. A visão crítica é favorável à educação para a mudança social. O enunciado\ndescreve a manutenção das relações sociais.\nA alternativa D está incorreta. Esta pedagogia é favorável à transformação social.\nA alternativa E está correta. A vertente não-crítica pretende a manutenção da ordem social vigente.",
+      "id": "tep_052",
+      "banca": "",
+      "tipo": "multipla"
+    },
+    {
+      "numero": 53,
+      "enunciado": "IBFC - Professor de Educação Básica (SEDF)/Atividades/2013 - De acordo com a teorização de Saviani (1984) nas abordagens do processo de ensino e aprendizagem, julgue os itens a seguir: I. A Pedagogia Tradicional, a Pedagogia Nova e a Pedagogia Tecnicista são exemplos de teorias críticoreprodutivistas. II. A escola dualista enquadra-se na teoria crítico-reprodutivista. III. A escola, enquanto aparelho ideológico do Estado, e o sistema de ensino, enquanto violência simbólica, enquadram-se nas teorias críticos-reprodutivistas. IV. A teoria não crítica engloba as abordagens tradicional e comportamentalista, enquanto as abordagens humanista, cognitivista e sociocultural são exemplos de teorias crítico-reprodutivistas. É correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, II, IV, apenas.",
+        "b": "II, III, apenas.",
+        "c": "II, III, IV, penas.",
+        "d": "I, II, III e IV."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. São exemplos de pedagogias não críticas, pois não pensam a transformação da\nsociedade.\nAfirmativa II está correta. A escola dualista é crítico-reprodutivista, pois pensa uma sobreposição da\nsociedade sobre a escola.\nAfirmativa III está correta. A escola como aparelho ideológico do Estado é crítico-reprodutivista.\nAfirmativa IV está incorreta. Não existe a teoria comportamentalista nas tendências pedagógicas. O certo\nera ter utilizado o termo tecnicista.\nAlternativa correta letra B.",
+      "id": "tep_053",
+      "banca": "IBFC",
+      "tipo": "multipla"
+    }
+  ]
+}
