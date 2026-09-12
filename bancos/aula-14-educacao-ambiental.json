@@ -1,0 +1,476 @@
+{
+  "esquema": 1,
+  "id": "aula-14-educacao-ambiental",
+  "aula": "14",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 14",
+  "subtitulo": "Educação Ambiental",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 14",
+  "itensEdital": [
+    8
+  ],
+  "tagsEdital": [
+    {
+      "n": 8,
+      "titulo": "Educação ambiental"
+    }
+  ],
+  "resumoMd": "### 1. Marco Legal e Natureza Jurídica\n- **Constituição Federal de 1988 (Art. 225, §1º, VI)**: Incumbe ao Poder Público promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente.\n- **Lei nº 9.795/1999 (PNEA - Política Nacional de Educação Ambiental)**:\n  - Define a educação ambiental como um processo permanente, contínuo e integrado.\n  - **NÃO é disciplina específica**: Deve ser desenvolvida como uma prática educativa **integrada, contínua e permanente** em todos os níveis e modalidades da Educação Básica e Superior.\n  - *Exceção pontual*: Apenas em cursos de pós-graduação ou especialização específica é permitida a criação de disciplina própria.\n\n### 2. Princípios e Objetivos da Educação Ambiental\n- **Transversalidade e Interdisciplinaridade**: Articulação entre diferentes áreas do conhecimento para compreender a complexidade socioambiental.\n- **Visão Holística e Crítica**: Superação do preservacionismoIngênuo (apenas \"reciclar papel\" ou \"plantar árvores\") em direção à análise das causas socioeconômicas dos problemas ambientais.\n- **Cidadania Ambiental**: Estímulo à participação individual e coletiva na proteção da qualidade do meio ambiente e da vida.\n\n### 3. Dimensões Escolar e Não Escolar\n- **Educação Ambiental Formal**: Desenvolvida no âmbito dos currículos das instituições de ensino públicas e privadas.\n- **Educação Ambiental Não Formal**: Ações e práticas educativas voltadas à sensibilização da coletividade através dos meios de comunicação, ONGs, empresas e comunidades.\n\n---",
+  "total": 30,
+  "questoes": [
+    {
+      "id": "a14_001",
+      "numero": 1,
+      "banca": "IDECAN 2016 Podem",
+      "tipo": "multipla",
+      "enunciado": "IDECAN 2016 Podem-se agregar à educação básica algumas formas e modalidades diferenciadas de educação para atendimento de especificidades e que perpassam todos os níveis da educação nacional, de acordo com as Diretrizes Curriculares da Educação Básica. São elas: I. Educação Profissional e Tecnológica. II. Educação Escolar Quilombola. III. Educação de Jovens e Adultos. IV. Educação Básica do Campo. V. Educação Especial. VI. Educação Indígena. Estão corretas as alternativas",
+      "alternativas": {
+        "a": "I, II, III, IV, V e VI.",
+        "b": "II, III, IV e V, apenas.",
+        "c": "I, II, IV e VI, apenas.",
+        "d": "I, III, IV e V, apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, todos os itens referem-se às modalidades de ensino."
+    },
+    {
+      "id": "a14_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEV UECE 2019 No tocante à prática educativa integrada, contínua e permanente da educação ambiental formal, assinale a afirmação verdadeira.",
+      "alternativas": {
+        "a": "A educação ambiental deve ser implantada como disciplina específica no currículo de ensino.",
+        "b": "Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, é obrigatória a criação de disciplina específica.",
+        "c": "Nos cursos de formação e especialização técnico-profissional, em todos os níveis, é facultado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas.",
+        "d": "A dimensão ambiental deve constar dos currículos de formação de professores, em todos os níveis e em todas as disciplinas."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. A questão que versa sobre os artigos 10 e 11 da Lei 9.795/99.\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa integrada,\ncontínua e permanente em todos os níveis e modalidades do ensino formal.\n§ 1o A educação ambiental não deve ser implantada como disciplina específica no\ncurrículo de ensino.\n§ 2o Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental, quando se fizer necessário, é facultada a criação\nde disciplina específica.\n§ 3o Nos cursos de formação e especialização técnico-profissional, em todos os níveis,\ndeve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais\na serem desenvolvidas.\nArt. 11. A dimensão ambiental deve constar dos currículos de formação de professores,\nem todos os níveis e em todas as disciplinas.\nParágrafo único. Os professores em atividade devem receber formação complementar em\nsuas áreas de atuação, com o propósito de atender adequadamente ao cumprimento dos\nprincípios e objetivos da Política Nacional de Educação Ambiental."
+    },
+    {
+      "id": "a14_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CETAP 2019 Preencha as lacunas do texto seguinte e assinale a alternativa correta. “A educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do (................); a (.....................) deve constar dos currículos de formação de professores, em todos os níveis e em todas as disciplinas; os professores em atividade devem receber (.....................) em suas áreas de atuação, com o propósito de atender adequadamente ao cumprimento dos princípios e objetivos da Política Nacional de Educação Ambiental; o (.....................), em níveis federal, estadual e municipal, incentivará: o ecoturismo.”",
+      "alternativas": {
+        "a": "formação complementar; poder público; ensino formal; dimensão ambiental.",
+        "b": "dimensão ambiental; formação complementar; poder público; ensino formal.",
+        "c": "ensino formal; dimensão ambiental; formação complementar; poder público.",
+        "d": "poder público; ensino formal; dimensão ambiental; formação 500 complementar."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. Essa questão traz excertos dos artigos 10, 11 e 13, § único, da Lei\n9.795/99. Acompanhe:\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa integrada,\ncontínua e permanente em todos os níveis e modalidades do ensino formal.\nArt. 11. A dimensão ambiental deve constar dos currículos de formação de professores,\nem todos os níveis e em todas as disciplinas. Parágrafo único. Os professores em atividade\ndevem receber formação complementar em suas áreas de atuação, com o propósito de\natender adequadamente ao cumprimento dos princípios e objetivos da Política Nacional\nde Educação Ambiental.\nArt. 13. Entendem-se por educação ambiental não-formal as ações e práticas educativas\nvoltadas à sensibilização da coletividade sobre as questões ambientais e à sua organização\ne participação na defesa da qualidade do meio ambiente. Parágrafo único. O Poder\nPúblico, em níveis federal, estadual e municipal, incentivará: [...] VII - o ecoturismo."
+    },
+    {
+      "id": "a14_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CS UFG 2019 A Política de Educação Ambiental, instituída pela Lei n. 9.795, de 27/04/1999, e regulamentada pelo Decreto n. 4.281, de 25/06/2002, cria o Órgão Gestor dessa política, constituído pelos ministérios do Meio Ambiente e da Educação. Nestes dispositivos legais, a Educação Ambiental (EA) pode ser dividida em EA no Ensino Formal e EA no Não Formal. De acordo com o Artigo 10, a EA no Ensino Formal será",
+      "alternativas": {
+        "a": "desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal.",
+        "b": "implantada como cursos de formação e especialização técnico-profissional voltadas à história do meio ambiente e sua conservação.",
+        "c": "desenvolvida como eixo transversal em cursos de pós-graduação nas áreas voltadas à conservação e à educação ambiental.",
+        "d": "implantada como disciplina específica no currículo de ensino desde as séries iniciais em todos os níveis do ensino formal."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. Questão clássica: letra de LEI: pois traz literalidade do artigo 10.\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa integrada,\ncontínua e permanente em todos os níveis e modalidades do ensino formal.\n§ 1o A educação ambiental não deve ser implantada como disciplina específica no\ncurrículo de ensino.\n§ 2o Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental, quando se fizer necessário, é facultada a criação\nde disciplina específica.\n§ 3o Nos cursos de formação e especialização técnico-profissional, em todos os níveis,\ndeve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais\na serem desenvolvidas."
+    },
+    {
+      "id": "a14_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CETAP 2019 PREFEITURA MUNICIPAL DE MARACANÃ (PA) TÉCNICO AGRÍCOLA A educação ambiental deve ser desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal. Dentre as alternativas, assinale aquela que não está relacionada com as obrigatoriedades da Política Nacional de Educação Ambiental.",
+      "alternativas": {
+        "a": "A educação ambiental não deve ser implantada como disciplina específica no currículo de ensino.",
+        "b": "Nos cursos de pós-graduação, quando se fizer necessário, é facultada a criação de disciplina específica.",
+        "c": "Nos cursos de extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, é obrigatória a criação de disciplina específica.",
+        "d": "Nos cursos de formação e especialização técnico profissional, em todos os níveis, deve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C está incorreta e representa o nosso gabarito, pois não está relacionada com as\nobrigatoriedades da Política Nacional de Educação Ambiental.\nEssa questão exigiu domínio do artigo 10 da Lei nº 9.795/99. Vamos retomar a leitura dele na\níntegra?\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa\nintegrada, contínua e permanente em todos os níveis e modalidades do ensino formal.\n§ 1o A educação ambiental não deve ser implantada como disciplina específica no\ncurrículo de ensino.\n§ 2o Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental, quando se fizer necessário, é facultada a criação\nde disciplina específica.\n§ 3o Nos cursos de formação e especialização técnico-profissional, em todos os níveis,\ndeve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais\na serem desenvolvidas"
+    },
+    {
+      "id": "a14_006",
+      "numero": 6,
+      "banca": "VUNESP 2019",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 - ENGENHEIRO AMBIENTAL Assinale a alternativa que contém uma afirmação correta a respeito da Lei nº 9.795/1999, a qual dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências.",
+      "alternativas": {
+        "a": "Entendem-se por educação ambiental formal as ações e práticas educativas voltadas à sensibilização da coletividade sobre as questões ambientais.",
+        "b": "A educação ambiental não deve ser implantada como disciplina específica no currículo de ensino.",
+        "c": "Nos cursos de pós-graduação voltados ao aspecto metodológico da educação ambiental, é obrigatória a criação de disciplina específica e obrigatória em sua grade curricular.",
+        "d": "A dimensão ambiental não é obrigatoriedade dos currículos de formação de professores de educação básica.",
+        "e": "Entende-se por educação ambiental a aplicação dos métodos próprios para assegurar a formação e o desenvolvimento físico, intelectual e moral de um ser humano."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B, a afirmativa está alinhada com o que dispõe o parágrafo primeiro do\nartigo 10 da Lei 9.795/99.\n==2f06f1==\nCorrigindo as demais, uma a uma, temos:\n❖ Letra A, nos termos do artigo 13: Entendem-se por educação ambiental não-formal as ações\ne práticas educativas voltadas à sensibilização da coletividade sobre as questões ambientais\ne à sua organização e participação na defesa da qualidade do meio ambiente.\n❖ Letra C. O §2º do artigo 10, indica a faculdade, leia: §2º Nos cursos de pós-graduação,\nextensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, quando se\nfizer necessário, é facultada a criação de disciplina específica.\n❖ Letra D contraria o Art. 11. A dimensão ambiental deve constar dos currículos de formação\nde professores, em todos os níveis e em todas as disciplinas.\n❖ Letra E. É o artigo 1º que trata disso: Art. 1o Entendem-se por educação ambiental os\nprocessos por meio dos quais o indivíduo e a coletividade constroem valores sociais,\nconhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio\nambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua\nsustentabilidade."
+    },
+    {
+      "id": "a14_007",
+      "numero": 7,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "OBJETIVA ENGENHEIRO AMBIENTAL 2019 São objetivos fundamentais da educação ambiental, EXCETO:",
+      "alternativas": {
+        "a": "A garantia de democratização das informações ambientais.",
+        "b": "O estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental e social.",
+        "c": "O fomento e o fortalecimento da integração com a ciência e a tecnologia.",
+        "d": "A vinculação entre a ética, a educação, o trabalho e as práticas sociais."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa D representa nosso gabarito, pois é a única assertiva em que não consta objetivo\nfundamental da Educação Ambiental, preconizada no artigo 5º.\nA vinculação entre a ética, a educação, o trabalho e as práticas sociais é, na verdade, um dos\nprincípios básicos da Educação Ambiental, dispostos no artigo anterior, artigo 4º."
+    },
+    {
+      "id": "a14_008",
+      "numero": 8,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDAÇÃO AROEIRA FISCAL DO MEIO AMBIENTE 2019 A definição de educação ambiental pode ser encontrada na Lei nº 9.795, de 27 de abril de 1999, em seu Artigo 1º, como “os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade”. A mesma lei trata do âmbito e da ação da educação ambiental. Marque, entre as alternativas abaixo, aquela que corresponde à definição de educação ambiental não formal segundo a referida lei.",
+      "alternativas": {
+        "a": "As ações e práticas educativas voltadas à sensibilização da coletividade sobre as questões ambientais e a sua organização e participação na defesa da qualidade do meio ambiente.",
+        "b": "O desenvolvimento de instrumentos e metodologias visando à incorporação da dimensão ambiental, de forma interdisciplinar, nos diferentes níveis e modalidades de ensino.",
+        "c": "A capacitação de recursos humanos, com a incorporação da dimensão ambiental na formação, especialização e atualização dos educadores de todos os níveis e modalidades de ensino.",
+        "d": "A sensibilização com a percepção, a interação, o cuidado e o respeito das crianças para com a natureza e a cultura, destacando-se a diversidade dessa relação."
+      },
+      "gabarito": "A",
+      "comentario": "Letra A está correta.\nA definição educação ambiental não-formal consta do Artigo 13, da Lei nº 9.795/99. Veja:\nArt. 13. Entendem-se por educação ambiental não-formal as ações e práticas educativas\nvoltadas à sensibilização da coletividade sobre as questões ambientais e à sua\norganização e participação na defesa da qualidade do meio ambiente."
+    },
+    {
+      "id": "a14_009",
+      "numero": 9,
+      "banca": "CETREDE AUXILIAR DE APOIO EDUCACIONAL 2019 Entendem",
+      "tipo": "multipla",
+      "enunciado": "CETREDE AUXILIAR DE APOIO EDUCACIONAL 2019 Entendem-se por educação ambiental, os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades e competências voltadas a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade. Sobre educação ambiental, analise as afirmativas a seguir. I. A educação ambiental é um componente essencial e tem caráter permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, exclusivamente em caráter formal e escolarizado. II. O pluralismo de ideias e as concepções, bem como a abordagem articulada das questões ambientais são princípios básicos da educação ambiental. III. Sendo a educação ambiental um tema muito importante a ser inserido e discutido na formação do indivíduo, busca-se a interdisciplinaridade com outras disciplinas, tendo em vista seu caráter transdisciplinar. IV. A coleta seletiva e a reciclagem são consideradas partes da mudança de um costume abusivo em que o meio ambiente é o responsável pela eliminação dos resíduos produzidos pelo humano, sendo inseridas como temas no escopo discutido na educação ambiental. Marque a alternativa que indica as afirmativas CORRETAS.",
+      "alternativas": {
+        "a": "I –II.",
+        "b": "II –III –IV.",
+        "c": "I –II –III –IV.",
+        "d": "I –III –IV.",
+        "e": "III –IV."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: LETRA B. Somente o item não está em consonância com o disposto na\nlegislação em estudo. As demais guardam relação com a essência da norma.\nVamos corrigi-lo?\nO item I está incorreto, pois o artigo 2º da referida Lei, indica que a educação ambiental deve\nestar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em\ncaráter formal e não-formal. E não exclusivamente em caráter formal e escolarizado, como\nindicado na assertiva."
+    },
+    {
+      "id": "a14_010",
+      "numero": 10,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "EDUCA 2019 PREFEITURA MUNICIPAL DE VÁRZEA (PB) A Lei Federal Nº 9.795/99 institui o Plano Nacional de Educação Ambiental e estabelece que todos têm direito à Educação Ambiental. A Educação Ambiental é um componente essencial e permanente da educação nacional, devendo estar presente em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal. Nas escolas, a Educação Ambiental deverá estar presente em todos os níveis de ensino, como tema transversal, sem constituir disciplina específica, mas prática educativa integradora. São princípios básicos contidos no PNEA, EXCETO:",
+      "alternativas": {
+        "a": "O enfoque holístico, democrático e participativo.",
+        "b": "A concepção do meio ambiente em sua totalidade, considerando a interdependência entre o meio natural, socioeconômico e o cultural, sob o enfoque da sustentabilidade.",
+        "c": "O estímulo à cooperação entre as diversas regiões do País, em níveis micro e macrorregionais, com vistas à construção de uma sociedade ambientalmente equilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social, responsabilidade e sustentabilidade.",
+        "d": "A abordagem articulada das questões ambientais locais, regionais, nacionais e globais.",
+        "e": "O reconhecimento e o respeito à pluralidade e à diversidade individual e cultural."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa incorreta: LETRA C\nOs princípios básicos constam do artigo 5º e todas as alternativas trazem tais princípios, exceto a\nletra C, que traz um OBJETIVO FUNDAMENTAL DA EDUCAÇÃO AMBIENTAL.\nEssa questão é capciosa! Fique alerta e sempre faça leitura bem atenta das questões, sobretudo\nessas que exigem conhecimento sobre os objetivos e princípios, pois são danadas para serem\ntrocadas e confundirem você."
+    },
+    {
+      "id": "a14_011",
+      "numero": 11,
+      "banca": "FADESP 2019 PREFEITURA MUNICIPAL DE RURÓPOLIS (PA) Entendem",
+      "tipo": "multipla",
+      "enunciado": "FADESP 2019 PREFEITURA MUNICIPAL DE RURÓPOLIS (PA) Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade. De acordo com a Política Nacional de Educação Ambiental, Lei 9795/1999, é um dos objetivos fundamentais da Educação Ambiental",
+      "alternativas": {
+        "a": "limitar a participação da população nos processos decisórios sobre a gestão dos recursos ambientais nos territórios.",
+        "b": "restringir ações de entidades de classe, de instituições públicas e privadas que visem ao desenvolvimento de programas destinados à capacitação de trabalhadores para promover melhorias e controle efetivo sobre o meio ambiente de trabalho.",
+        "c": "o fomento e o fortalecimento da integração com a ciência e a tecnologia.",
+        "d": "reduzir a adoção de mecanismos que visem a redução e prevenção de vulnerabilidades, riscos e danos causados por desastres e ações antrópicas de impacto socioambiental nos territórios."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: LETRA C. De todas as alternativas, a única que traz um objetivo fundamental\nda educação ambiental é a alternativa C. Releia o artigo 5º na íntegra:\nArt. 5o São objetivos fundamentais da educação ambiental:\nI - o desenvolvimento de uma compreensão integrada do meio ambiente em suas\nmúltiplas e complexas relações, envolvendo aspectos ecológicos, psicológicos, legais,\npolíticos, sociais, econômicos, científicos, culturais e éticos;\nII - a garantia de democratização das informações ambientais;\nIII - o estímulo e o fortalecimento de uma consciência crítica sobre a problemática\nambiental e social;\nIV - o incentivo à participação individual e coletiva, permanente e responsável, na\npreservação do equilíbrio do meio ambiente, entendendo-se a defesa da qualidade\nambiental como um valor inseparável do exercício da cidadania;\nV - o estímulo à cooperação entre as diversas regiões do País, em níveis micro e\nmacrorregionais, com vistas à construção de uma sociedade ambientalmente\nequilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia,\njustiça social, responsabilidade e sustentabilidade;\nVI - o fomento e o fortalecimento da integração com a ciência e a tecnologia;\nVII - o fortalecimento da cidadania, autodeterminação dos povos e solidariedade como\nfundamentos para o futuro da humanidade."
+    },
+    {
+      "id": "a14_012",
+      "numero": 12,
+      "banca": "CEV UECE 2019 PREFEITURA MUNICIPAL DE SOBRAL (CE) Entende",
+      "tipo": "multipla",
+      "enunciado": "CEV UECE 2019 PREFEITURA MUNICIPAL DE SOBRAL (CE) Entende-se por educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade, devendo estar presente de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não formal. No que concerne à educação ambiental não formal, segundo a Lei 9.795/99, é correto afirmar que",
+      "alternativas": {
+        "a": "é uma prática educativa integrada, contínua e permanente para todos os cidadãos, habilitandoos a aplicação de multas e outros meios corretivos para garantir a obediência às regras.",
+        "b": "almeja a incorporação de cursos de formação que tratem da consciência e ética ambiental, no intuito de desenvolver futuros profissionais habilitados para as questões ambientais.",
+        "c": "pesquisa as principais questões ambientais considerando diferentes escalas, local, regional e nacional, para empoderar a população nas ações de supervisão ambiental.",
+        "d": "são ações e práticas educativas voltadas à sensibilização da coletividade sobre as questões ambientais e para sua organização e participação na defesa da qualidade do meio ambiente."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D. O conceito de Educação Ambiental não-formal é recorrente. Precisa\nestar bem na ponta da língua.\nArt. 13. Entendem-se por educação ambiental não-formal as ações e práticas educativas\nvoltadas à sensibilização da coletividade sobre as questões ambientais e à sua\norganização e participação na defesa da qualidade do meio ambiente."
+    },
+    {
+      "id": "a14_013",
+      "numero": 13,
+      "banca": "IDECAN 2019",
+      "tipo": "multipla",
+      "enunciado": "IDECAN 2019 - INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA BAIANO A legislação brasileira estabelece que a educação ambiental seja um componente essencial e permanente da educação nacional, devendo estar articulada em todos os níveis do processo educativo, seja formal ou não-formal. Assinale a afirmativa incorreta quanto aos objetivos fundamentais da educação ambiental.",
+      "alternativas": {
+        "a": "Não é necessária a promoção da cooperação entre as diversas regiões do País, visto que o importante é considerar a regionalização equilibrada.",
+        "b": "O desenvolvimento de uma compreensão integrada do meio ambiente em suas múltiplas e complexas relações, envolvendo aspectos ecológicos, psicológicos, legais, políticos, sociais, econômicos, científicos, culturais e éticos.",
+        "c": "O estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental e social.",
+        "d": "O incentivo à participação individual e coletiva, permanente e responsável, na preservação do equilíbrio do meio ambiente.",
+        "e": "O fortalecimento da cidadania, autodeterminação dos povos e solidariedade como fundamentos para o futuro da humanidade."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa incorreta: LETRA A.\nTodas as alternativas guardam relação com o que consta do rol de objetivos fundamentais da\neducação ambiental, exceto a Letra A, porque contraria o inciso V, artigo 5º da Lei nº 9.795/99:\nArt. 5o São objetivos fundamentais da educação ambiental: [...] V - o estímulo à\ncooperação entre as diversas regiões do País, em níveis micro e macrorregionais, com\nvistas à construção de uma sociedade ambientalmente equilibrada, fundada nos\nprincípios da liberdade, igualdade, solidariedade, democracia, justiça social,\nresponsabilidade e sustentabilidade;"
+    },
+    {
+      "id": "a14_014",
+      "numero": 14,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "NUCEPE 2019 PREFEITURA MUNICIPAL DE TERESINA (PI) Segundo a Lei nº 9.795/99, são princípios básicos da educação ambiental, EXCETO:",
+      "alternativas": {
+        "a": "capacitação de recursos humanos;",
+        "b": "a concepção do meio ambiente em sua totalidade, considerando a interdependência entre o meio natural, o socioeconômico e o cultural, sob o enfoque da sustentabilidade",
+        "c": "o pluralismo de ideias e concepções pedagógicas, na perspectiva da inter, multi e transdisciplinaridade;",
+        "d": "a vinculação entre a ética, a educação, o trabalho e as práticas sociais;",
+        "e": "a garantia de continuidade e permanência do processo educativo."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa incorreta: LETRA A.\nTodas as alternativas guardam relação com o que consta do rol de princípios básicos da Educação\nAmbiental, exceto a Letra A, porque, na realidade, indica umas das linhas de atuação interrelacionadas\ndas atividades vinculadas à Política Nacional de Educação Ambiental a serem\ndesenvolvidas na educação em geral e na educação escolar."
+    },
+    {
+      "id": "a14_015",
+      "numero": 15,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "COTEC 2019 PREFEITURA MUNICIPAL DE UNAÍ (MG) A Lei n.º 9.795/1999 dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e traz os objetivos fundamentais da educação ambiental. Com base nisso, assinale a alternativa que contempla um objetivo da educação previsto nessa lei.",
+      "alternativas": {
+        "a": "Promover o desenvolvimento econômico das populações tradicionais com a exploração consciente dos recursos naturais localizados em unidades extrativistas.",
+        "b": "Focar na participação de estudantes na preservação da natureza, baseada unicamente em atividades no ambiente escolar, promovendo o desenvolvimento sustentável.",
+        "c": "Estimular, por meio de incentivos fiscais, a cooperação entre empresas para desenvolver tecnologias de recuperação de áreas degradadas.",
+        "d": "Garantir o desenvolvimento de uma compreensão integrada do meio ambiente em suas múltiplas e complexas relações.",
+        "e": "Fortalecer a relação de competição para preservação e conservação do meio ambiente entre os estados brasileiros e seus municípios."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D, pois é a única que representa um dos objetivos fundamentais da\nEducação Ambiental, previstos no artigo 5º da Lei nº 9.795/99. As demais alternativas não\nguardam relação com o referido rol."
+    },
+    {
+      "id": "a14_016",
+      "numero": 16,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO 2019 PREFEITURA MUNICIPAL DE PORTO DE MOZ (PA) Assinale a alternativa incorreta. Segundo o disposto na Lei nº 9.795/99, são princípios básicos da educação ambiental:",
+      "alternativas": {
+        "a": "A vinculação entre a ética, a educação, o trabalho e as práticas sociais.",
+        "b": "A garantia de continuidade e permanência do processo educativo.",
+        "c": "A permanente avaliação crítica do processo educativo.",
+        "d": "A abordagem desarticulada das questões ambientais locais, regionais, nacionais e globais.",
+        "e": "O reconhecimento e o respeito à pluralidade e à diversidade individual e cultural."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa incorreta: LETRA D.\nQuestão tranquila demais! O único erro da letra D é afirmar que a abordagem é desarticulada!\nFique alerta! Se ficou na dúvida, retome a leitura do artigo 4º da Lei 9.795/99 que elenca os\nprincípios básicos da educação ambiental."
+    },
+    {
+      "id": "a14_017",
+      "numero": 17,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "NC UFPR 2019 ITAIPU BINACIONAL Considere os seguintes princípios: 1. Considerar o “meio ambiente” em sua totalidade, isto é, em seus aspectos naturais e criados pelo homem (político, social, econômico, científico-tecnológico, histórico-cultural, moral e estético). 2. Constituir um processo contínuo e permanente, por meio de todas as fases do ensino formal e não formal. 3. Aplicar um enfoque interdisciplinar, aproveitando o conteúdo específico de cada disciplina, de modo que se adquira uma perspectiva global e equilibrada. 4. Examinar as principais questões ambientais, do ponto de vista local, regional, nacional e internacional, de modo que os educandos se identifiquem com as condições ambientais de outras regiões geográficas. São princípios básicos da educação ambiental:",
+      "alternativas": {
+        "a": "1, 2, 3 e 4.",
+        "b": "1, 3 e 4 apenas.",
+        "c": "2 e 3 apenas.",
+        "d": "1 e 4 apenas.",
+        "e": "1 e 2 apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: LETRA A, todas estão corretas.\nA questão não traz a literalidade da Lei, mas está totalmente de acordo com a essência do que\nconsta dos princípios básicos. Vamos revisá-los?\nArt. 4o São princípios básicos da educação ambiental:\nI - o enfoque humanista, holístico, democrático e participativo;\nII - a concepção do meio ambiente em sua totalidade, considerando a interdependência\nentre o meio natural, o sócio-econômico e o cultural, sob o enfoque da\nsustentabilidade;\nIII - o pluralismo de ideias e concepções pedagógicas, na perspectiva da inter, multi e\ntransdisciplinaridade;\nIV - a vinculação entre a ética, a educação, o trabalho e as práticas sociais;\nV - a garantia de continuidade e permanência do processo educativo;\nVI - a permanente avaliação crítica do processo educativo;\nVII - a abordagem articulada das questões ambientais locais, regionais, nacionais e\nglobais;\nVIII - o reconhecimento e o respeito à pluralidade e à diversidade individual e cultural."
+    },
+    {
+      "id": "a14_018",
+      "numero": 18,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "MS CONCURSOS 2019 PREFEITURA MUNICIPAL DE SONORA (MS) Consoante a Lei nº 9.795, de 27 de abril de 1999, que instituiu a Política Nacional de Educação Ambiental, atribua (V) verdadeiro ou (F) falso aos itens e assinale a alternativa correta. ( ) Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade. ( ) A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal. ( ) A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente - Sisnama, instituições educacionais públicas e privadas dos sistemas de ensino, os órgãos públicos da União, dos Estados, do Distrito Federal e dos Municípios, e organizações não-governamentais com atuação em educação ambiental.",
+      "alternativas": {
+        "a": "V – V – V.",
+        "b": "F – V – V.",
+        "c": "V – F – V.",
+        "d": "V – V – F."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa Correta: letra A. Todas as afirmativas são verdadeiras.\n(V) Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a\ncoletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências\nvoltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia\nqualidade de vida e sua sustentabilidade. – Artigo 1º da Lei nº 9.795/99.\n(V) A educação ambiental é um componente essencial e permanente da educação nacional,\ndevendo estar presente, de forma articulada, em todos os níveis e modalidades do processo\neducativo, em caráter formal e não-formal. – Artigo 2º da Lei nº 9.795/99.\n(V) A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e\nentidades integrantes do Sistema Nacional de Meio Ambiente - Sisnama, instituições educacionais\npúblicas e privadas dos sistemas de ensino, os órgãos públicos da União, dos Estados, do Distrito\nFederal e dos Municípios, e organizações não-governamentais com atuação em educação\nambiental. – Artigo 7º da Lei nº 9.795/99."
+    },
+    {
+      "id": "a14_019",
+      "numero": 19,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IFMT 2018 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO De acordo com a Lei 9.795/1999, em seu art. 4º, são princípios básicos da educação ambiental, exceto:",
+      "alternativas": {
+        "a": "o enfoque humanista, holístico, totalitário e participativo;",
+        "b": "o pluralismo de ideias e concepções pedagógicas, na perspectiva da inter, multi e transdisciplinaridade;",
+        "c": "a garantia de continuidade e permanência do processo educativo;",
+        "d": "a permanente avaliação crítica do processo educativo;",
+        "e": "a abordagem articulada das questões ambientais locais, regionais, nacionais e globais."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa incorreta: LETRA A, pois contraria o disposto no inciso I, artigo 4º que dispõe sobre o\nenfoque ser humanista, holístico, democrático e participativo e não TOTALITÁRIO, como sugerido\npela alternativa A."
+    },
+    {
+      "id": "a14_020",
+      "numero": 20,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNCERN 2018 PREFEITURA MUNICIPAL DE SÃO BENTO DO TRAIRÍ (RN) Assinale a alternativa correta no que se refere à Política Nacional de Educação Ambiental, Lei 9.795/1999.",
+      "alternativas": {
+        "a": "O estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental e social é um dos objetivos fundamentais da educação ambiental.",
+        "b": "A educação ambiental deve ser implantada como disciplina específica no currículo de ensino na educação básica.",
+        "c": "Cabe aos meios de comunicação em massa definir políticas públicas que incorporem a dimensão ambiental e promover a educação ambiental em todos os níveis de ensino.",
+        "d": "O enfoque humanista, holístico, democrático e participativo e a garantia de democratização das informações ambientais são princípios básicos da educação ambiental."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: LETRA A, pois, de fato, o estímulo e o fortalecimento de uma consciência\ncrítica sobre a problemática ambiental e social representa um dos objetivos fundamentais da\neducação ambiental.\nVamos corrigir a demais alternativas?\nA letra B está incorreta, porque a norma indica que a Educação Ambiental não deve ser implantada\ncomo disciplina específica no currículo de ensino. (Artigo 10, § 1º).\nA letra C está incorreta, porque tal incumbência é do Poder público. Aos meios de comunicação\nde massa incumbe colaborar de maneira ativa e permanente na disseminação de informações e\npráticas educativas sobre meio ambiente e incorporar a dimensão ambiental em sua programação.\n(Artigo 3º, inciso IV).\nA letra D está incorreta, porque embora “enfoque humanista, holístico, democrático e\nparticipativo” seja um dos princípios básicos da educação ambiental. A garantia de\ndemocratização das informações ambientais é um objetivo fundamental, constante do rol\nelencado no artiogo5º da Lei em voga."
+    },
+    {
+      "id": "a14_021",
+      "numero": 21,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2018 PREFEITURA MUNICIPAL DE GUARAPUAVA (PR) “Entendem-se por educação ambiental os processos por meio dos quais o ____________ e a coletividade constroem valores _____________ , conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia ______________de vida e sua __________________.” Política Nacional de Educação Ambiental - Lei nº 9795/1999, Art. 1º. Assinale a alternativa que completa CORRETAMENTE o conceito acima.",
+      "alternativas": {
+        "a": "indivíduo, sociais, qualidade e sustentabilidade.",
+        "b": "cidadão, ambientais, sustentabilidade e qualidade.",
+        "c": "indivíduo, ambientais, estilo e sustentabilidade.",
+        "d": "cidadão, sociais, sustentável e estimativa."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: LETRA A, o enunciado transcreve o artigo 1º, não há outra alternativa que\ncomplete de forma adequada as lacunas existentes na questão. Assim, temos a literalidade do\nartigo: Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a\ncoletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências\nvoltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia\nqualidade de vida e sua sustentabilidade. Com nosso destaque para os termos que o completam."
+    },
+    {
+      "id": "a14_022",
+      "numero": 22,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FCC 2018 SECRETARIA DO MEIO AMBIENTE E RECURSOS HÍDRICOS DO PIAUÍ A Lei nº 9.795/1999 institui a Política Nacional de Educação Ambiental. Em relação ao tema,",
+      "alternativas": {
+        "a": "a educação ambiental deve ser implantada como disciplina específica no currículo de ensino.",
+        "b": "nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, quando se fizer necessário, é obrigatória a criação de disciplina específica.",
+        "c": "compete exclusivamente aos Estados e ao Distrito Federal definir as diretrizes, normas e critérios para a educação ambiental, respeitados os princípios e objetivos da Política Nacional de Educação Ambiental.",
+        "d": "a Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente − SISNAMA, instituições educacionais públicas e privadas dos sistemas de ensino, os órgãos públicos da União, dos Estados, do Distrito Federal e dos Municípios, e organizações não-governamentais com atuação em educação ambiental.",
+        "e": "a educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente, mas concentrada no âmbito da educação infantil e fundamental do ensino formal."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D. As demais alternativas distorcem o sentido da norma, portanto estão\nerradas. Veja o que a Lei preconiza em cada caso:\nLetra A: Artigo 10 [...] § 1o A educação ambiental não deve ser implantada como disciplina\nespecífica no currículo de ensino.\nLetra B: Artigo 10 [...] § 2o Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental, quando se fizer necessário, é facultada a criação de\ndisciplina específica.\nLetra C: Art. 16. Os Estados, o Distrito Federal e os Municípios, na esfera de sua competência e\nnas áreas de sua jurisdição, definirão diretrizes, normas e critérios para a educação ambiental,\nrespeitados os princípios e objetivos da Política Nacional de Educação Ambiental.\nLetra E: Art. 10. A educação ambiental será desenvolvida como uma prática educativa integrada,\ncontínua e permanente em todos os níveis e modalidades do ensino formal."
+    },
+    {
+      "id": "a14_023",
+      "numero": 23,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2018 AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE INFRAESTRUTURA DO PARANÁ Sobre a lei n° 9.795, de 27 de abril de 1999, que dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências, é correto afirmar que:",
+      "alternativas": {
+        "a": "A educação ambiental é componente intermitente da educação nacional, podendo estar presente em caráter formal e não-formal.",
+        "b": "A educação ambiental deve estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo.",
+        "c": "A educação ambiental parte do princípio da independência entre o meio natural, o socioeconômico e o cultural.",
+        "d": "A educação ambiental será desenvolvida como uma prática educativa isolada e exclusiva nos primeiros anos do ensino formal."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: LETRA B. As demais alternativas distorcem o sentido da norma, portanto\nestão erradas. Veja o que a Lei preconiza em cada caso:\nLetra A: Art. 2º A educação ambiental é um componente essencial e permanente da educação\nnacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do\nprocesso educativo, em caráter formal e não-formal.\nLetra C: Art. 4º São princípios básicos da educação ambiental: [...] II - a concepção do meio\nambiente em sua totalidade, considerando a interdependência entre o meio natural, o\nsocioeconômico e o cultural, sob o enfoque da sustentabilidade;\nLetra D: Art. 10. A educação ambiental será desenvolvida como uma prática educativa integrada,\ncontínua e permanente em todos os níveis e modalidades do ensino formal."
+    },
+    {
+      "id": "a14_024",
+      "numero": 24,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2018 SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE BARRETOS (SP) Sobre o que prevê a Lei nº 9.795/99, que tutela as regras de Educação Ambiental, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente – Sisnama, instituições educacionais exclusivamente públicas do sistema de ensino, os órgãos públicos da União, dos Estados, do Distrito Federal e dos Municípios com atuação em educação ambiental.",
+        "b": "A educação ambiental deve ser implantada como disciplina específica no currículo de ensino.",
+        "c": "Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental é obrigatória a criação de disciplina específica sobre tal assunto.",
+        "d": "A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal.",
+        "e": "A dimensão ambiental deve constar dos currículos de formação de professores dos níveis de ensino fundamental e infantil e em todas as disciplinas, sendo facultado para o nível superior."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D, pois traz a literalidade do artigo 2º.\nAs demais alternativas estão erradas e nós vamos corrigi-las uma a uma.\nA Letra A está errada: A Política Nacional de Educação Ambiental envolve em sua esfera de ação,\nalém dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente – Sisnama,\ninstituições educacionais exclusivamente públicas do sistema de ensino, os órgãos públicos da\nUnião, dos Estados, do Distrito Federal e dos Municípios com atuação em educação ambiental. No\ncaso, o dispositivo legal prevê instituições educacionais públicas e PRIVADAS dos sistemas de\nensino. (Artigo 7º)\nA Letra B está errada: A educação ambiental NÃO deve ser implantada como disciplina específica\nno currículo de ensino. (Artigo 10, §1º)\nA Letra C está errada: Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental é obrigatória a criação de disciplina específica sobre tal\nassunto. O artigo 10, §2º prevê a faculdade de criação de disciplina específica para tais casos.\nA Letra E está errada: A dimensão ambiental deve constar dos currículos de formação de\nprofessores dos níveis de ensino fundamental e infantil e em todas as disciplinas, sendo facultado\npara o nível superior. Na verdade, veja o que diz o artigo 11: A dimensão ambiental deve constar\ndos currículos de formação de professores, em todos os níveis e em todas as disciplinas."
+    },
+    {
+      "id": "a14_025",
+      "numero": 25,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "ACEP 2018 PREFEITURA MUNICIPAL DE ARACATI (CE) Com base na legislação que dispõe sobre a educação ambiental e institui a Política Nacional de Educação Ambiental, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Como parte do processo educativo mais amplo, todos têm direito à educação ambiental, sendo o Poder Público incumbido de manter atenção permanente à formação de valores, atitudes e habilidades que propiciem a atuação coletiva voltada para a prevenção, a identificação e a solução de problemas ambientais.",
+        "b": "São objetivos fundamentais da educação ambiental: o enfoque humanista, holístico, democrático e participativo; a concepção do meio ambiente em sua totalidade, considerando a interdependência entre o meio natural, o socioeconômico e o cultural.",
+        "c": "A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, no nível infantil e fundamental, formando crianças e adolescentes conscientes na matéria ambiental.",
+        "d": "A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D, porque traz a letra da Lei, precisamente o artigo 2º.\nVamos corrigir as demais, uma a uma? Veja:\nLetra A: Tal incumbência é da sociedade como um todo e não do poder público.\nLetra B: o enfoque humanista, holístico, democrático e participativo; a concepção do meio\nambiente em sua totalidade, considerando a interdependência entre o meio natural, o\nsocioeconômico e o cultural são PRINCÍPIOS BÁSICOS DA EDUCAÇÃO AMBIENTAL e não\nobjetivos fundamentais como afirma a alternativa.\nLetra C: Deve estar presente em todos os níveis e modalidades do processo educativo, em caráter\nformal e não-formal, e não só no nível infantil e fundamental como sugere a questão. Nesse caso,\na alternativa não está incorreta, mas a Letra D está “mais correta”, digamos."
+    },
+    {
+      "id": "a14_026",
+      "numero": 26,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IBGP 2018 PREFEITURA MUNICIPAL DE SANTA LUZIA (MG) A Lei n o 9.795, de 27 de abril de 1999, garante a prática da educação ambiental para todos os cidadãos. As atividades vinculadas à Política Nacional de Educação Ambiental devem ser desenvolvidas na educação em geral e na educação escolar, por meio das seguintes linhas de atuação interrelacionadas, EXCETO:",
+      "alternativas": {
+        "a": "Capacitação de recursos humanos, acompanhamento e avaliação.",
+        "b": "Desenvolvimento de estudos, pesquisas e experimentações.",
+        "c": "Produção e divulgação de material educativo.",
+        "d": "Fiscalização e aplicação de ações corretivas em caso de descumprimento da legislação ambiental."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa incorreta: LETRA D, porque não guarda relação com as linhas de atuação interrelacionadas\ndas atividades vinculadas à política Nacional de educação ambiental, que constam\ndo artigo 8º, da Lei nº 9.795/99:\nArt. 8o As atividades vinculadas à Política Nacional de Educação Ambiental devem ser\ndesenvolvidas na educação em geral e na educação escolar, por meio das seguintes\nlinhas de atuação inter-relacionadas:\nI - capacitação de recursos humanos;\nII - desenvolvimento de estudos, pesquisas e experimentações;\nIII - produção e divulgação de material educativo;\nIV - acompanhamento e avaliação."
+    },
+    {
+      "id": "a14_027",
+      "numero": 27,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2018 INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL Além da conservação de coleções vivas, o SRBM exerce ainda um importante papel social ao oferecer à comunidade atividades educativas voltadas à conservação do meio ambiente e do patrimônio cultural. Com relação à importância da educação ambiental e patrimonial e aos diferentes aspectos relacionados a essa temática, julgue o próximo item. Na educação ambiental, o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente. C Certo. E Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa está correta, porque guarda relação com a definição de educação ambiental, definida\nno artigo 1º:\nArt. 1o Entendem-se por educação ambiental os processos por meio dos quais o\nindivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades,\natitudes e competências voltadas para a conservação do meio ambiente, bem de uso\ncomum do povo, essencial à sadia qualidade de vida e sua sustentabilidade."
+    },
+    {
+      "id": "a14_028",
+      "numero": 28,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2018 INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL No que se refere à educação ambiental, julgue o item subsequente. A educação ambiental é um componente essencial e permanente da educação nacional e deve estar presente e articulada em todos os níveis e modalidades do processo educativo formal e não formal. C Certo. E Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa está correta, porque guarda relação com a definição de educação ambiental, definida\nno artigo 2º:\nArt. 2o A educação ambiental é um componente essencial e permanente da educação\nnacional, devendo estar presente, de forma articulada, em todos os níveis e\nmodalidades do processo educativo, em caráter formal e não-formal."
+    },
+    {
+      "id": "a14_029",
+      "numero": 29,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FADESP 2018 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIAS E TECNOLOGIA DO PARÁ Analise os itens a seguir com base na Política Nacional de Educação Ambiental: I. incorporação da dimensão ambiental na formação, especialização e atualização dos educadores de todos os níveis e modalidades de ensino. II. busca de alternativas curriculares e metodológicas de capacitação na área ambiental. III. preparação de profissionais orientados para as atividades de gestão ambiental. IV. formação, especialização e atualização de profissionais na área de meio ambiente. A capacitação de recursos humanos estabelecida na referida lei deve se voltar para o que expressa os itens",
+      "alternativas": {
+        "a": "I e IV.",
+        "b": "II e III.",
+        "c": "I e III.",
+        "d": "I, III e IV",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: LETRA D.\nVamos reler o que Lei diz sobre a capacitação de recursos humanos:\nArtigo 8º [...] § 2o A capacitação de recursos humanos voltar-se-á para:\nI - a incorporação da dimensão ambiental na formação, especialização e atualização dos\neducadores de todos os níveis e modalidades de ensino;\nII - a incorporação da dimensão ambiental na formação, especialização e atualização\ndos profissionais de todas as áreas;\nIII - a preparação de profissionais orientados para as atividades de gestão ambiental;\nIV - a formação, especialização e atualização de profissionais na área de meio ambiente;\nV - o atendimento da demanda dos diversos segmentos da sociedade no que diz\nrespeito à problemática ambiental.\nNesse caso, somente o item II da questão não guarda relação com o rol elencado acima. No\nentanto, consta das ações de estudos, pesquisas e experimentações, previstas no parágrafo 3º,\ndo mesmo artigo 8º.\nArtigo 8º [...] § 3o As ações de estudos, pesquisas e experimentações voltar-se-ão para:\nI - o desenvolvimento de instrumentos e metodologias, visando à incorporação da\ndimensão ambiental, de forma interdisciplinar, nos diferentes níveis e modalidades de\nensino;\nII - a difusão de conhecimentos, tecnologias e informações sobre a questão ambiental;\nIII - o desenvolvimento de instrumentos e metodologias, visando à participação dos\ninteressados na formulação e execução de pesquisas relacionadas à problemática\nambiental;\nIV - a busca de alternativas curriculares e metodológicas de capacitação na área\nambiental;\nV - o apoio a iniciativas e experiências locais e regionais, incluindo a produção de\nmaterial educativo;\nVI - a montagem de uma rede de banco de dados e imagens, para apoio às ações\nenumeradas nos incisos I a V."
+    },
+    {
+      "id": "a14_030",
+      "numero": 30,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FADESP 2018 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIAS E TECNOLOGIA DO PARÁ Com base na Política Nacional de Educação Ambiental, analise as afirmativas a seguir. I. A educação ambiental deve ser desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal. II. A educação ambiental deve ser implantada como disciplina específica no currículo de ensino formal. III. Nos cursos de pós-graduação, é obrigatória a criação de disciplina específica relativa à educação ambiental. IV. A dimensão ambiental deve constar dos currículos de formação de professores, em todos os níveis e em todas as disciplinas. São verdadeiras as afirmativas",
+      "alternativas": {
+        "a": "II e III.",
+        "b": "I e IV.",
+        "c": "I, II e III.",
+        "d": "II, III e IV.",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: LETRA B\nDe tudo o que foi dito até agora, não podemos nos deixar equivocar com essa questão. Ela\nengloba alguns dos aspectos mais exigidos em certames quando o assunto é Educação Ambiental.\nAssim, temos:\nItens I e IV corretíssimos, em conformidade com a norma.\nItem II está incorreto, por quê? Releia o que ele afirma:\n“A educação ambiental deve ser implantada como disciplina específica no currículo de ensino\nformal.”\nNesse caso, contraria a redação do §1º do artigo 10, com destaque nosso:\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa\nintegrada, contínua e permanente em todos os níveis e modalidades do ensino formal.\n§ 1o A educação ambiental NÃO DEVE ser implantada como disciplina específica no\ncurrículo de ensino.\nItem II está incorreto, por quê? Releia:\n“Nos cursos de pós-graduação, é obrigatória a criação de disciplina específica relativa à educação\nambiental.“\nNesse caso, contraria a redação do §2º do artigo 10, com destaque nosso:\nArt. 10. A educação ambiental será desenvolvida como uma prática educativa\nintegrada, contínua e permanente em todos os níveis e modalidades do ensino formal.\n[...]\n§ 2o Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto\nmetodológico da educação ambiental, quando se fizer necessário, é FACULTADA a\ncriação de disciplina específica.\nRESUMO\n❖ Os níveis da educação são: Educação Básica (EB) e Educação Superior (ES)\n❖ As etapas da Educação Básica são: Educação Infantil (EI) (abrange creche e pré-escola),\nEnsino Fundamental (EF) e Ensino Médio (EM).\n❖ As modalidades referem-se a um modo próprio de fazer educação nos níveis, etapas e,\ninclusive, articuladas com outras modalidades.\n❖ A CF 88 preconiza como incumbência ao Poder Público: promover a educação ambiental\nem todos os níveis de ensino e a conscientização pública para a preservação do meio\nambiente; (artigo 225)\n❖ Educação Ambiental é componente essencial na educação nacional, mas não figura como\nmodalidade, tampouco como disciplina específica.\n❖ A educação ambiental será desenvolvida como uma prática educativa integrada, contínua\ne permanente em todos os níveis e modalidades do ensino formal.\n❖ A Educação Ambiental deve adotar uma abordagem que considere a interface entre a\nnatureza, a sociocultura, a produção, o trabalho, o consumo, superando a visão\ndespolitizada, acrítica, ingênua e naturalista ainda muito presente na prática pedagógica\ndas instituições de ensino.\nEDUCAÇÃO\nAMBIENTAL\ncomponente essencial\ne permanente\narticulada com todos os\nníveis e modalidades\nformal ou\nnão-formal\nResolução CNE/CP nº 2/2012, Art. 16. A inserção dos conhecimentos concernentes à\nEducação Ambiental nos currículos da Educação Básica e da Educação Superior pode\nocorrer:\nI - pela transversalidade, mediante temas relacionados com o meio ambiente e a\nsustentabilidade socioambiental;\nII - como conteúdo dos componentes já constantes do currículo;\nIII - pela combinação de transversalidade e de tratamento nos componentes\ncurriculares.\nEducação Ambiental - definição Artigo 1º\nprocessos por meio dos quais o indivíduo e a coletividade constroem valores sociais,\nconhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio\nambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua\nsustentabilidade.\nConservação do\nMeio Ambiente\nvalores sociais\nconhecimentos\ncompetências\natitudes\nhabilidades\nEducação Ambiental - entendimento Artigo 2º\nComponente essencial e permanente da educação nacional, devendo estar presente, de\nforma articulada, em todos os níveis e modalidades do processo educativo, em caráter\nformal e não-formal.\nEducação Ambiental na Educação Escolar Artigo 9º\nDesenvolvida no âmbito dos currículos das instituições de ensino públicas e privadas.\nEducação Ambiental na Educação Escolar Artigo 10º\nSerá desenvolvida como uma prática educativa integrada, contínua e permanente em todos\nos níveis e modalidades do ensino formal. Não deve ser implantada como disciplina\nespecífica no currículo de ensino.\nEducação Ambiental não-formal Artigo 13º\nAções e práticas educativas voltadas à sensibilização da coletividade sobre as questões\nambientais e à sua organização e participação na defesa da qualidade do meio ambiente.\n❖ São princípios básicos da EAmb:\nObjetivos da EAmb (Art. 5º)\nI - o desenvolvimento de uma compreensão integrada do meio ambiente em suas múltiplas\ne complexas relações, envolvendo aspectos ecológicos, psicológicos, legais, políticos,\nsociais, econômicos, científicos, culturais e éticos;\nII - a garantia de democratização das informações ambientais;\nIII - o estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental\ne social;\nIV - o incentivo à participação individual e coletiva, permanente e responsável, na\npreservação do equilíbrio do meio ambiente, entendendo-se a defesa da qualidade\nambiental como um valor inseparável do exercício da cidadania;\nV - o estímulo à cooperação entre as diversas regiões do País, em níveis micro e\nmacrorregionais, com vistas à construção de uma sociedade ambientalmente equilibrada,\nfundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social,\nresponsabilidade e sustentabilidade;\nreconhecimento e respeito à pluralidade e à diversidade individual e cultural\nquestões ambientais locais, regionais, nacionais e globais\npermanente avaliação crítica\ncontinuidade e permanência\nética, a educação, o trabalho e as práticas sociais\npluralismos de ideias e concepções pedagógicas, perspectiva inter, multi e transdisciplinar\nmeio ambiente em sua totalidade / interdependência entre meio natural, sócio-econômico\ne cultural / sustentabilidade\nhumanista, holístico, democrático e participativo\nVI - o fomento e o fortalecimento da integração com a ciência e a tecnologia;\nVII - o fortalecimento da cidadania, autodeterminação dos povos e solidariedade como\nfundamentos para o futuro da humanidade.\n❖ Outros objetivos acrescidos na Resolução CNE/CP nº 2/2012:\n❖ promover o cuidado com a comunidade de vida, a integridade dos\necossistemas, a justiça econômica, a equidade social, étnica, racial e de\ngênero, e o diálogo para a convivência e a paz;\n❖ promover os conhecimentos dos diversos grupos sociais formativos do País\nque utilizam e preservam a biodiversidade.\n❖ Linhas de atuação:\n❖ capacitação de recursos humanos;\n❖ desenvolvimento de estudos, pesquisas e experimentações;\n❖ produção e divulgação de material educativo;\n❖ acompanhamento e avaliação.\nCAPACITAÇÃO DE RECURSOS\nHUMANOS\nAÇÕES DE ESTUDOS, PESQUISAS E\nEXPERIMENTAÇÕES\nI - a incorporação da dimensão\nambiental na formação, especialização e\natualização dos educadores de todos os\nníveis e modalidades de ensino;\nII - a incorporação da dimensão\nambiental na formação, especialização e\natualização dos profissionais de todas as\náreas;\nIII - a preparação de profissionais\norientados para as atividades de gestão\nambiental;\nIV - a formação, especialização e\natualização de profissionais na área de\nmeio ambiente;\nV - o atendimento da demanda dos\ndiversos segmentos da sociedade no\nI - o desenvolvimento de instrumentos e\nmetodologias, visando à incorporação da dimensão\nambiental, de forma interdisciplinar, nos diferentes\nníveis e modalidades de ensino;\nII - a difusão de conhecimentos, tecnologias e\ninformações sobre a questão ambiental;\nIII - o desenvolvimento de instrumentos e\nmetodologias, visando à participação dos\ninteressados na formulação e execução de pesquisas\nrelacionadas à problemática ambiental;\nIV - a busca de alternativas curriculares e\nmetodológicas de capacitação na área ambiental;\nV - o apoio a iniciativas e experiências locais e\nregionais, incluindo a produção de material\neducativo;\nque diz respeito à problemática\nambiental.\nVI - a montagem de uma rede de banco de dados e\nimagens, para apoio às ações enumeradas nos incisos\nI a V.\n❖ Educação ambiental nas instituições de ensino:\nNatureza como fonte de vida\nDimensão ambiental\nrelacionada a diversos\ntemas relevantes\nAprimoramento da\nprática discente e\ndocente\nInstituições como referências de\nsustentabilidade socioambiental\nPensamento críticoreflexivo\nIntegrada e\ntransversal, contínua e\npermanente"
+    }
+  ]
+}

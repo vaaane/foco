@@ -1,0 +1,196 @@
+{
+  "esquema": 1,
+  "id": "aula-13-educacao-campo-indigena-quilombola",
+  "aula": "13",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 13",
+  "subtitulo": "Educação do Campo, Indígena e Quilombola",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 13",
+  "itensEdital": [
+    6,
+    25
+  ],
+  "tagsEdital": [
+    {
+      "n": 6,
+      "titulo": "Educação do campo"
+    },
+    {
+      "n": 25,
+      "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
+    }
+  ],
+  "resumoMd": "### 1. Modalidades de Ensino na LDB\n- A Educação Básica organiza-se em etapas (Educação Infantil, Ensino Fundamental, Ensino Médio) e **modalidades** de ensino (EJA, Educação Especial, Educação Profissional, EaD, Educação do Campo, Indígena, Quilombola).\n\n### 2. Educação do Campo\n- **Direito à Escola no Campo**: Adequação da escola às realidades da vida no campo (e não transposição mecânica do modelo urbano).\n- **Flexibilização do Calendário Escolar**: Conforme o Art. 28 da LDB, os sistemas de ensino promoverão as adaptações necessárias às fases do ciclo agrícola e às condições climáticas de cada região.\n- **Pedagogia da Alternância**: Articulação entre tempo-escola e tempo-comunidade.\n\n### 3. Educação Escolar Indígena\n- **Bilinguismo e Interculturalidade**: Garantia do uso de suas línguas maternas e processos próprios de transmissão do conhecimento.\n- **Autonomia Curricular e Materiais Específicos**: Criação de programas integrados de ensino e pesquisa para elaboração de livros e materiais didáticos bilíngues e específicos.\n- **Professores Indígenas**: Prioridade na formação e contratação de docentes oriundos das próprias comunidades indígenas.\n\n### 4. Educação Escolar Quilombola\n- **Preservação da Memória e Território**: Valorização das matrizes históricas, culturais e do direito à terra e à identidade étnico-cultural quilombola.\n- **Resolução CNE/CEB nº 8/2012**: Define as Diretrizes Curriculares Nacionais para a Educação Escolar Quilombola.\n\n---",
+  "total": 12,
+  "questoes": [
+    {
+      "id": "a13_001",
+      "numero": 1,
+      "banca": "IDECAN 2016 Podem",
+      "tipo": "multipla",
+      "enunciado": "IDECAN 2016 Podem-se agregar à educação básica algumas formas e modalidades diferenciadas de educação para atendimento de especificidades e que perpassam todos os níveis da educação nacional, de acordo com as Diretrizes Curriculares da Educação Básica. São elas: I. Educação Profissional e Tecnológica. II. Educação Escolar Quilombola. III. Educação de Jovens e Adultos. IV. Educação Básica do Campo. V. Educação Especial. VI. Educação Indígena. Estão corretas as alternativas",
+      "alternativas": {
+        "a": "I, II, III, IV, V e VI.",
+        "b": "II, III, IV e V, apenas.",
+        "c": "I, II, IV e VI, apenas.",
+        "d": "I, III, IV e V, apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, todos os itens referem-se às modalidades de ensino."
+    },
+    {
+      "id": "a13_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "IBFC 2020 (adaptada para fins didáticos) Os direitos sociais, direitos de segunda dimensão, apresentam-se como prestações positivas a serem implementadas pelo Estado (Social de Direito) e tendem a concretizar a perspectiva de uma isonomia substancial e social na busca de melhores e adequadas condições de vida. Sobre a Ordem Social julgue o item: O Estado protegerá as manifestações das culturas populares, indígenas e afro-brasileiras, e das de grupos participantes do processo civilizatório nacional C certo E errado",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa está certa, é exatamente o que consta do artigo 215, §1º:\nArt. 215. O Estado garantirá a todos o pleno exercício dos direitos culturais e acesso às\nfontes da cultura nacional, e apoiará e incentivará a valorização e a difusão das\nmanifestações culturais. §1º O Estado protegerá as manifestações das culturas populares,\nindígenas e afro-brasileiras, e das de outros grupos participantes do processo civilizatório\nnacional."
+    },
+    {
+      "id": "a13_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "IDECAN 2019 (adaptada para fins didáticos) Em relação ao capítulo da Constituição Federal de 1988 que trata da Educação, Cultura e Desporto, julgue o item: O ensino fundamental regular será ministrado em língua portuguesa, inclusive em relação às comunidades indígenas, uma vez que não lhes são assegurados a utilização de suas línguas maternas e processos próprios de aprendizagem. C certo E errado",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Assertiva está errada.\nDe fato, o EF será ministrado em língua portuguesa, mas ao negar que é assegurada às\ncomunidades indígenas a utilização de suas línguas maternas, o item contraria o disposto no\nartigo 210, §2º:\n§ 2º O ensino fundamental regular será ministrado em língua portuguesa, assegurada às\ncomunidades indígenas também a utilização de suas línguas maternas e processos\npróprios de aprendizagem."
+    },
+    {
+      "id": "a13_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "FCC 2018 (adaptada para fins didáticos) O Brasil é um país continental, apresenta diferenças climáticas, econômicas, sociais e culturais entre suas regiões. A cultura indígena, a cultura africana e a cultura europeia compõem a tradição cultural brasileira. Dessa forma, julgue o item: Os indígenas têm direito a frequentar escolas indígenas bilíngues que preservem suas tradições culturais C Certo E Errado",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A alternativa está certa. A assertiva guarda relação com as normas vigentes, lembre-se do que\ndispõe o artigo 78, da LDB.\nArt. 78. O Sistema de Ensino da União, com a colaboração das agências federais de\nfomento à cultura e de assistência aos índios, desenvolverá programas integrados de\nensino e pesquisa, para oferta de educação escolar bilingue e intercultural aos povos\nindígenas, com os seguintes objetivos:\nI - proporcionar aos índios, suas comunidades e povos, a recuperação de suas memórias\nhistóricas; a reafirmação de suas identidades étnicas; a valorização de suas línguas e\nciências;\nII - garantir aos índios, suas comunidades e povos, o acesso às informações, conhecimentos\ntécnicos e científicos da sociedade nacional e demais sociedades indígenas e não-índias."
+    },
+    {
+      "id": "a13_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "EPBAZI 2019 A Lei nº 11.645/2008 altera a Lei no 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática:",
+      "alternativas": {
+        "a": "História e Cultura Euro-Brasileira e Indígena.",
+        "b": "História e Cultura Afro-Brasileira e Indígena.",
+        "c": "Arte e Cultura Afro-Brasileira e Indígena.",
+        "d": "História da Arte Euro-Brasileira e Indígena."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B. Falamos dessa questão ao longo da aula, fundamental e não pode\nerrar. Retome a leitura do artigo 26-A, LDB:\nArt. 26-A. Nos estabelecimentos de ensino fundamental e de ensino médio, públicos e\nprivados, torna-se obrigatório o estudo da história e cultura afro-brasileira e indígena."
+    },
+    {
+      "id": "a13_006",
+      "numero": 6,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "INSTITUTO EXCELÊNCIA 2017 O Artigo 78 da Lei de Diretrizes e Bases da Educação Nacional estabelece: “O Sistema de Ensino da União, com a colaboração das agências federais de fomento à cultura e de assistência aos índios, desenvolverá programas integrados de ensino e pesquisa, para oferta de educação escolar bilíngue e intercultural aos povos indígenas, com os seguintes objetivos:",
+      "alternativas": {
+        "a": "A jornada escolar do indígena incluirá pelo menos quatro horas de trabalho efetivo, sendo progressivamente ampliado o período de permanência na escola.",
+        "b": "Formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em setores profissionais e para a participação no desenvolvimento da sociedade brasileira, e colaborar na sua formação contínua.",
+        "c": "Proporcionar aos índios, suas comunidades e povos, a recuperação de suas memórias históricas; a reafirmação de suas identidades étnicas; a valorização de suas línguas e ciências e garantir aos índios, suas comunidades e povos, o acesso às informações, conhecimentos técnicos e científicos da sociedade nacional e demais sociedades indígenas e não-índias.",
+        "d": "Nenhuma das alternativas."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. Exatamente o que está disposto no artigo 78, da LDB:\nArt. 78. O Sistema de Ensino da União, com a colaboração das agências federais de\nfomento à cultura e de assistência aos índios, desenvolverá programas integrados de\nensino e pesquisa, para oferta de educação escolar bilingue e intercultural aos povos\nindígenas, com os seguintes objetivos:\nI - proporcionar aos índios, suas comunidades e povos, a recuperação de suas memórias\nhistóricas; a reafirmação de suas identidades étnicas; a valorização de suas línguas e\nciências;\nII - garantir aos índios, suas comunidades e povos, o acesso às informações, conhecimentos\ntécnicos e científicos da sociedade nacional e demais sociedades indígenas e não-índias.\nAlternativa A refere-se à jornada escolar do Ensino fundamental e alternativa B refere-se a uma\ndas finalidades do Ensino Superior."
+    },
+    {
+      "id": "a13_007",
+      "numero": 7,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2019 A Lei n° 9.394/96 em seu art. 79, parágrafos 1° e 2°, incisos: I, II, III e IV, fala que a união apoiará técnica e financeiramente os sistemas de ensino no provimento da educação intercultural as comunidades indígenas, desenvolvendo programas integrados de ensino e pesquisa, incluídos nos Planos Nacionais de Educação. Dentre esses planos, qual pode se considerar seus objetivos? Analise as afirmativas a seguir e assinale a alternativa CORRETA: I Fortalecer as práticas sócio culturais e a língua materna de cada comunidade indígena. II Oferecer alguns programas de formação de pessoal especializado, destinado à educação escolar. III Desenvolver currículos e programas específicos, neles incluindo os conteúdos culturais correspondentes às respectivas comunidades. IV Elaborar e publicar sistematicamente material didático específico e diferenciado.",
+      "alternativas": {
+        "a": "Apenas as afirmativas I e II estão corretas.",
+        "b": "Apenas as afirmativas I, III e IV estão corretas.",
+        "c": "Nenhuma afirmativa está correta.",
+        "d": "Todas as afirmativas estão corretas."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B\nItem I está correto, letra da lei, artigo 79, §2º, inciso I.\nItem II está incorreto, porque tentou confundir você colocando a oferta de programas quando\no que o artigo 79, §2º, inciso II prevê é a manutenção dos programas:\nArt. 79. A União apoiará técnica e financeiramente os sistemas de ensino no provimento\nda educação intercultural às comunidades indígenas, desenvolvendo programas\nintegrados de ensino e pesquisa. [...] § 2º Os programas a que se refere este artigo,\nincluídos nos Planos Nacionais de Educação, terão os seguintes objetivos: [...] II - manter\nprogramas de formação de pessoal especializado, destinado à educação escolar nas\ncomunidades indígenas;\nItem III está correto, letra da lei, artigo 79, §2º, inciso III.\nItem IV está correto, letra da lei, artigo 79, §2º, inciso IV."
+    },
+    {
+      "id": "a13_008",
+      "numero": 8,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2020 As Diretrizes Curriculares Nacionais para a Educação Infantil afirmam como proposta pedagógica para as crianças indígenas a autonomia na escolha dos modos de educação de suas crianças de 0 a 5 anos de idade, garantindo para os povos que optarem pela educação infantil: I - Proporcionar uma relação viva com os conhecimentos, crenças, valores, concepções de mundo e as memórias de seu povo. II - Reafirmar a identidade étnica e a língua materna como elementos de constituição das crianças. III - Dar continuidade à educação tradicional oferecida na família e articular-se às práticas socioculturais de educação e cuidado coletivos da comunidade. IV - Adequar calendário, agrupamentos etários e organização de tempos, atividades e ambientes de modo a atender as demandas de cada povo indígena. Analise as afirmativas e assinale a alternativa CORRETA:",
+      "alternativas": {
+        "a": "Apenas as afirmativas I e II estão corretas.",
+        "b": "Apenas as afirmativas II e III estão corretas.",
+        "c": "Apenas a afirmativas II, III e IV estão corretas.",
+        "d": "Todas as afirmativas estão corretas."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. Trouxe essa questão para salientar a observações feitas para EI, que\nconstam do Parecer CNE/CEB Nº 13/2012, aprovado em 10.5.2012, que institui as DCN-EEI\ndefinidas na Resolução CE/CEB nº 5/2012, cujos aspectos atinentes à EI foram pontuados ao\nlongo da aula. Mas vejamos excerto do documento, que responde à questão acima:\nCom relação à autonomia dos povos indígenas na escolha dos modos de educação de\nsuas crianças, de acordo com o Parecer CNE/CEB nº 20/2009, em seu Artigo 8º, § 2º,\nas propostas pedagógicas para os povos que optaram pela Educação Infantil devem:\na) proporcionar uma relação viva com os conhecimentos, crenças, valores, concepções\nde mundo e as memórias de seu povo;\nb) reafirmar a identidade étnica e a língua materna como elementos de constituição das\ncrianças;\nc) dar continuidade à educação tradicional oferecida na família e articular-se às práticas\nsocioculturais de educação e cuidado coletivos da comunidade;\nd) adequar calendário, agrupamentos etários e organização de tempos, atividades e\nambientes de modo a atender às demandas de cada povo indígena.\nPortanto, todas as assertivas propostas pela questão estão corretas."
+    },
+    {
+      "id": "a13_009",
+      "numero": 9,
+      "banca": "COPEVE",
+      "tipo": "multipla",
+      "enunciado": "COPEVE-UFAL 2017 Segundo as Diretrizes Curriculares Nacionais para a Educação Infantil, as propostas pedagógicas para os povos indígenas que optarem pela Educação Infantil devem",
+      "alternativas": {
+        "a": "dar continuidade à educação tradicional oferecida na família.",
+        "b": "reafirmar o ensino da língua portuguesa como indispensável.",
+        "c": "implementar o mesmo calendário nacional orientado pelo MEC.",
+        "d": "organizar as salas com um sistema único de agrupamento etário.",
+        "e": "condensar as crenças e valores do grupo em disciplina específica."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. Única de acordo com as DCN-EEI. Especificamente, essas\nobservações feitas sobre EI, constam do Parecer CNE/CEB Nº 13/2012, aprovado em 10.5.2012,\nque institui as DCN-EEI definidas na Resolução CE/CEB nº 5/2012, cujos aspectos atinentes à\nEI foram pontuados ao longo da aula. Mas vejamos excerto do documento, que responde à\nquestão acima:\nCom relação à autonomia dos povos indígenas na escolha dos modos de educação de\nsuas crianças, de acordo com o Parecer CNE/CEB nº 20/2009, em seu Artigo 8º, § 2º,\nas propostas pedagógicas para os povos que optaram pela Educação Infantil devem:\na) proporcionar uma relação viva com os conhecimentos, crenças, valores, concepções\nde mundo e as memórias de seu povo;\nb) reafirmar a identidade étnica e a língua materna como elementos de constituição das\ncrianças;\nc) dar continuidade à educação tradicional oferecida na família e articular-se às práticas\nsocioculturais de educação e cuidado coletivos da comunidade;\nd) adequar calendário, agrupamentos etários e organização de tempos, atividades e\nambientes de modo a atender às demandas de cada povo indígena."
+    },
+    {
+      "id": "a13_010",
+      "numero": 10,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FCC 2018 Segundo as Diretrizes Curriculares Nacionais para a Educação Escolar Indígena, o atendimento escolar será feito",
+      "alternativas": {
+        "a": "por professores com habilitação superior em educação escolar indígena.",
+        "b": "pelos caciques ou pajés de cada povo indígena, considerados sábios, por meio de indicação e aprovação do Conselho de Educação Escolar Indígena.",
+        "c": "por professores efetivos e ou contratados da rede pública, indígenas e não indígenas.",
+        "d": "exclusivamente por parte de professores indígenas oriundos da respectiva comunidade.",
+        "e": "exclusivamente por professores bilíngues ou multilíngues em cada área do conhecimento."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D, pois representa um dos elementos básicos para organização,\nestrutura e funcionamento da Escola Indígena.\nLembre-se dos outros, previsto no artigo 4º da Resolução CNE/CEB nº 5/2012:\nArtigo 4º Constituem elementos básicos para a organização, a estrutura e o funcionamento\nda escola indígena:\nI - a centralidade do território para o bem viver dos povos indígenas e para seus processos\nformativos e, portanto, a localização das escolas em terras habitadas por comunidades\nindígenas, ainda que se estendam por territórios de diversos Estados ou Municípios\ncontíguos;\nII - a importância das línguas indígenas e dos registros linguísticos específicos do\nportuguês para o ensino ministrado nas línguas maternas das comunidades indígenas,\ncomo uma das formas de preservação da realidade sociolinguística de cada povo;\nIII - a organização escolar própria, nos termos detalhados nesta Resolução;"
+    },
+    {
+      "id": "a13_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP 2019 De acordo com a Resolução CNE/CEB nº 1, de 3 de abril de 2002, que instituiu as diretrizes operacionais para a Educação Básica nas escolas do campo, os sistemas de ensino, além dos princípios e diretrizes que orientam a Educação Básica no País, observarão, no processo de normatização complementar da formação de professores para o exercício da docência nas escolas do campo, os seguintes componentes, exceto:",
+      "alternativas": {
+        "a": "Estudos a respeito da diversidade.",
+        "b": "Fidelidade aos princípios éticos que norteiam a convivência solidária e colaborativa nas sociedades democráticas.",
+        "c": "Propostas pedagógicas que valorizem, na organização do ensino, a diversidade cultural e os processos de interação e transformação do campo.",
+        "d": "Parcimônia na inserção do acesso ao avanço científico e tecnológico, visando a não descaracterizar a cultura do campo."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa a ser assinalada: letra D. É a única que vai de encontro ao que consta do artigo 13\nda referida resolução. Vamos reler o que versa sobre a formação de professores para o exercício\nda docência nas escolas de campo?\nArt. 13. Os sistemas de ensino, além dos princípios e diretrizes que orientam a Educação\nBásica no país, observarão, no processo de normatização complementar da formação de\nprofessores para o exercício da docência nas escolas do campo, os seguintes\ncomponentes: I - estudos a respeito da diversidade e o efetivo protagonismo das crianças,\ndos jovens e dos adultos do campo na construção da qualidade social da vida individual e\ncoletiva, da região, do país e do mundo; II - propostas pedagógicas que valorizem, na\norganização do ensino, a diversidade cultural e os processos de interação e transformação\ndo campo, a gestão democrática, o acesso ao avanço científico e tecnológico e respectivas\ncontribuições para a melhoria das condições de vida e a fidelidade aos princípios éticos\nque norteiam a convivência solidária e colaborativa nas sociedades democráticas."
+    },
+    {
+      "id": "a13_012",
+      "numero": 12,
+      "banca": "IF",
+      "tipo": "multipla",
+      "enunciado": "IF-MS 2019 Técnico em Assuntos Educacionais: O currículo da Educação Escolar Quilombola diz respeito aos modos de organização dos tempos e espaços escolares de suas atividades pedagógicas, das interações do ambiente educacional com a sociedade, das relações de poder presentes no fazer educativo e nas formas de conceber e construir conhecimentos escolares, constituindo parte importante dos processos sociopolíticos e culturais de construção de identidades (Art. 34, Resolução CNE/CEB nº 8, de 20 de novembro de 2012). A organização curricular da Educação Escolar Quilombola, desta maneira, precisa ser promovida considerando as especificidades da região em que se insere. Os currículos da Educação Básica na Educação Escolar Quilombola, de acordo com a Resolução nº 8/2012, devem ser:",
+      "alternativas": {
+        "a": "Construídos pela gestão escolar, considerando as informações apresentadas nos livros didáticos.",
+        "b": "Construídos exclusivamente pela equipe pedagógica da instituição, e definidos no Plano de Ensino.",
+        "c": "Construídos a partir dos valores e interesses das comunidades quilombolas em relação aos seus projetos de sociedade e de escola, definidos nos projetos político-pedagógicos.",
+        "d": "Organizados exclusivamente em conteúdos programáticos de maneira modular, inserido nos 200 dias letivos da Educação Básica.",
+        "e": "Organizados de maneira transdisciplinar, interpassando pela ementa das diversas unidades curriculares do curso ofertado, devidamente registrados nos Planos de Ensino e Diários de Classe da instituição."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C.\nExatamente o que consta do § 1º, artigo 34 da Resolução CNE/CB nº 8/2012:\nOs currículos da Educação Básica na Educação Escolar Quilombola devem ser\nconstruídos a partir dos valores e interesses das comunidades quilombolas em relação\naos seus projetos de sociedade e de escola, definidos nos projetos políticopedagógicos"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "esquema": 1,
+  "id": "aula-11-gestao-democratica",
+  "aula": "11",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 11",
+  "subtitulo": "Gestão Democrática na Escola Pública",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 11",
+  "itensEdital": [
+    24
+  ],
+  "tagsEdital": [
+    {
+      "n": 24,
+      "titulo": "Gestão democrática"
+    }
+  ],
+  "resumoMd": "### 1. Fundamentos Legais e Conceituais\n- **Constituição Federal de 1988 (Art. 206, VI)**: Define a *gestão democrática do ensino público* como um dos princípios ministeriais da educação nacional.\n- **LDB nº 9.394/1996 (Arts. 14 e 15)**: Determina que os sistemas de ensino definirão as normas da gestão democrática, garantindo:\n  - Participação dos profissionais da educação na elaboração do PPP.\n  - Participação das comunidades escolar e local em conselhos escolares ou equivalentes.\n  - Autonomia pedagógica, administrativa e de gestão financeira às unidades escolares.\n\n### 2. Órgãos Colegiados e Instâncias de Participação\n- **Conselho Escolar**: Órgão máximo de deliberação, consultoria, fiscalização e mobilização no âmbito da escola, composto por representantes de todos os segmentos (professores, diretores, especialistas, funcionários, estudantes e pais).\n- **Conselho de Classe**: Espaço de reflexão e acompanhamento do processo de ensino-aprendizagem, avaliação dos alunos e autoavaliação do trabalho docente.\n- **Grêmio Estudantil**: Entidade representativa dos estudantes para fomento da cidadania e protagonismo juvenil.\n- **Associação de Pais e Mestres (APM) / Caixa Escolar**: Instrumentos de apoio à gestão financeira e comunitária.\n\n### 3. Pilares da Gestão Democrática\n- **Descentralização**: Distribuição do poder de decisão e quebra do centralismo e autoritarismo.\n- **Transparência e Prestação de Contas**: Socialização de dados administrativos, pedagógicos e financeiros.\n- **Co-responsabilidade**: Compromisso compartilhado com os resultados educacionais e com a qualidade do ensino.\n\n---",
+  "total": 9,
+  "questoes": [
+    {
+      "id": "a11_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Santa Cecília do Sul)/Pedagogia/2019 - Para Vasconcellos, a gestão envolve estratégias, nas quais a comunicação exerce papel fundamental como ponto de partida para que todos se entendam. Nesse sentido, assinale V, se verdadeiro, ou F, se falso, quanto ao papel do gestor na construção do PPP. ( ) Discutir soluções possíveis e promover negociações. ( ) Assumir responsabilidades e deixar que os outros também assumam. ( ) Valorizar os aspectos positivos do grupo, deixando claras as suas intenções para com a escola e zelar pela total transparência de todas as ações. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+      "alternativas": {
+        "a": "F – V – F.",
+        "b": "V – F – V.",
+        "c": "V – V – F.",
+        "d": "V – V – V.",
+        "e": "F – F – V."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa está correta. Este processo faz parte da democracia e da participação.\nA segunda afirmativa está correta. Assumir responsabilidades faz parte da construção do PPP.\nA terceira afirmativa está correta. A transparência e o trabalho em equipe fazem parte da construção\ndo PPP.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a11_002",
+      "numero": 2,
+      "banca": "FCM",
+      "tipo": "multipla",
+      "enunciado": "FCM - CEFETMINAS - Supervisor Pedagógico (Pref Guarani)/2019 - Trabalhar com projetos tem sido uma prática pedagógica comum nas escolas brasileiras de Educação Básica. Para que se alcancem não só ganhos individualizados na aprendizagem do aluno, mas resultados mais gerais que representem conquistas significativas como processos educativos, são necessários cuidados que integrem esse trabalho ao Projeto Político Pedagógico da Escola (PPP). (NOGUEIRA, 2006). Avalie as afirmações referentes aos cuidados na preparação de projetos na escola. I. Espalhar cartazes e faixas pelos corredores, relatando os resultados alcançados. II. Dar clareza ao que se pretende com o projeto, aos motivos para realizá-lo, conforme a proposta da escola. III. Identificar nos objetivos do projeto a contribuição para as múltiplas possibilidades do trabalho educativo. IV. Garantir o alcance dos objetivos, dos saberes, dos conhecimentos e das habilidades em cada disciplina, de modo que impactem a composição do PPP. Está correto apenas o que se afirma em",
+      "alternativas": {
+        "a": "I e II.",
+        "b": "II e III.",
+        "c": "I e IV.",
+        "d": "II, III e IV."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. Espalhar cartazes não revela um cuidado com o PPP segundo o autor.\nAfirmativa II está correta. O PPP é dar clareza aos objetivos propostos.\nAfirmativa III está correta. Identificação dos objetivos também é importante no PPP.\nAfirmativa IV está incorreta. Os saberes e objetivos de cada disciplina faz parte do plano didático e\nnão do PPP. O professor tem autonomia para compor seu plano de aula.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a11_003",
+      "numero": 3,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref N Horizonte)/Educação Básica II/Ciências/2019 - De acordo com Demo, a competência humana atual, diante dos desafios da inovação e da cidadania, lança pretensões específicas, que supõem sempre atitude reconstrutiva diante da vida, sem necessariamente ser construtivista. No lado formal, são alguns critérios de qualidade da educação, EXCETO:",
+      "alternativas": {
+        "a": "Capacidade de pesquisa, para ler criticamente a realidade.",
+        "b": "Elaboração própria, para saber reconstruir projeto próprio.",
+        "c": "Atualização facultativa, uma vez que as teorias educacionais não mudam.",
+        "d": "Teorização das práticas, para saber intervir criativamente.",
+        "e": "Saber pensar, argumentar, fundamentar e aprender."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. O professor pesquisador faz parte da formação de professores.\nA alternativa B está correta. O professor dá significado próprio as suas experiências na escola.\nA alternativa C está incorreta. A atualização do docente tem que ser obrigatória.\nA alternativa D está correta. A teoria e prática fazem parte das intervenções do professor em sala de\naula.\nA alternativa E está correta. São ações próprias do professor pesquisador e crítico."
+    },
+    {
+      "id": "a11_004",
+      "numero": 4,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Diretor de Escola (Pref Olímpia)/2019 - “As experiências já vivenciadas em relação à democratização da gestão escolar apontam alguns pressupostos e alguns parâmetros que, se considerados, tendem a garantir maior sucesso na conquista daquela democratização e, consequentemente, da escola de melhor qualidade”. De acordo com Ângela A. Ciseski e José E. Romão, em Autonomia da Escola: princípios e propostas, pode-se considerar, dentre outros, como parâmetro para constituição de Conselhos de Escola que",
+      "alternativas": {
+        "a": "cabe ao Conselho de Escola definir e aprovar o plano de aplicação financeira da escola.",
+        "b": "as deliberações do Conselho de Escola deverão ser tomadas por, no mínimo, 2/3 (dois terços) de seus participantes.",
+        "c": "serão computados dois votos para professor que possua dois cargos na mesma unidade de ensino no processo de escolha de representantes.",
+        "d": "cabe ao diretor de escola, membro nato, a presidência das reuniões do Conselho de Escola.",
+        "e": "os representantes dos alunos terão sempre direito a voto e voz."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O Conselho Escolar define em ata o plano de aplicação de recursos\nfinanceiros da escola.\nA alternativa B está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende\nde leis locais municipais e estaduais.\nA alternativa C está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende\nde leis locais municipais e estaduais.\nA alternativa D está incorreta. Em geral, a presidência das reuniões do Conselho de Escola não recai\nsobre a gestão escolar, uma vez que a presidência deve ter autonomia em relação à gestão.\nA alternativa E está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende\nde leis locais municipais e estaduais."
+    },
+    {
+      "id": "a11_005",
+      "numero": 5,
+      "banca": "IMPARH",
+      "tipo": "multipla",
+      "enunciado": "IMPARH - Superintendente Escolar (SME Fortaleza)/2017/Edital 50.2017 - A gestão escolar é uma dimensão, um enfoque de atuação, um meio e não um fim em si mesmo, uma vez que o objetivo final da gestão é a aprendizagem efetiva e significativa dos alunos. Segundo Wittmann (2004), podemos falar que a gestão escolar possui três aspectos inalienáveis e interrelacionados:",
+      "alternativas": {
+        "a": "consciência cidadã, formação do sujeito social e fortalecimento do global.",
+        "b": "unidade da ação pedagógica, competência burocrática e poder aglutinador.",
+        "c": "competência técnica, liderança na comunidade e compromisso público-político.",
+        "d": "responsabilidade civil, dimensão jurídica moderna e visão estratégica da escola."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. O termo \"fortalecimento do global\" inviabilizou a alternativa.\nA alternativa B está incorreta. O termo \"competência burocrática\" inviabilizou a alternativa.\nA alternativa C está correta. Aqui estão as dimensões políticas e pedagógicas da gestão.\nA alternativa D está incorreta. O termo \"dimensão jurídica\" inviabilizou a alternativa."
+    },
+    {
+      "id": "a11_006",
+      "numero": 6,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - CONSESP - Professor (Pref Parapuã)/Educação Infantil/2017 - Segundo OYAFUSO, Akiko; MAIA, Eny (1998), as autoras afirmam que a autonomia da escola se constrói a partir de três eixos fundamentais, que são:",
+      "alternativas": {
+        "a": "as capacidades de: identificar os problemas, apresentar alternativas para solucioná-los e de administrar recursos financeiros próprios.",
+        "b": "a gestação de pessoas, de recursos financeiros e patrimoniais.",
+        "c": "a motivação para produzir: autogestão, autorregulação e autoavaliação.",
+        "d": "a condição de mobilizar resultados de aprendizagem, contornar conflitos e reduzir despesas."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Lidar com problemas pedagógicos da escola. Propor soluções para elas e\ngerir os recursos próprios. Todas essas são ações de autonomia.\nA alternativa B está incorreta. O termo \"gestação de pessoas\" inviabilizou a alternativa.\nA alternativa C está incorreta. A autonomia da escola não é focada em motivação.\nA alternativa D está incorreta. Não é contornar conflitos, mas resolvê-los."
+    },
+    {
+      "id": "a11_007",
+      "numero": 7,
+      "banca": "GUALIMP",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP - Professor em Docência (Pref Colatina)/Língua Portuguesa/2017 - No âmbito da Gestão Educacional, as condições de trabalho oferecidas com o número de professores suficientes, coordenação pedagógica nas escolas, diálogo, acompanhamento e capacitação da gestão escolar constitui um indicador do seguinte cenário educacional:",
+      "alternativas": {
+        "a": "Presença do Conselho tutelar na escola.",
+        "b": "Avaliação da equipe docente.",
+        "c": "Desenvolvimento dos Sistemas ou Redes de Ensino",
+        "d": "Ações que visem à universalização e à melhoria das condições de qualidade da educação básica."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. O Conselho Tutelar é obrigatória sua aliança com a escola. É uma medida\nde diretos fundamentais e não de gestão.\nA alternativa B está incorreta. Somente avaliar não garante uma boa gestão. É preciso ação.\nA alternativa C está incorreta. São aspectos gerais e não propriamente da escola.\nA alternativa D está correta. A descrição da alternativa mostra ações pedagógicas da escola."
+    },
+    {
+      "id": "a11_008",
+      "numero": 8,
+      "banca": "NEC UFMA",
+      "tipo": "multipla",
+      "enunciado": "NEC UFMA - Técnico (UFMA)/Assuntos Educacionais/2017 - Segundo Libâneo (2007), a gestão educacional ganha evidência nos documentos das reformas educacionais como requisito para:",
+      "alternativas": {
+        "a": "Reivindicar a participação conjunta de pais, professores, como responsáveis pelas ações de ensino e aprendizagem.",
+        "b": "Desalinhar a gestão do modelo da política neoliberal.",
+        "c": "Centralizar os serviços educacionais e a autonomia pedagógica na figura do gestor.",
+        "d": "Alterar a gestão baseada nas formas de organização empresarial.",
+        "e": "O planejamento, a organização e a mobilização das pessoas."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A gestão deve ter qualidades próprias e não só ficar chamando a\nparticipação dos atores políticos escolares.\nA alternativa B está incorreta. Isso nem sempre é possível, tendo em vista as opções adotas pela\nsecretaria de educação do município ou estado.\nA alternativa C está incorreta. A centralização da gestão é contrária a boa qualidade da escola.\nA alternativa D está incorreta. Pelo contrário, a gestão deve ser afastar do modelo empresarial pelo\nsimples fato de ser uma escola e não uma empresa.\nA alternativa E está correta. O planejamento das ações pedagógicas e a mobilização dos diferentes\natores políticos da comunidade escolar são possibilidades de serem feitas pelo gestor."
+    },
+    {
+      "id": "a11_009",
+      "numero": 9,
+      "banca": "COPEVE (UFAL)",
+      "tipo": "multipla",
+      "enunciado": "COPEVE (UFAL) - Professor (Pref SM Campos)/Arte/2017 - Gestão (do latim: gestione) significa o ato de gerir, gerência, administração. Gestão é administração, é tomada de decisões, é organização, direção. Relaciona-se com a atividade de impulsionar uma organização a atingir seus objetivos, cumprir sua função, desempenhar seu papel. Constitui-se de preceitos e práticas decorrentes que afirmam ou negam os princípios que as geram. FERREIRA, N. S. C. Gestão e Organização Escolar. Curitiba: IESDE Brasil S. A., 2009. p. 13. Os princípios da gestão da educação estão relacionados à garantia da qualidade para o",
+      "alternativas": {
+        "a": "controle financeiro.",
+        "b": "exercício da cidadania.",
+        "c": "ordenamento escolar.",
+        "d": "aumento da autonomia.",
+        "e": "planejamento do ensino."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Seria apenas uma escola burocrática.\nA alternativa B está correta. É o objetivo geral da educação na CF/88.\nA alternativa C está incorreta. Seria apenas uma escola disciplinadora.\nA alternativa D está incorreta. O foco tem que ser o pedagógico e o político, embora a autonomia seja\nimportante.\nA alternativa E está incorreta. O foco tem que ser o pedagógico e o político, embora o planejamento\nseja importante."
+    }
+  ]
+}

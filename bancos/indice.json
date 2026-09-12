@@ -200,6 +200,71 @@
         }
       ],
       "total": 20
+    },
+    {
+      "arquivo": "aula-11-gestao-democratica.json",
+      "aula": "11",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 11",
+      "itensEdital": [
+        24
+      ],
+      "tagsEdital": [
+        {
+          "n": 24,
+          "titulo": "Gestão democrática"
+        }
+      ],
+      "total": 9
+    },
+    {
+      "arquivo": "aula-12-educacao-etnico-racial.json",
+      "aula": "12",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 12",
+      "itensEdital": [
+        25
+      ],
+      "tagsEdital": [
+        {
+          "n": 25,
+          "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
+        }
+      ],
+      "total": 5
+    },
+    {
+      "arquivo": "aula-13-educacao-campo-indigena-quilombola.json",
+      "aula": "13",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 13",
+      "itensEdital": [
+        6,
+        25
+      ],
+      "tagsEdital": [
+        {
+          "n": 6,
+          "titulo": "Educação do campo"
+        },
+        {
+          "n": 25,
+          "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
+        }
+      ],
+      "total": 12
+    },
+    {
+      "arquivo": "aula-14-educacao-ambiental.json",
+      "aula": "14",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 14",
+      "itensEdital": [
+        8
+      ],
+      "tagsEdital": [
+        {
+          "n": 8,
+          "titulo": "Educação ambiental"
+        }
+      ],
+      "total": 30
     }
   ]
 }

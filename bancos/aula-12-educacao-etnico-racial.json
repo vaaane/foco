@@ -1,0 +1,102 @@
+{
+  "esquema": 1,
+  "id": "aula-12-educacao-etnico-racial",
+  "aula": "12",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 12",
+  "subtitulo": "Educação das Relações Étnico-Raciais",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 12",
+  "itensEdital": [
+    25
+  ],
+  "tagsEdital": [
+    {
+      "n": 25,
+      "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
+    }
+  ],
+  "resumoMd": "### 1. Marco Legal e Legislação\n- **Lei nº 10.639/2003**: Alterou a LDB (Art. 26-A) tornando **obrigatório** o ensino da História e Cultura Afro-Brasileira nos estabelecimentos de ensino fundamental e médio (públicos e privados).\n- **Lei nº 11.645/2008**: Incluiu a obrigação do estudo da **História e Cultura Indígena** ao lado da Afro-Brasileira.\n- **Conteúdos Obrigatórios**: História da África e dos africanos, luta dos negros e indígenas no Brasil, cultura negra e indígena e a contribuição desses povos na formação da sociedade nacional (áreas socioeconômica e política).\n- **Transversalidade e Componentes Prioritários**: O conteúdo deve ser ministrado no âmbito de todo o currículo escolar, em especial nas áreas de **Educação Artística, Literatura e História do Brasil**.\n\n### 2. Diretrizes Curriculares Nacionais (Resolução CNE/CP nº 1/2004)\n- **Pedagogia do Combate ao Racismo**: Superação do mito da \"democracia racial\" no Brasil.\n- **Ações Afirmativas e Reparação**: Reconhecimento da dívida histórica e políticas de valorização da identidade, patrimônio e ancestralidade negra e indígena.\n- **Caráter Permanente**: As abordagens sobre diversidade étnico-racial não devem ficar restritas a datas comemorativas (ex.: 20 de novembro ou 19 de abril), mas permear o planejamento escolar ao longo de todo o ano letivo.\n\n---",
+  "total": 5,
+  "questoes": [
+    {
+      "id": "a12_001",
+      "numero": 1,
+      "banca": "CEV UECE",
+      "tipo": "multipla",
+      "enunciado": "CEV UECE - Analista (SECULT CE)/Cultura Pedagogia/2018 - Com a publicação da Lei Nº 10.639/2003, o Conselho Nacional de Educação aprovou o Parecer CNE/CP/3/2004, que institui as Diretrizes Curriculares para a Educação das Relações Étnico Raciais e o Ensino de História e Cultura Afro-Brasileiras e Africanas a serem executadas pelos estabelecimentos de ensino de diferentes níveis e modalidades. No sentido da execução dessas medidas, também foi estabelecido que cabe aos sistemas de ensino, no âmbito de sua jurisdição,",
+      "alternativas": {
+        "a": "orientar e promover a formação de professores, e supervisionar o cumprimento das diretrizes.",
+        "b": "valorizar as dinâmicas das relações raciais que favorecem a transmissão da pretensa superioridade branca.",
+        "c": "desenvolver a temática étnico racial apenas no ensino fundamental e no ensino médio.",
+        "d": "fortalecer as desigualdades observadas, ainda hoje, como elementos do escravismo que a geração atual herdou."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Para a aplicação das relações étnico-raciais na escola é preciso formação de\nprofessores.\nA alternativa B está incorreta. Pelo contrário, não é para ter transmissão da pretensa superioridade branca.\nA alternativa C está incorreta. A temática deve estar na educação infantil, ensino fundamental e ensino\nmédio.\nA alternativa D está incorreta. Pelo contrário, é não fortalecer as desigualdades."
+    },
+    {
+      "id": "a12_002",
+      "numero": 2,
+      "banca": "CEFETMINAS",
+      "tipo": "multipla",
+      "enunciado": "CEFETMINAS - Assistente (IF Baiano)/Aluno/2017 - No que tange ao contexto sociocultural e à escola, é correto afirmar que",
+      "alternativas": {
+        "a": "o caráter multicultural está arraigado na educação escolar, é inerente a ela.",
+        "b": "o mito da democracia racial favorece a interação entre diferentes grupos culturais e étnicos.",
+        "c": "as lutas e conflitos culturais podem ser considerados epifenômenos pela busca de hegemonia.",
+        "d": "toda prática social tem uma dimensão cultural, enquanto a esfera econômica funciona fora da cultura e dos significados.",
+        "e": "a cultura escolar tende a não reconhecer os preconceitos e as discriminações por estar impregnada por uma representação padronizada da igualdade."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, a educação escolar não tem tradição de ser multicultural.\nA alternativa B está incorreta. Pelo contrário, dissimula o racismo da sociedade.\nA alternativa C está incorreta. Não é busca pela hegemonia, mas igualdade de direitos.\nA alternativa D está incorreta. A cultura, economia e prática social estão interligadas.\nA alternativa E está correta. A cultura escolar é uma parte importante do racismo que existe na sociedade\ncomo um todo."
+    },
+    {
+      "id": "a12_003",
+      "numero": 3,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Pref SP)/Educação Infantil/2015 - Nas brincadeiras na Educação Infantil, esse racismo aparece quando as crianças negras são as empregadas domésticas, quando as crianças brancas temem ou não gostam de dar as mãos para as negras etc. O racismo aparece na Educação Infantil, na faixa etária entre 0 a 2 anos, quando os bebês negros são menos “paparicados” pelas professoras do que os bebês brancos. Ou seja, o racismo, na pequena infância, incide diretamente sobre o corpo, na maneira pela qual ele é construído, acariciado ou repugnado. (Oliveira e Abramowicz, 1985, in: Educação Infantil e Práticas Promotoras de Igualdade Racial. MEC/SEB, 2012). Diante do que foi exposto nessa pesquisa e conforme o documento Educação Infantil e Práticas Promotoras de Igualdade Racial, cabe ao professor de Educação Infantil",
+      "alternativas": {
+        "a": "mudar a situação encontrada, desenvolvendo atitudes que favoreçam o processo de desenvolvimento infantil, estimulando a interação entre pares e crianças de diferentes faixas etárias.",
+        "b": "buscar a igualdade, pressupondo tornar todos iguais dentro de uma mesma cultura, pois a igualdade elimina a diferença.",
+        "c": "superar essas mazelas, sem abrir discussões sobre o tema, tendo em vista que as crianças, nessa faixa etária, não construíram ainda conceitos racistas.",
+        "d": "apostar numa posição de transformação, sem considerar a diversidade racial, pois, se ignorarmos as diferenças, elas vão deixar de existir.",
+        "e": "mudar de postura frente à estratificação referente às relações étnico-raciais, incorporando o discurso da diferença como desvio."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O convívio com a diversidade trabalha de certa forma o racismo presente na\nsociedade.\nA alternativa B está incorreta. Não há igualdade completa em relações étnicas diferentes.\nA alternativa C está incorreta. O termo a ser usado não é superação, mas trabalho pedagógico.\nA alternativa D está incorreta. A transformação somente pode acontecer com a consideração da diversidade\nracial.\nA alternativa E está incorreta. O discurso de diferença como desvio não deve ser legitimado, pois é favorecer\nque as etnias não sejam iguais em direito."
+    },
+    {
+      "id": "a12_004",
+      "numero": 4,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Campinas)/Educação Básica I/Educação Infantil/2019 - De acordo com as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana, para conduzir suas ações, os sistemas de ensino, os estabelecimentos e os professores terão como referência, entre outros, o princípio “Ações educativas de combate ao racismo e a discriminações”. Este princípio encaminha para algumas ações; entre elas, está a",
+      "alternativas": {
+        "a": "admissão de que a discussão sobre a questão racial se limita ao Movimento Negro e a estudiosos do tema e não à escola, cabendo à educação respeitar a diversidade.",
+        "b": "certeza de que as crianças não discriminam ou cometem ações de racismo, mas cabe intervir se algum comportamento de racismo ocorrer por parte de adultos.",
+        "c": "inclusão de personagens negros nos cartazes da escola, sobre qualquer tema, inclusive quando se tratar de manifestações culturais próprias e exclusivas.",
+        "d": "valorização da oralidade, da corporeidade e da arte, por exemplo, como a dança, marcas da cultura de raiz africana, ao lado da escrita e da leitura.",
+        "e": "exaltação do dia 19 de abril para valorização dos índios brasileiros; nesta data as crianças podem receber cocares e pinturas para homenagear esse povo exótico."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. A escola deve participar da discussão sobre discussão racial.\nA alternativa B está incorreta. As crianças podem ser tão preconceituosas como os adultos por estarem na\nmesma sociedade que eles.\nA alternativa C está incorreta. Essa é uma ação superficial para tratar de racismo dentro da escola.\nA alternativa D está correta. Valorização da cultura afro-brasileira passar por essas definições de\nmanifestações artísticas.\nA alternativa E está incorreta. A prática focada em datas comemorativas está em desuso de acordo com\ndiversos documentos oficiais."
+    },
+    {
+      "id": "a12_005",
+      "numero": 5,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Professor (Florianópolis)/Auxiliar de Educação Infantil/2019 - Consta na Matriz Curricular para Educação das Relações Étnico-Raciais na Educação Básica (2016) que de acordo com as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana, ao levar para as escolas e para os currículos a temática, é importante destacar que não se trata de mudar um foco etnocêntrico marcadamente de raiz europeia por um africano, mas de ampliar o foco dos currículos escolares para:",
+      "alternativas": {
+        "a": "A conformação dos corpos.",
+        "b": "Práticas voltadas à igualdade cultural.",
+        "c": "A promoção da singularidade da cultura africana.",
+        "d": "Estreitar as relações afetivas com a população afrodescendente.",
+        "e": "A diversidade cultural, racial, social e econômica brasileira."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Conformar os corpos é favorecer a disciplinarização dos conflitos inerentes à\nsociedade.\nA alternativa B está incorreta. A igualdade cultural plena não existe.\nA alternativa C está incorreta. Só a singularidade não garante o respeito. Pode ser uma visão estereotipada.\nA alternativa D está incorreta. A desculpa do afeto também pode favorecer visões preconceituosas e\ndistorcidas.\nA alternativa E está correta. O termo usado \"diversidade\" está adequado."
+    }
+  ]
+}
