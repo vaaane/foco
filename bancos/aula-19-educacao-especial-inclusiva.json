@@ -1,0 +1,401 @@
+{
+  "esquema": 1,
+  "id": "aula-19-educacao-especial-inclusiva",
+  "aula": "19",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 19",
+  "subtitulo": "Educação Especial e Inclusiva",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 19",
+  "itensEdital": [
+    9
+  ],
+  "tagsEdital": [
+    {
+      "n": 9,
+      "titulo": "Fundamentos legais da Educação especial/inclusiva"
+    }
+  ],
+  "resumoMd": "### A. Conceito e Público-Alvo (LDB - Capítulo V)\n- **Definição:** Modalidade de educação escolar oferecida **preferencialmente na rede regular de ensino** para educandos com deficiência, transtornos globais do desenvolvimento (TGD/TEA) e altas habilidades ou superdotação.\n- **Transversalidade:** Perpassa todos os níveis, etapas e modalidades de ensino, da Educação Infantil ao Ensino Superior.\n\n### B. Atendimento Educacional Especializado (AEE)\n- O AEE é um serviço **complementar** (para alunos com deficiência/TGD) ou **suplementar** (para alunos com altas habilidades/superdotação), ofertado no turno inverso ao da classe regular (sala de recursos multifuncionais).\n- **Não substitui** a escolarização regular na sala comum.\n\n### C. Marcos Internacionais e Nacionais\n- **Declaração de Salamanca (1994):** Marco mundial da transição do modelo de integração para o modelo de **inclusão**.\n- **Lei Brasileira de Inclusão (LBI - Lei nº 13.146/2015):** Assegura sistema educacional inclusivo em todos os níveis, vedando a cobrança de valores adicionais em mensalidades/matrículas de escolas privadas.\n\n---",
+  "total": 25,
+  "questoes": [
+    {
+      "id": "a19_001",
+      "numero": 1,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX – 2018) As diretrizes nacionais para a educação especial na educação básica afirmam que o atendimento escolar desses alunos terá início na educação infantil. Com relação a esse assunto, julgue o item subsequente. As diretrizes da educação especial, em função de suas especificidades, restringem‐se a algumas etapas e modalidades da educação básica. C CERTO E ERRADO",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A assertiva está ERRADA. A Resolução nº 02/2001 explicita, no artigo 3º que educação especial,\nmodalidade da educação escolar, entende-se um processo educacional definido por uma proposta\npedagógica que assegure recursos e serviços educacionais especiais, organizados\ninstitucionalmente para apoiar, complementar, suplementar e, em alguns casos, substituir os\nserviços educacionais comuns, de modo a garantir a educação escolar e promover o\ndesenvolvimento das potencialidades dos educandos que apresentam necessidades educacionais\nespeciais, em todas as etapas e modalidades da educação básica."
+    },
+    {
+      "id": "a19_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN-2019) De acordo com o Art. 8º, inciso IV, da Resolução CNE/CEB nº 2 de 2001, as escolas da rede regular de ensino devem prever e prover na organização de suas classes comuns serviços de apoio pedagógico especializado, realizado, nas classes comuns, mediante: I. Atuação colaborativa de professor especializado em educação especial. II. Atuação de professores-intérpretes das linguagens e códigos aplicáveis. III. Atuação de professores e outros profissionais itinerantes intra e inter institucionalmente. IV. Disponibilização de outros apoios necessários à aprendizagem, à locomoção e à comunicação. V. Avaliação pedagógica no processo de ensino da aprendizagem para identificar o nível de aprendizagem. Estão corretas apenas as premissas",
+      "alternativas": {
+        "a": "I e II.",
+        "b": "II, III e V.",
+        "c": "II, III e IV.",
+        "d": "I, II, III e IV."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa correta é a letra D. As assertivas I, II, III e IV estão corretas, pois transcrevem,\nrespectivamente, os itens a, b, c e d, do inciso IV, artigo 8º da referida Resolução. Contudo, não\nhá previsão para avaliação para identificar o nível de aprendizagem, o que exclui a assertiva V."
+    },
+    {
+      "id": "a19_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FADESP-2018) A Resolução n° 2/2001, da Câmara de Educação Básica do Conselho Nacional de Educação, que institui diretrizes nacionais para a educação especial na educação básica, determina que as escolas da rede regular de ensino devem prever e prover, na organização de suas classes comuns, serviços de apoio pedagógico especializado mediante",
+      "alternativas": {
+        "a": "atuação semestral de professor com pós-graduação em educação especial ou área afim.",
+        "b": "presença, em pelo menos um dia por mês, de professores-intérpretes das linguagens aplicáveis.",
+        "c": "atuação de professores e outros profissionais itinerantes intra e interinstitucionalmente.",
+        "d": "apoio financeiro para a contratação de profissionais para aulas de reforço."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a letra C. A atuação de professores e profissionais itinerantes intra e\ninterinstitucionalmente é a única assertiva que se refere à organização dos serviços de apoio\npedagógico especializado. As demais alternativas são estranhas à norma."
+    },
+    {
+      "id": "a19_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(COTEC-2015) As Diretrizes Curriculares Nacionais para a Educação Especial na Educação Básica, Resolução CNE/CEB n.º 02/ 2001, estabelece, EXCETO",
+      "alternativas": {
+        "a": "O atendimento escolar dos alunos que apresentem necessidades educacionais especiais terá início na Educação Infantil, nas creches e pré-escolas, assegurando-lhes os serviços de educação especial sempre que se evidencie, mediante avaliação e interação com a família e a comunidade, a necessidade de atendimento educacional especializado.",
+        "b": "Os alunos com altas habilidades/superdotação, grande facilidade de aprendizagem que os leve a dominar rapidamente conceitos, procedimentos e atitudes não são considerados alunos que apresentem necessidades educacionais especiais.",
+        "c": "Os sistemas de ensino devem matricular todos os alunos, cabendo às escolas organizarem-se para o atendimento aos educandos com necessidades educacionais especiais, assegurando as condições necessárias para uma educação de qualidade para todos.",
+        "d": "Os sistemas de ensino devem constituir e fazer funcionar um setor responsável pela educação especial, dotado de recursos humanos, materiais e financeiros que viabilizem e deem sustentação ao processo de construção da educação inclusiva."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta, pois transcreve o parágrafo único, do artigo 1º da referida Resolução.\nA alternativa B está incorreta indica que os alunos Altas Habilidades/Superdotação não são\nconsiderados educandos com necessidades educacionais especiais, contrariando o artigo 5º,\ninciso III. Representa, portanto, o gabarito a ser assinalado. Lembre-se dos três grupos: PCD, TGD\ne AH/SD.\nA alternativa C está correta, pois transcreve o artigo 2º da Resolução CNE/CEB nº 02/2001.\nE a alternativa D está correta, pois transcreve o parágrafo único, do artigo 3º da referida\nResolução."
+    },
+    {
+      "id": "a19_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE/CEBRASPE- 2018) Com relação aos fundamentos da educação especial na perspectiva inclusiva, julgue o item a seguir. Conforme a Política Nacional da Educação Especial na Perspectiva da Educação Inclusiva, a educação especial é uma modalidade presencial de ensino que se inicia no ensino fundamental e se encerra no ensino médio. C Certo. E Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A assertiva está ERRADA. As Diretrizes da PNEEPEI apontam que a educação especial é uma\nmodalidade de ensino que perpassa todos os níveis, etapas e modalidades, realiza o atendimento\neducacional especializado, disponibiliza os recursos e serviços e orienta quanto a sua utilização no\nprocesso de ensino e aprendizagem nas turmas comuns do ensino regular."
+    },
+    {
+      "id": "a19_006",
+      "numero": 6,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(METROCAPITAL/2019) Segundo o teor da Política de Educação Especial na Perspectiva da Educação Inclusiva (2008), a educação especial é considerada:",
+      "alternativas": {
+        "a": "etapa.",
+        "b": "modalidade.",
+        "c": "serviço de atendimento.",
+        "d": "atendimento educacional secundário.",
+        "e": "parcela do conhecimento."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B está correta e é o gabarito da questão. Segundo as Diretrizes da PNEEPEI “a\neducação especial é uma modalidade de ensino que perpassa todos os níveis, etapas e\nmodalidades, realiza o atendimento educacional especializado, disponibiliza os recursos e serviços\ne orienta quanto a sua utilização no processo de ensino e aprendizagem nas turmas comuns do\nensino regular.”."
+    },
+    {
+      "id": "a19_007",
+      "numero": 7,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(CETREDE-2019) A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008) tem como objetivo:",
+      "alternativas": {
+        "a": "assegurar a profissionalização de pessoas com deficiência.",
+        "b": "orientar os sistemas de ensino para garantir acesso ao ensino especial, com participação, aprendizagem e continuidade nos níveis iniciais do ensino.",
+        "c": "garantir a transversalidade da modalidade de educação regular da educação infantil até o Ensino Fundamental.",
+        "d": "formar professores para o ensino regular.",
+        "e": "assegurar a acessibilidade arquitetônica nos transportes, nos mobiliários, nas comunicações e informação para alunos, público alvo da educação especial."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O objetivo da PNEEPEI é “o acesso, a participação e a\naprendizagem dos estudantes com deficiência, transtornos globais do desenvolvimento e altas\nhabilidades/superdotação nas escolas regulares”, e não necessariamente sua profissionalização.\nA alternativa B está incorreta. A previsão é de “continuidade da escolarização nos níveis mais\nelevados do ensino;”.\nA alternativa C está incorreta. Um dos objetivos na verdade é garantir a “transversalidade da\neducação especial desde a educação infantil até a educação superior\".\nA alternativa D está incorreta. A PNEEPEI prevê “formação de professores para o atendimento\neducacional especializado e demais profissionais da educação para a inclusão escolar\".\nA alternativa E está correta e é o gabarito da questão. Um dos objetivos da PNEEPEI é garantir a\n“acessibilidade urbanística, arquitetônica, nos mobiliários e equipamentos, nos transportes, na\ncomunicação e informação.”."
+    },
+    {
+      "id": "a19_008",
+      "numero": 8,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(IDHTEC-2019) Nos espaços ou salas de atendimento educacional especializado, as atividades e práticas realizadas I. Diferenciam-se das atividades realizadas nas salas de aula comum II. Substituem a escolarização dos estudantes III. Completam e/ou suplementam a formação dos estudantes para a autonomia e independência IV. Articulam-se a proposta pedagógica do ensino comum V. Tem início com serviços de estimulação precoce a partir dos 4 anos de idade ESTÃO CORRETAS:",
+      "alternativas": {
+        "a": "Todas",
+        "b": "I e II",
+        "c": "I, III, IV",
+        "d": "III, IV, V",
+        "e": "I, II, V"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C é o gabarito da questão. Julgando as assertivas, à luz da PNEEPEI (2008), temos:\nAs assertivas I, III e IV estão corretas, veja: “As atividades desenvolvidas no atendimento\neducacional especializado diferenciam-se daquelas realizadas na sala de aula comum, não sendo\nsubstitutivas à escolarização. Esse atendimento complementa e/ou suplementa a formação dos\nalunos com vistas à autonomia e independência na escola e fora dela. [...] Ao longo de todo\nprocesso de escolarização, esse atendimento deve estar articulado com a proposta pedagógica\ndo ensino comum.”\nA assertiva II está correta, pois o AEE não substitui a escolarização dos estudantes. “As atividades\ndesenvolvidas no atendimento educacional especializado diferenciam-se daquelas realizadas na\nsala de aula comum, não sendo substitutivas à escolarização.”\nA assertiva V está correta, pois a proposta de estimulação precoce é dos 0 a 3 anos. “Do\nnascimento aos três anos, o atendimento educacional especializado se expressa por meio de\nserviços de intervenção precoce que objetivam otimizar o processo de desenvolvimento e\naprendizagem em interface com os serviços de saúde e assistência social.”\nAssim, temos assertivas corretas: I, II e IV."
+    },
+    {
+      "id": "a19_009",
+      "numero": 9,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL/2018- A política nacional de educação especial na perspectiva da educação inclusiva determina, como seu público-alvo:",
+      "alternativas": {
+        "a": "Todos os alunos que apresentam dificuldades de aprendizagem na escola.",
+        "b": "Alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/ superdotação.",
+        "c": "Crianças com ou sem deficiência que apresentem dificuldades de aprendizagem.",
+        "d": "Todos os alunos da escola, independente das dificuldades apresentadas."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B está correta e é o gabarito da questão. Veja o que diz a PNEEPEI:\nNa perspectiva da educação inclusiva, a educação especial passa a integrar a\nproposta pedagógica da escola regular, promovendo o atendimento aos\nestudantes com deficiência, transtornos globais do desenvolvimento e altas\nhabilidades/superdotação. Nestes casos e em outros, como os transtornos\nfuncionais específicos, a educação especial atua de forma articulada com o ensino\ncomum, orientando para o atendimento desses estudantes."
+    },
+    {
+      "id": "a19_010",
+      "numero": 10,
+      "banca": "FUNDATEC 2019",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 - As Salas de Recursos Multifuncionais (SRMF), nas escolas de educação básica das redes públicas de ensino, são um espaço físico, cujo objetivo é dar suporte às escolas, na inclusão de crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotado. Sobre o atendimento das salas de recursos multifuncionais, pode-se afirmar que:",
+      "alternativas": {
+        "a": "As atividades desenvolvidas no atendimento educacional especializado diferenciam-se daquelas realizadas na sala de aula comum, ou seja, não substituem a escolarização.",
+        "b": "O atendimento pode ser realizado no mesmo turno ao da classe comum, na própria escola ou centro especializado.",
+        "c": "As atividades desenvolvidas podem ser enquadradas e utilizadas como em uma sala de reforço.",
+        "d": "O trabalho é realizado e organizado pelo professor da SRMF, portanto, não há necessidade de articulação com o professor da sala do ensino regular.",
+        "e": "O atendimento com o foco pedagógico, muitas vezes, pode ser transformado em foco clínico."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta e é o gabarito da questão. A\nA alternativa B está incorreta, pois “o AEE é organizado para apoiar o desenvolvimento dos alunos,\nconstituindo oferta obrigatória dos sistemas de ensino e deve ser realizado no turno inverso ao da\nclasse comum, na própria escola ou centro especializado que realize esse serviço educacional.”,\nnos termos da PNEEPEI.\nA alternativa C está incorreta, pois AEE não é reforço, o foco é desenvolvimento do educando.\nA alternativa D está incorreta, pois a previsão é de que o professor do AEE deve atuar articulado\ncom demais professores do ensino regular, famílias e serviços setoriais de saúde, assistência social,\nentre outros."
+    },
+    {
+      "id": "a19_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP-2018) Nos termos do que dispõe a Lei Federal nº 9.394/96, assinale a alternativa correta a respeito da educação especial.",
+      "alternativas": {
+        "a": "O atendimento educacional será feito por meio da integração do aluno especial nas classes comuns de ensino regular, devendo ser evitados classes, escolas ou serviços específicos em função de condições especiais dos alunos.",
+        "b": "Os órgãos normativos dos sistemas de ensino estabelecerão critérios de caracterização das instituições privadas sem fins lucrativos, especializadas e com atuação exclusiva em educação especial, para fins de apoio técnico e financeiro pelo Poder Público.",
+        "c": "Os sistemas de ensino assegurarão aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, acesso preferencial aos benefícios dos programas sociais suplementares disponíveis para o respectivo nível do ensino regular.",
+        "d": "O poder público não poderá instituir cadastro ou lista de alunos com altas habilidades ou superdotação matriculados na educação básica ou na educação superior, a fim de evitar discriminação dos alunos especiais.",
+        "e": "A oferta de educação especial, nos termos da Lei, tem início na educação infantil e se limitará ao atendimento dos alunos ao término do último ano do ensino médio."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta, pois a LDB pontua que o atendimento educacional será feito em\nclasses, escolas ou serviços especializados, sempre que, em função das condições específicas dos\nalunos, não for possível a sua integração nas classes comuns de ensino regular, artigo 58.\nA alternativa B está correta e é o gabarito da questão. Ela transcreve exatamente o que consta do\nartigo 60, da LDB.\nA alternativa C está incorreta, pois a LDB sinaliza no artigo 59, inciso V, acesso igualitário aos\nbenefícios, e não acesso preferencial, como a alternativa indica.\nA alternativa D está incorreta, pois o artigo 59-A indica que o Poder Público deverá instituir tal\ncadastro.\nA alternativa E está incorreta, pois a oferta de EE estende-se ao longo da vida, segundo artigo 58,\n§ 3º."
+    },
+    {
+      "id": "a19_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(IBADE-2018) De acordo com a Lei de Diretrizes e Bases da Educação Nacional (LDB, Lei nº 9.396/2006), o público da educação especial são educandos que apresentam:",
+      "alternativas": {
+        "a": "deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.",
+        "b": "deficiência e transtornos globais do desenvolvimento.",
+        "c": "deficiência, transtornos globais do desenvolvimento e altas habilidades.",
+        "d": "deficiências múltiplas e superdotação.",
+        "e": "superdotação, deficiências físicas e transtornos globais do desenvolvimento."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A é a alternativa mais completa, portanto representa o gabarito da questão. O artigo\n58 da LDB, que versa sobre o público-alvo da educação especial, aponta para os educandos que\napresentam deficiência, transtornos globais do desenvolvimento e altas habilidades ou\nsuperdotação.\nAs demais alternativas estão incompletas, pois suprimem alguns grupos de educandos que estão\nalcançados pela norma ou os restringem.\nA alternativa B não menciona os educandos com altas habilidades ou superdotação.\nA alternativa C não menciona os educandos superdotados.\nA alternativa D não menciona os educandos com transtornos globais de desenvolvimento e altas\nhabilidades. E, além disso, faz restrição às deficiências múltiplas, enquanto a norma preconiza\noferta aos educandos com deficiência, sem restringir.\nA alternativa E não menciona os educandos com altas habilidades. E, além disso, faz restrição às\ndeficiências físicas, enquanto a norma preconiza oferta aos educandos com deficiência, sem\nrestringir."
+    },
+    {
+      "id": "a19_013",
+      "numero": 13,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FAEPESUL-2018) O artigo 58º da Lei de Diretrizes e Bases da Educação Nacional define Educação Especial como:",
+      "alternativas": {
+        "a": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar, oferecida preferencialmente na rede especial de ensino, para educandos portadores de necessidades especiais.",
+        "b": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação parental, oferecida exclusivamente na rede regular de ensino, para educandos portadores de necessidades especiais.",
+        "c": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar, oferecida preferencialmente na rede regular de ensino, para educandos portadores de necessidades especiais.",
+        "d": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar, oferecida exclusivamente na rede privada de ensino, para educandos portadores de necessidades especiais.",
+        "e": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar, oferecida obrigatoriamente na rede regular de ensino, para educandos portadores de necessidades especiais."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta e é o gabarito da questão. Ela transcreve exatamente o que consta do\nartigo 58, da LDB. As demais assertivas incluem termos estranhos à norma, portanto estão erradas."
+    },
+    {
+      "id": "a19_014",
+      "numero": 14,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FCC-2018) De acordo com a Lei de Diretrizes e Bases da Educação Nacional − LDB (Lei no 9.394/1996), o dever do Estado com a educação escolar pública será efetivado mediante determinadas garantias, entre elas, o atendimento educacional especializado gratuito aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, transversal a todos os níveis, etapas e modalidades, preferencialmente",
+      "alternativas": {
+        "a": "na rede de fundações especializadas.",
+        "b": "nas instituições filantrópicas.",
+        "c": "nas classes especiais.",
+        "d": "na rede regular de ensino.",
+        "e": "nos espaços educativos comunitários."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa D está correta e é o gabarito da questão. O artigo 58 assinala que “entende-se por\neducação especial, para os efeitos desta Lei, a modalidade de educação escolar oferecida\npreferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais\ndo desenvolvimento e altas habilidades ou superdotação.”."
+    },
+    {
+      "id": "a19_015",
+      "numero": 15,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IBFC/2019 - A Lei nº 13.146/2015 institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência) é destinada a assegurar e a promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania. Sobre como esta Lei em seu artigo 2º entende a pessoa com deficiência, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "É considerada pessoa com deficiência aquela que tem impedimento em curto, médio e longo prazo de natureza físico-motora, visual e auditiva que a impeçam de interagir com outras pessoas dignamente",
+        "b": "Uma pessoa com deficiência é aquela que reconhecidamente, por diagnóstico clínico, for constatada com algum tipo de impedimento interativo de qualquer tipo ou origem",
+        "c": "Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas",
+        "d": "A pessoa com deficiência concebida por esta Lei é concebida por toda e qualquer pessoa que exija quaisquer tipos de cuidados e necessidades especiais em seu processo de socialização"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta e é o gabarito da questão. Ela transcreve exatamente o que consta do\nartigo 2, da Lei nº 13.146/2015. As demais assertivas distorcem a essência da norma, incluindo\ntermos e expressões equivocados, portanto estão erradas."
+    },
+    {
+      "id": "a19_016",
+      "numero": 16,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FUNCERN-2018) A Lei nº. 13.146/ 2015 é conhecida como o Estatuto da Pessoa com Deficiência, representa um dos marcos na luta por políticas públicas que defendem a igualdade e o exercício da cidadania. Em seu Artigo 27, encontra-se a defesa pelo direito à educação. Sendo assim, conforme esta Lei, é correto afirmar:",
+      "alternativas": {
+        "a": "É dever, apenas, do Estado, da família, dos movimentos sociais assegurar educação de qualidade à pessoa com deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação, quando estas se encontrarem em perigo.",
+        "b": "A educação constitui direito da pessoa com deficiência, assegurados sistema educacional inclusivo em todos os níveis e aprendizado ao longo de toda a vida, de forma a alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.",
+        "c": "A educação constitui direito da pessoa com deficiência, assegurados sistema educacional inclusivo em parte dos níveis e aprendizado da educação básica, de forma a alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.",
+        "d": "Para efeito do direito à educação, considera-se pessoa com deficiência aquela que tem impedimento de curto prazo de natureza mental, intelectual e de longo prazo, as de natureza física ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Assegurar educação de qualidade à pessoa com deficiência,\ncolocando-a a salvo de toda forma de violência, negligência e discriminação é dever do Estado,\nda família, da comunidade escolar e da sociedade, artigo 27, § único.\nA alternativa B está correta e é o gabarito da questão. A hermenêutica diatópica multiculturais,\numa vez que o universalismo é falso.\nA alternativa C está incorreta. Artigo 27 prevê que a “educação constitui direito da pessoa com\ndeficiência, assegurados sistema educacional inclusivo em todos os níveis e aprendizado ao longo\nde toda a vida, de forma a alcançar o máximo desenvolvimento possível de seus talentos e\nhabilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e\nnecessidades de aprendizagem.”.\nA alternativa D está incorreta. Na verdade a definição para pessoa com deficiência, conforme\nartigo 2º do Estatuto, é: “aquela que tem impedimento de longo prazo de natureza física, mental,\nintelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua\nparticipação plena e efetiva na sociedade em igualdade de condições com as demais pessoas;”."
+    },
+    {
+      "id": "a19_017",
+      "numero": 17,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FGV-2019) Relacione os critérios de aplicação do Estatuto da Pessoa com Deficiência, listadas a seguir, às suas respectivas definições. 1. Acessibilidade 2. Desenho universal 3. Tecnologia assistiva ( ) Condição de utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos e transportes, por pessoa com deficiência ou com mobilidade reduzida. ( ) Concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico. ( ) Equipamentos, estratégias e serviços relacionados à atividade e à participação da pessoa com deficiência ou com mobilidade reduzida. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada.",
+      "alternativas": {
+        "a": "1, 3 e 2.",
+        "b": "1, 2 e 3.",
+        "c": "2, 3 e 1.",
+        "d": "2, 1 e 3.",
+        "e": "3, 2 e 1."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B traz a sequência correta e é o gabarito da questão. Veja na íntegra as definições\nprevistas no artigo 3º, da Lei nº 13.146/2015:\nArt. 3º Para fins de aplicação desta Lei, consideram-se: I - acessibilidade: possibilidade e\ncondição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários,\nequipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus\nsistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de\nuso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa\ncom deficiência ou com mobilidade reduzida; II - desenho universal: concepção de\nprodutos, ambientes, programas e serviços a serem usados por todas as pessoas, sem\nnecessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia\nassistiva; III - tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos,\nrecursos, metodologias, estratégias, práticas e serviços que objetivem promover a\nfuncionalidade, relacionada à atividade e à participação da pessoa com deficiência ou com\nmobilidade reduzida, visando à sua autonomia, independência, qualidade de vida e\ninclusão social;"
+    },
+    {
+      "id": "a19_018",
+      "numero": 18,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(OBJETIVA-2018) Segundo a Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência, assegurar educação de qualidade à pessoa com deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação, é dever:",
+      "alternativas": {
+        "a": "Principalmente da família e, quando necessário, do Estado e da comunidade escolar.",
+        "b": "Exclusivamente do Estado e da família.",
+        "c": "Da família, da sociedade e da comunidade escolar. O Estado é isento dessa obrigação.",
+        "d": "Do Estado, da família, da comunidade escolar e da sociedade."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa D está correta e é o gabarito da questão. Assegurar educação de qualidade à pessoa\ncom deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação é\ndever do Estado, da família, da comunidade escolar e da sociedade, artigo 27, § único.\nAs demais alternativas estão incorretas por se apresentarem incompletas."
+    },
+    {
+      "id": "a19_019",
+      "numero": 19,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP-2016) A respeito da Lei Federal nº 12.764/2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, cabe asseverar que",
+      "alternativas": {
+        "a": "a pessoa com transtorno do espectro autista não será submetida a tratamento desumano ou degradante, não será privada de sua liberdade ou do convívio familiar nem sofrerá discriminação por motivo da deficiência.",
+        "b": "à pessoa com transtorno do espectro autista preexistente poderá ser negada a participação em planos privados de assistência à saúde, garantido, porém, o amplo e irrestrito acesso a qualquer unidade de saúde da rede pública.",
+        "c": "o gestor escolar, ou autoridade competente, que recusar a matrícula de aluno com transtorno do espectro autista, ou qualquer outro tipo de deficiência, será punido com multa de 2 (dois) a 20 (vinte) salários-mínimos.",
+        "d": "a pessoa com transtorno do espectro autista, incluída nas classes comuns de ensino regular, terá direito a acompanhante especializado.",
+        "e": "para cumprimento das diretrizes da Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, o poder público poderá firmar convênio com pessoas jurídicas de direito privado, desde que de caráter associativo."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta e é o gabarito da questão, pois transcreve o artigo 4º da Lei\n12.764/2012.\nA alternativa B está incorreta, pois contraria o disposto no artigo 5º: “A pessoa com transtorno do\nespectro autista não será impedida de participar de planos privados de assistência à saúde em\nrazão de sua condição de pessoa com deficiência, conforme dispõe o art. 14 da Lei nº 9.656, de 3\nde junho de 1998.”.\nA alternativa C está incorreta, pois a Lei prevê multa de 3 a 20 salários, conforme artigo 7º.\nA alternativa D está incorreta, pois o § único do artigo 3º prevê acompanhante especializado para\npessoa com TEA incluída nas classes comuns de ensino regular, em casos de comprovada\nnecessidade.\nA alternativa E está incorreta, pois na verdade a Lei prevê no artigo 2º, Parágrafo único. Para\ncumprimento das diretrizes de que trata este artigo, o poder público poderá firmar contrato de\ndireito público ou convênio com pessoas jurídicas de direito privado."
+    },
+    {
+      "id": "a19_020",
+      "numero": 20,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(ACAFE-2015) A Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista foi instituída pela Lei Federal nº 12.764/12 que define alguns direitos para as pessoas que apresentam esse transtorno. Nesse sentido é correto afirmar, exceto:",
+      "alternativas": {
+        "a": "A pessoa com transtorno do espectro autista incluída nas classes comuns de ensino regular não terá em hipótese algum direito a acompanhante especializado.",
+        "b": "A pessoa com transtorno do espectro autista não será submetida a tratamento desumano ou degradante, não será privada de sua liberdade ou do convívio familiar nem sofrerá discriminação por motivo da deficiência",
+        "c": "A pessoa com transtorno do espectro autista terá direito ao acesso à educação e ao ensino profissionalizante, à moradia, inclusive à residência protegida, ao mercado de trabalho, à previdência social e à assistência social.",
+        "d": "A pessoa com transtorno do espectro autista não será impedida de participar de planos privados de assistência à saúde em razão de sua condição de pessoa com deficiência.",
+        "e": "A pessoa com transtorno do espectro autista terá direito à vida digna, a integridade física e moral, ao livre desenvolvimento da personalidade, a segurança e ao lazer"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A é o gabarito da questão, pois contraria o § único do artigo 3º que prevê\nacompanhante especializado para pessoa com TEA incluída nas classes comuns de ensino regular,\nem casos de comprovada necessidade.\nA alternativa B transcreve o artigo 4º, da Lei 12.764/2012.\nA alternativa C transcreve o inciso IV, do artigo 3º: ”São direitos da pessoa com TEA: [...] IV- o\nacesso: a) à educação e ao ensino profissionalizante; b) à moradia, inclusive à residência protegida;\nc) ao mercado de trabalho; d) à previdência social e à assistência social.”.\nA alternativa D transcreve o artigo 5º, da Lei 12.764/2012.\nA alternativa E transcreve o inciso I, do artigo 3º: “São direitos da pessoa com TEA: [...] I - a vida\ndigna, a integridade física e moral, o livre desenvolvimento da personalidade, a segurança e o\nlazer.”."
+    },
+    {
+      "id": "a19_021",
+      "numero": 21,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP/2019) Relacione os documentos legais (1; 2; 3) aos seus dispositivos (a; b; c) 1 - ECA, Lei nº 8.069/1990 2 - Declaração de Salamanca/1994 3 - Declaração de Jomtien/1990",
+      "alternativas": {
+        "a": "objetiva promover transformações nos sistemas de ensino para assegurar o acesso e a permanência de todos na escola.",
+        "b": "afirma que os pais ou responsáveis têm a obrigação de matricular seus filhos ou pupilos na rede regular de ensino.",
+        "c": "proclama que as escolas comuns representam o meio mais eficaz para combater as atitudes discriminatórias. A 1-a; 2-b; 3-c. B 1-b; 2-c; 3-a. C 1-c; 2-a; 3-b. D 1-d; 2-b; 3-a. E 1-b; 2-a; 3-c."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B traz a sequência correta e é o gabarito da questão. Lembre-se de que:\nA Declaração de Jomtiem (1990) é a Declaração Mundial de Educação para Todos e tinha por\nobjetivo promover transformações nos sistemas de ensino para assegurar o acesso e a\npermanência de todos na escola e garantir escolarização para todos.\nA Declaração de Salamanca, ligada à Conferência Mundial de Educação Especial, versando\nespecificamente sobre EE, proclamou que escolas regulares que possuam tal orientação inclusiva\nconstituem os meios mais eficazes de combater atitudes discriminatórias criando-se comunidades\nacolhedoras, construindo uma sociedade inclusiva e alcançando educação para todos.\nE a Lei nº 8.069/90, Estatuto da Criança e do adolescente, no artigo 55 é que preconiza que “os\npais ou responsáveis têm a obrigação de matricular seus filhos ou pupilos na rede regular de\nensino”."
+    },
+    {
+      "id": "a19_022",
+      "numero": 22,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FUNCERN-2019) Em 1994, a Declaração de Salamanca proclamou que as escolas regulares com orientação inclusiva constituem os meios mais eficazes de combater atitudes discriminatórias e que alunos com necessidades educacionais especiais devem ter acesso à escola regular, tendo como princípio orientador:",
+      "alternativas": {
+        "a": "as escolas devem acomodar todas as crianças, independentemente de suas condições físicas, intelectuais, sociais, emocionais, linguísticas ou outras.",
+        "b": "a educação especial integra a proposta pedagógica da escola regular, promovendo o atendimento às necessidades educacionais especiais apenas de alunos com deficiências.",
+        "c": "as atividades desenvolvidas no atendimento educacional especializado diferenciam-se daquelas realizadas na sala de aula comum, sendo substitutivas à escolarização.",
+        "d": "as instituições de ensino devem organizar as condições de acesso aos espaços e os recursos pedagógicos, promovendo a aprendizagem e a valorização das diferenças."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta, pois é o princípio norteador para o acesso à escola regular, portanto\nrepresenta o gabarito da questão.\nA alternativa B está incorreta. Segundo a Declaração “o termo \"necessidades educacionais\nespeciais\" refere-se a todas aquelas crianças ou jovens cujas necessidades educacionais especiais\nse originam em função de deficiências ou dificuldades de aprendizagem.”.\nA alternativa C está incorreta, pois as atividades desenvolvidas no AEE não são substitutivas à\nescolarização, tampouco representam o princípio norteador da Declaração de Salamanca.\nA alternativa D está incorreta, pois os sistemas de ensino é que devem organizar as condições de\nacesso aos espaços, aos recursos pedagógicos e à comunicação que favoreçam a promoção da\naprendizagem e a valorização das diferenças, de forma a atender as necessidades educacionais\nde todos os estudantes, segundo a PNEEPEI."
+    },
+    {
+      "id": "a19_023",
+      "numero": 23,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "AVANÇASP/2019- Segundo a Resolução CNE/CEB 4/2009, são atribuições do professor do Atendimento Educacional Especializado, EXCETO:",
+      "alternativas": {
+        "a": "orientar professores e famílias sobre os recursos pedagógicos e de acessibilidade utilizados pelo aluno.",
+        "b": "organizar o tipo e o número de atendimentos aos alunos na sala de recursos multifuncionais.",
+        "c": "estabelecer parcerias com as áreas intersetoriais na elaboração de estratégias e na disponibilização de recursos de acessibilidade.",
+        "d": "ensinar e usar a tecnologia assistiva de forma a ampliar habilidades funcionais dos alunos, promovendo dependência.",
+        "e": "acompanhar a funcionalidade e a aplicabilidade dos recursos pedagógicas e de acessibilidade na sala de aula comum do ensino regular, bem como em outros ambientes da escola."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta, pois transcreve o inciso VI, do artigo 13.\nA alternativa B está correta, pois transcreve o inciso III, do artigo 13.\nA alternativa C está correta, pois transcreve o inciso IV, do artigo 13.\nA alternativa D está incorreta, pois o inciso VII, do artigo 13 prevê como atribuições do professor\ndo AEE: “VII - ensinar e usar a tecnologia assistiva de forma a ampliar habilidades funcionais dos\nalunos, promovendo autonomia e participação” e não a dependência como sugere a alternativa.\nA alternativa E está correta, pois transcreve o inciso VII, do artigo 13."
+    },
+    {
+      "id": "a19_024",
+      "numero": 24,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC-2019) Em relação ao professor do AEE, é INCORRETO afirmar que:",
+      "alternativas": {
+        "a": "O seu objetivo é oferecer suporte à educação para o aluno que apresenta necessidades educacionais especiais.",
+        "b": "O atendimento educacional realizado na Sala de Recursos Multifuncionais é fundamental para garantir a participação e a aprendizagem do aluno público-alvo da educação especial na classe comum, assim como nas atividades desenvolvidas na escola.",
+        "c": "Deve orientar o professor da classe regular no emprego de estratégias e/ou recursos diferenciados para suprir as necessidades educacionais dos alunos com deficiência, transtorno global de desenvolvimento e altas habilidades ou superdotação.",
+        "d": "Deve realizar o atendimento na Sala de Recursos Multifuncionais em horário contrário ao da classe regular.",
+        "e": "Deve realizar o ensino na Sala de Recursos Multifuncionais de forma homogênea, ou seja, com a elaboração de um plano de trabalho único para o grupo de alunos com necessidades especiais."
+      },
+      "gabarito": "E",
+      "comentario": "Todas as alternativas versam sobre a atuação do professor de AEE, sobre dar suporte, AEE em\nSRM em horário contrário, acompanhamento e parceria com professor da classe regular. Exceto a\nalternativa E que está incorreta e representa o gabarito, pois contraria a norma ao sugerir\nelaboração de plano de trabalho único para o grupo de alunos com necessidades especiais. As\natribuições do professor de AEE, dispostas no inciso I, do artigo 13 são: “I – identificar, elaborar,\nproduzir e organizar serviços, recursos pedagógicos, de acessibilidade e estratégias considerando\nas necessidades específicas dos alunos público-alvo da Educação Especial.”."
+    },
+    {
+      "id": "a19_025",
+      "numero": 25,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP-2019) O Atendimento Educacional Especializado (AEE) tem como função complementar ou suplementar a formação do aluno por meio da disponibilização de serviços, recursos de acessibilidade e estratégias que eliminem as barreiras para sua plena participação na sociedade e desenvolvimento de sua aprendizagem (Artigo 2º, Resolução CNE/CEB nº 4/2009). Segundo o artigo 9º da referida Resolução, a elaboração e a execução do plano de AEE são de competência:",
+      "alternativas": {
+        "a": "dos diretores das escolas que oferecem o AEE em colaboração com os coordenadores pedagógicos, com os professores das salas multifuncionais e com profissionais da saúde que demonstrem habilitação e formação para lidar com pessoas portadores de deficiências variadas.",
+        "b": "do psicopedagogo responsável pela orientação dos professores nas salas de recursos multifuncionais, ouvidos sempre os professores das classes regulares, bem como os familiares dos alunos com deficiências que participam do programa de AEE.",
+        "c": "dos professores das classes de ensino regular, ouvidos sempre os coordenadores pedagógicos, a direção da escola, os professores que atuam nas salas de recursos multifuncionais, bem como os pais ou responsáveis dos alunos que participam do AEE.",
+        "d": "dos professores que atuam na sala de recursos multifuncionais ou centros de AEE, em articulação com os demais professores do ensino regular, com a participação das famílias e em interface com os demais serviços setoriais da saúde, da assistência social, entre outros necessários ao atendimento.",
+        "e": "dos coordenadores pedagógicos, com apoio de psicólogos, assistentes sociais e pedagogos sociais que apresentem experiência no atendimento educacional de alunos portadores de necessidades educacionais especiais e suas famílias."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa D está correta e é o gabarito da questão, pois transcreve o Art. 9º da referida\nResolução."
+    }
+  ]
+}

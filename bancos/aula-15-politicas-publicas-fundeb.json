@@ -1,0 +1,364 @@
+{
+  "esquema": 1,
+  "id": "aula-15-politicas-publicas-fundeb",
+  "aula": "15",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 15",
+  "subtitulo": "Políticas Públicas e Novo Fundeb",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 15",
+  "itensEdital": [
+    23
+  ],
+  "tagsEdital": [
+    {
+      "n": 23,
+      "titulo": "Políticas públicas para a Educação Básica"
+    }
+  ],
+  "resumoMd": "### A. Fundamentos Constitucionais e Legais (CF/88 e LDB)\n- **Direito Social e Dever do Estado:** A educação é um direito de todos e dever do Estado e da família, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.\n- **Regime de Colaboração:** A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino. A União exerce função **normativa, redistributiva e supletiva**.\n- **Redução de Desigualdades:** As políticas públicas educacionais devem atuar como mecanismo de equidade social e combate às assimetrias regionais.\n\n### B. Novo Fundeb (Emenda Constitucional nº 108/2020 e Lei nº 14.113/2020)\n- **Natureza Jurídica:** Fundo de natureza contábil, mantido em cada Estado e no Distrito Federal.\n- **Caráter Permanente:** Tornou-se instrumento permanente de financiamento da Educação Básica na Constituição Federal.\n- **Aumento da Complementação da União:**\n  - A complementação federal subiu gradativamente de 10% para **23%** do valor total do fundo.\n- **Subvinculação dos Recursos:**\n  - Pelo menos **70%** dos recursos do Fundeb devem ser destinados ao pagamento dos profissionais da educação básica em efetivo exercício.\n- **Modelos de Distribuição:**\n  - **VAAI** (Valor Anual por Aluno Intrafundual).\n  - **VAAT** (Valor Anual Total por Aluno) — focado na equidade e redistribuição para redes mais vulneráveis.\n  - **VAAR** (Valor Anual por Aluno por Resultado) — vinculado ao cumprimento de condicionalidades e melhoria de indicadores de aprendizagem com equidade.\n\n---",
+  "total": 23,
+  "questoes": [
+    {
+      "id": "a15_001",
+      "numero": 1,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "QUADRIX 2018 (adaptada para fins didáticos) No âmbito da educação, políticas públicas são lançadas constantemente para que sejam alcançados os objetivos propostos na CF. A respeito desse assunto, julgue a assertiva. A O Fundo de Manutenção e Desenvolvimento da Educação Básica (FUNDEB) foi criado com o propósito principal de distribuir recursos financeiros para etapas da educação básica, prevendo um percentual maior para o ensino fundamental, considerado como a etapa mais importante da educação básica.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A alternativa está errada, pois não há previsão legal de percentual maior para qualquer etapa."
+    },
+    {
+      "id": "a15_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "INTEGRIBRASIL 2011 (adaptada para fins pedagógicos) Complete a sentença considerando o teor da Lei do Fundeb: O Artigo 4º da Lei Federal 14.113/2020 estabelece que__________ complementará os recursos dos Fundos sempre que, no âmbito de cada Estado e no Distrito Federal, o valor médio ponderado por aluno, calculado na forma do Anexo desta Lei, não alcançar o mínimo definido nacionalmente, fixado de forma que a complementação da União não seja inferior aos valores previstos no inciso VII do caput do art. 60 do ADCT.",
+      "alternativas": {
+        "a": "Os Municípios.",
+        "b": "Os Estados.",
+        "c": "a União.",
+        "d": "Os Estados e a Iniciativa Privada."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. Questão traz a literalidade da lei. É o tipo da questão que você não\npode deixar passar. Simples e bem tranquila. Pontuação garantida..."
+    },
+    {
+      "id": "a15_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP 2019 (adaptada para fins didáticos) O Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) atende toda a educação básica, da creche ao ensino médio. Como são destinados os recursos investidos pelo FUNDEB na educação básica? Assinale a resposta correta.",
+      "alternativas": {
+        "a": "De acordo com o número de alunos nos anos iniciais da educação básica.",
+        "b": "Em relação ao número de professores atuantes na escola no ano anterior.",
+        "c": "Em conformidade com o plano gestor da escola.",
+        "d": "De acordo com o número de alunos da educação básica, com base em dados do censo escolar do ano anterior."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. Mais uma questão conceitual que traz a literalidade da Lei:\nArt. 8º Para os fins da distribuição dos recursos de que trata esta Lei, serão consideradas\nexclusivamente as matrículas presenciais efetivas, conforme os dados apurados no censo escolar\nmais atualizado, realizado anualmente pelo Instituto Nacional de Estudos e Pesquisas\nEducacionais Anísio Teixeira (Inep)"
+    },
+    {
+      "id": "a15_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2019 Os recursos dos Fundos Fundeb, serão disponibilizados pelas unidades transferidoras ao Banco do Brasil S.A ou Caixa Econômica Federal, que realizará a distribuição dos valores devidos a quem?",
+      "alternativas": {
+        "a": "Às escolas, Municípios e Estados.",
+        "b": "À União, aos bancos e aos Distritos Federais.",
+        "c": "Aos Estados, Distrito Federal e aos Municípios.",
+        "d": "Aos Municípios, aos bairros e às escolas."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. É exatamente o que preconiza o artigo 20: Os recursos dos Fundos\nserão disponibilizados pelas unidades transferidoras à Caixa Econômica Federal ou ao Banco do\nBrasil S.A., que realizará a distribuição dos valores devidos aos Estados, ao Distrito Federal e aos\nMunicípios."
+    },
+    {
+      "id": "a15_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IMA 2019 Os Estados, o Distrito Federal e os Municípios deverão implantar Planos de Carreira e remuneração dos profissionais da educação básica, de modo a assegurar, exceto:",
+      "alternativas": {
+        "a": "A melhoria da qualidade do ensino e da aprendizagem.",
+        "b": "Integração entre o trabalho individual e a proposta pedagógica da escola.",
+        "c": "Melhor estrutura física e adequação das instalações a fim de atender as crianças com necessidades especiais.",
+        "d": "A remuneração condigna dos profissionais na educação básica da rede pública."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C está incorreta, pois não guarda relação com o que dispõe o artigo 51, da Lei nº\n14.113/2020, sobre implantação de planos de carreira e remuneração dos profissionais da\neducação básica e, portanto, representa o gabarito a ser assinalado."
+    },
+    {
+      "id": "a15_006",
+      "numero": 6,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "AOCP 2019 (adaptada para fins pedagógicos) A respeito do FUNDEB, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. I O FUNDEB, de natureza contábil, é instituído no âmbito dos Estados, Distrito Federal e Municípios. II Dentre outras fontes de receita, os Fundos, no âmbito de cada Estado e do Distrito Federal, são compostos por 40% (quarenta por cento) do imposto sobre a propriedade de veículos automotores previsto no inciso III do caput do art. 155 combinado com o inciso III do caput do art. 158 da Constituição Federal. III É vedada a utilização dos recursos oriundos da arrecadação da contribuição social do salárioeducação a que se refere o § 5º do art. 212 da Constituição Federal na complementação da União aos Fundos. IV Pelo menos 20% (vinte por cento) dos recursos anuais totais dos Fundos serão destinados ao pagamento da remuneração dos profissionais do magistério da educação básica em efetivo exercício na rede pública.",
+      "alternativas": {
+        "a": "V – F – V – F.",
+        "b": "V – F – V – V.",
+        "c": "F – V – F – F.",
+        "d": "F – F – V – F."
+      },
+      "gabarito": "D",
+      "comentario": "Analisando uma a uma, temos:\nA assertiva III está correta, nos termos do artigo 4º §2 da Lei 14.113/2020.\nAs assertivas I, II e IV estão incorretas. Vamos corrigi-las:\nAssertiva I: os municípios não devem ser incluídos, embora recebam recursos. Veja o que diz o\nartigo 1º da Lei do Fundeb: Fica instituído, no âmbito de cada Estado e do Distrito Federal, um\nFundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais\nda Educação (Fundeb), de natureza contábil, nos termos do art. 212-A da CF.\nAssertiva II: o percentual adequado é 20%, nos termos do artigo 3º, inciso III.\nAssertiva IV: a lei prevê que proporção não inferior a 70% será destinada ao pagamento da\nremuneração dos profissionais da educação básica (artigo 26)\nPortanto, gabarito a ser assinalado: letra D."
+    },
+    {
+      "id": "a15_007",
+      "numero": 7,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FADESP 2012 Os membros dos conselhos de acompanhamento e controle do FUNDEB terão mandato de",
+      "alternativas": {
+        "a": "no máximo, 2 (dois) anos, permitida 1 (uma) recondução por igual período.",
+        "b": "no máximo 2 (dois) anos, sendo vedada a recondução.",
+        "c": "no mínimo 2 (dois) anos, permitida 1 (uma) recondução por igual período.",
+        "d": "até 4 (quatro) anos, sendo vedada a recondução."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D, pois o mandato dos membros dos conselhos se inicia em 01/01 do\n3º ano de mandato do respectivo titular do Poder executivo. E durará 4 anos, sendo vedada a\nrecondução."
+    },
+    {
+      "id": "a15_008",
+      "numero": 8,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP 2019 (alterada para fins didáticos) De acordo coma a Lei n° 14.113/2020, pelo menos 70% (setenta por cento) dos recursos anuais totais dos Fundos serão destinados:",
+      "alternativas": {
+        "a": "Ao pagamento da remuneração dos profissionais da educação básica em efetivo exercício na rede pública.",
+        "b": "Às ações consideradas como de manutenção e desenvolvimento do ensino para a educação básica pública.",
+        "c": "No financiamento das despesas consideradas como de manutenção e desenvolvimento da educação básica",
+        "d": "Ao financiamento de projetos, ações ou programas considerados como essenciais para a formação diferenciada na educação básica."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, porque proporção não inferior a 70% dos recursos anuais totais dos\nFundos referidos no art. 1º desta Lei será destinada ao pagamento da remuneração dos\nprofissionais da educação básica em efetivo exercício."
+    },
+    {
+      "id": "a15_009",
+      "numero": 9,
+      "banca": "AMEOSC 2019 O Fundo de Manutenção e Desenvolvimento da Educação Básica e de\nValorização dos Profissionais da Educação destina",
+      "tipo": "multipla",
+      "enunciado": "AMEOSC 2019 O Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação destina-se à:",
+      "alternativas": {
+        "a": "Manutenção e ao desenvolvimento da educação básica pública e à valorização dos trabalhadores em educação, incluindo sua justa remuneração.",
+        "b": "Assistência, à promoção do ensino fundamental público, e à valorização de seu magistério, tanto na questão da formação quando salarial.",
+        "c": "Disciplinar a educação escolar, que se desenvolve, predominantemente, por meio do ensino, em instituições próprias, vinculadas ao mundo do trabalho e a prática social.",
+        "d": "Incumbir os Estados e o Distrito Federal de organizar, manter e desenvolver os órgãos e instituições oficiais do sistema federal de ensino e dos territórios."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, pois os Fundos destinam-se à manutenção e ao desenvolvimento da\neducação básica pública e à valorização dos profissionais da educação, incluída sua condigna\nremuneração\nA alternativa B está incorreta, pois não guarda relação com o teor do normativo em voga.\nA alternativa C está incorreta, pois não guarda relação com o teor do normativo em voga. Refere,\nna verdade, à LDB.\nA alternativa D está incorreta, pois não guarda relação com o teor do normativo em voga. E a\nincumbência citada é da União, segundo a LDB."
+    },
+    {
+      "id": "a15_010",
+      "numero": 10,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAUEL 2019 (adaptada para fins pedagógicos) O art. 51 do FUNDEB (Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação) afirma que os Estados, o Distrito Federal e os Municípios deverão implantar planos de carreira e remuneração dos profissionais da educação básica, de modo a assegurar: I - A remuneração condigna dos profissionais na educação básica da rede pública. II - Integração entre o trabalho individual e a proposta pedagógica da escola. III - A melhoria da qualidade do ensino e da aprendizagem. Analise as afirmativas e assinale a alternativa CORRETA:",
+      "alternativas": {
+        "a": "Apenas a afirmativa I está correta.",
+        "b": "Apenas a afirmativa II está correta.",
+        "c": "Somente a afirmativa III está correta.",
+        "d": "Todas as afirmativas estão corretas."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D, pois todas as assertivas estão corretas, nos termos do artigo 51, da\nLei nº 14.113/2020."
+    },
+    {
+      "id": "a15_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "AMEOSC 2019 (adaptada para fins didáticos) De acordo com a Lei do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, julgue o item: A União deverá desenvolver e apoiar políticas de estímulo às iniciativas de melhoria de qualidade do ensino, acesso e permanência na escola, promovidas pelas unidades federadas, em especial aquelas voltadas para a inclusão de crianças e adolescentes em situação de risco social.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa está correta. A previsão legal é que a União desenvolverá e apoiará políticas de\nestímulo às iniciativas de melhoria de qualidade do ensino, de acesso e de permanência na\nescola, promovidas pelas unidades federadas, em especial aquelas direcionadas à inclusão de\ncrianças e adolescentes em situação de risco social. (artigo 50)."
+    },
+    {
+      "id": "a15_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "UNIFIL 2019 (adaptada para fins didáticos) Nos termos do Art. 24 da Lei 14.113/2020 que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB), os eventuais saldos de recursos financeiros disponíveis nas contas específicas dos Fundos deverão ser aplicados em operações financeiras de curto prazo ou de mercado aberto, lastreadas em títulos da dívida pública, na instituição financeira responsável pela movimentação dos recursos, de modo a preservar seu poder de compra. Essa utilização deve ser superior a",
+      "alternativas": {
+        "a": "40 dias.",
+        "b": "35 dias.",
+        "c": "25 dias",
+        "d": "20 dias.",
+        "e": "15 dias."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa correta: letra E, é exatamente o que preconiza o artigo 24. Leia mais: Os ganhos\nfinanceiros auferidos em decorrência das aplicações previstas no caput deste artigo deverão ser\nutilizados na mesma finalidade e de acordo com os mesmos critérios e condições estabelecidos\npara utilização do valor principal do Fundo."
+    },
+    {
+      "id": "a15_013",
+      "numero": 13,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CESPE (CEBRASPE) 2017 A respeito do Fundo de Manutenção e Desenvolvimento da Educação Básica (FUNDEB), assinale a opção correta.",
+      "alternativas": {
+        "a": "É composto de percentual da arrecadação de impostos estaduais, como IPVA e ICMS.",
+        "b": "A repartição dos valores do FUNDEB aos entes federativos municipais é realizada a partir da contagem da população em idade escolar pelo Ministério da Educação.",
+        "c": "Os valores destinados à formação do fundo pelos estados e municípios devem ser registrados contabilmente como variação patrimonial aumentativa e financeiramente como acréscimo da receita orçamentária prevista.",
+        "d": "É um fundo de natureza financeira formado com recursos federais decorrentes da arrecadação tributária.",
+        "e": "É formado a partir da arrecadação de impostos federais e tem natureza contábil."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. Nos termos do artigo 3º da Lei 14.113/2020.\nA alternativa B está incorreta, pois serão consideradas exclusivamente as matrículas presenciais\nefetivas, conforme os dados apurados no censo escolar mais atualizado, realizado anualmente\npelo INEP.\nA alternativa C está incorreta, pois, na verdade, os recursos disponibilizados aos Fundos pela\nUnião, pelos Estados e pelo Distrito Federal deverão ser registrados de forma detalhada a fim\nde evidenciar as respectivas transferências.\nA alternativa D está incorreta, pois o Fundeb é um fundo de natureza contábil.\nA alternativa E está incorreta, pois é formado a partir da arrecadação de impostos estaduais,\nmunicipais e transferências constitucionais."
+    },
+    {
+      "id": "a15_014",
+      "numero": 14,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "O Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação prevê que proporção não inferior a 70% (setenta por cento) dos recursos anuais totais dos Fundos será destinada ao pagamento, em cada rede de ensino, da remuneração dos profissionais da educação básica em efetivo exercício. Assinale a alternativa que indica quem são estes profissionais:",
+      "alternativas": {
+        "a": "professores habilitados em nível médio ou superior para a docência na educação infantil e nos ensinos fundamental e médio",
+        "b": "trabalhadores em educação portadores de diploma de pedagogia, com habilitação em administração, planejamento, supervisão, inspeção e orientação educacional, bem como com títulos de mestrado ou doutorado nas mesmas áreas",
+        "c": "trabalhadores em educação, portadores de diploma de curso técnico ou superior em área pedagógica ou afim e profissionais graduados que tenham feito complementação pedagógica",
+        "d": "profissionais com notório saber reconhecido pelos respectivos sistemas de ensino",
+        "e": "Todas as anteriores"
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa correta: letra E. Todas as alternativas trazem o disposto no artigo 61 da LDB."
+    },
+    {
+      "id": "a15_015",
+      "numero": 15,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "UFMT 2016 Os processos de formulação e implementação das políticas públicas sociais desenvolvidas no Brasil a partir da década de 1990 se caracterizaram por um arranjo político institucional que deu grande importância à participação do cidadão no acompanhamento e controle social das políticas públicas. No caso específico da educação, a legislação que regulamenta duas importantes políticas públicas de educação, quais sejam, o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) e o Programa Nacional de Alimentação Escolar (PNAE), criou, como espaços institucionais de controle social:",
+      "alternativas": {
+        "a": "Conselhos de Acompanhamento e Controle Social.",
+        "b": "Observatórios Sociais.",
+        "c": "Ouvidorias e Portais de Transparência.",
+        "d": "Serviço de Informação ao Cidadão e Portais de Transparência."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, estamos falando sobre os Conselhos de Acompanhamento e Controle\nSocial."
+    },
+    {
+      "id": "a15_016",
+      "numero": 16,
+      "banca": "FUNRIO 2016 O Fundo de Manutenção e Desenvolvimento da Educação Básica e de\nValorização dos Profissionais da Educação",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO 2016 O Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - Fundeb pode ser utilizado pelo município:",
+      "alternativas": {
+        "a": "no ensino médio e nos cursos de licenciatura.",
+        "b": "na compra de instrumentos da banda escolar.",
+        "c": "em programas assistenciais aos alunos e pais.",
+        "d": "na educação infantil e no ensino fundamental.",
+        "e": "em toda a educação básica e no ensino superior."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D, pois os recursos poderão ser aplicados pelos Estados e pelos\nMunicípios indistintamente entre etapas, modalidades e tipos de estabelecimento de ensino da\neducação básica nos seus respectivos âmbitos de atuação prioritária conforme preconizado na\nCF, artigo 211, §2º. Recorde-se:\n§2º Os Municípios atuarão prioritariamente no ensino fundamental e na educação\ninfantil.\nMunicípios EI e EF Estados e DF EF e EM."
+    },
+    {
+      "id": "a15_017",
+      "numero": 17,
+      "banca": "BIO",
+      "tipo": "multipla",
+      "enunciado": "BIO-RIO 2016 (adaptada para fins didáticos) O Fundo de Manutenção e Desenvolvimento da Educação Básica (FUNDEB) é um fundo especial, de natureza contábil e de âmbito estadual (um fundo por estado e Distrito Federal, num total de vinte e sete fundos), formado, na quase totalidade, por recursos provenientes dos impostos e transferências dos estados, do Distrito Federal e dos municípios, vinculados à educação por força do disposto no Art. 212 da Constituição Federal. Os recursos dos Fundos, inclusive aqueles oriundos de complementação da União, serão utilizados pelos Estados, pelo Distrito Federal e pelos Municípios, no exercício financeiro em que lhes forem creditados, em ações consideradas como de manutenção e desenvolvimento do ensino para:",
+      "alternativas": {
+        "a": "a educação básica pública e privada.",
+        "b": "a educação básica pública.",
+        "c": "o ensino fundamental e médio.",
+        "d": "o ensino fundamental público."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B, isso é exatamente o que dispõe o artigo 2º, da Lei do Novo Fundeb:\nOs Fundos destinam-se à manutenção e ao desenvolvimento da educação básica pública e à\nvalorização dos profissionais da educação, incluída sua condigna remuneração, observado o\ndisposto nesta Lei."
+    },
+    {
+      "id": "a15_018",
+      "numero": 18,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FAU 2016 Marque a opção que aponta qual a informação correta ao que se refere à política de financiamento da educação estabelecida pelo Fundo Nacional de Desenvolvimento Educacional (FUNDEB):",
+      "alternativas": {
+        "a": "É exclusivo ao financiamento da Educação Básica.",
+        "b": "É um financiamento destinado ao Ensino Superior por bolsas de estudo.",
+        "c": "As verbas desse fundo são provenientes somente do Banco Mundial.",
+        "d": "A Educação Infantil e o Ensino Superior são os beneficiados desse fundo.",
+        "e": "Apenas o Ensino Fundamental receberá os recursos desse fundo."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, porque o Fundeb é um fundo exclusivo para financiamento da EB e\na questão fez o recorte para o financiamento. Mas lembre-se que os fundos se destinam à\nmanutenção e desenvolvimento da EB pública e à valorização dos profissionais da educação,\ninclusive sua condigna remuneração.\nNotem também que, algumas pessoas veem o termo \"exclusivo\" e já atribuem o sentido de que\npalavras como essa geralmente tornam a questão/alternativa errada. Tomem muito cuidado com\nessa atribuição de juízo de valor equivocado."
+    },
+    {
+      "id": "a15_019",
+      "numero": 19,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "COPEVE (UFAL) 2015 Dadas as afirmativas acerca da Lei Federal nº 11.494/2007, que trata do Fundo de Manutenção e Desenvolvimento da Educação Básica (FUNDEB), I. Para os fins de distribuição de recursos, serão consideradas exclusivamente as matrículas presenciais efetivas, conforme os dados apurados no censo escolar mais atualizado, realizado anualmente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), considerando as ponderações aplicáveis. II. Os profissionais do magistério da educação básica da rede pública de ensino cedidos para as instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos e conveniadas com o poder público serão considerados como em efetivo exercício na educação básica pública para fins da utilização dos recursos do FUNDEB. III. Pelo menos 40% (quarenta por cento) dos recursos anuais totais dos Fundos serão destinados ao pagamento da remuneração dos profissionais do magistério da educação básica em efetivo exercício na rede pública. IV. Os Estados, o Distrito Federal e os Municípios deverão implantar Planos de Carreira e remuneração dos profissionais da educação básica, de modo a assegurar a melhoria da qualidade do ensino e da aprendizagem. Verifica-se que está(ão) correta(s)",
+      "alternativas": {
+        "a": "III, apenas.",
+        "b": "I e III, apenas.",
+        "c": "II e IV, apenas.",
+        "d": "I, II e IV, apenas.",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "A",
+      "comentario": "Analisando cada assertiva, temos:\nAs assertivas I, II e IV estão corretas.\nA assertiva III está incorreta, pois o percentual mínimo para pagamento da remuneração dos\nprofissionais da educação básica em efetivo exercício é de 70%.\nAssim, a alternativa a ser assinalada como gabarito é a letra: D"
+    },
+    {
+      "id": "a15_020",
+      "numero": 20,
+      "banca": "IBADE 2018 (adaptada para fins didáticos) A Lei que regulamenta o Fundo de Manutenção\ne Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação",
+      "tipo": "multipla",
+      "enunciado": "IBADE 2018 (adaptada para fins didáticos) A Lei que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, em seu art. 16, no que tange à transferência e à gestão dos recursos, indica que o Poder Executivo Federal publicará, até 31 de dezembro de cada exercício, para vigência no exercício subsequente o(a):",
+      "alternativas": {
+        "a": "estimativa do valor anual mínimo por aluno definido nacionalmente.",
+        "b": "valor semestral mínimo por aluno definido pelos Estados da União.",
+        "c": "valor anual máximo por aluno definido municipalmente.",
+        "d": "estimativa do valor parcial por aluno definido municipalmente."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. É precisamente o que consta do artigo 16, inciso IV: a estimativa do\nvalor anual mínimo por aluno (VAAF-MIN) definido nacionalmente, nos termos do art. 12 desta\nLei, e correspondente distribuição de recursos da complementação-VAAF às redes de ensino;\nAs demais alternativas estão erradas, pois contêm termos estranho à norma.\nApenas para recordar:\nAté 31/12 de cada exercício, o Poder Executivo federal publicará as estimativas: da receita total\ndos Fundos, do valor da complementação da União, dos valores anuais por aluno (VAAF), do\nvalor anual mínimo por aluno (VAAF-MIN) definido nacionalmente, e correspondente distribuição\nde recursos da complementação-VAAF às redes de ensino; do valor anual total mínimo por aluno\n(VAAT-MIN) definido nacionalmente e correspondente distribuição de recursos da\ncomplementação-VAAT às redes de ensino;\nAlém dos valores anuais totais por aluno (VAAT), anteriormente à complementação-VAAT; As\naplicações mínimas pelas redes de ensino em EI; e As redes de ensino beneficiadas com a\ncomplementação-VAAR e respectivos valores."
+    },
+    {
+      "id": "a15_021",
+      "numero": 21,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "ITAME 2014 (adaptada para fins didáticos) Levando em consideração o que diz a Lei do Fundeb, é incorreto afirmar:",
+      "alternativas": {
+        "a": "A instituição de Fundos no âmbito de cada Estado e do Distrito Federal e a aplicação de seus recursos não os isentam da obrigatoriedade da aplicação na manutenção e no desenvolvimento do ensino.",
+        "b": "Sobre a aplicação desses fundos o artigo diz que pelo menos 5% (cinco por cento) do montante dos impostos e transferências que compõem a cesta de recursos do Fundeb somados aos referidos neste inciso garantam a aplicação do mínimo de 25% (vinte e cinco por cento) desses impostos e transferências em favor da manutenção e desenvolvimento do ensino.",
+        "c": "Pelo menos 25% (vinte e cinco por cento) dos demais impostos e transferências também devem ser destinados para esse fim.",
+        "d": "Os Fundos destinam-se à manutenção e ao desenvolvimento da educação básica pública e privada e à valorização dos trabalhadores em educação, incluindo sua condigna remuneração, observado o disposto nesta Lei."
+      },
+      "gabarito": "A",
+      "comentario": "Atenção: a questão requer que seja assinalada a alternativa que não condiz com o que está\ndisposta na Lei do Fundeb.\nAs alternativas A, B e C estão corretas e em acordo com o previsto na legislação.\nA alternativa D está incorreta, pois os recursos do Fundeb são direcionados para as escolas\npúblicas. Veja o que diz o artigo 2º da Lei nº 14.113/2020:\nArt. 2º Os Fundos destinam-se à manutenção e ao desenvolvimento da educação básica pública\ne à valorização dos profissionais da educação, incluída sua condigna remuneração, observado o\ndisposto nesta Lei.\nAssim, a Letra D representa o gabarito a ser assinalado."
+    },
+    {
+      "id": "a15_022",
+      "numero": 22,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP 2019 O FUNDEB tem como estratégia distribuir recursos pelo país, complementando o dinheiro aplicado pela União, direcionada às regiões nas quais o investimento por aluno seja inferior ao valor mínimo fixado para cada ano. O acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos do programa é realizado:",
+      "alternativas": {
+        "a": "Pelo Ministério da Educação e do Desporto, em nível nacional.",
+        "b": "Pelas secretarias de ensino, a nível estadual.",
+        "c": "Por meio das Diretorias de Ensino e órgãos associados, em nível municipal.",
+        "d": "Por conselhos criados especificamente para esse fim, em escalas federal, estadual e municipal."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. Art. 33. O acompanhamento e o controle social sobre a distribuição,\na transferência e a aplicação dos recursos dos Fundos serão exercidos, perante os respectivos\ngovernos, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, por conselhos\ninstituídos especificamente para esse fim."
+    },
+    {
+      "id": "a15_023",
+      "numero": 23,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEV UECE 2018 (adaptada para fins didáticos) Considerando as bases legais da educação nacional, relacione corretamente as leis apresentadas a seguir com as suas finalidades, numerando os parênteses abaixo de acordo com a seguinte indicação: Marque 1 para Lei Nº 9.394/96 (LDB) e 2 para Lei nº14.113/2020 (FUNDEB) ( ) Garante o financiamento de toda a educação básica. ( ) Determina que, no mínimo, 70% dos recursos se destinem à remuneração dos profissionais da educação básica em efetivo exercício. ( ) Estabelece que os sistemas de ensino promoverão a valorização dos profissionais da educação, assegurando-lhes, dentre outros, condições adequadas de trabalho. ( ) Determina que na distribuição dos recursos da educação sejam consideradas exclusivamente as matrículas presenciais efetivas, conforme os dados apurados no censo escolar mais atualizado. A sequência correta, de cima para baixo, é:",
+      "alternativas": {
+        "a": "1, 1, 2, 1.",
+        "b": "2, 2, 1, 2.",
+        "c": "2, 1, 1, 2.",
+        "d": "1, 2, 2, 1."
+      },
+      "gabarito": "B",
+      "comentario": "Vamos analisar as assertivas uma a uma:\n(2) Garante o financiamento de toda a educação básica.\nFUNDEB: Lei 14.113/2020, Artigo 1º: Fica instituído, no âmbito de cada Estado e do Distrito\nFederal, um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos\nProfissionais da Educação (Fundeb), de natureza contábil, nos termos do art. 212-A da\nConstituição Federal.\n(2) Determina que, no mínimo, 60% dos recursos se destinem à remuneração dos profissionais\nda educação básica em efetivo exercício.\nFUNDEB: Lei 14.113/2020, artigo 26: Excluídos os recursos de que trata o inciso III do caput do\nart. 5º desta Lei, proporção não inferior a 70% (setenta por cento) dos recursos anuais totais dos\nFundos referidos no art. 1º desta Lei será destinada ao pagamento, em cada rede de ensino, da\nremuneração dos profissionais da educação básica em efetivo exercício.\nAtenção: No Fundeb velho, esse percentual era de apenas 60%, tendo sido alterado para 70%\nno Novo Fundeb, não confunda!\n(1) Estabelece que os sistemas de ensino promoverão a valorização dos profissionais da\neducação, assegurando-lhes, dentre outros, condições adequadas de trabalho.\nLDB: Lei 9.394/96, artigo 67, inciso VI: condições adequadas de trabalho.\n(2) Determina que na distribuição dos recursos da educação sejam consideradas exclusivamente\nas matrículas presenciais efetivas, conforme os dados apurados no censo escolar mais atualizado.\nFUNDEB: Lei 14.113/2020, artigo 8º: Para os fins da distribuição dos recursos de que trata esta\nLei, serão consideradas exclusivamente as matrículas presenciais efetivas, conforme os dados\napurados no censo escolar mais atualizado, realizado anualmente pelo Instituto Nacional de\nEstudos e Pesquisas Educacionais Anísio Teixeira (Inep), observadas as diferenças e as\nponderações mencionadas nos arts. 7º e 10 desta Lei.\nAssim, temos a seguinte sequência: 2-2-1-2. Alternativa correta: letra B"
+    }
+  ]
+}

@@ -265,6 +265,116 @@
         }
       ],
       "total": 30
+    },
+    {
+      "arquivo": "aula-15-politicas-publicas-fundeb.json",
+      "aula": "15",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 15",
+      "itensEdital": [
+        23
+      ],
+      "tagsEdital": [
+        {
+          "n": 23,
+          "titulo": "Políticas públicas para a Educação Básica"
+        }
+      ],
+      "total": 23
+    },
+    {
+      "arquivo": "aula-16-dcn-etnico-raciais.json",
+      "aula": "16",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 16",
+      "itensEdital": [
+        25
+      ],
+      "tagsEdital": [
+        {
+          "n": 25,
+          "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
+        }
+      ],
+      "total": 30
+    },
+    {
+      "arquivo": "aula-17-educacao-a-distancia.json",
+      "aula": "17",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 17",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Educação para a diversidade, cidadania, direitos humanos e EaD"
+        }
+      ],
+      "total": 19
+    },
+    {
+      "arquivo": "aula-18-eja.json",
+      "aula": "18",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 18",
+      "itensEdital": [
+        7
+      ],
+      "tagsEdital": [
+        {
+          "n": 7,
+          "titulo": "Educação de Jovens e Adultos (EJA)"
+        }
+      ],
+      "total": 20
+    },
+    {
+      "arquivo": "aula-19-educacao-especial-inclusiva.json",
+      "aula": "19",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 19",
+      "itensEdital": [
+        9
+      ],
+      "tagsEdital": [
+        {
+          "n": 9,
+          "titulo": "Fundamentos legais da Educação especial/inclusiva"
+        }
+      ],
+      "total": 25
+    },
+    {
+      "arquivo": "aula-20-avaliacao-escolar.json",
+      "aula": "20",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 20",
+      "itensEdital": [
+        20
+      ],
+      "tagsEdital": [
+        {
+          "n": 20,
+          "titulo": "Avaliação escolar e suas implicações pedagógicas"
+        }
+      ],
+      "total": 25
+    },
+    {
+      "arquivo": "aula-21-historico-cultural-fracasso.json",
+      "aula": "21",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 21",
+      "itensEdital": [
+        12,
+        13
+      ],
+      "tagsEdital": [
+        {
+          "n": 12,
+          "titulo": "Didática e prática histórico-cultural"
+        },
+        {
+          "n": 13,
+          "titulo": "Didática na formação do professor"
+        }
+      ],
+      "total": 25
     }
   ]
 }

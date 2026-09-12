@@ -1,0 +1,394 @@
+{
+  "esquema": 1,
+  "id": "aula-20-avaliacao-escolar",
+  "aula": "20",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 20",
+  "subtitulo": "Avaliação Escolar e em Larga Escala",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 20",
+  "itensEdital": [
+    20
+  ],
+  "tagsEdital": [
+    {
+      "n": 20,
+      "titulo": "Avaliação escolar e suas implicações pedagógicas"
+    }
+  ],
+  "resumoMd": "### A. Funções da Avaliação Escolar (Luckesi, Hoffmann, Vasconcellos)\n- **Diagnóstica (Anterior/Inicial):** Identifica conhecimentos prévios, necessidades e dificuldades do estudante para planejar a ação pedagógica.\n- **Formativa (Processual/Continuada):** Acompanha a aprendizagem ao longo do processo, reorientando a prática docente e regulando os estudos. Prevalência dos aspectos **qualitativos sobre os quantitativos** (Art. 24 da LDB).\n- **Somativa (Classificatória/Final):** Mede e contabiliza os resultados ao final de um ciclo ou período para fins de nota, promoção ou retenção.\n\n### B. Níveis de Avaliação Educacional\n1. **Avaliação da Aprendizagem:** Focada na relação professor-aluno dentro da sala de aula.\n2. **Avaliação Institucional:** Avalia a escola como um todo (eficiência, PPP, infraestrutura, gestão).\n3. **Avaliação em Larga Escala (Sistemas de Ensino):** Mapeia a qualidade da educação de redes inteiras para subsidiar políticas públicas (ex.: Saeb, Ideb, Enem, Pisa).\n\n---",
+  "total": 25,
+  "questoes": [
+    {
+      "id": "a20_001",
+      "numero": 1,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "AGIRH 2019 (adaptada) Segundo o artigo 24 da LDB. A educação básica, nos níveis fundamental e médio, será organizada de acordo com algumas regras comuns. Julgue os itens: I - avaliação cumulativa do desempenho do aluno, com prevalência dos aspectos quantitativos sobre os qualitativos e dos resultados ao longo do período sobre os de eventuais provas finais; II - nos estabelecimentos que adotam a progressão regular por série, o regimento escolar pode admitir formas de progressão parcial, desde que preservada a sequência do currículo, observadas as normas do respectivo sistema de ensino;",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A assertiva I está errada ao indicar a prevalência dos aspectos quantitativos sobre os qualitativos.\nLembre-se que a alínea a, inciso V, artigo 24, da LDB indica justamente o contrário: avaliação\ncontínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre\nos quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;\nA assertiva II está certa, pois traz a literalidade do inciso IV, artigo 24, da LDB."
+    },
+    {
+      "id": "a20_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "INSTITUTO AOCP/2020 - Resolução nº 4/2010 sobre Avaliação de Redes. Analise as assertivas e assinale a alternativa que aponta a(s) correta(s). De acordo com a Resolução no 4/2010, a avaliação de redes de Educação Básica: I. ocorre periodicamente. II. é realizada por órgãos internos da escola. III. engloba os resultados da avaliação institucional.",
+      "alternativas": {
+        "a": "Apenas I e III.",
+        "b": "I, II e III.",
+        "c": "Apenas II.",
+        "d": "Apenas I."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A é a correta e gabarito da questão. Porque, de fato, a avaliação de Redes ocorre\nperiodicamente e engloba resultados da avaliação institucional.\nA assertiva II está incorreta ao indicar que a Avaliação de Redes é realizada por órgãos internos\nda escola. Quando, na verdade, é realizada por órgãos externos."
+    },
+    {
+      "id": "a20_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FURB/2019 - De acordo com a Resolução Nº 4, de 13 de julho de 2010, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica (2010), a avaliação no ambiente educacional compreende 3 (três) dimensões básicas”, a saber:",
+      "alternativas": {
+        "a": "Avaliação dos alunos - avaliação dos professores - avaliação do sistema.",
+        "b": "Avaliação da aprendizagem - avaliação institucional interna e externa - avaliação de redes de educação básica.",
+        "c": "Avaliação das instituições - avaliação do sistema - avaliação das famílias.",
+        "d": "Avaliação dos professores - avaliação institucional - avaliação da aprendizagem.",
+        "e": "Avaliação da aprendizagem - avaliação da estrutura - avaliação da gestão."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a letra B, pois compreende exatamente o que está disposto no artigo 46\nda resolução em epígrafe. A avaliação no ambiente educacional compreende 3 (três) dimensões\nbásicas:\nAs demais alternativas não guardam correspondência com avaliação preconizada na resolução em\nepígrafe."
+    },
+    {
+      "id": "a20_004",
+      "numero": 4,
+      "banca": "FURB 2019",
+      "tipo": "multipla",
+      "enunciado": "FURB 2019 - Segundo a Resolução N. 4, de 13 de julho de 2010, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Básica (2010), a “avaliação da aprendizagem AVALIAÇÃO DA APRENDIZAGEM Relação professoraluno- conhecimentovida Acompanhar processo de ensino e aprendizagem AVALIAÇÃO INSTITUCIONAL INTERNA E EXTERNA PPP Anual, visa rever metas e objetivos AVALIAÇÃO DE REDES DA EDUCAÇÃO BÁSICA Escola está apta a manter-se funcionando e balizar novas políticas Periódica, Órgãos externos ==2f06f1== baseia-se na concepção de educação que norteia a relação professor-estudante-conhecimentovida em movimento, devendo ser um ato reflexo de reconstrução da prática pedagógica avaliativa, premissa básica e fundamental para se questionar o educar, transformando a mudança em ato, acima de tudo, político.” Sobre isso, analise os destaques abaixo e identifique os corretos: I - A validade da avaliação, na sua função diagnóstica, liga-se à aprendizagem, possibilitando o aprendiz a recriar, refazer o que aprendeu, criar, propor e, nesse contexto, aponta para uma avaliação global, que vai além do aspecto quantitativo, porque identifica o desenvolvimento da autonomia do estudante, que é indissociavelmente ético, social, intelectual. II - Em nível operacional, a avaliação da aprendizagem tem, como referência, o conjunto de conhecimentos, habilidades, atitudes, valores e emoções que os sujeitos do processo educativo projetam para si de modo integrado e articulado com aqueles princípios definidos para a Educação Básica, redimensionados para cada uma de suas etapas, bem assim no projeto políticopedagógico da escola. III - A avaliação na Educação Infantil é realizada mediante acompanhamento e registro do desenvolvimento da criança, sem o objetivo de promoção, mesmo em se tratando de acesso ao Ensino Fundamental. IV - A avaliação da aprendizagem no Ensino Fundamental e no Ensino Médio, de caráter formativo predominando sobre o quantitativo e classificatório, adota uma estratégia de progresso individual e contínuo que favorece o crescimento do educando, preservando a qualidade necessária para a sua formação escolar, sendo organizada de acordo com regras comuns a essas duas etapas. Está(ão) correto(s):",
+      "alternativas": {
+        "a": "Apenas os destaques I e II.",
+        "b": "Apenas os destaques I, II e III.",
+        "c": "Apenas o destaque IV.",
+        "d": "Os destaques I, II, III e IV.",
+        "e": "Apenas os destaques III e IV."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa a ser assinalada é a letra D.\nTodas as assertivas são VERDADEIRAS, pois transcrevem exatamente o que dispõem\nos parágrafos 1º a 4º do artigo 47 da resolução. Vamos vê-las uma a uma:\nAssertiva I - VERDADEIRA, pois cita exatamente o que dispõe o §1º, do artigo 47: § 1º A validade\nda avaliação, na sua função diagnóstica, liga-se à aprendizagem, possibilitando o aprendiz a\nrecriar, refazer o que aprendeu, criar, propor e, nesse contexto, aponta para uma avaliação global,\nque vai além do aspecto quantitativo, porque identifica o desenvolvimento da autonomia do\nestudante, que é indissociavelmente ético, social, intelectual.\nAssertiva II - VERDADEIRA, pois cita precisamente o que dispõe o §2º, do artigo 47, veja: § 2º Em\nnível operacional, a avaliação da aprendizagem tem, como referência, o conjunto de\nconhecimentos, habilidades, atitudes, valores e emoções que os sujeitos do processo educativo\nprojetam para si de modo integrado e articulado com aqueles princípios definidos para a\nEducação Básica, redimensionados para cada uma de suas etapas, bem assim no projeto\npolíticopedagógico da escola.\nAssertiva III - VERDADEIRA, pois cita precisamente o que dispõe o §3º, do artigo 47, veja: § 3º A\navaliação na Educação Infantil é realizada mediante acompanhamento e registro do\ndesenvolvimento da criança, sem o objetivo de promoção, mesmo em se tratando de acesso ao\nEnsino Fundamental.\nAssertiva IV - VERDADEIRA, pois cita precisamente o que dispõe o §4º, do artigo 47, veja: § 4º A\navaliação da aprendizagem no Ensino Fundamental e no Ensino Médio, de caráter formativo\npredominando sobre o quantitativo e classificatório, adota uma estratégia de progresso individual\ne contínuo que favorece o crescimento do educando, preservando a qualidade necessária para a\nsua formação escolar, sendo organizada de acordo com regras comuns a essas duas etapas."
+    },
+    {
+      "id": "a20_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "NUCEPE 2020 “As escolas investigadas também utilizam formas mais personalizadas de avaliação. Uma vez que cada aluno segue seu próprio percurso pedagógico, respeitando ritmo, características e interesses distintos, as provas padronizadas deixam de fazer sentido. Com isso, as avaliações passam a ser feitas de forma contínua, com o intuito de acompanhar a evolução de cada estudante e garantir que ele aprenda. Também observa o desenvolvimento de competências que extrapolam o âmbito dos conteúdos formais, mas são igualmente importantes para a formação integral dos estudantes. A tecnologia tem permitido que algumas dessas avaliações aconteçam em tempo real, gerando dados que orientam a ação imediata de professores e dos próprios alunos para assegurar que a aprendizagem aconteça.” Disponível em: https://porvir.org/especiais/personalizacao/ educação sob medida. Acesso em 03/01/2020. O trecho destacado no texto faz referência a uma situação avaliativa coerente com a função da avaliação denominada",
+      "alternativas": {
+        "a": "formativa.",
+        "b": "diagnóstica inicial.",
+        "c": "somativa.",
+        "d": "qualitativa.",
+        "e": "padronizada."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa correta é a letra A. A avaliação formativa possui a característica de ser contínua e de\nacompanhar a evolução dos estudantes, regulando o processo de ensino aprendizagem."
+    },
+    {
+      "id": "a20_006",
+      "numero": 6,
+      "banca": "AMAUC 2019",
+      "tipo": "multipla",
+      "enunciado": "AMAUC 2019 - A avaliação da aprendizagem é parte importante do trabalho do professor no cotidiano pedagógico. Quanto à avaliação é CORRETO afirmar:",
+      "alternativas": {
+        "a": "A avaliação dos alunos deve ser realizada diariamente através de provas e atividades que mensurem o conhecimento dos mesmos.",
+        "b": "Por ser um processo complexo, os alunos devem ser avaliados somente ao final do semestre quando já apresentam repertório possível de análise.",
+        "c": "Na Educação Infantil e nos Anos Iniciais a LDB diz que não devemos avaliar os alunos e sim, motivá-los para seu crescimento pessoal e intelectual. Dada à tenra idade uma avaliação equivocada pode deixar marcas negativas no desenvolvimento da criança.",
+        "d": "A avaliação deve ser parte do processo de ensino e aprendizagem, sendo considerada para a continuidade ou retomada dos conhecimentos abordados. A avaliação deve ocorrer durante todo o processo pedagógico.",
+        "e": "A avaliação deve ser realizada semanalmente com calendário pré-estabelecido para acompanhamento dos pais ou responsáveis, sendo possível assim revisão e preparação em casa."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta ao sugerir que a avaliação está restrita à medição de conhecimento.\nA alternativa B está incorreta ao indicar que a avaliação deve acontecer somente ao final do\nprocesso.\nA alternativa C está incorreta ao sugerir que não há determinações específicas para avaliação\nnessas etapas. Pelo contrário, existe previsão legal de avaliação.\nSobre EI: avaliação mediante acompanhamento e registro do desenvolvimento das crianças, sem\no objetivo de promoção, mesmo para o acesso ao ensino fundamental (artigo 31, inciso I, LDB)\nSobre EF-AI: avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos\naspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de\neventuais provas finais; (Artigo 24, inciso V, alínea a, LDB)\nA alternativa D é a correta e gabarito da questão.\nA alternativa E está incorreta, pois não condiz com o que consta dos normativos sobre o tema."
+    },
+    {
+      "id": "a20_007",
+      "numero": 7,
+      "banca": "GUALIMP 2019",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP 2019 - Assinale a alternativa que preenche corretamente as lacunas: “A __________________ é periódica e acontece no final de período, ciclo ou ano, enquanto a avaliação ____________________ é interna ao processo, analítica e mais centrada sobre o estudante do que sobre o produto acabado.”",
+      "alternativas": {
+        "a": "Avaliação diagnóstica; somativa.",
+        "b": "Avaliação somativa; formativa.",
+        "c": "Avaliação formativa; somativa.",
+        "d": "Avaliação diagnóstica; classificatória."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B é a correta e gabarito da questão. A avaliação somativa acontece é que acontece\nao final dos processos. Caracteriza-se pelo predomínio das dimensões quantitativas sobre as\nqualitativas e visa quantificar o aproveitamento do aluno tendo em vista os conteúdos ministrados\nem sala de aula, classificando-os segundo critérios e médias pré-estabelecidas.\nA avaliação formativa é que assume papel mais analítico e está focada no desenvolvimento do\nestudante em ao longo do processo em detrimento de um produto acabado."
+    },
+    {
+      "id": "a20_008",
+      "numero": 8,
+      "banca": "VUNESP 2019",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 - A avaliação pode ser realizada em diferentes momentos e pode ter diversas finalidades. Conforme Bassedas et alii (1999), a avaliação ___________________ se realiza de uma maneira progressiva e paralelamente às diferentes situações e atividades que se desenvolvem. E é a que possui mais sentido e importância na questão educativa, pois permite modificar a intervenção a partir das informações que se obtêm nas próprias atividades da aula. Assinale a alternativa que preenche corretamente a lacuna do texto.",
+      "alternativas": {
+        "a": "inicial",
+        "b": "somativa",
+        "c": "criteriada",
+        "d": "formativa",
+        "e": "normativa"
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa D é a correta e gabarito da questão, o enunciado descreve características desse tipo\nde avaliação."
+    },
+    {
+      "id": "a20_009",
+      "numero": 9,
+      "banca": "IBADE 2019",
+      "tipo": "multipla",
+      "enunciado": "IBADE 2019 - A avaliação que tem como objetivo acompanhar o processo de aprendizagem do aluno é chamada de:",
+      "alternativas": {
+        "a": "quantitativa.",
+        "b": "comparativa.",
+        "c": "formativa.",
+        "d": "impositiva.",
+        "e": "conclusiva."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C é a correta e gabarito da questão. Não tem como errar. Essa descrição refere-se à\navaliação formativa: que se preocupa com a formação do estudante. Precisamente busca\ncontribuir para regular o processo e identificar os erros e as dificuldades, ainda durante sua\nocorrência. E servem como balizadores da prática pedagógica."
+    },
+    {
+      "id": "a20_010",
+      "numero": 10,
+      "banca": "IBADE 2019",
+      "tipo": "multipla",
+      "enunciado": "IBADE 2019 - A avaliação da escola, de caráter diagnóstico, que permite a visão de todos os aspectos da escola e pode auxiliar na melhoria do processo educativo é chamada de avaliação:",
+      "alternativas": {
+        "a": "prática.",
+        "b": "institucional.",
+        "c": "convencional.",
+        "d": "primária.",
+        "e": "condicionada."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B é a correta e gabarito da questão. A ideia dessa dimensão é avaliar o\nfuncionamento das instituições escolares a partir dos diversos segmentos que as compõem. Aqui\nserão considerados as ações empreendidas por cada um e como a proposta pedagógica se efetiva."
+    },
+    {
+      "id": "a20_011",
+      "numero": 11,
+      "banca": "IBADE 2019",
+      "tipo": "multipla",
+      "enunciado": "IBADE 2019 - Para verificar o progresso e as dificuldades dos alunos, cumprindo sua verdadeira função pedagógico-didática, a avaliação da aprendizagem deve considerar a relação entre os aspectos:",
+      "alternativas": {
+        "a": "qualitativos e comparativos.",
+        "b": "comparativos e discriminativos.",
+        "c": "quantitativos e qualitativos.",
+        "d": "discriminativos e diagnósticos.",
+        "e": "quantitativos e somativos."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa C é a correta e gabarito da questão. Lembre-se de que a avaliação deve considerar\nos aspectos qualitativos e quantitativos. Mas dentro da perspectiva formativa os qualitativos\ndevem se sobrepor aos quantitativos. E que para Libâneo os aspectos quantitativos devem se\ntransformar em qualificação."
+    },
+    {
+      "id": "a20_012",
+      "numero": 12,
+      "banca": "CESPE (CEBRASPE) 2019",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2019 - A respeito de gestão, planejamento e avaliação no âmbito educacional, julgue o item seguinte: O processo de aprendizagem deve ser acompanhado regularmente e por meio do uso de diferentes instrumentos, como a avaliação diagnóstica, que resulta do somatório das atividades realizadas. C Certo. E Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A questão está ERRADA, pois a assertiva faz menção às características da Avaliação Somativa e\nnão da Avaliação Diagnóstica.\nLembre-se:\nA Avaliação Diagnóstica geralmente acontece no início do processo de ensino-aprendizagem,\npara sondar os conhecimentos prévios e obter informações acerca das experiências trazidas pelos\nestudantes. Tem foco no caráter qualitativo. Esse tipo de avaliação é fundamental para o\nplanejamento pois baliza as práticas docentes.\nA Avaliação Somativa é realizada ao final do processo de ensino aprendizagem e se caracteriza\npelo predomínio das dimensões quantitativas sobre as qualitativas. Pode-se dizer que esse tipo\nde avaliação visa quantificar a proficiência do estudante. Tratando, dessa forma, de um processo\nclassificatório e pontual.\nA Avaliação Formativa preocupa-se com a formação do estudante. Precisamente busca contribuir\npara regular o processo e identificar os erros e as dificuldades, ainda durante sua ocorrência. E\nservem como balizadores da prática pedagógica."
+    },
+    {
+      "id": "a20_013",
+      "numero": 13,
+      "banca": "CESPE (CEBRASPE) 2019",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2019 - A avaliação e o planejamento não são atividades que se complementam, porque têm objetivos diferentes: enquanto o ato de planejar visa à economia de tempo para o alcance dos resultados finais, o ato de avaliar se preocupa em verificar o cumprimento dos objetivos de aprendizagem. C Certo. E Errado",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A assertiva está errada, pois como foi colocado ao longo de toda a nossa aula, a avaliação pode\nsubsidiar o planejamento."
+    },
+    {
+      "id": "a20_014",
+      "numero": 14,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2017 A avaliação qualitativa está associada à aprendizagem significativa e deve ser feita em conjunto por alunos e professores. C Certo. E Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A assertiva está certa, pois os aspectos qualitativos estão ligados à aprendizagem significativa e\npropõe essa parceria entre professor e alunos."
+    },
+    {
+      "id": "a20_015",
+      "numero": 15,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC – 2019 - Sobre as avaliações dos tipos classificatória e formativa, analise as afirmativas a seguir e dê valores Verdadeiro (V) ou Falso (F). I - A avaliação classificatória preocupa-se em fazer do aluno, um aluno cidadão. II - A avaliação classificatória só almeja, pela nota, avaliar o quanto o aluno aprendeu. III - A avaliação formativa é o todo do aluno - o seu crescimento com aquele conteúdo, se houve melhora no aprendizado; se sua vida socioeducativa melhorou. IV - Na avaliação classificatória o professor avalia os alunos por meio de trabalhos com o objetivo de observar se os alunos aprenderam ou não. V - A avaliação formativa não se preocupa com o ensino aprendizagem ao longo do desenvolvimento curricular e sim por um curto período. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+      "alternativas": {
+        "a": "F, F, F, V, V",
+        "b": "V, V, V, F, V",
+        "c": "F, V, V, V, F",
+        "d": "V, F, F, F, F"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa a ser marcada é a letra C.\nVamos analisar cada assertiva:\nAs assertivas II, III e IV e estão verdadeiras, pois caracterizam adequadamente cada um dos tipos\nde avaliação.\nA assertiva I está falsa, porque a avaliação que se preocupa em fazer do aluno, um aluno cidadão\né a avaliação formativa.\nA assertiva V está falsa, porque a avaliação formativa preocupa-se com o ensino aprendizagem ao\nlongo do desenvolvimento do processo e não de curto período."
+    },
+    {
+      "id": "a20_016",
+      "numero": 16,
+      "banca": "VUNESP 2019",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 - De acordo com Libâneo (2013), a avaliação escolar é um componente do processo de ensino que visa, por meio da verificação e qualificação dos resultados obtidos, determinar a correspondência destes com os objetivos propostos e, daí, orientar a tomada de decisões em relação às atividades didáticas seguintes. Nos diversos momentos do processo de ensino, são tarefas de avaliação: a verificação, a qualificação e a apreciação qualitativa. Segundo o autor, a qualificação é",
+      "alternativas": {
+        "a": "a coleta de dados sobre o aproveitamento dos alunos, por meio de provas, exercícios e tarefas ou de meios auxiliares.",
+        "b": "o balanço das aquisições no final da formação, com vistas a expedir, ou não, o certificado de formação.",
+        "c": "a avaliação propriamente dita dos resultados, referindo-os a metas e a padrões de desempenho esperados.",
+        "d": "o ajuste recíproco entre a aprendizagem e o programa que será adaptado aos aprendizes, considerando-se suas competências atuais.",
+        "e": "a comprovação dos resultados alcançados em relação aos objetivos e, conforme o caso, atribuição de notas ou conceitos."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa correta é a Letra E. A alternativa A refere-se à verificação e a letra C refere-se à\napreciação qualitativa.\nVamos retomar as três tarefas da avaliação, segundo Libâneo:"
+    },
+    {
+      "id": "a20_017",
+      "numero": 17,
+      "banca": "COPERVE (UFSC) 2019",
+      "tipo": "multipla",
+      "enunciado": "COPERVE (UFSC) 2019 - Segundo Luckesi (2011), o ato de avaliar, enquanto acompanhamento da ação do professor, implica dois processos articulados e indissociáveis, que são os descritos corretamente na alternativa:",
+      "alternativas": {
+        "a": "Analisar e classificar aptos e inaptos, tendo em vista a melhoria dos resultados.",
+        "b": "Diagnosticar e, se necessário, intervir, tendo em vista a melhoria dos resultados.",
+        "c": "Coletar dados e divulgar resultados, tendo em vista a melhoria dos resultados.",
+        "d": "Intervir, classificar e aplicar exames, tendo em vista a melhoria dos resultados."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a Letra B. Lembre-se de que segundo o autor, o professor deve\ndiagnosticar, a fim de perceber os interesses dos alunos, suas demandas e limitações. O que\npermite ao professor balizar suas ações, ou seja, inclui tomada de decisão."
+    },
+    {
+      "id": "a20_018",
+      "numero": 18,
+      "banca": "FUNDATEC 2019",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 - Para Hoffmann, faz-se imprescindível que o educador tome a avaliação como _________________________, pois deverá por meio dela diagnosticar se o aluno apreendeu o conteúdo para poder seguir adiante ou se é necessário retomá-lo. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.",
+      "alternativas": {
+        "a": "atividade somativa",
+        "b": "metodologia quantitativa",
+        "c": "reflexão sobre a ação",
+        "d": "Juízo de valor",
+        "e": "reprodução da sociedade"
+      },
+      "gabarito": "C",
+      "comentario": "VERIFICAÇÃO\ncoleta de dados sobre\naproveitamento dos\nalunos\nQUALIFICAÇÃO\ncomprovação dos\nresultados alcançados\nem relação aos\nobjetivos\nAPRECIAÇÃO\nQUALITATIVA\navaliação propriamente\ndita dos resultados,\nreferindo-se a padrões\nde desempenho\nesperados.\nA alternativa correta é a Letra C. Lembre-se de que segundo a autora a avaliação mediadora ocorre\nna ação reflexiva de troca de ideias entre educador e estudantes. Prevendo diálogo entre o\nprofessor e seus alunos, para que seja possível propor ações pedagógicas conforme a realidade\nsociocultural dos estudantes."
+    },
+    {
+      "id": "a20_019",
+      "numero": 19,
+      "banca": "VUNESP 2019",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 - O educador que estiver afeito a dar um novo encaminhamento para a prática da avaliação escolar deverá estar preocupado em definir propriamente os rumos de sua ação pedagógica, pois ela não é neutra. Ela se insere em um contexto maior e está a serviço dele. Para Luckesi (2005), em um contexto mais técnico, o elemento essencial para que se dê à avaliação educacional escolar um rumo diverso ao que vem sendo exercitado, é o resgate de sua função",
+      "alternativas": {
+        "a": "diagnóstica, um instrumento dialético do avanço.",
+        "b": "como um instrumento de classificação da aprendizagem.",
+        "c": "de medida do que o aluno já aprendeu.",
+        "d": "como fim em si mesma, delimitada pela teoria e pela prática que a circunstancializam.",
+        "e": "para estabelecer uma ordenação entre inferior, médio e superior"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa correta é a Letra A. Lembre-se de Luckesi critica a prática avaliativa tradicional,\nrestrita à verificação, sinalizando que não oportuniza melhorias para o processo de ensinoaprendizagem.\nE vai além, indica que o resultado obtido a partir de determinada avaliação, não\npode se encerrar em si mesmo, mas possibilitar reflexão sobre os próximos passos.\nPara Luckesi, a avaliação deve ser dinâmica e inclusiva. E não representar exercício autoritário do\nprofessor em relação aos estudantes. Na realidade, o autor entende que o processo avaliativo\ndeve ser um ato amoroso."
+    },
+    {
+      "id": "a20_020",
+      "numero": 20,
+      "banca": "FUNDATEC 2019",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 - De acordo com Hoffmann, a avaliação mediadora: I. Leva o professor a prestar mais atenção e entender melhor o aluno, buscando questões desafiadores capazes de garantir maior autonomia moral e intelectual. II. Dá oportunidade de discussão entre alunos a partir de algumas situações desencadeadas em sala de aula. III. Transforma os registros das avaliações em anotações que permitam o acompanhamento dos alunos durante a construção de seu conhecimento, possibilitando o uso de ações alternativas mais eficazes para a superação das dificuldades e dos problemas de cada aluno. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa E representa o nosso gabarito já que todas as proposições estão corretas, pois\ntraduzem o entendimento da autora sobre avaliação mediadora."
+    },
+    {
+      "id": "a20_021",
+      "numero": 21,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "COMPROV (UFCG) 2014 Sobre o Sistema Nacional de Avaliação da educação brasileira, analise as proposições abaixo e marque a alternativa INCORRETA:",
+      "alternativas": {
+        "a": "O Sistema Nacional de Avaliação da Educação Superior (SINAES) é formado por três componentes principais: a avaliação das instituições, dos cursos e do desempenho dos estudantes.",
+        "b": "A Provinha Brasil avalia o nível de alfabetização das crianças matriculadas no segundo ano de escolarização das escolas públicas brasileiras.",
+        "c": "O Exame Nacional do Ensino Médio (Enem) também é utilizado para o acesso a programas oferecidos pelo Governo Federal, como o Programa Universidade para Todos (ProUni)",
+        "d": "O Exame Nacional do Ensino Médio (Enem) foi criado como mecanismo de seleção para o ingresso no ensino superior brasileiro.",
+        "e": "A Prova Brasil avalia os alunos de 5º e 9º anos do ensino fundamental, da rede pública e urbana de ensino."
+      },
+      "gabarito": "D",
+      "comentario": "Note que a questão exige a incorreta sobre SAEB.\nA alternativa que representa o gabarito é a letra D, porque o Enem não foi criado como mecanismo\nde seleção para ingressar no ES. E sim, com o objetivo de avaliar o desempenho do estudante ao\nfim da educação básica. Embora, desde 2009, seja utilizado como mecanismo de seleção para o\ningresso no ensino superior brasileiro."
+    },
+    {
+      "id": "a20_022",
+      "numero": 22,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IPEFAE 2019 Reconhecendo a importância dos sistemas de avaliação da educação básica, a direção de uma unidade escolar iniciou estudo sobre suas formas de realização. Durante o processo de pesquisa, descobriu-se que o sistema passará por mudanças em 2019, entre as quais:",
+      "alternativas": {
+        "a": "A Avaliação Nacional de Alfabetização (ANA), a partir de 2019, contemplará todos os Anos Iniciais do Ensino Fundamental, como forma de implementação de uma das diretrizes presentes no Plano Nacional de Educação (PNE).",
+        "b": "A Avaliação Nacional de Alfabetização (ANA) e a Avaliação Nacional do Rendimento Escolar (ANRESC) deixarão de existir com essa nomenclatura, passando a identificar-se apenas como SAEB.",
+        "c": "A Avaliação Nacional do Rendimento Escolar (ANRESC), a partir de 2019, contemplará todos os Anos Iniciais do Ensino Fundamental, como forma de implementação de uma das diretrizes presentes no Plano Nacional de Educação (PNE).",
+        "d": "O Exame Nacional do Ensino Médio será integralmente reformulado, passando a compor novas disciplinas já integradas ao Sistema de Avaliação da Educação Básica como medida de real integração do mesmo ao Ensino Fundamental e à Educação Infantil."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B está correta, pois traz a mudança importante que ocorreu no SAEB em 2019: A\nAvaliação Nacional de Alfabetização (ANA) e a Avaliação Nacional do Rendimento Escolar\n(ANRESC) deixarão de existir com essa nomenclatura, passando a identificar-se apenas como\nSAEB."
+    },
+    {
+      "id": "a20_023",
+      "numero": 23,
+      "banca": "PREMIER 2019",
+      "tipo": "multipla",
+      "enunciado": "PREMIER 2019 - Conforme Perrenoud, qualquer diferenciação do ensino requer uma avaliação ________, ou seja, uma avaliação que supostamente ajude o aluno a aprender. Diferentemente da avaliação tradicional, na avaliação formativa, há uma abordagem _________ da avaliação, orientada inteiramente pelo cuidado com ___________ ou, mais exatamente, com a autorregulação das aprendizagens. Assinale a alternativa que completa as lacunas da frase acima corretamente.",
+      "alternativas": {
+        "a": "tradicional ... subjetiva ... a regulação",
+        "b": "formativa ... subjetiva ... os resultados",
+        "c": "formativa ... pragmática ... a regulação",
+        "d": "classificatória ... subjetiva ... a regulação",
+        "e": "classificatória ... pragmática ... os resultados"
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa B está correta, pois completa de forma adequada a colocação do enunciado, estando\nde acordo com o entendimento de Perrenoud para a avaliação."
+    },
+    {
+      "id": "a20_025",
+      "numero": 25,
+      "banca": "VUNESP 2016",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2016 - O conceito de qualidade na educação tem passado por várias concepções, inicialmente, estava articulado ao processo de acesso das oportunidades educacionais para as massas populares. Posteriormente, foi caracterizada pelo acesso e a permanência do indivíduo no sistema escolar. Atualmente, a educação é tida como um direito público subjetivo e que deve ser garantido não só o acesso e a permanência, mas também um padrão de qualidade. Nesse sentido, foi criado um importante indicador de qualidade da educação, o Índice de Desenvolvimento da Educação Básica – Ideb. A respeito do Ideb, é correto afirmar que",
+      "alternativas": {
+        "a": "é um indicador educacional criado para avaliar o desempenho das escolas da rede particular de ensino.",
+        "b": "estabelece a combinação de indicadores de fluxo e de proficiência dos alunos, calculada em uma escala de 0 (zero) a 5 (cinco).",
+        "c": "é calculado a partir de dois componentes: a taxa de rendimento escolar e as médias de desempenho nos exames aplicados pelo Ministério da Educação.",
+        "d": "deve atingir até 2018 níveis educacionais de países desenvolvidos, o que corresponde à média de 5 (cinco) para os anos iniciais do ensino fundamental.",
+        "e": "mede o nível de desenvolvimento humano em cada munícipio, utilizando como critérios a taxa de alfabetização e renda."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: Letra C\nAlternativa A está incorreta, porque o IDEB é um indicador criado para avaliar as ESCOLAS\nPÚBLICAS e por ADESÃO as escolas privadas.\nAlternativa B está incorreta, porque o índice no Ideb varia de 0 a 10.\nAlternativa D está incorreta, porque as metas estabelecidas pelo Ideb são diferenciadas para cada\nescola e rede de ensino, com o objetivo único de alcançar 6 pontos até 2022, média\ncorrespondente ao sistema educacional dos países desenvolvidos, segundo o site do INEP.\nAlternativa E está incorreta, porque o índice possibilita monitorar a situação da educação nacional\npor intermédio de dois elementos: fluxo escolar e médias de desempenho."
+    },
+    {
+      "id": "a20_026",
+      "numero": 26,
+      "banca": "IDECAN 2019 Quanto ao SINAES",
+      "tipo": "multipla",
+      "enunciado": "IDECAN 2019 Quanto ao SINAES – Sistema Nacional de Avaliação da Educação Superior, instituído pela Lei nº 10.861/2004, assinale a alternativa incorreta.",
+      "alternativas": {
+        "a": "A avaliação dos cursos de graduação tem por objetivo identificar as condições de ensino oferecidas aos estudantes, em especial as relativas ao perfil do corpo docente, às instalações físicas e à organização didático-pedagógica.",
+        "b": "A avaliação do desempenho dos docentes dos cursos de graduação será realizada mediante aplicação do ENADE.",
+        "c": "A aplicação do ENADE será acompanhada de instrumento destinado a levantar o perfil dos avaliados, relevante para a compreensão de seus resultados.",
+        "d": "Os resultados considerados insatisfatórios ensejarão a celebração de protocolo de compromisso, a ser firmado entre a instituição de educação superior e o Ministério da Educação.",
+        "e": "O Ministério de Estado da Educação regulamentará os procedimentos de avaliação do SINAES."
+      },
+      "gabarito": "B",
+      "comentario": "Note que o enunciado requer que seja assinalada a alternativa INCORRETA, portanto nosso\ngabarito é a Letra B, porque o ENADE avaliação o desempenho dos estudantes."
+    }
+  ]
+}

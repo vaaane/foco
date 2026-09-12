@@ -1,0 +1,268 @@
+{
+  "esquema": 1,
+  "id": "aula-17-educacao-a-distancia",
+  "aula": "17",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 17",
+  "subtitulo": "Educação a Distância (EaD)",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 17",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Educação para a diversidade, cidadania, direitos humanos e EaD"
+    }
+  ],
+  "resumoMd": "### A. Conceito e Regulamentação da EaD\n- **Definição (Decreto nº 9.057/2017):** Modalidade educacional na qual a mediação didático-pedagógica nos processos de ensino e aprendizagem ocorre com a utilização de meios e tecnologias de informação e comunicação, com estudantes e professores desenvolvendo atividades educativas em lugares ou tempos diversos.\n- **Art. 80 da LDB:** O Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada.\n\n### B. EaD na Educação Básica e Superior\n- **Educação Infantil:** Proibida a oferta na modalidade EaD.\n- **Ensino Fundamental:** A oferta de ensino fundamental a distância é **excepcional**, utilizada apenas em situações de emergência (como pandemias) ou para comunidades com entraves de acesso presencial (ribeirinhos, itinerantes, exterior).\n- **Ensino Médio e EJA:** É permitida a complementação de aprendizagens ou oferta emergencial conforme regulamentação dos sistemas de ensino.\n- **Atividades Presenciais:** A legislação exige momentos e avaliações presenciais obrigatórias nos polos de apoio presencial devidamente credenciados.\n\n---",
+  "total": 19,
+  "questoes": [
+    {
+      "id": "a17_001",
+      "numero": 1,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FADESP 2020 O Decreto nº 9.057, de 25 de maio de 2017, estabelece nova regulamentação para a Ead, no ensino superior público, determinando que",
+      "alternativas": {
+        "a": "é desnecessária a autorização prévia do MEC para abertura de polos para o desenvolvimento de atividades presenciais relativas aos cursos ofertados na modalidade a distância.",
+        "b": "a oferta de cursos superiores na modalidade a distância dispensará regime de parceria entre a instituição de ensino credenciada e outras pessoas jurídicas.",
+        "c": "o regime de parceria entre a instituição de ensino e outras pessoas jurídicas para instalações com fins de funcionamento de polo de educação a distância, deve ser estabelecido em regulamento e respeitado o limite da capacidade de atendimento de estudantes.",
+        "d": "as instituições terão autorização do MEC para a oferta de cursos a distância, desde que essas instituições tenham bons indicadores de qualidade."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. Nos termos do artigo 14, do Decreto em epígrafe:\nArt. 14. As instituições de ensino credenciadas para a oferta de educação superior na\nmodalidade a distância que detenham a prerrogativa de autonomia dos sistemas de\nensino federal, estaduais e distrital independem de autorização para funcionamento de\ncurso superior na modalidade a distância.\nLetra B; artigo 19: “admitirá regime de parceria ”\nLetra C; artigo 19: “preferencialmente em instalações da instituição de ensino, exclusivamente\npara fins de funcionamento de polo de educação a distância ”\nLetra D; artigo 13: “Os processos de credenciamento e recredenciamento institucional, de\nautorização, de reconhecimento e de renovação de reconhecimento de cursos superiores na\nmodalidade a distância serão submetidos à avaliação in loco na sede da instituição de ensino,\ncom o objetivo de verificar a existência e a adequação de metodologia, de infraestrutura física,\ntecnológica e de pessoal que possibilitem a realização das atividades previstas no Plano de\nDesenvolvimento Institucional e no Projeto Pedagógico de Curso. ”"
+    },
+    {
+      "id": "a17_002",
+      "numero": 2,
+      "banca": "IDECAN INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DA PARAÍBA\nTÉCNICO EM ASSUNTOS EDUCACIONAIS (IFPB) 2019",
+      "tipo": "multipla",
+      "enunciado": "IDECAN INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DA PARAÍBA TÉCNICO EM ASSUNTOS EDUCACIONAIS (IFPB) 2019 - Considerando que o Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada, analise as afirmativas a seguir. I. A educação a distância, organizada com abertura e regime especiais, será oferecida por instituições especificamente credenciadas pela União. II. As normas para produção, controle e avaliação de programas de educação a distância e a autorização para sua implementação caberão aos respectivos sistemas de ensino, podendo haver cooperação e integração entre os diferentes sistemas. III. A educação a distância gozará de tratamento diferenciado, que incluirá custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens. IV. A educação a distância gozará de tratamento diferenciado que incluirá custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens e em outros meios de comunicação que sejam explorados mediante autorização, concessão ou permissão do poder público. Assinale",
+      "alternativas": {
+        "a": "se somente a afirmativa II estiver correta.",
+        "b": "se somente as afirmativas I e III estiverem corretas.",
+        "c": "se somente as afirmativas I e IV estiverem corretas.",
+        "d": "se somente as afirmativas I, II e IV estiverem corretas.",
+        "e": "se todas as afirmativas estiverem corretas."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa correta: letra E. A questão transcreve os parágrafos do artigo 80 da LDB:\nArt. 80. O Poder Público incentivará o desenvolvimento e a veiculação de programas\nde ensino a distância, em todos os níveis e modalidades de ensino, e de educação\ncontinuada.\n§ 1º A educação a distância, organizada com abertura e regime especiais, será oferecida\npor instituições especificamente credenciadas pela União.\n§ 2º A União regulamentará os requisitos para a realização de exames e registro de\ndiploma relativos a cursos de educação a distância.\n§ 3º As normas para produção, controle e avaliação de programas de educação a\ndistância e a autorização para sua implementação, caberão aos respectivos sistemas de\nensino, podendo haver cooperação e integração entre os diferentes sistemas.\n§ 4º A educação a distância gozará de tratamento diferenciado, que incluirá:\nI - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de\nsons e imagens e em outros meios de comunicação que sejam explorados mediante\nautorização, concessão ou permissão do poder público;\nII - concessão de canais com finalidades exclusivamente educativas;\nIII - reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessionários\nde canais comerciais.\nI está correta, pois concorda com o §1º:\nII está correta, pois concorda com o §3º:\nIII está correta, pois, embora incompleta, concorda com o §4º:\nIV está correta, pois concorda com o §4º:\nPortanto, todas as afirmativas estão corretas."
+    },
+    {
+      "id": "a17_003",
+      "numero": 3,
+      "banca": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE\nINTELIGÊNCIA ÁREA 4 (ABIN) 2018",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE INTELIGÊNCIA ÁREA 4 (ABIN) 2018 - A EaD é considerada um modelo pedagógico. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa incorreta. A educação a distância é uma modalidade de educação. Nos termos do\nDecreto nº 9.057/2017:\nArt. 1º Para os fins deste Decreto, considera-se educação a distância a modalidade\neducacional na qual a mediação didático-pedagógica nos processos de ensino e\naprendizagem ocorra com a utilização de meios e tecnologias de informação e\ncomunicação, com pessoal qualificado, com políticas de acesso, com acompanhamento\ne avaliação compatíveis, entre outros, e desenvolva atividades educativas por\nestudantes e profissionais da educação que estejam em lugares e tempos diversos."
+    },
+    {
+      "id": "a17_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE INTELIGÊNCIA ÀREA 4 (ABIN) 2018 A EaD é considerada uma modalidade básica de ensino. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa incorreta. A educação a distância é uma modalidade de educação, mas o termo\n“básico” foi inserido e tornou o conceito equivocado. Retome a definição dada no Decreto nº\n9.057/2017:\nArt. 1º Para os fins deste Decreto, considera-se educação a distância a modalidade\neducacional na qual a mediação didático-pedagógica nos processos de ensino e\naprendizagem ocorra com a utilização de meios e tecnologias de informação e\ncomunicação, com pessoal qualificado, com políticas de acesso, com acompanhamento\ne avaliação compatíveis, entre outros, e desenvolva atividades educativas por\nestudantes e profissionais da educação que estejam em lugares e tempos diversos."
+    },
+    {
+      "id": "a17_005",
+      "numero": 5,
+      "banca": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE\nINTELIGÊNCIA ÀREA 4 (ABIN) 2018",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE INTELIGÊNCIA ÀREA 4 (ABIN) 2018 - A conjuntura econômica , política tecnológica favoreceu a implementação da educação a distância (EaD), que passou a ocupar posição instrumental estratégica para satisfazer amplas e diversificadas necessidades de qualificação das pessoas adultas, para a contenção de gastos nas áreas de serviços educacionais e, no âmbito ideológico, para traduzir a crença de que o conhecimento está disponível a quem quiser. Considerando o assunto abordado nesse texto, julgue os próximos itens, relativos à educação a distância (EaD) e às tecnologias da educação A prática da EaD tem sido concretamente uma prática educativa, ou seja, de interação pedagógica, cujos objetivos, conteúdos e resultados se identificam com aqueles que constituem, nos diversos tempos e espaços, a educação como projeto e processo humanos, histórica e politicamente definidos na cultura das diferentes sociedades Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa certa. Novamente, com a definição dada no artigo 1º do Decreto 9.057/2017 é possível\nsolucionar essa questão."
+    },
+    {
+      "id": "a17_006",
+      "numero": 6,
+      "banca": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE\nINTELIGÊNCIA ÀREA 4 (ABIN) 2018",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA BRASILEIRA DE INTELIGÊNCIA OFICIAL TÉCNICO DE INTELIGÊNCIA ÀREA 4 (ABIN) 2018 - A educação em espaços não escolares vem confirmar um novo espaço de atuação do pedagogo, com uma visão redefinida de atuação desse profissional. A respeito desse assunto, julgue o item a seguir. As atividades pedagógicas realizadas por meio da educação a distância, especialmente pela Internet, são consideradas por diferentes autores uma nova relação pedagógica, em que professor e aluno tornam-se participantes de um jogo discursivo que não reconhece a autoridade ou os privilégios de monopólio da fala presentes, com frequência, nas relações de ensino-aprendizagem tradicionais, o que propicia relações comunicativas e interpessoais mais simétricas. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa certa. A Ead está repleta de troca, flexibilidade e diálogo. A ideia remonta uma nova\nrelação dialógica entre os sujeitos do processo de aprendizagem."
+    },
+    {
+      "id": "a17_007",
+      "numero": 7,
+      "banca": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL\nTÉCNICO 1",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL TÉCNICO 1 - ÁREA 11 (IPHAN) 2018 Suponha que o IPHAN adote a plataforma moodle como ferramenta para a realização de um treinamento para seus funcionários lotados em diversas regiões do país. Considere que o curso a ser ministrado tenha sido estruturado em módulos subsequentes com prazos determinados para execução de tarefas e avaliações dentro do horário de trabalho. Os participantes que obtiverem desempenho exitoso ao final do curso terão algum tipo de benefício na carreira profissional. A respeito dessa situação hipotética, julgue o item que se segue. Esse tipo de curso online é caracterizado como assíncrono. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa errada. A ideia da assincronia refere-se à liberdade de acesso em qualquer tempo. No\nentanto, o enunciado descreve um tipo de curso online que deve ser realizado dentro do horário\nde trabalho. Podemos considerar esse aspecto como uma determinação do tempo o que pode\nferir o conceito de curso assíncrono."
+    },
+    {
+      "id": "a17_008",
+      "numero": 8,
+      "banca": "CESPE (CEBRASPE) SEED",
+      "tipo": "multipla",
+      "enunciado": "CESPE (CEBRASPE) SEED-PR PROFESSOR-PEDAGOGO 2021 Dois alunos de uma turma de ensino fundamental de uma escola não estão participando das aulas e das atividades remotas durante a pandemia da covid-19. Com referência a essa situação hipotética, assinale a opção correta, considerando as disposições da LDB.",
+      "alternativas": {
+        "a": "A escola deve disponibilizar a vaga dos referidos alunos para outros que estejam mais interessados em estudar e em participar das atividades.",
+        "b": "O professor deve continuar exercendo suas funções normalmente, sem comunicar a ausência dos alunos à coordenação: o importante é que eles voltem a participar das aulas quando estas forem ministradas presencialmente.",
+        "c": "O professor deve comunicar esse fato à equipe gestora e à coordenação para que, juntos, busquem alternativas para a participação dos alunos nas aulas e nas atividades.",
+        "d": "A escola deve aguardar que as famílias dos estudantes justifiquem a falta de participação nas atividades remotas, uma vez que a família é a única responsável pela frequência do aluno.",
+        "e": "A escola não deve preocupar-se com esses alunos, pois, em situação de pandemia, deve dar atenção apenas aos estudantes e familiares que estejam interessados nas atividades propostas."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C\nGosto dessa questão porque, além de ser super atual, traz muitas pontos interessantes. Vamos\nelencar alguns deles:\n▪ O poder público deve zelar, junto aos pais ou responsáveis, pela frequência à escola. (LDB,\nart. 5º, §1º, inciso III)\n▪ Os estabelecimentos têm a incumbência de informar pai e mãe, conviventes ou não com\nseus filhos, e, se for o caso, os responsáveis legais, sobre a frequência e rendimento dos\nalunos, bem como sobre a execução da proposta pedagógica da escola (LDB, art. 12, inciso\nVII).\n▪ A escola deve fazer controle de frequência e exigir frequência mínima (LDB, art. 24, inciso\nVI)\nAlém disso, a Lei 14.040/2020 indica que os sistemas de ensino que optarem por adotar atividades\npedagógicas não presenciais como parte do cumprimento da carga horária anual deverão\nassegurar em suas normas que os alunos e os professores tenham acesso aos meios necessários\npara a realização dessas atividades."
+    },
+    {
+      "id": "a17_009",
+      "numero": 9,
+      "banca": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL\nTÉCNICO 1",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL TÉCNICO 1 - ÁREA 11 (IPHAN) 2018 Com relação à educação a distância (Ead), julgue o item subsecutivo. A Ead requer um planejamento pedagógico detalhado e a criação de estratégias educacionais diversificadas que desloquem o professor proponente do curso (conteudista) de seu papel usual no processo educativo: ele pode, por exemplo, permitir que um tutor realize, em seu lugar, a mediação pedagógica com os alunos. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa certa. Lembre-se de que a Ead traz essa possiblidade da comunicação de mão dupla.\nE, ainda, da possibilidade de outros atores no processo, como no caso citado, de um tutor,"
+    },
+    {
+      "id": "a17_010",
+      "numero": 10,
+      "banca": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL\nTÉCNICO 1",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL TÉCNICO 1 - ÁREA 11 (IPHAN) 2018 Com relação à educação a distância (Ead), julgue o item subsecutivo. Na Ead, a escolha de ferramentas sincrônicas em vez de ferramentas assíncronas é aconselhável, porque a participação simultânea de professores e estudantes torna a aprendizagem mais eficiente. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa errada.\nA assertiva inverteu os conceitos para confundir você. A ideia da Ead é possibilidade de professor\ne alunos acessarem as plataformas e fazer uso das ferramentas quando for oportuno. O que torna\no uso de ferramentas assíncronas mais aconselhável. O que significa assíncrono? Aquilo que não\nacontece de forma simultânea.\nInclusive, retome o que o decreto 9.057/2017, afirma sobre Ead:\n“estudantes e profissionais da educação que estejam em lugares e tempos\ndiversos”."
+    },
+    {
+      "id": "a17_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "ADM&TEC PREFEITURA MUNICIPAL DE RIO LARGO (AL) PROFESSOR DE JOVENS E ADULTOS (PREF RIO LARGO/AL) 2019 – adaptada para fins pedagógicos - Leia as afirmativas a seguir: I. De acordo com a Lei 9.394/96, o ensino a distância (Ead) não pode ser utilizado no Ensino Fundamental. II. A Internet é uma tecnologia frequentemente utilizada na educação a distância. Marque a alternativa CORRETA:",
+      "alternativas": {
+        "a": "Nenhuma afirmativa está correta.",
+        "b": "Está correta a afirmativa II, apenas.",
+        "c": "B Está correta a afirmativa I, apenas.",
+        "d": "Todas as afirmativas estão corretas."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B.\nO item um está incorreto, pois o artigo 9º do Decreto 9.057/2017 prevê a possibilidade da oferta\nde ensino fundamental na modalidade a distância em situações emergenciais.\nO item II está correto."
+    },
+    {
+      "id": "a17_012",
+      "numero": 12,
+      "banca": "CEPS UFPA UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ (PA) TÉCNICO DE\nLABORATÓRIO",
+      "tipo": "multipla",
+      "enunciado": "CEPS UFPA UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ (PA) TÉCNICO DE LABORATÓRIO - ASSUNTOS EDUCACIONAIS (UNIFESSPA) 2018 Com relação às determinações contidas na LDB/1996 para à Educação a Distância na estrutura da educação nacional, é correto afirmar que",
+      "alternativas": {
+        "a": "a mediação didático-pedagógica e as atividades educativas são desenvolvidas em lugares ou tempos fixos.",
+        "b": "é um nível da educação superior.",
+        "c": "sua validação normativa está sempre atrelada à oferta conjugada com a educação presencial como critério de referência e qualidade.",
+        "d": "é adequada apenas aos cursos de pós-graduação.",
+        "e": "é uma modalidade da educação nacional."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa correta: LETRA E.\nConsiderando tudo o que falamos ao longo da nossa aula, não outra alternativa a ser assinalada\nsenão a letra E."
+    },
+    {
+      "id": "a17_013",
+      "numero": 13,
+      "banca": "IMA PREFEITURA MUNICIPAL DE BENEDITO LEITE (MA) PROFESSOR",
+      "tipo": "multipla",
+      "enunciado": "IMA PREFEITURA MUNICIPAL DE BENEDITO LEITE (MA) PROFESSOR - CIÊNCIAS (PREF DE BENEDITO LEITE/MA) 2018 De acordo com o Decreto nº 9.057 que regulamenta o art. 80 da Lei no 9.394/96, assinale (V) para as afirmativas verdadeiras e (F) para as falsas. ( ) Os ensinos fundamental e médio poderão ser oferecidos a distância para o cidadão que está impedido, por motivo de saúde, de acompanhar o ensino presencial. ( ) A educação a distância é uma modalidade exclusiva do ensino superior. ( ) Na educação a distância deverá estar previsto a obrigatoriedade de momentos presenciais para as avaliações dos estudantes. ( ) A modalidade de ensino, educação profissional técnica de nível médio, não poderá ser oferecida a distância. Assinale a sequência correta de cima para baixo.",
+      "alternativas": {
+        "a": "V- V- V- F.",
+        "b": "V- F- F- V.",
+        "c": "F- F- V- F.",
+        "d": "V-F- V- F."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C.\nVamos responder e corrigir uma a uma?\n( F ) Os ensinos fundamental e médio poderão ser oferecidos a distância para o cidadão que está\nimpedido, por motivo de saúde, de acompanhar o ensino presencial. – O artigo 9º do Decreto fala\ndo EF, e não do EM.\n( F ) A educação a distância é uma modalidade exclusiva do ensino superior.\n( V ) Na educação a distância deverá estar previsto a obrigatoriedade de momentos presenciais\npara as avaliações dos estudantes.\n( F) A modalidade de ensino, educação profissional técnica de nível médio, não poderá ser\noferecida a distância."
+    },
+    {
+      "id": "a17_014",
+      "numero": 14,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IOPLAN PREFEITURA MUNICIPAL DE ARVOREDO (SC) PROFESSOR NOS ANOS INICIAIS DO ENSINO FUNDAMENTAL (PREF ARVOREDO/SC) 2016 De acordo com a Lei de Bases e Diretrizes a educação a distância terá um tratamento diferenciado, que incluirá os seguintes itens, exceto:",
+      "alternativas": {
+        "a": "Custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de sons e imagens.",
+        "b": "Concessão de canais com finalidades exclusivamente educativas.",
+        "c": "Manipulação de material concreto como forma de maior estímulo de aprendizado e a sua fixação.",
+        "d": "Reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessionários de canais comerciais."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. A questão exige conhecimento do artigo 80 da LDB, especificamente\no § 4º:\nArt. 80. [...] § 4º A educação a distância gozará de tratamento diferenciado, que incluirá:\nI - custos de transmissão reduzidos em canais comerciais de radiodifusão sonora e de\nsons e imagens e em outros meios de comunicação que sejam explorados mediante\nautorização, concessão ou permissão do poder público;\nII - concessão de canais com finalidades exclusivamente educativas;\nIII - reserva de tempo mínimo, sem ônus para o Poder Público, pelos concessionários\nde canais comerciais.\nSomente a “manipulação de material concreto como forma de maior estímulo de aprendizado e\na sua fixação” não guarda relação com o que resta preconizado na LDB."
+    },
+    {
+      "id": "a17_015",
+      "numero": 15,
+      "banca": "CESPE (CEBRASPE) AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR ANALISTA\nADMINISTRATIVO",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR ANALISTA ADMINISTRATIVO - PEDAGOGIA - DESENVOLVIMENTO DE RECURSOS HUMANOS (ANS) 2005 Acerca das características e tecnologias da educação a distância, julgue o item seguinte. Na relação educativa a distância, o material didático assume um papel de maior flexibilidade na intervenção didática. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa errada. A flexibilidade tem relação com os tempos e os espaços. O material didático\nfigura como elemento balizador da aprendizagem."
+    },
+    {
+      "id": "a17_016",
+      "numero": 16,
+      "banca": "CESPE (CEBRASPE) AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR ANALISTA\nADMINISTRATIVO",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR ANALISTA ADMINISTRATIVO - PEDAGOGIA - DESENVOLVIMENTO DE RECURSOS HUMANOS (ANS) 2005 Acerca das características e tecnologias da educação a distância, julgue o item seguinte. Uma das características da educação a distância é a previsão de uma comunicação de mão-dupla. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alternativa correta. A essência da Ead tem relação com essa possibilidade da superação da\neducação bancária e a criação de um processo educativo mais dialógico. No qual o estudante tem\nvoz e constrói o conhecimento juntamente com o seu mediador ou facilitador."
+    },
+    {
+      "id": "a17_017",
+      "numero": 17,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CETREDE PM DE FRECHEIRINHA/CE PROFESSOR PEB I 2021 A pandemia ocasionou o ensino remoto e as relações entre família e escola se estreitaram porque a(as)(os)",
+      "alternativas": {
+        "a": "pais não sabiam ensinar as tarefas escolares",
+        "b": "alunos sentiam saudades do ambiente da sala de aula",
+        "c": "professores precisavam dos pais para darem aula.",
+        "d": "residência dos alunos virou sala de aula.",
+        "e": "atividades de Educação Física precisavam da presença dos pais para acontecerem."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D . A única alternativa que guarda relação com o que o enunciado\npropõe. Os laços entre escola e famílias foram estreitados em razão de as residências terem se\ntornado as salas de aula. Muito embora, os alunos estejam, sim, sentindo falta da escola, não foi\nisso que estreitou as relações. Atenção para o enunciado."
+    },
+    {
+      "id": "a17_018",
+      "numero": 18,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "DAS CIAAR CENTRO DE INSTRUÇÃO E ADAPTAÇÃO DA AERONÁUTICA PEDAGOGIA (CIAAR) 2017 De acordo com Kenski (2012), acerca da educação à distância, informe se é verdadeiro (V) ou falso (F) o que se afirma abaixo. A seguir, marque a opção com a sequência correta. ( ) Pode ser entendida como uma educação que limita o gerenciamento do tempo pelo aluno. ( ) Inverte o processo educacional, levando a aula até o espaço em que se encontram os alunos. ( ) Caracteriza-se pela possibilidade de deslocalização espaço-temporal. ( ) É refreada pelo uso das novas tecnologias digitais, sobretudo a Internet.",
+      "alternativas": {
+        "a": "V – F – F – V",
+        "b": "V – F – V – V",
+        "c": "F – V – V – F",
+        "d": "F – V – F – F."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C\nVamos responder e corrigir uma a uma?\n( F ) Pode ser entendida como uma educação que limita o gerenciamento do tempo pelo aluno.\n( V ) Inverte o processo educacional, levando a aula até o espaço em que se encontram os alunos.\n( V ) Caracteriza-se pela possibilidade de deslocalização espaço-temporal.\n( F ) É refreada pelo uso das novas tecnologias digitais, sobretudo a Internet"
+    },
+    {
+      "id": "a17_019",
+      "numero": 19,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEPS UFPA 2018 Com relação às determinações contidas na LDB/1996 para à Educação a Distância na estrutura da educação nacional, é correto afirmar que",
+      "alternativas": {
+        "a": "a mediação didático-pedagógica e as atividades educativas são desenvolvidas em lugares ou tempos fixos.",
+        "b": "é um nível da educação superior.",
+        "c": "sua validação normativa está sempre atrelada à oferta conjugada com a educação presencial como critério de referência e qualidade.",
+        "d": "é adequada apenas aos cursos de pós-graduação.",
+        "e": "é uma modalidade da educação nacional."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa correta: letra E. EAD é uma modalidade da educação, certo? Não tem para onde\ncorrer... Vamos retomar o que a LDB versa sobre EAD:\nArt. 80. O Poder Público incentivará o desenvolvimento e a veiculação de programas\nde EAD, em todos os níveis e modalidades de ensino, e de educação continuada.\n§ 1º A EAD, organizada com abertura e regime especiais, será oferecida por instituições\nespecificamente credenciadas pela União.\n§ 2º A União regulamentará os requisitos para a realização de exames e registro de\ndiploma relativos a cursos de EAD.\n§ 3º As normas para produção, controle e avaliação de programas de educação a\ndistância e a autorização para sua implementação, caberão aos respectivos sistemas de\nensino, podendo haver cooperação e integração entre os diferentes sistemas.\n§ 4º A EAD gozará de tratamento diferenciado [...]\nRESUMO\n❖ Os níveis da educação são: Educação Básica (EB) e Educação Superior (ES)\n❖ As etapas da Educação Básica são: Educação Infantil (EI) (abrange creche e pré-escola),\nEnsino Fundamental (EF) e Ensino Médio (EM).\n❖ As modalidades referem-se a um modo próprio de fazer educação nos níveis, etapas e,\ninclusive, articuladas com outras modalidades.\n➢ Educação Especial (EE)\n➢ Educação de Jovens e Adultos (EJA)\n➢ Educação do Campo (ECamp)\n➢ Educação Escolar Indígena (EEI)\n➢ Educação quilombola (EEQ)\n➢ Educação Profissional e Tecnológica (EPT)\n➢ Educação a Distância (EAD)\n➢ Educação Bilíngue de Surdos (EBS)\n❖ A Ead será organizada com abertura e regime especiais.\n❖ A Ead será oferecida por instituições especificamente credenciadas pela União.\n❖ A União regulamentará requisitos para a realização de exames e registro de diploma;\n❖ As normas para produção, controle e avaliação de programas de Ead e a autorização para\nsua implementação, caberão aos respectivos sistemas de ensino, podendo haver\ncooperação e integração entre os diferentes sistemas.\n❖ A Ead possui um tratamento diferenciado, o que inclui:\nNÍVEIS MODALIDADES\nArt. 1º Para os fins deste Decreto, considera-se educação a distância a modalidade\neducacional na qual a mediação didático-pedagógica nos processos de ensino e\naprendizagem ocorra com a utilização de meios e tecnologias de informação e\ncomunicação, com pessoal qualificado, com políticas de acesso, com acompanhamento\ne avaliação compatíveis, entre outros, e desenvolva atividades educativas por\nestudantes e profissionais da educação que estejam em lugares e tempos diversos.\nCUSTOS DE TRANSMISSÃO REDUZIDOS\n•em canais comerciais de radiodifusão sonora e de sons e imagens e em\noutros meios de comunicação que sejam explorados mediante autorização,\nconcessão ou permissão do poder público; (Redação dada pela Lei nº 12.603/2012)\nCONCESSÃO DE CANAIS\n• com finalidades exclusivamente educativas;\nRESERVA DE TEMPO MÍNIMO\n•sem ônus para o Poder Público, pelos concessionários de canais comerciais.\nATIVIDADES PRESENCIAS\nSEDE POLOS DE EAD AMBIENTE\nPROFISSIONAL\nMediação didáticopedagógica\nPessoal\nqualificado\nAvaliação\ncompatível\nPolíticas\nde acesso\nMeios e Tecnologias de\ninformação e Comunicação\nLugares e\nTempos diversos\nPOLO DE EAD: é a unidade descentralizada da IES, no País ou no exterior, para o\ndesenvolvimento de atividades presenciais relativas aos cursos ofertados na\nmodalidade a distância. E manterão infraestrutura física, tecnológica e de pessoal\nadequada aos projetos pedagógicos dos cursos ou de desenvolvimento da\ninstituição de ensino.\n❖ É competência do MEC:\n▪ credenciar e recredenciar instituições de ensino dos sistemas de ensino federal, estaduais\ne distrital para a oferta de educação superior na modalidade a distância; e\n▪ autorizar, reconhecer e renovar o reconhecimento de cursos superiores na modalidade a\ndistância de instituições de ensino integrantes do sistema federal de ensino, respeitadas\nas prerrogativas de autonomia.\nArt. 8º Compete às autoridades dos sistemas de ensino estaduais, municipais e distrital,\nno âmbito da unidade federativa, autorizar os cursos e o funcionamento de instituições\nde educação na modalidade a distância [...]\n❖ Educação Especial, EJA e Educação profissional técnica de nível médio (EPTNM);\n❖ No EM, considerando o que consta do §11 do art. 36 da LDB, que diz: Para efeito de\ncumprimento das exigências curriculares do EM, os sistemas de ensino poderão reconhecer\ncompetências e firmar convênios com instituições de educação a distância com notório\nreconhecimento [...].\n❖ E no EF, considerando o que consta do §4º do art. 32 da LDB. Leia: O ensino fundamental\nserá presencial, sendo o ensino a distância utilizado como complementação da\naprendizagem ou em situações emergenciais.\n❖ Guarde as palavras chaves, para as SITUAÇÕES EMERGENCIAIS para oferta de EF na\nmodalidade Ead:\n❖ Especialmente sobre os polos:\nMOTIVO DE SAÚDE EXTERIOR\n(qualquer motivo)\nLOCAL SEM REDE\nREGULAR\nTRANSFERÊNCIAS PARA REGIÕES DE DIFÍCIL\nACESSO (INCLUSIVE MISSÕES)\nPRIVAÇÃO DE\nLIBERDADE\n▪ A criação de polo é de competência da instituição de ensino credenciada\npara a oferta nesta modalidade.\n▪ A criação fica condicionada ao cumprimento dos parâmetros definidos pelo\nMEC, de acordo com os resultados de avaliação institucional.\n▪ As instituições de ensino deverão informar criação de polos de Ead e\nalterações de seus endereços ao MEC.\n▪ A extinção deverá ser informada ao MEC após o encerramento de todas as\natividades educacionais, assegurados os direitos dos estudantes\nmatriculados e da comunidade acadêmica.\n▪ ficam dispensadas da obrigatoriedade:\nEI\nmínimo de 200 dias de trabalho educacional e do cumprimento da carga\nhorária mínima anual de 800 horas.\nEF e EM\nmínimo de 200 dias de efetivo trabalho escolar, desde que cumprida a\ncarga horária mínima anual: 800 horas.\n❖ A reorganização do calendário escolar do ano letivo contará com a participação das\ncomunidades escolares para sua definição. E serão observadas diretrizes nacionais do CNE,\na BNCC e as normas dos respectivos sistemas de ensino.\n❖ O retorno das atividades escolares regulares, serão observadas as diretrizes das\nautoridades sanitárias e as regras estabelecidas pelo respectivo sistema de ensino.\n▪ Art. 6º O cumprimento da carga horária mínima prevista pode ser por meio de uma\nou mais das seguintes alternativas:\n▪ I - reposição da carga horária de modo presencial ao final do período de emergência;\n▪ II - cômputo da carga horária de atividades pedagógicas não presenciais, realizadas\nenquanto persistirem restrições sanitárias para presença de estudantes nos ambientes\nescolares, coordenado com o calendário escolar de aulas presenciais; e\n▪ III - cômputo da carga horária de atividades pedagógicas não presenciais (mediadas\nou não por tecnologias digitais de informação e comunicação), realizadas de modo\nconcomitante com o período das aulas presenciais, quando do retorno às atividades.\n❖ A reorganização escolar deverá:\n▪ assegurar formas de alcance por todos os estudantes das competências e\nobjetivos de aprendizagem relacionados com a BNCC;\n▪ possibilitar retorno gradual das atividades com presença física, seguindo\norientações das autoridades sanitárias locais;\n▪ prever períodos de intervalos para recuperação física e mental;\n▪ prever direito de guarda dos dias em que, segundo os preceitos da religião\ndo estudante, sejam vedadas atividades;\n▪ organizar registro detalhado das atividades não presenciais desenvolvidas\nem cada instituição escolar\n▪ organizar, durante o período de isolamento e quando estabelecido o\nretorno de atividades presenciais, processo próprio de avaliação formativa\nou diagnóstica dos estudantes.\nALGUNS CONCEITOS:\n❖ Assíncrona: de forma não simultânea, em tempos diversos.\n❖ AVA: ambiente virtual de aprendizagem que possibilita integração de linguagens, mídias e\npropostas mediadas pelas TICs.\n❖ Tecnologias de informação e comunicação: recursos e ferramentas tecnológicas que\npossibilitam a automação dos processos: rádio, streaming, TV, TV a cabo, e-mail, fotografia,\nwi-fi, bluetooth, computador, celular, tablet, entre outros representam ferramentas e\nconectados, permitem comunicação mais facilitada. Sobretudo, no que se refere ao uso da\ninternet.\n❖ Tutor: indivíduo que atua como facilitador no processo da Ead e contribui para o processo\nde aprendizagem."
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "esquema": 1,
+  "id": "aula-21-historico-cultural-fracasso",
+  "aula": "21",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 21",
+  "subtitulo": "Psicologia Histórico-Cultural e Fracasso Escolar",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 21",
+  "itensEdital": [
+    12,
+    13
+  ],
+  "tagsEdital": [
+    {
+      "n": 12,
+      "titulo": "Didática e prática histórico-cultural"
+    },
+    {
+      "n": 13,
+      "titulo": "Didática na formação do professor"
+    }
+  ],
+  "resumoMd": "### A. Psicologia Histórico-Cultural (Vygotsky, Luria, Leontiev)\n- **Papel Humanizador da Escola:** A escola tem a função de transmitir os conhecimentos científicos acumulados pela humanidade, promovendo o desenvolvimento das Funções Psíquicas Superiores.\n- **Mediação Pedagógica:** O aprendizado impulsiona o desenvolvimento. O professor atua como mediador entre o sujeito e a cultura.\n- **Zona de Desenvolvimento Proximal (ZDP):** Distância entre o nível de desenvolvimento real (o que a criança faz sozinha) e o nível potencial (o que faz com ajuda).\n\n### B. Análise Crítica do Fracasso Escolar\n- **Superação da Visão Culpabilizadora:** O fracasso escolar (repetência, evasão, defasagem idade-série) não deve ser visto como um problema individual, biológico ou psicológico do aluno ou da sua família (\"teoria da carência cultural\").\n- **Determinação Social e Institucional:** O fracasso escolar é produzido no interior do próprio sistema educativo e pelas contradições da sociedade de classes.\n- **Prática Emancipatória:** O combate ao fracasso escolar exige a democratização do acesso ao saber elaborado e a valorização do direito de aprender de todos os estudantes.\n\n---",
+  "total": 25,
+  "questoes": [
+    {
+      "id": "a21_001",
+      "numero": 1,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Analise as assertivas e assinale a alternativa que aponta as corretas. As últimas décadas têm sinalizado que o fracasso escolar se materializa cada vez mais. Percebe-se que, ao longo da produção histórica da sociedade, ele vem sendo cada vez mais discutido pela área da Psicopedagogia. É sabido que esse problema decorre da má condução do processo de ensino e pode levar à indisciplina. Logo, é o psicopedagogo que tem o papel de auxiliar na identificação do processo de dificuldades de aprendizagem. Referente a esse assunto, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). O fracasso escolar deve ser considerado: I. um sintoma, um sinal de descompensação, em que o diagnóstico é composto pelo seu significado. II. uma realidade social, em que há situações de fracassos, histórias escolares que não têm um fim agradável e que precisam ser analisadas individualmente. III. um posicionamento de êxito por parte do aluno que se encontra nessa situação, principalmente ao avaliar suas notas e indicadores de sucesso. IV. causa e consequência, tendo em vista que é algo objetivamente detectável.",
+      "alternativas": {
+        "a": "Apenas II e IV.",
+        "b": "Apenas I e III.",
+        "c": "Apenas I e II.",
+        "d": "Apenas I, III e IV."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O diagnóstico é acompanhado de significados que repercutem na subjetividade do\nsujeito.\nAfirmativa II está correta. O fracasso escolar é um sintoma social que necessita ser analisado a partir das\nhistórias de vida.\nAula Extra I\nAfirmativa III está incorreta. O combate ao fracasso escolar não deve ter como foco as notas escolares.\nAfirmativa IV está incorreta. O fracasso escolar não é um fenômeno objetivo, pelo contrário, ele é subjetivo.\nAlternativa correta letra C."
+    },
+    {
+      "id": "a21_002",
+      "numero": 2,
+      "banca": "FCM",
+      "tipo": "multipla",
+      "enunciado": "FCM - CEFETMINAS - Professor (Pref Guarani)/Ensino Fundamental/Anos Iniciais Educação Infantil/2019 - O fracasso escolar possui causas variadas que podem se relacionar a elementos econômicos, ideológicos ou pedagógicos. Cada um desses elementos apresenta uma lista de fatores que os possibilita. Analisando o fracasso escolar, da perspectiva pedagógica, pode-se dizer que um professor que busca sua superação",
+      "alternativas": {
+        "a": "diferencia o ensino de modo que cada estudante vivencie situações que o levem à aprendizagem com o uso de atividades complementares.",
+        "b": "ensina a todos os alunos da mesma maneira e ao mesmo tempo porque todos têm direito de apreender os conteúdos na mesma profundidade.",
+        "c": "sugere que a escola enturme os alunos de acordo com seus conhecimentos e com seu desenvolvimento, para favorecer a didática.",
+        "d": "defende a mudança do currículo da escola, para garantir que todos possam aprender, minimamente, o que está colocado neste documento."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A diferenciação pedagógica é uma boa estratégia para prevenção do fracasso\nescolar.\nA alternativa B está incorreta. O \"ensinar tudo a todos\" é uma fórmula para gerar o fracasso escolar.\nA alternativa C está incorreta. A discriminação por níveis de saberes é uma forma de estereotipar alunos,\nassim, consequentemente, gerar o fracasso escolar.\nA alternativa D está incorreta. A luta pelo fracasso escolar não tem relação direta com aplicação de currículos\nnormativos, mas, sobretudo, com as formas de vivências dos alunos em situações do processo de ensinoaprendizagem."
+    },
+    {
+      "id": "a21_003",
+      "numero": 3,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Supervisor Pedagógico (Pref Gramado)/2019 - A evasão e o abandono representam um processo muito complexo, dinâmico e ____________ de saída do estudante do espaço da vida escolar. Fatores intrínsecos e extrínsecos à escola, como drogas, sucessivas _____________, prostituição, falta de incentivo da família e da escola, necessidade de trabalhar, excesso de conteúdos escolar, alcoolismo, vandalismo, falta de formação de _____________ e preparo para o mundo do trabalho influenciam Aula Extra I diretamente nas atitudes dos alunos que se afastam da escola. A evasão e a repetência estão longe de ser problemas relacionados às características individuais dos alunos e de suas famílias. Segundo análise fundamentada em algumas entrevistas realizadas com docentes, as causas da evasão são: ____________ em sala de aula, bagunça, _______________ e violência com os professores e defasagem série/idade. (Silva filho; Araújo, 2017). Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+      "alternativas": {
+        "a": "cumulativo – reprovações – valores – brigas – desrespeito",
+        "b": "proporcional – faltas – atitudes – brigas – fracasso",
+        "c": "relacional – infrequências – conhecimentos – desinteresse – reprodução",
+        "d": "cumulativo – carências – cidadania – fracasso – desrespeito",
+        "e": "proporcional – reprovações – valores – fracasso – desinteresse"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A evasão e abandono são processos acumulativos. As reprovações são\nfenômenos intrínsecos e extrínsecos ao contexto escolar.\nA alternativa B está incorreta. O uso do termo \"proporcional” está inadequado.\nA alternativa C está incorreta. O uso do termo \"relacional” está inadequado.\nA alternativa D está incorreta. O uso do termo \"carências” está inadequado.\nA alternativa E está incorreta. O uso do termo \"proporcional” está inadequado."
+    },
+    {
+      "id": "a21_004",
+      "numero": 4,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref Itapevi)/PEB II/Educação Física/2019 - Na primeira reunião do ano letivo, a professora do 1o ano EF relatou para a professora do 2º ano EF quem eram os alunos que já sabiam ler e quem eram os “alunos-problema”, com os quais ela precisava ser mais rígida. Diante de situações como essa, Libâneo (2013) afirma que “são muitos os procedimentos didáticos que acabam discriminando socialmente as crianças. Por exemplo, já no início do ano letivo o professor costuma ‘prever’ quais os alunos que serão reprovados”. Para ele, geralmente essa previsão acaba se concretizando, pois os reprovados no final do ano são geralmente aqueles “marcados” pelo professor. Libâneo (Didática, 2013) afirma que é preciso enfrentar e derrotar o fracasso escolar se se quer uma escola pública democrática. Para isso, o autor entende que é necessário",
+      "alternativas": {
+        "a": "compreender que as deficiências e dificuldades dos alunos são naturais. Aula Extra I",
+        "b": "saber que a escola não é um meio insubstituível das lutas democráticas.",
+        "c": "rever a concepção de qualidade de ensino.",
+        "d": "adaptar o conhecimento do aluno aos saberes socialmente significativos.",
+        "e": "perceber o sucesso escolar como conquista de alguns alunos."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. As dificuldades dos alunos são construídas socialmente.\nA alternativa B está incorreta. Esta descrição da alternativa não tem relação direta com o fracasso escolar.\nA alternativa C está correta. A qualidade de ensino deve ser revista, pois é importante que o alunos\naprendam os conteúdos necessários para o exercício de sua cidadania.\nA alternativa D está incorreta. O autor não trabalha nesta vertente de adaptação dos conhecimentos à\nrealidade social, mas, sobretudo, ele aborda o vínculo com a sociedade.\nA alternativa E está incorreta. Totalmente fora na perspectiva do autor, bem como está longe do conceito\nde sucesso escolar inclusivo."
+    },
+    {
+      "id": "a21_005",
+      "numero": 5,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Tapejara)/Pedagogia Anos Iniciais/2019 - De acordo com Patto, a complexidade do fracasso escolar decorre das dimensões:",
+      "alternativas": {
+        "a": "Políticas e pedagógicas.",
+        "b": "Sociais e culturais.",
+        "c": "Pedagógicas e sociológicas.",
+        "d": "Econômicas e políticas.",
+        "e": "Tecnológicas e instrucionais."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Segundo a autora, são questões políticas e pedagógicas.\nA alternativa B está incorreta. A teoria da carência cultural é totalmente inadequada para pensar o fracasso\nescolar.\nA alternativa C está incorreta. As questões sociológicas não fazem parte do consenso de autores sobre o\ntema fracasso escolar, porém há autores que colocam ênfase nestes aspectos. Como cita Patto, a autora\ncoloca as questões políticas e pedagógicas.\nAula Extra I\nA alternativa D está incorreta. O termo \"econômico\" não está apropriadamente colocado.\nA alternativa E está incorreta. O fracasso escolar não tem relação com o uso da tecnologia em sala de aula."
+    },
+    {
+      "id": "a21_006",
+      "numero": 6,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Orientador Educacional (Pref Salto do Jacuí)/2019 - Muitas outras razões, além do próprio aluno, podem conduzir ao fracasso escolar, como: I. As políticas públicas que investem pouco no professor e no ensino. II. Os baixos salários. III. Os problemas de infraestrutura na instituição de ensino. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Exatamente. A desvalorização do professor ajuda no fracasso escolar.\nAfirmativa II está correta. A desvalorização salarial favorece o surgimento do fracasso escolar.\nAfirmativa III está correta. Os problemas estruturais favorecem ao surgimento do fracasso escolar.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a21_007",
+      "numero": 7,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Salto do Jacuí)/Especialista em Psicopedagogia/2019 - No livro “Os idiomas do aprendente” (2001), Alicia Fernández fala sobre a intervenção psicopedagógica clínica, em que o fracasso escolar ou o problema de aprendizagem deve ser sempre um enigma a ser decifrado, afirmando que:",
+      "alternativas": {
+        "a": "Quando o “não sei” aparece como principal resposta, podemos perguntar-nos o que é que não está permitido saber.",
+        "b": "O “não sei” é um sintoma da dificuldade de aprendizagem. Aula Extra I",
+        "c": "Ao ter sempre a resposta “não sei”, o aluno demonstra falta de vontade, do desejo de aprender.",
+        "d": "Sendo a evidência de resposta o “não sei”, serão necessárias outras intervenções, como, por exemplo, a de um psicólogo.",
+        "e": "O “não sei” sempre traz a necessidade da averiguação do que está sendo ensinado."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O \"não sei\" é nesta categoria de análise do fracasso escolar entre os\nconhecimentos permitidos e aqueles que não são permitidos dentro da escola.\nA alternativa B está incorreta. O sintoma na visão da autora não tem a ver com o termo \"não sei\".\nA alternativa C está incorreta. A autora não individualiza o sintoma do fracasso escolar.\nA alternativa D está incorreta. A autora trabalha na perspectiva de pensar a instituição escolar como um\ntodo.\nA alternativa E está incorreta. Esta é uma visão reducionista da proposta da autora."
+    },
+    {
+      "id": "a21_008",
+      "numero": 8,
+      "banca": "CONSULPAM",
+      "tipo": "multipla",
+      "enunciado": "CONSULPAM - Professor (Pref Quadra)/Educação Infantil/2019 - EVASÃO ESCOLAR Alguma dúvida acerca do trabalho em grupo sobre o sistema respiratório? -Sim, Professora... O que é trabalho em grupo? O conhecimento, valores, habilidades e a questão da cidadania quando não internalizada pelo aluno, geram muitas vezes, notas baixas, reprovação, e em alguns casos ao abandono da escola. Assim, o fracasso escolar pode ser compreendido como a consequência para uma não apropriação do aprendizado. Sobre o tema comentado, o que NÃO diz respeito está inserido na alternativa:",
+      "alternativas": {
+        "a": "A falta de conhecimento didático do corpo docente está na raiz do fracasso escolar. Aula Extra I",
+        "b": "As principais causas do fracasso escolar são oriundas, em sua maior parte, dos sistemas de ensino que não conseguem atender as diversas necessidades presentes nas escolas.",
+        "c": "É importante observar que as dificuldades não tornam a escola frágil, pois o sucesso dependerá do aluno, e ele é o mediador desse aprendizado.",
+        "d": "O fracasso escolar também pode ocorrer dependendo do contexto familiar, cultural, social e político que o indivíduo está inserido"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A falta de conhecimento didático do corpo docente leva em situações de baixo\naproveitamento no processo de ensino-aprendizagem.\nA alternativa B está incorreta. Exatamente. Os sistemas de ensino não estão preparados para atender a\ndiversidade de situações difíceis no processo de ensino-aprendizagem dentro da escola.\nA alternativa C está correta. A principal característica do fracasso escolar é de que não é um problema\nindividual, mas, sobretudo, social.\nA alternativa D está incorreta. Exatamente. Vários contextos podem concorrer para gerar o fracasso escolar."
+    },
+    {
+      "id": "a21_009",
+      "numero": 9,
+      "banca": "SMA",
+      "tipo": "multipla",
+      "enunciado": "SMA-RJ (antiga FJG) - Professor (Pref RJ)/Ensino Fundamental/Língua Portuguesa/2019 - Deficiência Intelectual (AEE)/2018 - Com o acúmulo de fracassos acadêmicos ao longo dos anos, crianças e adolescentes que se encontram em defasagem idade-ano de escolaridade, tornam-se desinteressados do processo ensino/aprendizagem. O saber que não sabem é uma dura aprendizagem de uma falsa verdade, que serve para ocultar que o conjunto teórico-prático denominado ignorância muitas vezes não é outra coisa além de conhecimentos construídos a partir de experiências (...) tradições históricas e vivências culturais diferentes dos valorizados pelo pensamento hegemônico. Estebán, Maria Teresa. In: O que sabe quem erra? Rio de Janeiro, DP et Alii., 2013 Uma das soluções para reestabelecer a confiança e o interesse dos alunos faz parte do conjunto de princípios da Educação Nacional, preconizada na Lei de Diretrizes e Bases da Educação Nacional. Trata-se:",
+      "alternativas": {
+        "a": "da valorização da experiência extraescolar",
+        "b": "da gratuidade do ensino público em estabelecimentos oficiais",
+        "c": "do particularismo de ideias e de concepções pedagógicas",
+        "d": "da desvalorização de experiências divergentes da norma padrão Aula Extra I"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A experiência de vida fora da escola é prevista como eixo educacional de acordo\ncom a LDB.\nA alternativa B está incorreta. Não tem relação com o interesse do aluno.\nA alternativa C está incorreta. Não é usado o termo particularismo, mas pluralismo.\nA alternativa D está incorreta. A padronização de experiências educativas não é um eixo educacional da LDB."
+    },
+    {
+      "id": "a21_010",
+      "numero": 10,
+      "banca": "IBADE",
+      "tipo": "multipla",
+      "enunciado": "IBADE - Psicopedagogo (Pref Jaru)/2019 - Segundo a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), o fracasso escolar penaliza uma criança por toda sua vida, uma vez que ela deixa de estar em nível de igualdade com as demais, acarretando, futuramente, empregabilidade em ocupações com salários mais baixos e, consequente aposentadoria inferior. Neste sentido: I. As consequências do fracasso escolar também são relevantes para a sociedade PORQUE II. O fracasso escolar pode ocasionar o aumento da criminalidade e a necessidade de gastos adicionais de saúde e de assistência social. Logo:",
+      "alternativas": {
+        "a": "I e II são verdadeiras e II explica I.",
+        "b": "I e II são verdadeiras, mas II NÃO explica I.",
+        "c": "somente I é verdadeira.",
+        "d": "somente II é verdadeira.",
+        "e": "I e II são falsas."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O fracasso escolar acarreta insuficiência de desenvolvimento humano e econômico\nna sociedade.\nAfirmativa II está correta. O fracasso escolar gera problemas sociais sérios que podem levar a criminalização.\nAlternativa correta letra A.\nAula Extra I"
+    },
+    {
+      "id": "a21_011",
+      "numero": 11,
+      "banca": "IBADE",
+      "tipo": "multipla",
+      "enunciado": "IBADE - Psicopedagogo (Pref Jaru)/2019 - A expressão fracasso escolar tem sido utilizada para se referir a uma série de fenômenos educacionais, como:",
+      "alternativas": {
+        "a": "reprovação / baixo rendimento / origem social / dificuldades de aprendizagem.",
+        "b": "reprovação / origem social / distorção idade-série/ano / dificuldades de aprendizagem.",
+        "c": "origem social / baixo rendimento / distorção idade-série/ano / dificuldades de aprendizagem.",
+        "d": "reprovação / baixo rendimento / distorção idade-série/ano / dificuldades de aprendizagem.",
+        "e": "reprovação / baixo rendimento / distorção idade-série/ano / origem social."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. O uso do termo \"origem social\" é inadequado.\nA alternativa B está incorreta. O uso do termo \"origem social\" é inadequado.\nA alternativa C está incorreta. O uso do termo \"origem social\" é inadequado.\nA alternativa D está correta. Todos os termos estão corretos, pois não é utilizado a expressão \"origem\nsocial\".\nA alternativa E está incorreta. O uso do termo \"origem social\" é inadequado."
+    },
+    {
+      "id": "a21_012",
+      "numero": 12,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Água Santa)/Pedagogia/2019 - O erro e o fracasso escolar geralmente são ligados à reprovação do aluno, mas o erro faz parte do aprendizado e possibilita uma melhor oportunidade de crescimento diante das situações no cotidiano escolar. É ideal que o professor não tenha a visão do erro como indício do fracasso, mas, sim, uma postura comprometida com a concepção do erro construtivo, o que significa encarar o conhecimento produzido pelo educando em processo de construção. Nesse sentido, faz parte da tarefa docente não apenas ensinar conteúdos, mas: I. Ensinar a refletir. II. Compreender a realidade. III. Participar das suas mudanças. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III. Aula Extra I",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O ensino da reflexão é importante para prevenir o fracasso escolar, pois faz parte\nda aprendizagem significativa.\nAfirmativa II está correta. A compreensão da realidade é uma aprendizagem profunda que atua como\nmotivadora dos estudos na escola.\nAfirmativa III está correta. A mudança é uma qualidade para se ter uma escola de boa qualidade.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a21_013",
+      "numero": 13,
+      "banca": "IBADE",
+      "tipo": "multipla",
+      "enunciado": "IBADE - Professor (Pref Vila Velha)/Coordenador/2020 - “Conforme Mantoan, uma escola de qualidade desenvolve um projeto pedagógico centrado no aluno como estratégia de permanência e sucesso na escola assegurando aprendizagem a todos os alunos. Este deve ser o objetivo primordial de uma instituição escolar: garantir a aprendizagem a todos os alunos. Entretanto, sabe-se que este é um direito que não vem sendo garantido. A escola tem se tornado, cada vez mais, produtora do fracasso escolar e pior, atribuindo aos próprios alunos a culpa pelo seu fracasso. Ceccon explica que “na verdade, a escola produz muito mais fracassos do que sucessos, trata alguns alunos melhor do que outros, e convence os que fracassam de que fracassam, porque são inferiores”. (www.imprensaoficial.com.br ) Não se pode atribuir a culpa do fracasso escolar ao aluno ou às condições adversas que porventura ele enfrente. É preciso ter em mente que os alunos são diferentes, que não se pode esperar o mesmo desempenho de todos os alunos, nem tampouco que se interessem pelas mesmas coisas ou que aprendam no mesmo ritmo.” (www.imprensaoficial.com.br ) Quando for superado o desejo de uniformidade, reconhecendo não só a existência, mas o valor da diversidade, será possível garantir:",
+      "alternativas": {
+        "a": "um sistema classificatório.",
+        "b": "um ensino de qualidade.",
+        "c": "uma escola bem estruturada.",
+        "d": "uma gestão fundamentada.",
+        "e": "uma educação para todos. Aula Extra I"
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O sistema classificatório é contrário ao valor da diversidade.\nA alternativa B está incorreta. O ensino de qualidade não significa necessariamente para todos. Para\nA alternativa C está incorreta. Uma escola bem estruturada pode ser excludente.\nA alternativa D está incorreta. O valor da diversidade não tem relação direta com uma gestão fundamentada.\nA alternativa E está correta. O valor da diversidade tema relação direta com a educação para todos."
+    },
+    {
+      "id": "a21_014",
+      "numero": 14,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Pinheiro Preto)/Creche/2019 - A criança não pode se sentir integrada a uma escola que lhe proporciona uma situação constante de prova, de teste, onde a tensão se mantém e onde ela e sua família são pré-julgadas e responsabilizadas pelo fracasso. Em contraponto a essas características, estamos pensando em uma avaliação que deve levar em conta aspectos do:",
+      "alternativas": {
+        "a": "Processo educacional.",
+        "b": "Desenvolvimento infantil.",
+        "c": "Planejamento pedagógico.",
+        "d": "Processo do desenvolvimento intelectual da criança.",
+        "e": "Alinhamento com os documentos escolares."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A avaliação formativa deve constar de modo importante o processo\neducacional.\nA alternativa B está incorreta. A avaliação de forma completa não envolve apenas o desenvolvimento infanil.\nA alternativa C está incorreta. O planejamento pedagógico é mais amplo que o processo de avaliação. A\nquestão pede de maneira específica o processo avaliativo.\nA alternativa D está incorreta. O processo de desenvolvimento intelectual da criança não é alvo da avaliação\ncomo um todo. Este desenvolvimento pode inclusive ser alvo de investigação médica e psicológica.\nA alternativa E está incorreta. Esta alternativa descreve a burocratização da escola e não necessariamente a\nimportância do processo avaliativo."
+    },
+    {
+      "id": "a21_015",
+      "numero": 15,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Pedagogo (Pref Tramandaí)/Orientador Educacional/2021 - Entende-se por fracasso escolar o fato de o aluno não completar o grau acadêmico mínimo para o sistema educacional do qual se Aula Extra I faz parte. É um fenômeno que ocorre em um nível muito alto em vários países. Nesse sentido, assinale a alternativa INCORRETA quanto aos aspectos mais importantes em relação ao fracasso escolar.",
+      "alternativas": {
+        "a": "Falta de motivação ou desinteresse por parte do aluno.",
+        "b": "Problemas de aprendizagem.",
+        "c": "Altos índices de aprovação e consequentemente a falta de interesse em estudar.",
+        "d": "Problemas de visão."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. A desmotivação e o desinteresse são reflexos do fracasso escolar\nA alternativa B está correta. Algum problema de aprendizagem pode gerar o fracasso escolar. Por exemplo\na dislexia.\nA alternativa C está incorreta. Pelo contrário, o fracasso escolar tem relação com a reprovação escolar e não\naprovação.\nA alternativa D está correta. Pode ser. Problemas de visão pode gerar desinteresse pela escola. Por fim,\nconsequentemente, esta situação pode gerar o fracasso escolar."
+    },
+    {
+      "id": "a21_016",
+      "numero": 16,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Panambi)/Área II/Artes/2021 - Para Vasconcellos, o papel da escola, a função real e oculta que lhe é determinada, é precisamente a de partir dos fracassos escolares dos desfavorecidos, mergulhá-los na humilhação para que não renunciem a uma atitude de submissão. A avaliação contribui para reproduzir e perpetuar este processo, separando os aptos dos inaptos. Para uma melhor compreensão do problema é necessário considerarmos um contexto mais amplo, marcado por contradições sociais. Nesse sentido, assinale a alternativa que NÃO corresponde a uma dessas contradições sociais:",
+      "alternativas": {
+        "a": "Mudança no quadro de valores da sociedade (excesso de liberdade, afrouxamento da autoridade de pais e educadores).",
+        "b": "Diminuição da motivação pelo estudo, escola deixa de ser vista como local de ascensão social.",
+        "c": "Adequação curricular.",
+        "d": "Não alteração de metodologias de trabalho em sala de aula.",
+        "e": "Situação do professor: má formação, baixa remuneração, carga excessiva de trabalho. Aula Extra I"
+      },
+      "gabarito": "C",
+      "comentario": "A questão pede a negativa\nA alternativa A está incorreta. Os valores da sociedade demonstram contradições sociais em disputa.\nA alternativa B está incorreta. A visão sobre a escola pode variar de acordo com as concepções sociais\nvigentes.\nA alternativa C está correta. A adequação curricular é uma possibilidade de pensar o currículo adaptado\npara alunos. Este conceito não revela uma contradição social.\nA alternativa D está incorreta. A não alteração de metodologia em sala de aula revela uma contradição social,\npois a escolha do trabalho pedagógico imutável revela pouca sensibilidade social.\nA alternativa E está incorreta. A formação dos professores revela uma contradição social, pois os valores\ndesta profissão são disputados no campo das políticas públicas."
+    },
+    {
+      "id": "a21_017",
+      "numero": 17,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Profissional do Magistério (Pref Três Palmeiras)/Orientador Pedagógico/2020 - Entende-se que não há somente um fator ou causa que justifique o fracasso escolar, mas sim a junção de diferentes fatores que acontecem nos diversos contextos. Nesse sentido, assinale a alternativa que NÃO corresponde a esses contextos.",
+      "alternativas": {
+        "a": "Social.",
+        "b": "Econômico.",
+        "c": "Físico.",
+        "d": "Político.",
+        "e": "Escolar."
+      },
+      "gabarito": "C",
+      "comentario": "A questão pede a negativa\nA alternativa A está incorreta. O contexto social faz parte da análise do fracasso escolar.\nA alternativa B está incorreta. O contexto econômico revela contradições que geram o fracasso escolar.\nA alternativa C está correta. O contexto físico não faz parte da análise do fracasso escolar pelo consenso de\nautores.\nAula Extra I\nA alternativa D está incorreta. O contexto político dos sistemas de ensino pode ser um elemento gerador do\nfracasso escolar.\nA alternativa E está incorreta. O contexto escolar, isto é, a forma como a escola trabalha os processos de\nensino-aprendizagem é determinante para análise do fracasso escolar."
+    },
+    {
+      "id": "a21_018",
+      "numero": 18,
+      "banca": "IBADE",
+      "tipo": "multipla",
+      "enunciado": "IBADE - Psicopedagogo (Pref S Luzia D'Oeste)/2020 - Patto (1999) traz em sua obra o conceito de fracasso escolar como produzido pelo dia a dia da rotina escolar, há diversos estereótipos e preconceitos que rodeiam as camadas mais pobres e que não partem apenas da instituição, mas também dos profissionais e da sociedade, que envoltos na teoria da carência cultural, não compreendem as particularidades culturais de seus alunos. (PATTO, M. H. S. A produção do fracasso escolar: historias de submissão e rebeldia. São Paulo: T. A. Queiroz, 1999). Observe as afirmativas: I - o fracasso escolar é associado às deficiências individuais de cada aluno, sejam elas físicas, que dizem respeito a inúmeras questões particulares de seu organismo e que de alguma maneira refletem em sua aprendizagem; II - o fracasso escolar pode ser tratado como se fosse problemas isoláveis; III - as razões para o fracasso escolar são poucas e estão isoladas umas das outras; IV - as dificuldades percebidas nos processos de escolarização não podem ser compreendidas de modo descolado das práticas e processos escolares que dificultam a aprendizagem. Agora, assinale a opção correta:",
+      "alternativas": {
+        "a": "apenas as afirmativas I e IV estão corretas.",
+        "b": "apenas as afirmativas II e III estão corretas.",
+        "c": "apenas as afirmativas III e IV estão corretas.",
+        "d": "apenas as afirmativas I, II e III estão corretas.",
+        "e": "apenas as afirmativas II, III e IV estão corretas."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Segundo a autora, o fracasso escolar é individualizado pelos sujeitos como sendo\numa deficiência ou problema deles.\nAfirmativa II está incorreta. O fracasso escolar é um sintoma social que pode ser prevenido, uma vez que a\ngerado pela instituição escolar.\nAula Extra I\nAfirmativa III está incorreta. O fracasso escolar possui muitas causas diversas e elas são interdependentes.\nAfirmativa IV está correta. Exatamente. O fracasso escolar é gerado dentro do contexto da escola. A\ninstituição deve analisar o problema de forma ampla e sistêmica.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a21_019",
+      "numero": 19,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Psicopedagogo (Pref Alpestre)/2020 - São causas de fracasso escolar, relacionadas às características individuais do aluno: I. Motivação do aluno. II. Envolvimento da criança no processo de aprendizagem. III. Autossuficiência da criança. IV. Classe social e origem da família. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas IV.",
+        "c": "Apenas II e III.",
+        "d": "Apenas II e IV.",
+        "e": "Apenas I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O fracasso escolar tem relação com a motivação.\nAfirmativa II está correta. O envolvimento da criança é determinante para o futuro dela na escola.\nAfirmativa III está correta. Esta característica tem relação com o sucesso ou fracasso escolar.\nAfirmativa IV está incorreta. Esta possibilidade revela preconceito social que não deve se utilizado como\nparâmetro para o fracasso escolar.\nAlternativa correta letra E.\nAula Extra I"
+    },
+    {
+      "id": "a21_020",
+      "numero": 20,
+      "banca": "MetroCapital",
+      "tipo": "multipla",
+      "enunciado": "MetroCapital - Professor (Pref Laranjal Paul)/Educação Básica I (Pré-Escola)/2019 - Segundo o entendimento de Mantoan, a escola no Brasil está profundamente marcada pela evasão escolar e pelo fracasso. Sobre tal fracasso, a autora afirma que: I – continua sendo do aluno, já que a escola resiste em admiti-lo como seu e lhe atribui má qualidades que são do próprio ensino por ela ministrado. II – gera crises familiares em razão da pouca cultura adquirida no ambiente escolar. III – é fruto da baixa capacidade dos docentes.",
+      "alternativas": {
+        "a": "Apenas o item I é verdadeiro.",
+        "b": "Apenas o item II é verdadeiro.",
+        "c": "Apenas o item III é verdadeiro.",
+        "d": "Apenas os itens I e III são verdadeiros.",
+        "e": "Apenas os itens II e III são verdadeiros."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O fracasso escolar é introjetado como um problema do sujeito e não se pensa no\ncontexto da escola.\nAfirmativa II está incorreta. A cultura adquirida na escola não é um elemento de conflito.\nAfirmativa III está incorreta. O fracasso escolar não pode ser responsabilidade apenas do docente. É o\ncontexto escolar.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a21_021",
+      "numero": 21,
+      "banca": "Instituto Consulplan",
+      "tipo": "multipla",
+      "enunciado": "Instituto Consulplan - Diretor de Escola (Pref Pitangueiras)/2019 - Cortella (2008) analisa o fracasso escolar, o qual prefere chamar de “pedagocídio” e o coloca como uma epidemia terrível sustentada pelos pilares da evasão e da repetência que precisa ser erradicada. Possui causas extraescolares relacionadas às precárias condições econômicas e sociais da população, como também a irresponsabilidade dos poderes públicos, dentre outros fatores. No entanto, o autor chama a atenção para as causas intraescolares, pois, sendo essas intencionais ou não, manifestam-se para o fracasso escolar. São elas, EXCETO:",
+      "alternativas": {
+        "a": "Uso não reflexivo e crítico dos livros didáticos.",
+        "b": "Culpabilização dos alunos pelo próprio fracasso. Aula Extra I",
+        "c": "Seleção de conteúdos excessivamente abstratos e sem interação.",
+        "d": "Difícil acesso às escolas, fome, trabalho infantil e ausência familiar."
+      },
+      "gabarito": "D",
+      "comentario": "A questão pede a alternativa excepcional.\nA alternativa A está incorreta. O uso pedagógico do livro didático faz parte do contexto escolar. Por\nconsequência, está ligado ao fracasso escolar.\nA alternativa B está incorreta. A individualização do fracasso na escola é um processo bastante conhecido\npor diferentes autores.\nA alternativa C está incorreta. A abordagem didática possui relação com o fracasso escolar, pois é neste\ncampo que se constrói o processo de ensino-aprendizagem.\nA alternativa D está correta. A descrição da alternativa mostra problemas alheios ao contexto escolar."
+    },
+    {
+      "id": "a21_022",
+      "numero": 22,
+      "banca": "GUALIMP",
+      "tipo": "multipla",
+      "enunciado": "GUALIMP - Orientador Pedagógico (Pref Areal)/2019/Edital 01.2019 - Uma das facetas mais problemáticas, importantes e graves da verdade educacional no Brasil, é o fracasso escolar. No meio de múltiplos fatores correlatos a esse fracasso escolar, eclodem-se as perspectivas extraescolares que se relacionam com:",
+      "alternativas": {
+        "a": "O desinteresse que os alunos demonstram em sala de aula, independente do conteúdo apresentado.",
+        "b": "As condições precárias de vida e permanência significativa de uma parcela da população do Brasil.",
+        "c": "A má remuneração dos professores dentro das instituições escolares, o que desmotiva sua atuação pedagógica.",
+        "d": "A falta de uma sólida estrutura curricular nas escolas, consequência da deficiente elaboração dos projetos pedagógicos."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Os alunos possuem desinteresse de acordo com o conteúdo apresentado.\nAlém disso a questão pede fatos extraescolares e não intraescolares.\nA alternativa B está correta. Os aspectos sociais descritos nesta alternativa revelam situações extraescolares\nA alternativa C está incorreta. A remuneração dos professores não está ligada diretamente ao fracasso\nescolar, pois a desistência do estudo é mais relacionada com as condições do processo de ensinoaprendizagem\nem sala de aula.\nAula Extra I\nA alternativa D está incorreta. O fracasso escolar não tem relação direta com proposições formais de\ncurrículo e projetos pedagógicos."
+    },
+    {
+      "id": "a21_023",
+      "numero": 23,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref São Borja)/Pedagogia Anos Iniciais/2019 - Lück (2013) estabelece alguns pontos sobre a questão do sucesso e do fracasso escolar, ponderando sobre o processo da aprendizagem. Nesse sentido, assinale a alternativa correta de acordo com o pensamento de Lück.",
+      "alternativas": {
+        "a": "O fracasso escolar de um aluno acontece apenas no final do ano.",
+        "b": "A cultura do sucesso escolar para a aprendizagem por todos os alunos é construída por meio de atenção contínua, que envolve intervenções, atividades e comunicações tanto do aluno como do professor.",
+        "c": "Considerando as diferenças individuais e a dinâmica interpessoal que pauta o processo de aprendizagem, não cabe e não é produtivo que o professor realize continuamente avaliação individual.",
+        "d": "Situações pedagógicas que não mobilizam a curiosidade e a atenção dos alunos não conduzem ao fracasso escolar.",
+        "e": "Situações e práticas pedagógicas aleatórias e ocasionais e que também deixam os alunos totalmente livres para a expressão de comportamentos não prejudicam, em nenhum momento, o sucesso da aprendizagem do aluno."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O fracasso escolar é um processo contínuo que ocorre ao longo de toda\nescolarização.\nA alternativa B está correta. São situações que promovem melhores condições de ensino-aprendizagem.\nA alternativa C está incorreta. A avaliação individual é uma importante ferramenta para acompanhamento\ndo aluno, pois pode evitar o fracasso escolar.\nA alternativa D está incorreta. Pelo contrário, são exatamente estas situações que conduzem ao fracasso\nescolar, pois são desmobilizadoras dos alunos.\nA alternativa E está incorreta. O excesso de liberdade pode levar o aluno ao processo de indisciplina e\nfracasso escolar."
+    },
+    {
+      "id": "a21_024",
+      "numero": 24,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Psicopedagoga (Pref São Borja)/2019 - Em relação ao fracasso escolar, o grande vilão que assombra a escola, considere as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas. ( ) Os alunos que apresentam dificuldades para aprender são pessoas fracassadas. ( ) Os professores são unânimes em afirmar que fracasso escolar está centrado nas classes menos favorecidas, em função do nível socioeconômico, condições de moradia, saúde e alimentação. Aula Extra I ( ) O modo de vida de uma família, seus valores, suas crenças e opções têm mais peso sobre o desempenho escolar do que o seu nível socioeconômico. ( ) A compreensão do que seja o fracasso escolar é, muitas vezes, reduzida à ideia de avaliação, em que o aluno fracassa porque é incapaz de reproduzir o que “aprendeu” ao longo do processo. ( ) Nas questões que envolvem a avaliação, a nota parece referendar o coeficiente intelectual do que foi ou não aprendido. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+      "alternativas": {
+        "a": "V V F F V.",
+        "b": "V F V F V.",
+        "c": "F F V V V.",
+        "d": "F V F F F.",
+        "e": "F F F V F."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa está incorreta. Tornar o aluno estereotipado como fracassado não contribui para\nresolver o problema.\nA segunda afirmativa está incorreta. O fracasso escolar pode estar dentro de outras classes sociais, pois\nenvolve o contexto familiar também.\nA terceira afirmativa está correta. Exatamente. O contexto familiar faz parte da análise do fracasso escolar.\nA quarta afirmativa está correta. O fracasso escolar é um processo ao longo do tempo e nãos e reduz ao\nprocesso avaliativo apenas.\nA quinta afirmativa está correta. O consenso de autores atuais não referenda como avaliação o coeficiente\nintelectual.\nAlternativa correta letra C."
+    },
+    {
+      "id": "a21_025",
+      "numero": 25,
+      "banca": "FURB",
+      "tipo": "multipla",
+      "enunciado": "FURB - Coordenador Pedagógico (Pref Blumenau)/2019 - Ao que compete à evasão, abandono e repetência, afirma-se: Aula Extra I ( ) A escola é apontada como responsável pelo sucesso ou fracasso dos alunos, principalmente daqueles pertencentes às categorias vulneráveis da população, explicando teoricamente o caráter reprodutor dessa instituição. (Bourdieu e Passeron) ( ) Nos anos 80, atribuía-se ao Estado a responsabilidade pelo fracasso escolar do educando na escola: a repetência nas quatro primeiras séries era tão grande que os educandos acabavam por abandonar a escola. (“A pedagogia da repetência”, de Ribeiro) ( ) A evasão e a repetência são reflexos da forma como a escola recebe e exerce ação sobre as pessoas dos diferentes segmentos da sociedade. ( ) Na evasão escolar, estão implicados fatores como a falta de escolas, a necessidade de renda e trabalho, a falta de interesse e o excelente ensino oferecido aos filhos da classe trabalhadora. ( ) Faltas, atos delinquentes e abuso de substâncias ilegais são preditores débeis de abandono e de fracasso escolar. Considerando V, às assertivas verdadeiras, e F, às falsas, a sequência correta está em:",
+      "alternativas": {
+        "a": "F – V – V – F – V.",
+        "b": "F – F – V – F – V.",
+        "c": "F – F – V – V – V.",
+        "d": "V – F – V – F – F.",
+        "e": "V – V – V – F – F."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa está correta. A escola reproduz as desigualdades de oportunidades sociais dentro da\nescola.\nA segunda afirmativa está incorreta. O fracasso escolar não é apenas uma responsabilidade do Estado, mas\né também de toda a sociedade.\nA terceira afirmativa está correta. As classes sociais determinam como será a resposta frente aos desafios\neducacionais de cada aluno.\nA quarta afirmativa está incorreta. O termo \"excelente ensino\" inviabilizou a alternativa.\nAula Extra I\nA quinta afirmativa está incorreta. O uso do termo \"preditores débeis\" é inadequado. Não se usa estes\ntermos para falar sobre uso de drogas. Além disso, o fracasso escolar é um sintoma social e não apenas\norgânico.\nAlternativa correta letra D."
+    }
+  ]
+}

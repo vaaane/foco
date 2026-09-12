@@ -1,0 +1,316 @@
+{
+  "esquema": 1,
+  "id": "aula-18-eja",
+  "aula": "18",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 18",
+  "subtitulo": "Educação de Jovens e Adultos (EJA)",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 18",
+  "itensEdital": [
+    7
+  ],
+  "tagsEdital": [
+    {
+      "n": 7,
+      "titulo": "Educação de Jovens e Adultos (EJA)"
+    }
+  ],
+  "resumoMd": "### A. Marcos Legais e Constitucionais (CF/88 e LDB)\n- **Garantia Constitucional (Art. 208, I):** Educação básica obrigatória e gratuita dos 4 aos 17 anos, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria.\n- **Art. 37 da LDB:** A EJA é uma modalidade destinada aos que não tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria.\n\n### B. Idade Mínima e Exames Supletivos\n- **Ensino Fundamental:** Idade mínima de **15 anos** para realização de cursos e exames de EJA.\n- **Ensino Médio:** Idade mínima de **18 anos** para realização de cursos e exames de EJA.\n\n### C. Integração e Função da EJA\n- **Integração com a Educação Profissional:** Estímulo à articulação entre EJA e formação técnica/profissionalizante.\n- **Funções da EJA (Parecer CNE/CEB nº 11/2000):**\n  - **Reparadora:** Garantia do direito negado no passado.\n  - **Equalizadora:** Reagrupamento e redistribuição de oportunidades sociais.\n  - **Qualificadora:** Educação permanente e atualização contínua ao longo da vida.\n\n---",
+  "total": 20,
+  "questoes": [
+    {
+      "id": "a18_001",
+      "numero": 1,
+      "banca": "IDECAN 2016 Podem",
+      "tipo": "multipla",
+      "enunciado": "IDECAN 2016 Podem-se agregar à educação básica algumas formas e modalidades diferenciadas de educação para atendimento de especificidades e que perpassam todos os níveis da educação nacional, de acordo com as Diretrizes Curriculares da Educação Básica. São elas: I. Educação Profissional e Tecnológica. II. Educação Escolar Quilombola. III. Educação de Jovens e Adultos. IV. Educação Básica do Campo. V. Educação Especial. VI. Educação Indígena. Estão corretas as alternativas",
+      "alternativas": {
+        "a": "I, II, III, IV, V e VI.",
+        "b": "II, III, IV e V, apenas.",
+        "c": "I, II, IV e VI, apenas.",
+        "d": "I, III, IV e V, apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, todos os itens referem-se às modalidades de ensino."
+    },
+    {
+      "id": "a18_002",
+      "numero": 2,
+      "banca": "FUNCERN 2019 PROFESSOR",
+      "tipo": "multipla",
+      "enunciado": "FUNCERN 2019 PROFESSOR - ENSINO FUNDAMENTAL (PREF LAJES/RS) A educação escolar compreende da educação infantil até a educação superior; enquanto a educação básica deixa a educação superior de fora. No tocante à educação de jovens e adultos, a lei define que é um(a)",
+      "alternativas": {
+        "a": "nível de ensino.",
+        "b": "ciclo de ensino.",
+        "c": "etapa de ensino.",
+        "d": "modalidade de ensino."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. Modalidade!! Estamos começando com calma...\nNíveis: Educação básica e Educação Superior\nEtapas da Educação Básica: educação infantil, ensino fundamental e ensino médio."
+    },
+    {
+      "id": "a18_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2015 Conforme a Resolução nº 7/2010, a idade mínima para o ingresso nos cursos de Educação de Jovens e Adultos e para a realização de exames de conclusão de EJA será de ______ anos completos. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.",
+      "alternativas": {
+        "a": "15",
+        "b": "16",
+        "c": "18",
+        "d": "21",
+        "e": "24"
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A. A questão versa sobre a Res. CNE/CEB nº 7/2010 que Fixa as\nDCNEF9. E é isso o que consta do artigo 45. Art. 45 A idade mínima para o ingresso nos cursos\nde Educação de Jovens e Adultos e para a realização de exames de conclusão de EJA será de\n15 (quinze) anos completos.\nMas lembre-se, no que se refere ao EJA, as idades mínimas para EF e EM:\nMatrícula e Conclusão\ndo EF\n15 anos\nMatrícula e Conclusão\ndo EM\n18 anos"
+    },
+    {
+      "id": "a18_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 A Resolução CNE/CEB nº 03/2010 institui Diretrizes Operacionais para a Educação de Jovens e Adultos (EJA) nos aspectos relativos à duração dos cursos e idade mínima para ingresso nos cursos e exames de EJA, à certificação nos exames de EJA, à Educação de Jovens e Adultos desenvolvida por meio da Educação a Distância (EAD), a serem obrigatoriamente observadas pelos sistemas de ensino, na oferta e na estrutura dos cursos e exames de Ensino Fundamental e Ensino Médio que se desenvolvem em instituições próprias integrantes dos Sistemas de Ensino Federal, Estaduais, Municipais e do Distrito Federal. Ao trabalhar com o púbico de EJA, o pedagogo, a partir dessa Resolução, deve considerar que",
+      "alternativas": {
+        "a": "para o melhor desenvolvimento da EJA, cabe a institucionalização de um sistema educacional público de Educação Básica de jovens e adultos, como política pública de governo e não apenas de Estado.",
+        "b": "quanto à duração dos cursos presenciais de EJA, para os anos iniciais do Ensino Fundamental, a duração deve ficar a critério da realidade de cada escola para favorecer a diminuição da evasão.",
+        "c": "a idade mínima para o desenvolvimento da EJA com mediação da EAD será de 18 anos completos para o segundo segmento do Ensino Fundamental e vinte e um anos completos para o Ensino Médio.",
+        "d": "a Educação de Jovens e Adultos e o ensino regular sequencial para os adolescentes com defasagem idade-série devem estar inseridos na concepção de escola unitária e politécnica.",
+        "e": "a avaliação da aprendizagem dos estudantes nos cursos presenciais deve ser coletiva e contínua; na modalidade EAD, deve ser pontual e individual, de acordo com a disponibilidade dos alunos."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D, é a única de acordo com a norma em epígrafe. Especificamente o\nque consta do artigo 12 da referida resolução:\nArt. 12. A Educação de Jovens e Adultos e o ensino regular sequencial para os\nadolescentes com defasagem idade-série devem estar inseridos na concepção de\nescola unitária e politécnica[...]\nCorrigindo as demais, temos:\nAlternativa A está incorreta. Veja o que consta do Art. 2º: Para o melhor desenvolvimento da EJA,\ncabe a institucionalização de um sistema educacional público de Educação Básica de jovens e\nadultos, como política pública de Estado e não apenas de governo [...]\nAlternativa B está incorreta. Veja o que consta do Art. 4, inciso I: para os anos iniciais do Ensino\nFundamental, a duração deve ficar a critério dos sistemas de ensino;\nAlternativa C está incorreta. Veja o que consta do Art. 9º, inciso II: a idade mínima para o\ndesenvolvimento da EJA com mediação da EAD será a mesma estabelecida para a EJA presencial:\n15 (quinze) anos completos para o segundo segmento do EF e 18 (dezoito) anos completos para\no EM;\nAlternativa E está incorreta. Veja o que consta do Art. 9º, inciso XI, alínea a: a avaliação da\naprendizagem dos estudantes seja contínua, processual e abrangente, com autoavaliação e\navaliação em grupo, sempre presenciais;"
+    },
+    {
+      "id": "a18_005",
+      "numero": 5,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEPERJ 2012 Nos termos da Lei de Execução Penal, o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena, sendo a contagem de tempo feita à razão de:",
+      "alternativas": {
+        "a": "1 dia de pena a cada 12 horas de frequência escolar - atividades de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias",
+        "b": "1 dia de pena a cada 10 horas de frequência escolar - atividades de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias",
+        "c": "1 dia de pena a cada 6 horas de frequência escolar - atividades de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias",
+        "d": "1 dia de pena a cada 4 horas de frequência escolar - atividades de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias",
+        "e": "1 dia de pena a cada 8 horas de frequência escolar - atividades de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias"
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A, pois é a única de acordo com o normativo. Retome a leitura do\nartigo em referência:\n\"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá\nremir, por trabalho ou por estudo, parte do tempo de execução da pena. § 1º A\ncontagem de tempo referida no caput será feita à razão de: I - 1 (um) dia de pena a\ncada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio,\ninclusive profissionalizante, ou superior, ou ainda de requalificação profissional -\ndivididas, no mínimo, em 3 (três) dias (...)\"."
+    },
+    {
+      "id": "a18_006",
+      "numero": 6,
+      "banca": "AOCP 2019 PROFESSOR DE EDUCAÇÃO BÁSICA 3",
+      "tipo": "multipla",
+      "enunciado": "AOCP 2019 PROFESSOR DE EDUCAÇÃO BÁSICA 3 - ARTES (SEAD PB) A respeito da Educação de Jovens e Adultos, segundo o que dispõe a Lei de Diretrizes e Bases da Educação Nacional, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "a": "A educação de jovens e adultos será destinada àqueles que tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria e constituirá instrumento para a educação e a aprendizagem ao longo da vida.",
+        "b": "O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si.",
+        "c": "Os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular.",
+        "d": "A educação de jovens e adultos deverá articular-se, preferencialmente, com a educação profissional, na forma do regulamento."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa incorreta: letra A. A alternativa contraria o preceito básico da EJA. Releia:\nArt. 37. A educação de jovens e adultos será destinada àqueles que não tiveram acesso\nou continuidade de estudos nos ensinos fundamental e médio na idade própria e\nconstituirá instrumento para a educação e a aprendizagem ao longo da vida.\nAs demais alternativas estão de acordo com os parágrafos desse do mesmo artigo, por isso estão\ncorretíssimas e não representam o nosso gabarito."
+    },
+    {
+      "id": "a18_007",
+      "numero": 7,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IMA 2019 PROFESSOR DE PORTUGUÊS (PREF JOAQUIM PIRES/PI) Conforme as Diretrizes Curriculares Nacionais para a Educação Básica, essa modalidade tem sido considerada como instância em que o Brasil procura saldar uma dívida social que tem para com o cidadão que não estudou na idade própria. Destina-se, portanto, aos que se situam na faixa etária superior à considerada própria, no nível de conclusão do Ensino Fundamental e do Ensino Médio, trata-se:",
+      "alternativas": {
+        "a": "Educação Escolar Indígena.",
+        "b": "Educação Escolar Quilombola.",
+        "c": "Educação a Distância.",
+        "d": "Educação de Jovens e Adultos."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. Essa questão se entrega ao indicar “cidadão que não estudou na idade\nprópria”. Questão básica, não pode errar!"
+    },
+    {
+      "id": "a18_008",
+      "numero": 8,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IBFC 2019 PROFESSOR DE EDUCAÇÃO BÁSICA I (PREF VINHEDO/SP) Segundo a Lei de Diretrizes e Bases da Educação Nacional (LDBEN) - Lei nº9.394/96, a Educação de Jovens e Adultos (EJA) será destinada àqueles que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio na idade própria, conforme disposto no Art.37 e § 1º desta Lei que estabelece: “os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos, que não puderam efetuar os estudos na idade regular, oportunidades educacionais apropriadas, consideradas as características do alunado, seus interesses, condições de vida e de trabalho, mediante cursos e exames”. Sobre esse assunto, esta Lei prevê que: I. Os exames, no nível de conclusão do ensino médio, serão realizados para os maiores de dezoito anos. II. O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si. III. A Educação de Jovens e Adultos (EJA) deverá articular-se, preferencialmente, com a educação profissional, na forma do regulamento. IV. Os exames realizar-se-ão no nível de conclusão do ensino fundamental, para os maiores de dezesseis anos. V. Os conhecimentos e habilidades adquiridos pelos educandos por meios informais não serão aferidos e reconhecidos mediante exames. Estão corretas as afirmativas:",
+      "alternativas": {
+        "a": "I, III e V apenas",
+        "b": "I, II e III apenas",
+        "c": "II, IV e V apenas",
+        "d": "I e IV apenas"
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B.\nVamos falar de cada afirmativa?\nAs afirmativas I, II e III estão corretas, pois encontram-se de acordo com o disposto no Art. 37 e\nseus respectivos parágrafos da LDB.\nJá a afirmativa IV está incorreta, pois contraria o artigo 38, em seu § 1º. Na verdade, no nível de\nconclusão do ensino fundamental, os exames realizar-se-ão para os maiores de quinze anos, e não\n16, como afirma o item.\nE a afirmativa V está incorreta, pois também contraria o artigo 38, mas só que no parágrafo 2º,\nque indica que:\n§ 2º Os conhecimentos e habilidades adquiridos pelos educandos por meios informais\nserão aferidos e reconhecidos mediante exames."
+    },
+    {
+      "id": "a18_009",
+      "numero": 9,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 Assinale a alternativa que apresenta corretamente a sigla do exame realizado no Brasil que confere certificação de conclusão do ensino fundamental (para quem tem idade mínima de 15 anos) ou médio (para quem tem idade mínima de 18 anos).",
+      "alternativas": {
+        "a": "ENCCEJA.",
+        "b": "ENEM.",
+        "c": "ENADE.",
+        "d": "PROVA BRASIL.",
+        "e": "IDEB."
+      },
+      "gabarito": "A",
+      "comentario": "Alternativa correta: letra A.\n❖ ENCCEJA é o exame nacional para certificação de competências de jovens\ne adultos.\n❖ ENEM: Exame nacional do ensino médio.\n❖ ENADE: Exame nacional de desempenho dos estudantes.\n❖ PROVA BRASIL: Prova atualmente denominada \"Saeb\" que avalia\nestudantes do 5º e 9º ano do EF.\n❖ IDEB: índice de desenvolvimento da educação básica\n*Em uma aula de avaliação, tratamos de cada uma delas."
+    },
+    {
+      "id": "a18_010",
+      "numero": 10,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 PROFESSOR DA EDUCAÇÃO INFANTIL (PREF CAMPO BOM/RS) Em relação à Educação de Jovens e Adultos, os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular. Esses exames serão realizados: I. No nível de conclusão do ensino fundamental, para os maiores de quinze anos. II. No nível de conclusão do ensino médio, para os maiores de dezoito anos. III. Em qualquer nível em que o aluno se encontra. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. As clássicas questões sobre a idade para conclusão da EJA. Retome a\nleitura do artigo 38 da LDB:\nArt. 38. Os sistemas de ensino manterão cursos e exames supletivos, que\ncompreenderão a base nacional comum do currículo, habilitando ao prosseguimento\nde estudos em caráter regular.\n§ 1º Os exames a que se refere este artigo realizar-se-ão:\nI - no nível de conclusão do ensino fundamental, para os maiores de quinze anos;\nII - no nível de conclusão do ensino médio, para os maiores de dezoito anos."
+    },
+    {
+      "id": "a18_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "IBFC 2019 PROFESSOR ZONA URBANA (PREF CRUZEIRO DO SUL/AC) A Resolução nº 3, de 15 de junho de 2010 institui Diretrizes Operacionais para a Educação de Jovens e Adultos (EJA) nos aspectos relativos à duração dos cursos e idade mínima para ingresso nos cursos de EJA; idade mínima e certificação nos exames de EJA; e Educação de Jovens e Adultos desenvolvida por meio da Educação a Distância. Dentre algumas diretrizes, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) Para os anos iniciais do Ensino Fundamental, a duração deve ficar a critério dos sistemas de ensino. ( ) A regra da prioridade para o atendimento da escolarização obrigatória, será considerada idade mínima para os cursos de EJA e para a realização de exames de conclusão de EJA do Ensino Fundamental a de 15 (quinze) anos completos. ( ) Para a Educação Profissional Técnica de Nível Médio integrada com o Ensino Médio, reafirmase a duração de 1.600 (mil e seiscentas) horas destinadas à educação geral. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+      "alternativas": {
+        "a": "F, F, V",
+        "b": "V, V, F",
+        "c": "F, V, F",
+        "d": "V, V, V"
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B.\nOs itens I e II estão de acordo com a Resolução CNE/CEB 3/2010, no seu artigo 4º:\nArt. 4º Quanto à duração dos cursos presenciais de EJA, mantém-se a formulação do\nParecer CNE/CEB nº 29/2006, acrescentando o total de horas a serem cumpridas,\nindependentemente da forma de organização curricular:\nI - para os anos iniciais do Ensino Fundamental, a duração deve ficar a critério dos\nsistemas de ensino;\nII - para os anos finais do Ensino Fundamental, a duração mínima deve ser de 1.600 (mil\ne seiscentas) horas;\nIII - para o Ensino Médio, a duração mínima deve ser de 1.200 (mil e duzentas) horas.\nMas o item III está incorreto porque contraria o que consta do art. 4º, parágrafo único.\nPara a Educação Profissional Técnica de Nível Médio integrada com o Ensino Médio,\nreafirma-se a duração de 1.200 (mil e duzentas) horas destinadas à educação geral,\ncumulativamente com a carga horária mínima para a respectiva habilitação profissional\n[...].\nVale destacar que essa informação consta também da novíssima Resolução CNE/CP nº 01/2021,\nart. 26, §2º:\nArt. 26. A carga horária mínima dos cursos técnicos é estabelecida no CNCT ou por\ninstrumento correspondente a vir substituí-lo, de acordo com a singularidade de cada\nhabilitação profissional técnica. [...] § 2º Os cursos de qualificação profissional técnica e\nos cursos técnicos, na forma articulada integrada com o Ensino Médio na modalidade\nde EJA, deve assegurar o mínimo de 1.200 (mil e duzentas) horas para a BNCC."
+    },
+    {
+      "id": "a18_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC 2019 AUXILIAR DE SERVIÇOS GERAIS (PREF CORDILHEIRA ALTA/SC) O Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) é uma prova do Instituto Nacional de Ensino e Pesquisas Educacionais Anísio Teixeira (Inep) e foi criado para aqueles que não concluíram os estudos na idade mais adequada, com intuito de fornecer o certificado de conclusão:",
+      "alternativas": {
+        "a": "Apenas do Ensino Fundamental.",
+        "b": "Apenas do Ensino Médio.",
+        "c": "Apenas do Ensino Médio-Técnico.",
+        "d": "Do Ensino Fundamental ou do Ensino Médio.",
+        "e": "Do Ensino Profissionalizante."
+      },
+      "gabarito": "D",
+      "comentario": "Alternativa correta: letra D. A questão está falando sobre o Encceja: exame voluntário e gratuito\nrealizado no Brasil que confere certificação para jovens e adultos que não tiveram oportunidade\nde concluir os estudos na idade apropriada, no que se refere ao EF e ao EM."
+    },
+    {
+      "id": "a18_013",
+      "numero": 13,
+      "banca": "CONSULPLAN 2019 PROFESSOR EDUCAÇÃO BÁSICA II",
+      "tipo": "multipla",
+      "enunciado": "CONSULPLAN 2019 PROFESSOR EDUCAÇÃO BÁSICA II - INGLÊS (PREF PITANGUEIRAS/SP) Com o intuito de permitir àqueles que não tiveram acesso ou não conseguiram dar continuidade aos seus estudos na idade própria, a Educação de Jovens e Adultos constitui instrumentos para a educação e aprendizagem. No que se refere à Educação de Jovens e Adultos, é correto afirmar que:",
+      "alternativas": {
+        "a": "Haverá aplicação de exame supletivo nível de conclusão do ensino fundamental para os maiores de dezoito anos.",
+        "b": "Os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos que não puderam efetuar os estudos na idade regular.",
+        "c": "Os conhecimentos e as habilidades adquiridos pelos educandos por meios informais não têm sua relevância reconhecida para a formação do aluno.",
+        "d": "A constituição do currículo para a educação de jovens e adultos será diferente daquela adotada para a educação regular, adotando disciplinas mais simplificadas."
+      },
+      "gabarito": "B",
+      "comentario": "Alternativa correta: letra B.\nA assertiva está em consonância do que dispõe a LDB no seu artigo Art. 37, que diz ainda que\nhaverá oportunidades educacionais apropriadas, consideradas as características do alunado, seus\ninteresses, condições de vida e de trabalho, mediante cursos e exames.\nAs alternativas A, C e D estão incorretas, uma vez que contrariam a LDB, especificamente em seu\nseguinte dispositivo:\nArt. 38. Os sistemas de ensino manterão cursos e exames supletivos, que\ncompreenderão a base nacional comum do currículo, habilitando ao prosseguimento\nde estudos em caráter regular.\n§ 1º Os exames a que se refere este artigo realizar-se-ão:\nI - no nível de conclusão do ensino fundamental, para os maiores de quinze anos;\nII - no nível de conclusão do ensino médio, para os maiores de dezoito anos.\n§ 2º Os conhecimentos e habilidades adquiridos pelos educandos por meios informais\nserão aferidos e reconhecidos mediante exames."
+    },
+    {
+      "id": "a18_014",
+      "numero": 14,
+      "banca": "IBFC 2019 PROFESSOR",
+      "tipo": "multipla",
+      "enunciado": "IBFC 2019 PROFESSOR - ARTES (PREF CONDE/PB) A Resolução nº 3, de 15 de junho de 2010 institui Diretrizes Operacionais para a Educação de Jovens e Adultos- (EJA) - e em seu art. 4º traz informações referentes à duração dos cursos presenciais de EJA. Sobre este assunto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F) ( ) para os anos iniciais do Ensino Fundamental, a duração deve ficar a critério dos sistemas de ensino. ( ) para os anos finais do Ensino Fundamental, a duração mínima deve ser de 1.400 (mil e quatrocentas) horas. ( ) para o Ensino Médio, a duração mínima deve ser de 1.200 (mil e duzentas) horas. ( ) Para a Educação Profissional Técnica de Nível Médio integrada com o Ensino Médio, reafirmase a duração de 1.200 (mil e duzentas) horas destinadas à educação geral, cumulativamente com a carga horária mínima para a respectiva habilitação profissional. Assinale a alternativa que apresenta a sequência correta de cima para baixo:",
+      "alternativas": {
+        "a": "F, V, V, V",
+        "b": "V, F, F, F",
+        "c": "V, F, V, V",
+        "d": "F, V, F, F"
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C.\nEssa questão da carga horária é bem clara no normativo:\nEFAI duração deve ficar a critério dos sistemas de ensino\nEFAF duração mínima deve ser de 1.600 (mil e seiscentas) horas\nEM duração mínima deve ser de 1.200 (mil e duzentas) horas\nEPTNM\nintegrada\ncom EM\nduração de 1.200 (mil e duzentas) horas destinadas à educação geral,\ncumulativamente com a carga horária mínima para a respectiva habilitação\nprofissional\nPortanto, temos: V, F, V, V, gabarito: letra C."
+    },
+    {
+      "id": "a18_015",
+      "numero": 15,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "CESPE (CEBRASPE) 2018 OFICIAL TÉCNICO DE INTELIGÊNCIA ÀREA 4 (ABIN) No que se refere a projetos pedagógicos e metodologia de ensino, julgue o item seguinte. A andragogia cuida de orientar crianças e adolescentes com dificuldade de aprendizagem a partir de suas experiências de vida, sua esfera de atividade e aplicabilidade real da tarefa na sua vida profissional. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Alternativa está errada, porque Andragogia refere-se à educação de adultos e não de crianças,\ncomo o item sugere."
+    },
+    {
+      "id": "a18_016",
+      "numero": 16,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "QUADRIX 2018 SEEDF No que se refere às Diretrizes Nacionais para a Educação de Jovens e Adultos e ao Currículo em Movimento, julgue os itens a seguir. As aprendizagens do aluno da EJA devem basear‐se em um currículo padronizado, de modo a garantir um processo homogêneo de escolarização. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A alternativa está errada. Toda a nossa aula, nós pontuamos que o currículo, as metodologias,\npráticas avaliativas, tudo na EJA deve ser apropriado às características, interesses, condições de\nvida e de trabalho... não tem como essa questão estar correta, não é? Falando em homogeneidade\ne padronização..."
+    },
+    {
+      "id": "a18_017",
+      "numero": 17,
+      "banca": "",
+      "tipo": "certo_errado",
+      "enunciado": "QUADRIX 2018 SEEDF Considerando os métodos, as estratégias e as concepções de avaliação utilizados nos processos de ensino‐aprendizagem, julgue os próximos itens. As estratégias didáticas da EJA devem considerar a andragogia, que prioriza o trabalho com os saberes massificados pelo currículo ideal. Certo. Errado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A alternativa está ERRADA. Outra questão que traz a questão de um currículo impróprio. A EJA\nprioriza as experiências, a troca de informações e a construção coletiva do conhecimento,\nestabelecido nas relações horizontais."
+    },
+    {
+      "id": "a18_018",
+      "numero": 18,
+      "banca": "CONSCAM 2017 PROFESSOR DE ENSINO FUNDAMENTAL L",
+      "tipo": "multipla",
+      "enunciado": "CONSCAM 2017 PROFESSOR DE ENSINO FUNDAMENTAL L - EJA (PREF BEBEDOURO/SP) Da educação de jovens e adultos, em consonância com a Lei 9.394/96, é INCORRETO o que se afirma em:",
+      "alternativas": {
+        "a": "O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si.",
+        "b": "Os sistemas de ensino manterão cursos e exames supletivos, que compreenderão a base nacional comum do currículo, habilitando ao prosseguimento de estudos em caráter regular.",
+        "c": "Os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos, que não puderam efetuar os estudos na idade regular, oportunidades educacionais apropriadas, consideradas as características do alunado, seus interesses, condições de vida e de trabalho, mediante cursos e exames.",
+        "d": "A educação de jovens e adultos deverá articular-se, preferencialmente, com a educação profissional, na forma do regulamento.",
+        "e": "Os conhecimentos e habilidades adquiridos pelos educandos por meios informais não serão aferidos e reconhecidos mediante exames."
+      },
+      "gabarito": "E",
+      "comentario": "Alternativa incorreta: letra E, pois os conhecimentos obtidos por meios informais podem ser\naferidos e reconhecidos mediante exames, devidamente amparado pela legislação vigente:\nArt. 38. Os sistemas de ensino manterão cursos e exames supletivos, que\ncompreenderão a base nacional comum do currículo, habilitando ao prosseguimento\nde estudos em caráter regular.\n[...] § 2º Os conhecimentos e habilidades adquiridos pelos educandos por meios\ninformais serão aferidos e reconhecidos mediante exames.\nAs demais alternativas corretas, pois estão de acordo com o que conta dos artigos 37 e 38 da\nLDB."
+    },
+    {
+      "id": "a18_019",
+      "numero": 19,
+      "banca": "AMEOSC 2016 PROFESSOR DE MATEMÁTICA",
+      "tipo": "multipla",
+      "enunciado": "AMEOSC 2016 PROFESSOR DE MATEMÁTICA - NÃO HABILITADO Segundo o art. 37 da LDB a educação de jovens e adultos é destinada a quem?",
+      "alternativas": {
+        "a": "A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio por reprovação.",
+        "b": "A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio próximo a sua residência.",
+        "c": "A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio na idade própria.",
+        "d": "A educação de jovens e adultos será destinada à maiores de dezoito anos que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio na idade própria."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. A clássica questão “letra de lei”:\nArt. 37. A educação de jovens e adultos será destinada àqueles que não tiveram acesso\nou continuidade de estudos nos ensinos fundamental e médio na idade própria e\nconstituirá instrumento para a educação e a aprendizagem ao longo da vida."
+    },
+    {
+      "id": "a18_020",
+      "numero": 20,
+      "banca": "VUNESP 2019",
+      "tipo": "multipla",
+      "enunciado": "VUNESP 2019 - PEDAGOGO - SAS (PREF VALINHOS/SP) A meta 9 do Plano Nacional de Educação (PNE – Lei Federal no 13.005/2014) consiste em elevar a taxa de alfabetização da população com 15 (quinze) anos ou mais para 93,5% (noventa e três inteiros e cinco décimos por cento) até 2015 e, até o final da vigência deste PNE, erradicar o analfabetismo absoluto e reduzir em 50% (cinquenta por cento) a taxa de analfabetismo funcional. Para tanto, de acordo com a meta 9 do PNE, uma das estratégias é",
+      "alternativas": {
+        "a": "fomentar a expansão da oferta de educação profissional técnica de nível médio na modalidade de educação a distância, com a finalidade de ampliar a oferta e democratizar o acesso à educação profissional pública e gratuita.",
+        "b": "ampliar a oferta de matrículas gratuitas de educação profissional técnica de nível médio pelas entidades privadas de formação profissional vinculadas ao sistema sindical e entidades sem fins lucrativos.",
+        "c": "apoiar técnica e financeiramente projetos inovadores na educação de jovens e adultos que visem ao desenvolvimento de modelos adequados às necessidades específicas desses(as) alunos(as).",
+        "d": "expandir o atendimento do ensino médio gratuito integrado à formação profissional para as populações do campo e para as comunidades indígenas e quilombolas, de acordo com os interesses deles.",
+        "e": "fomentar a oferta de educação superior pública e gratuita prioritariamente para a formação de professores e professoras para a educação básica, sobretudo nas áreas de ciências e matemática."
+      },
+      "gabarito": "C",
+      "comentario": "Alternativa correta: letra C. Essa alternativa transcreve a estratégia 9.9.\nAs demais alternativas estão erradas pois transcrevem estratégias de outras Metas do PNE (11\nEPTNM e 12 ES)."
+    }
+  ]
+}
