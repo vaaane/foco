@@ -1,0 +1,283 @@
+{
+  "esquema": 1,
+  "id": "aula-04-planejamento-participativo-ppp",
+  "aula": "04",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 04",
+  "subtitulo": "Planejamento Participativo e Papel Político-Pedagógico",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 04 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    1,
+    21
+  ],
+  "tagsEdital": [
+    {
+      "n": 1,
+      "titulo": "Planejamento e organização do trabalho pedagógico"
+    },
+    {
+      "n": 21,
+      "titulo": "Papel político-pedagógico e organicidade do ensinar, aprender e pesquisar"
+    }
+  ],
+  "resumoMd": "### A) Planejamento Participativo\n- **Conceito:** Processo democrático de tomada de decisões na escola, rompendo com estruturas hierárquicas e autoritárias de gestão.\n- **Sujeitos da Participação:** Envolve toda a comunidade escolar (professores, estudantes, funcionários, direção e famílias).\n- **Etapas Principais:**\n  1. *Análise da Realidade (Diagnóstico):* Conhecimento das necessidades e especificidades da comunidade.\n  2. *Proposição e Planejamento:* Definição coletiva dos objetivos e metas.\n  3. *Execução e Acompanhamento Contínuo:* Avaliação constante dos resultados e ajustes de rota.\n\n### B) Papel Político-Pedagógico e Indissociabilidade do Ensinar, Aprender e Pesquisar\n- **A Não Neutralidade da Educação:** Toda ação pedagógica é uma ação política. Educar exige fazer escolhas de caminhos para a construção do bem comum (*Polis*).\n- **Organicidade:** É a integração harmoniosa das dimensões do ensinar, do aprender e do pesquisar.\n  - *Ensinar e Aprender:* Processo único (ensino-aprendizagem), pois a docência só se realiza na aprendizagem do estudante.\n  - *Pesquisar:* A pesquisa é o princípio educativo e metodológico que alimenta a curiosidade, a criatividade e a investigação científica de professores e alunos.\n- **Ensino Integrado e Cidadania:** Integração do conhecimento científico com a formação crítica, voltada para a superação das desigualdades e opressões sociais.\n\n---",
+  "total": 18,
+  "questoes": [
+    {
+      "id": "a04_001",
+      "numero": 1,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Técnico de Gestão Educacional (SEDF)/Secretário Escolar/2017 - A respeito do planejamento participativo, julgue o próximo item. Estruturar um processo de planejamento participativo demanda descrever perfis de participação, definir a quantidade de participantes, organizar um plano de reuniões e impor formas de controle e de avaliação.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "E",
+      "comentario": "O planejamento participativo deve estar baseado na irrestrita participação. Além disso, a descrição da\nassertiva demonstra encarar o processo de forma mais burocrática do que pedagógica.\nA alternativa C está incorreta. A alternativa E está correta."
+    },
+    {
+      "id": "a04_002",
+      "numero": 2,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Técnico de Gestão Educacional (SEDF)/Secretário Escolar/2017 - A respeito do planejamento participativo, julgue o próximo item. A avaliação de um planejamento participativo envolve o acompanhamento de seu desenvolvimento e a mediação de situações de conflito, visando-se aos objetivos estruturados.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "C",
+      "comentario": "A avaliação do planejamento é acompanhamento e mediação de conflitos. É um processo permanente\nde busca da \"calibragem\" do planejamento participativo.\nA alternativa C está correta. A alternativa E está incorreta."
+    },
+    {
+      "id": "a04_003",
+      "numero": 3,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Técnico de Gestão Educacional (SEDF)/Secretário Escolar/2017 - A respeito do planejamento participativo, julgue o próximo item. O planejamento participativo e o PPP são complementares e têm em comum o objetivo de firmar o corte de gastos considerados desnecessários.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "E",
+      "comentario": "O planejamento participativo e o projeto político-pedagógico têm o objetivo comum de pensar ações\npara serem executadas pela instituição escolar. Assim, não são documentos para pensar a gestão\nfinanceira de modo tão específico, conforme está descrito na assertiva.\nA alternativa C está incorreta. A alternativa E está correta."
+    },
+    {
+      "id": "a04_004",
+      "numero": 4,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Técnico (FUB)/Assuntos Educacionais/2018 - Para refazer o plano de desenvolvimento institucional (PDI) de determinada universidade, foram criadas diversas equipes, compostas por representantes de todas as áreas de atuação da instituição. Em suas reuniões, as equipes estabeleceram estratégias de trabalho e prazos de execução de cada etapa, bem como estipularam momentos intermediários de discussão em conjunto e espaços de consulta pública, com a finalidade de proporcionar a participação de toda a comunidade escolar na construção do plano. Ao final do processo, uma das equipes formatou o documento, que foi submetido ao conselho superior para aprovação. A respeito dessa situação hipotética, julgue o item a seguir, acerca de planejamento participativo. A organização proposta configura-se como planejamento participativo.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "C",
+      "comentario": "A organização proposta no enunciado da questão está condizente com o planejamento participativo,\npois propõe a participação de toda a comunidade escolar e o planejamento em etapas exequíveis.\nA alternativa C está correta. A alternativa E está incorreta."
+    },
+    {
+      "id": "a04_005",
+      "numero": 5,
+      "banca": "FEMPERJ",
+      "tipo": "multipla",
+      "enunciado": "FEMPERJ - Analista de Controle Externo (TCE-RJ)/Organizacional/Pedagogia/2012 - Todo início de ano, a direção de determinada escola pública elabora o novo planejamento da unidade. Entretanto, os problemas se agravaram na escola e a direção foi alvo de críticas por adotar métodos centralizados de trabalho. Os professores sugeriram a elaboração de um planejamento participativo. Para viabilizá-lo, o diretor precisa:",
+      "alternativas": {
+        "a": "organizar um grupo de trabalho com os docentes mais qualificados;",
+        "b": "contratar consultores especializados que proponham soluções para a escola;",
+        "c": "adotar procedimentos que possibilitem controle eficaz das ações;",
+        "d": "convocar os funcionários para que tragam sua contribuição nas reuniões;",
+        "e": "envolver toda a comunidade na tomada de decisões e na construção das propostas."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Organizar um grupo de trabalho é centralizar andamento pedagógico\nda escola.\nA alternativa B está incorreta. Consultar consultores é centralizar o trabalho pedagógico.\nA alternativa C está incorreta. O excesso de controle é uma forma de centralidade das ações da gestão.\nA alternativa D está incorreta. O uso do termo \"convocação\" inviabilizou a alternativa, pois esta palavra\nnão é relacionada com participação.\nA alternativa E está correta. O envolvimento de toda a comunidade escola nas decisões é uma forma\nefetiva de planejamento participativo."
+    },
+    {
+      "id": "a04_006",
+      "numero": 6,
+      "banca": "Inédita",
+      "tipo": "multipla",
+      "enunciado": "Inédita - Sobre o papel político pedagógico e a organicidade do ensinar, aprender e pesquisar, julgue o item a seguir: O ato de ensinar não tem relação com a pesquisa, pois a formação inicial de professores é didática. A formação de pesquisadores é realizada somente nos cursos de pós-graduação.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "E",
+      "comentario": "O ato de ensinar tem relação com a pesquisa, pois o professor pode ser um investigador da sua própria\nprática educativa. Aliás, esta forma de atuação garante melhores resultados em sala de aula.\nA alternativa C está incorreta. A alternativa E está correta."
+    },
+    {
+      "id": "a04_007",
+      "numero": 7,
+      "banca": "Inédita",
+      "tipo": "multipla",
+      "enunciado": "Inédita - Sobre o papel político pedagógico e a organicidade do ensinar, aprender e pesquisar, julgue o item a seguir: O ensino, a aprendizagem e a pesquisa constituem elementos separados de atuação docente, pois a prática em sala de aula deve ser simples para que os alunos compreendam os conteúdos trabalhados.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "E",
+      "comentario": "O ensino, a aprendizagem e a pesquisa são elementos integrados na prática educativa do professor em\nsala de aula, pois, muitas vezes é necessário ver como os alunos estão compreendendo os assuntos\ndados. Assim como, caso exista alguma dificuldade, o docente pode investigar as razões de determinado\ninsucesso didático.\nA alternativa C está incorreta. A alternativa E está correta."
+    },
+    {
+      "id": "a04_008",
+      "numero": 8,
+      "banca": "Inédita",
+      "tipo": "multipla",
+      "enunciado": "Inédita - Sobre o papel político pedagógico e a organicidade do ensinar, aprender e pesquisar, julgue o item a seguir: A pesquisa docente deve ser realizada necessariamente por um pesquisador externo, uma vez que as crenças e vícios laborais podem prejudicar o andamento da investigação pedagógica.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "E",
+      "comentario": "A pesquisa docente não deve estar focada em um olhar externo somente. Sendo assim, o professor pode\ninvestigar sua própria prática pedagógica.\nA alternativa C está incorreta. A alternativa E está correta."
+    },
+    {
+      "id": "a04_009",
+      "numero": 9,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Pedagogo (Pref Teresina)/2009 - Educar para a cidadania implica imputar às ações praticadas em direção ao outro uma clara objetividade com relação àquilo que se compreende em cada sociedade como padrão de bem-estar. Desse modo, ao se determinar à escola o papel de “preparar” as crianças e os jovens para o exercício da cidadania, compreendese que o entorno social dessas crianças e desses jovens não mais reúne evidências que permitam à coletividade coparticipar desse processo de preparação. É claro que o exercício da cidadania não se resume à aplicação daquilo que se constrói na educação formal; consequentemente, é igualmente claro que a escola não é capaz de cumprir tal missão inclusiva que lhe vem sendo imputada, quando a própria sociedade como um todo exime-se de assumir seu verdadeiro papel como educadora, não assinalando a orientação geral do que vem, de fato, a ser um cidadão integrado à cidadania. O lugar da educação na sociedade contemporânea tornou-se profundamente ambíguo, ao passo que o lugar da escola é mistificado, ora como alegoria da construção humana, ora como último reduto de um ideal de sociedade que se perdeu na história recente da humanidade. De acordo com os sentidos do texto acima,",
+      "alternativas": {
+        "a": "a sociedade como um todo não corresponde ao seu papel de educadora.",
+        "b": "o exercício da cidadania depende apenas da educação formal.",
+        "c": "a escola é o agente exclusivo de formação para a cidadania.",
+        "d": "a educação é verdadeiramente o último reduto de um ideal de sociedade."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A sociedade em muitos momentos possui um papel deseducativo.\nA alternativa B está incorreta. O exercício da cidadania depende de todas as formas de educação:\nformal, não formal e informal.\nA alternativa C está incorreta. A formação para a cidadania pode acontecer na escola, família,\nassociações de bairro, ONGs...\nA alternativa D está incorreta. Esta é uma visão idealizada do poder da educação. Não existe último\nreduto ideal de sociedade."
+    },
+    {
+      "id": "a04_010",
+      "numero": 10,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Analista Judiciário (TJ CE)/Técnico-Administrativa/Pedagogia/2008 - Diante dos desafios da sociedade contemporânea, especialmente do ensino no Brasil, que objetivos educacionais devem ser estabelecidos para uma educação de qualidade? Não é tarefa fácil responder a esta e outras questões, afirmam Libâneo, Oliveira e Toschi em Educação Escolar: Políticas, Estrutura e Organização. Cortez. São Paulo, 2003, p. 114 (com adaptações). Julgue o item a seguir, a respeito do assunto tratado no texto acima. A formação para a cidadania deve ser um dos objetivos fundamentais para a construção de uma educação pública de qualidade.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "C",
+      "comentario": "A formação para a cidadania deve ser o objetivo principal de qualquer processo educativo.\nA alternativa C está correta. A alternativa E está incorreta."
+    },
+    {
+      "id": "a04_011",
+      "numero": 11,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Analista Administrativo (ANA)/Pedagogia/2006 - Em uma comunidade de periferia, a escola pública local se associou à associação de moradores e a uma ONG com o objetivo de desenvolver um projeto pedagógico voltado para o fortalecimento da ação empreendedora dos jovens na construção da cidadania. A partir dessa situação hipotética, julgue o próximo item. A elaboração de projetos pedagógicos deve respeitar os princípios da liberdade e os ideais de solidariedade humana, bem como a formação integral do educando, entre outros princípios.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "C",
+      "comentario": "A liberdade para ensinar, aprender e divulgar o saber deve estar contemplada no projeto pedagógico.\nAlém disso, a visão ampla de formação humana está descrita na assertiva.\nA alternativa C está correta. A alternativa E está incorreta."
+    },
+    {
+      "id": "a04_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/História/2017 Texto Dados compilados pela Comissão de Combate à Intolerância Religiosa do Rio de Janeiro mostram que mais de 70% de 1.014 casos de ofensas, abusos e atos violentos registrados entre 2012 e 2015 são contra praticantes de religiões de matrizes africanas. O tema ganhou as páginas dos jornais como no caso de uma jovem atingida por uma pedra na cabeça em junho de 2015, na Zona Norte do Rio de Janeiro, quando voltava para casa trajando vestimentas religiosas candomblecistas. Também em 2015, no mês de novembro, um terreiro de candomblé foi incendiado em Brasília. Para especialistas, duas são as razões da hostilidade contra as religiões de origem africana: por um lado, o racismo e a discriminação que remontam à escravidão e que rotulam tais religiões pelo simples fato de serem de origem africana, e, por outro lado, a ação de alguns grupos religiosos que, nos últimos anos, teriam se valido de mitos e preconceitos para insuflar a perseguição a umbandistas e candomblecistas. Internet: <www.bbc.com> (com adaptações). Texto Na escola, a ideologia racista se expressaria em diversos níveis, que iriam desde a ausência da pluralidade cultural no currículo até a manifestação de preconceito em razão do desconhecimento de questões de ordem racial e da ridicularização de identidades e estéticas diferentes das que foram estabelecidas como ideais. Nesse ponto, a questão da religiosidade se faz novamente presente, pois seu desconhecimento gera a sua ausência como elemento importante da reconstrução da cosmovisão africana no Brasil, elemento que uma educação étnico-racial almejaria recuperar. Raquel Bakke. Na escola com os orixás. São Paulo: Universidade de São Paulo, 2011, p. 81 (com adaptações). Com base nos textos, julgue o próximo item, a respeito do ensino de história da religiosidade africana e dos aspectos a ele relacionados. As possibilidades de abordagem das religiões de matrizes africanas ou afro-brasileiras no currículo do ensino médio encontram na perspectiva dos multiletramentos e da valorização da diversidade um suporte relevante, podendo a temática ser tratada em vários componentes das ciências humanas e no ensino religioso.",
+      "alternativas": {
+        "c": "Certo",
+        "e": "Errado"
+      },
+      "gabarito": "C",
+      "comentario": "A diversidade na formação humana está contemplada na assertiva, pois se valoriza as raízes africanas\ndo Brasil. Isto é especialmente importante em se tratando de pensar valores étnicos e raciais\nheterogêneos.\nA alternativa C está correta. A alternativa E está incorreta."
+    },
+    {
+      "id": "a04_013",
+      "numero": 13,
+      "banca": "CPCON UEPB",
+      "tipo": "multipla",
+      "enunciado": "CPCON UEPB - Professor (Pref Areial)/Língua Portuguesa/2021 - Uma educação linguística na perspectiva de uma formação humana integral e que acentue garantia dos direitos linguísticos dos cidadãos, de modo que \"lidem com a variedade de necessidades letradas na sociedade contemporânea\" (STREET, 2014, p. 41), deve assumir I- objetivos que norteiem um trabalho pedagógico com a linguagem em que os princípios de cidadania sejam requisitos para uma formação ética, crítica e de inclusão social e cultural. II- diretrizes e sistematização de conceitos básicos em um currículo de modelo único, que considere a diversidade linguística e cultural para todo o sistema de ensino brasileiro. III- princípios educativos que estabeleçam a contextualização do conhecimento curricular à realidade local, social e individual de seus aprendizes, tendo em vista as singularidades que devem ser valorizadas. Está CORRETO o que se afirma apenas em:",
+      "alternativas": {
+        "a": "I e III.",
+        "b": "II e III.",
+        "c": "I.",
+        "d": "III.",
+        "e": "II."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A descrição da assertiva valoriza a pluralidade e a diversidade humana.\nAfirmativa II está incorreta. A padronização linguística não garante a diversidade das diferentes\nformas de fala do brasileiro.\nAfirmativa III está correta. O currículo local é uma excelente forma de pensar a diversidade na\nconstituição de valores e saberes de diferentes comunidades.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a04_014",
+      "numero": 14,
+      "banca": "DIRENS Aeronáutica",
+      "tipo": "multipla",
+      "enunciado": "DIRENS Aeronáutica - Estágio de Adaptação de Oficiais de Apoio da Aeronáutica (CIAAR)/Pedagogia/2018/EAOAp 2019 - Analise as afirmativas a seguir. I - Na Educação Básica o respeito aos estudantes e aos seus tempos mentais, socioemocionais, culturais e identitários é um princípio orientador de toda a ação educativa. É responsabilidade dos sistemas educativos responderem pela criação de condições para que os estudantes com sua diversidade tenham a oportunidade de receber a formação que corresponda à idade própria do percurso escolar. PORQUE II - As crianças, os adolescentes, os jovens e os adultos reconhecidos como sujeitos do processo de aprendizagem tem sua identidade cultural e humana respeitada, desenvolvida nas suas relações com os demais que compõem o coletivo da unidade escolar, em articulação com a sociedade na perspectiva da inclusão social em compromisso com a equidade e a qualidade. Assinale a opção correta.",
+      "alternativas": {
+        "a": "As duas assertivas estão corretas e a segunda complementa a ideia da primeira.",
+        "b": "A primeira assertiva está correta e a segunda incorreta, portanto não se relacionam.",
+        "c": "A primeira assertiva está correta e a segunda incorreta, pois contradiz a informação da primeira.",
+        "d": "As duas assertivas estão corretas, porém não se relacionam porque tratam de assuntos diferenciados."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O processo educativo deve considerar a idade dos estudantes, bem como\naspectos identitários - gênero, raça, aspectos regionais e aspectos socioeconômicos.\nAfirmativa II está correta. O respeito a identidade cultural é condição para o desenvolvimento pleno\nde crianças e adolescentes.\nComentário adicional: O trabalho com a diversidade é condição para o desenvolvimento psicológico,\npois a consideração da pluralidade é parte deste processo educativo.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a04_015",
+      "numero": 15,
+      "banca": "FUMARC",
+      "tipo": "multipla",
+      "enunciado": "FUMARC - Especialista em Educação Básica (SEE MG)/Nível I Grau A/Orientação Educacional Supervisão Pedagógica/2018 - “As profundas contradições que marcam a sociedade brasileira indicam a existência de graves violações destes direitos [Direitos Humanos] em consequência da exclusão social, econômica, política e cultural que promove a pobreza, as desigualdades, as discriminações, os autoritarismos, enfim, as múltiplas formas de violência contra a pessoa humana. Essas contradições também se fazem presentes no ambiente educacional (escolas, instituições de educação superior e outros espaços educativos). Cabe aos sistemas de ensino, gestores/as, professores/as e demais profissionais da educação, em todos os níveis e modalidades, envidar esforços para reverter essa situação construída historicamente. Em suma, essas contradições precisam ser reconhecidas, exigindo o compromisso dos vários agentes públicos e da sociedade com a realização dos Direitos Humanos.” (PARECER CNE/CP, n. 8/2012) A Educação em Direitos Humanos vem sendo entendida como uma mediação necessária de acesso ao legado histórico dos Direitos Humanos, bem como um alicerce para a mudança social. Nesse sentido, é INCORRETO afirmar:",
+      "alternativas": {
+        "a": "A cultura afro-brasileira deve ser desenvolvida em ambientes escolares localizados em comunidades quilombolas, demandando uma formação específica dos docentes como forma de atender à especificidade étnico-racial dos/as estudantes.",
+        "b": "A eliminação de todo conceito estereotipado dos papéis masculino e feminino em todos os níveis e em todas as formas de ensino, conforme previsto na Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, é fundamental para reduzir a situação de desigualdade e discriminação sofrida pelas mulheres no Brasil.",
+        "c": "É possível trabalhar a temática dos Direitos Humanos em todas as áreas do conhecimento, inclusive nas ciências exatas. A própria Lei de Diretrizes e Bases da Educação Nacional determina que os Direitos Humanos serão incluídos como temas transversais nos currículos escolares.",
+        "d": "Educar para os Direitos Humanos significa compreender a diversidade do ser humano, em seus vários aspectos: cultural, religioso, sexual, étnico-racial, dentre outros. Educar para a diversidade é educar para a cultura da paz.",
+        "e": "Somente sujeitos conscientes de sua realidade são capazes de transformá-la."
+      },
+      "gabarito": "B",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está incorreta. A cultura afro-brasileira não deve ser apenas trabalhada com lugares\nquilombolas, pois a diversidade e a pluralidade cultural são importantes para a democracia.\nA alternativa B está correta. As relações horizontais de gênero devem ser uma preocupação para o\nprofessor que trabalha a diversidade.\nA alternativa C está correta. Os direitos humanos são temas transversais no estudo de qualquer\ndisciplina.\nA alternativa D está correta. A descrição da alternativa contempla todas as formas de diversidade.\nA alternativa E está correta. A descrição da alternativa fala da importância da consciência cidadã."
+    },
+    {
+      "id": "a04_016",
+      "numero": 16,
+      "banca": "CETREDE",
+      "tipo": "multipla",
+      "enunciado": "CETREDE - Professor (Pref SGDA)/Educação Especial/2019 - O Brasil é signatário da Convenção Interamericana para a Eliminação de Todas as Formas de Discriminação contra as Pessoas Portadoras de Deficiência (Convenção da Guatemala, 1999). Analise as afirmativas a seguir sobre a referida convenção e marque (V) para as VERDADEIRAS e (F) para as FALSAS. ( ) A Convenção da Guatemala determina que as instituições de ensino superior devem prever, em sua organização curricular, formação docente voltada para a atenção à diversidade e que contemple conhecimentos sobre as especificidades das diferentes deficiências. ( ) As pessoas com deficiência têm os mesmos direitos humanos e liberdades fundamentais que as demais pessoas. ( ) Não deve haver qualquer diferenciação ou exclusão que possa impedir ou anular o exercício dos direitos humanos e das liberdades fundamentais da pessoa com deficiência. ( ) Nas décadas de 1980 e 1990, houve na educação dos países da América Latina e se construiu uma escola inclusiva que garante o atendimento à diversidade humana. Marque a opção que apresenta a sequência CORRETA.",
+      "alternativas": {
+        "a": "F – F – F – V.",
+        "b": "V – V – F – F.",
+        "c": "F – V – F – V.",
+        "d": "F – V – V – F.",
+        "e": "F – V – V – V."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. A convenção diz respeito ao aspecto de discriminação das pessoas com\ndeficiência e não especificamente sobre a educação superior.\nAfirmativa II está correta. Os direitos fundamentais valem para pessoas com ou sem deficiência.\nAfirmativa III está correta. Sem nenhuma exclusão ou segregação. Este é o princípio fundamental.\nAfirmativa IV está incorreta. Nas referidas décadas, os sistemas de ensino não foram inclusivos, pois\nexistiam salas especiais e até escolas específicas para pessoas com deficiência.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a04_017",
+      "numero": 17,
+      "banca": "OBJETIVA CONCURSOS",
+      "tipo": "multipla",
+      "enunciado": "OBJETIVA CONCURSOS - Pedagogo (Pref Nonoai)/2018 - Segundo Gomes in MUNANGA, analisar os itens abaixo: I - Para que a escola consiga avançar na relação entre saberes escolares/realidade social/diversidade étnico-cultural, é preciso que os(as) educadores(as) compreendam que o processo educacional também é formado por dimensões como a ética, as diferentes identidades, a diversidade, a sexualidade, a cultura, as relações raciais, entre outras. E trabalhar com essas dimensões não significa transformá-las em conteúdos escolares ou temas transversais, mas ter a sensibilidade para perceber como esses processos constituintes da nossa formação humana se manifestam na nossa vida e no próprio cotidiano escolar. II - O entendimento conceptual sobre o que é racismo, discriminação racial e preconceito poderia ajudar os(as) educadores(as) a compreenderem a especificidade do racismo brasileiro e auxiliá-los a identificar o que é uma prática racista e quando esta acontece no interior da escola.",
+      "alternativas": {
+        "a": "Os itens I e II estão corretos.",
+        "b": "Somente o item I está correto.",
+        "c": "Somente o item II está correto.",
+        "d": "Os itens I e II estão incorretos."
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. A formação de professores na área da diversidade é extremamente\nimportante para que as boas ideias virem ações em sala de aula.\nAfirmativa II está correta. A formação de professores sobre o conceito e os sentidos do racismo na\nsociedade brasileira é extremamente importante.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a04_018",
+      "numero": 18,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "FSADU (UFMA) - Analista Técnico (AGEHAB)/Pedagogo/2010 - Os processos metodológicos de formação devem partir de modalidades e estratégias de formação organizados sobre a base de trabalhos em grupo, sendo preciso centrar-se em trabalho colaborativo para assim se chegar à solução de situações problemáticas. A colaboração é um processo que pode ajudar a entender a complexidade do trabalho educativo e dar respostas melhores às situações problemáticas da prática. Assinale a alternativa que NÃO expressa o sentido de trabalho colaborativo.",
+      "alternativas": {
+        "a": "No trabalho colaborativo, os professores compartilham a interação e a troca de ideias e conhecimentos entre os membros do grupo.",
+        "b": "O trabalho colaborativo entre os professores é uma forma de entender a educação que busca propiciar espaço onde se dê o desenvolvimento de habilidades individuais e grupais, de troca e de diálogo, a partir da análise e da discussão entre todos, no momento de explorar novos conceitos.",
+        "c": "No trabalho colaborativo cada um dos membros do grupo é responsável tanto por sua aprendizagem, como pela dos outros.",
+        "d": "O trabalho colaborativo é um processo fácil de realizar, uma vez que entende a educação como um processo natural que acontece dentro de uma dinâmica dada pelo próprio processo educativo.",
+        "e": "Ao estimular o desenvolvimento do trabalho colaborativo, a escola possibilita a troca, o diálogo, o fortalecimento dos laços entre os membros do grupo, a co-responsabilização com os resultados das aprendizagens individuais e grupais."
+      },
+      "gabarito": "D",
+      "comentario": "A questão pede a negativa do trabalho colaborativo.\nA alternativa A está incorreta. A troca entre os docentes faz parte do trabalho colaborativo.\nA alternativa B está incorreta. O trabalho cooperativo é uma forma de compreensão da realidade da\nescola.\nA alternativa C está incorreta. A aprendizagem de si mesmo e dos outros ocorre em colaboração.\nA alternativa D está correta. O trabalho colaborativo é um processo difícil de realizar, pois envolve\ndiferentes interesses e expectativas de cada professor.\nA alternativa E está incorreta. O diálogo e a responsabilidade conjunta são aspectos do trabalho\ncolaborativo."
+    }
+  ]
+}

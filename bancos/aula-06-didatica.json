@@ -1,0 +1,170 @@
+{
+  "esquema": 1,
+  "id": "aula-06-didatica",
+  "aula": "06",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 06",
+  "subtitulo": "Didática e Metodologias Ativas",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 06 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    12,
+    13
+  ],
+  "tagsEdital": [
+    {
+      "n": 12,
+      "titulo": "Didática e prática histórico-cultural"
+    },
+    {
+      "n": 13,
+      "titulo": "Didática na formação do professor"
+    }
+  ],
+  "resumoMd": "1. **Conceito de Didática**:\n   - Ramo fundamental da **Pedagogia** que estuda o **processo de ensino-aprendizagem** na sua globalidade e intencionalidade.\n   - Superação da didática meramente instrumental ou técnica: a Didática Crítica articula a dimensão técnica, política e humana do ato de ensinar.\n   - **Comenius (Didática Magna)**: Marco fundador da Didática moderna — a arte de \"ensinar tudo a todos\" de forma direta e racional.\n\n2. **Metodologias Ativas de Aprendizagem**:\n   - Resgatam o protagonismo do estudante (herança da Escola Nova e do Construtivismo).\n   - O **professor atua como mediador**, orientador e facilitador do conhecimento, superando a postura tradicional do docente como único transmissor de saber.\n   - **Principais Modelos**:\n     - Aprendizagem Baseada em Problemas (PBL / ABIn - Investigação).\n     - Aprendizagem Baseada em Projetos (ABP).\n     - Estudo de Caso.\n\n3. **Sala de Aula Invertida (Flipped Classroom)**:\n   - **Autor de Referência**: Jonathan Bergmann e Aaron Sams.\n   - **Funcionamento**: Inversão da lógica tradicional. Os estudantes têm contato prévio com os conteúdos teóricos (leituras, vídeos, AVAs) em casa. O tempo presencial em sala de aula é otimizado para resolução de problemas, debates, experimentos e sanar dúvidas sob mediação docente.\n   - **Benefícios**: Maior interação professor-aluno, personalização do ritmo de aprendizagem e incentivo ao estudo autônomo.\n\n4. **Didática e Democratização do Ensino**:\n   - Conforme José Carlos Libâneo, o domínio dos conteúdos científicos e o emprego de procedimentos didáticos adequados são instrumentos indispensáveis para a democratização da escola e a emancipação das classes populares (Pedagogia Crítico-Social dos Conteúdos).\n\n---",
+  "total": 9,
+  "questoes": [
+    {
+      "id": "a06_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Sto Augusto)/I/2020 - De acordo com Bergmann, a metodologia da Sala de Aula Invertida traz alguns benefícios. Assinale a alternativa que NÃO corresponde a alguns desses benefícios.:",
+      "alternativas": {
+        "a": "Possibilita um conhecimento menos apurado dos alunos pelos seus professores.",
+        "b": "Fala a língua dos estudantes de hoje.",
+        "c": "Ajuda os estudantes que enfrentam dificuldades.",
+        "d": "Ajuda alunos com diferentes habilidades a se superarem.",
+        "e": "Intensifica a interação aluno-professor."
+      },
+      "gabarito": "B",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está incorreta. Pelo contrário, a sala de aula invertida permite conhecer melhor o estudante.\nA alternativa B está correta. Trata o estudante como ativo na aprendizagem. Só por isso.\nA alternativa C está correta. Os estudantes estudam antes o assunto, então trazem as dúvidas para sala de\naula.\nA alternativa D está correta. Por ser uma metodologia ativa essa forma garante ajuda a todos os alunos.\nA alternativa E está correta. O diálogo em uma metodologia ativa fica mais intensificado."
+    },
+    {
+      "id": "a06_002",
+      "numero": 2,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Professor (Pref Novo Hamburgo)/Educação Infantil e Ensino Fundamental Anos Iniciais/2020 - As metodologias ativas são aplicadas utilizando-se de diferentes estratégias pedagógicas de ensino que visam criar oportunidades para os alunos desenvolverem comportamentos mais ativos. Diante disso, são estratégias das metodologias ativas:",
+      "alternativas": {
+        "a": "aprendizagem por meio de jogos recreativos, aprendizagem por meio de brincadeiras de papéis, ensino baseado no debate ideológico.",
+        "b": "aprendizagem em equipe, aprendizagem por projetos, ensino baseado no método sincrético, aprendizagem baseada na investigação.",
+        "c": "aprendizagem por vídeos históricos, método baseado no ensino a distância, ensino por meio de aulas expositivas.",
+        "d": "aprendizagem baseada na investigação, ensino baseado na memorização de tabelas, aprendizagem por meio de obras clássicas.",
+        "e": "aprendizagem baseada em projetos, aprendizagem por meio de jogos, método do caso ou discussão e solução de casos, aprendizagem em equipe, ensino híbrido."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. O uso do termo \"debate ideológico\" inviabilizou a alternativa.\nA alternativa B está incorreta. O uso do termo \"método sincrético\" inviabilizou a alternativa.\nA alternativa C está incorreta. EaD não é considerada metodologia ativa conforme foi colocada no enunciado\nda questão.\nA alternativa D está incorreta. Ensino baseado em memorização não é metodologia ativa.\nA alternativa E está correta. Todas essas nomenclaturas têm como fundamento a metodologia ativa,\ninclusive o ensino híbrido. Veja bem: não é EaD, é ensino a distância e presencial alternados."
+    },
+    {
+      "id": "a06_003",
+      "numero": 3,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Professor (Pref Novo Hamburgo)/Educação Infantil e Ensino Fundamental Anos Iniciais/2020 - Quando adotadas em sala de aula, as metodologias ativas são compreendidas como sendo capazes de",
+      "alternativas": {
+        "a": "restringirem a memorização de informação, envolvendo o aprendiz em atividades mentais.",
+        "b": "proporcionarem diferentes estratégias discutidas que secundarizam diferentes situações de aprendizagem.",
+        "c": "abordarem o ensino tradicional, centrado no professor, transmitindo informação aos alunos.",
+        "d": "caracterizarem situações criadas pelo professor com a intenção de que o aprendiz tenha um papel mais ativo no seu processo de ensino e aprendizagem.",
+        "e": "criarem situações de aprendizagem em que os alunos façam coisas colocando conhecimentos em ação a serviço do mercado."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, as metodologias ativas favorecem novas relações mnemônicas,\npois são oferecidas diferentes perspectivas da realidade vivenciada.\nA alternativa B está incorreta. Pelo contrário, as metodologias ativas colocam em primeiro lugar as situações\nde aprendizagem.\nA alternativa C está incorreta. Pelo contrário, as metodologias ativas estão dentro da escola nova ou\npedagogia nova.\nA alternativa D está correta. São situações que o professor coloca o estudante como protagonista da\naprendizagem. Podem ser de diferentes formas: pedagogia de projetos, sala de aula invertida e demais\npedagogias novas.\nA alternativa E está incorreta. O termo \"a serviço do mercado\" inviabilizou a alternativa, pois a metodologia\nativa seria fundamentalmente tecnicista e não seria pedagogia nova."
+    },
+    {
+      "id": "a06_004",
+      "numero": 4,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - FUNDATEC - Professor (Pref Santa Cecília do Sul)/Pedagogia/2019 - Segundo Bergmann, o que se propõe com a inversão da aprendizagem para o domínio é que os alunos assumam a responsabilidade por sua própria aprendizagem sem, contudo, eximir o professor de suas obrigações enquanto tutor/orientador. Com base nessa informação, assinale a alternativa INCORRETA quanto às vantagens dessa inversão.",
+      "alternativas": {
+        "a": "Ajuda os estudantes que enfrentam dificuldades.",
+        "b": "Não muda o gerenciamento da sala de aula.",
+        "c": "Ajuda alunos com diferentes habilidades a se superarem.",
+        "d": "Intensifica a interação aluno-professor.",
+        "e": "Possibilita que os professores conheçam melhor seus alunos."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está correta. A inversão da aprendizagem coloca o aluno como protagonista, por isso a\ntentativa deles em buscar melhorar as duas dificuldades.\nA alternativa B está incorreta. Muda, pois os alunos resolvem questões de maneira ativa antes da aula\nexpositiva. Os alunos pesquisam sobre os assuntos ou problemas.\nA alternativa C está correta. Os alunos trabalham em equipe, por isso a superação.\nA alternativa D está correta. É intensificada esta relação, pois o professor e o aluno têm que conversar sobre\nos assuntos da aula - o que foi pesquisado, as dúvidas, etc.\nA alternativa E está correta. Os professores têm que saber como o aluno estuda e pesquisa determinado\nassunto."
+    },
+    {
+      "id": "a06_005",
+      "numero": 5,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Supervisor Escolar (Pref Campos Novos)/2019 - A Didática é um dos campos teóricos (ou teórico-metodológicos) mais específicos da função docente, pois dominar bem uma área de conhecimento não nos faz professores, mas especialistas naquela área. Desse modo, é correto afirmar sobre a didática e o trabalho pedagógico:",
+      "alternativas": {
+        "a": "A didática deve se preocupar com a prática, e as demais disciplinas, com a teoria.",
+        "b": "A didática deve preocupar-se com técnicas de ensino e não com a aprendizagem.",
+        "c": "A didática deve atuar como articuladora do ensino e da aprendizagem.",
+        "d": "Educar é apenas transmitir conhecimentos, sendo esse o objeto principal da didática.",
+        "e": "O ensino é prática orientada pela didática, o que confere à mesma um caráter somente prescritivo e verificador."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A didática é uma área que é teórica e prática.\nA alternativa B está incorreta. A didática não é só técnica. A didática tem teoria também.\nA alternativa C está correta. A didática é a favor do processo de ensino-aprendizagem. Não é a favor\nsomente da \"ensinagem\".\nA alternativa D está incorreta. Educar não é transmitir conhecimentos, mas construir conhecimentos.\nA alternativa E está incorreta. A didática não é prescritiva. Talvez no máximo orientadora da prática\npedagógica."
+    },
+    {
+      "id": "a06_006",
+      "numero": 6,
+      "banca": "FCM",
+      "tipo": "multipla",
+      "enunciado": "FCM - CEFETMINAS - Supervisor Pedagógico (Pref Guarani)/2019 - A equipe pedagógica da Escola EMP de Ensino Fundamental realizou uma reunião com os professores para discutirem novas estratégias didático-pedagógicas em sala de aula. Ao final, a supervisora esclareceu sobre equívocos e dificuldades que os professores têm apresentado na implementação de novas práticas, que mais se assemelham à adoção de modismos na sala de aula e menos a oportunidades de reflexão sobre a própria prática. Isso acontece porque os professores NÃO:",
+      "alternativas": {
+        "a": "desejam mudar e esperam, nas soluções rápidas, alternativas para os problemas que estão vivendo na sala de aula.",
+        "b": "adotam determinadas práticas que fazem parte do mercado de ideias pedagógicas de escolas filiadas a grandes redes de ensino.",
+        "c": "consideram ser necessário ter fundamentos teóricos e práticos para usarem alternativas metodológicas elaboradas por outros autores.",
+        "d": "percebem que, para serem modernos e se mostrarem atualizados, devem repetir o novo discurso sobre estratégias pedagógicas inovadoras."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa negativa.\nA alternativa A está correta. De certa forma, os professores desejam receitas para serem aplicadas em sala\nde aula.\nA alternativa B está correta. O mercado pedagógico está em ampla expansão no plano das ideias. Um\nexemplo é só olhar as determinações de técnicas infalíveis e meritocracia.\nA alternativa C está incorreta. A dificuldade do professor em considerar a teoria e prática de forma conjunta\nna ação pedagógica.\nA alternativa D está correta. A fala fica apenas no discurso e não se transforma em ações em sala de aula."
+    },
+    {
+      "id": "a06_007",
+      "numero": 7,
+      "banca": "CRESCER",
+      "tipo": "multipla",
+      "enunciado": "CRESCER - Professor (Pref Várzea Grande PI)/Ciências/EJA/2019 - A Didática ocupa-se das questões de articulação entre ensino e aprendizagem, visando à organização e ao controle do processo educacional, sob um ponto de vista intencional e sistematizado. Nesse sentido, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A verdadeira didática é aquela que modela os educandos a partir do seu exterior, meramente transmitindo conhecimentos caracterizados como coisa morta. Dessa maneira, as pessoas não desenvolverão uma consciência verdadeira.",
+        "b": "As concepções de educação fundamentam as teorias clássicas de ensino-aprendizagem, as quais sustentam as tendências pedagógicas que norteiam as diferentes concepções de didática, presentes nas práticas pedagógicas vivenciadas no decorrer da história da educação ocidental.",
+        "c": "A didática mais assertiva é aquela que propõe desenvolver pessoas dependentes, ao deixar clara a necessidade de formar pessoas sem a capacidade de falar e agir por si próprias, o que significa incapazes de se libertar da condição de tutela para se tornar um ser crítico diante da sociedade.",
+        "d": "Pensar a Didática implica pensar no ato de ensinar, que, por sua vez, traduz uma ação do homem, que, como qualquer outra ação, é isenta de uma intenção."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. A didática não modela os educandos, mas propõe caminhos.\nA alternativa B está correta. A didática é consequência de teorias e práticas pedagógicas anteriores à\nconstrução do campo do saber didático. Por isso, não é possível pensar uma didática única, mas várias\ndidáticas relativamente diferentes entre si.\nA alternativa C está incorreta. Em geral, a didática propõe a formação de pessoas independentes.\nA alternativa D está incorreta. Não é apenas o ato de ensinar, é o processo de ensino-aprendizagem."
+    },
+    {
+      "id": "a06_008",
+      "numero": 8,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Administrador Escolar (Pref Campos Novos)/2019 - Identifique abaixo as afirmativas verdadeiras (V) e as falsas (F): ( ) A Didática é a arte de ensinar, e no trabalho do professor ela é significativa e importante, pois norteia os caminhos a serem seguidos. ( ) A Didática participa da trama das ações políticas, administrativas, econômicas e culturais contextualizadas, que incidem na práxis do ensino. ( ) A Didática é responsável por criar métodos que são capazes de ensinar tudo a todos. ( ) O ensino é uma prática social complexa. Realizado por seres humanos entre seres humanos, o ensino é transformado pela ação e relação entre os sujeitos (professores e estudantes) situados em contextos diversos. ( ) O ensino é prática orientada pela didática, o que lhe confere um caráter prescritivo. Assinale a alternativa que indica a sequência correta, de cima para baixo.",
+      "alternativas": {
+        "a": "V • V • V • F • V",
+        "b": "V • V • V • F • F",
+        "c": "V • V • F • V • F",
+        "d": "F • V • F • V • F",
+        "e": "F • F • F • V • F"
+      },
+      "gabarito": "C",
+      "comentario": "A primeira afirmativa está correta. Orienta caminhos e pode ser definida como \"arte\".\nA segunda afirmativa está correta. Os diferentes contextos influenciam na didática, pois ela não é uma área\nisolada.\nA terceira alternativa está incorreta. Ensinar tudo a todos é uma crença religiosa da Didática Magna\n(Comenius) e não está de acordo com a nova visão da didática moderna.\nA quarta alternativa está correta. A complexidade da didática está justamente a relação entre seres\nhumanos. Por isso, a didática pode ter diferentes enfoques.\nA quinta alternativa está incorreta. Prescrição é um termo que não deve existir no campo da didática. No\nmáximo, o termo orientação deve estar marcado na descrição da alternativa."
+    },
+    {
+      "id": "a06_009",
+      "numero": 9,
+      "banca": "FEPESE",
+      "tipo": "multipla",
+      "enunciado": "FEPESE - Administrador Escolar (Pref Campos Novos)/2019 - Assinale a alternativa correta sobre o papel desempenhado pela didática e pelo trabalho pedagógico na escola:",
+      "alternativas": {
+        "a": "A didática não tem o compromisso de desenvolver práticas de ensino que promovam um ensino eficiente, com significados para os alunos e que contribuam para a transformação social.",
+        "b": "A didática, mesmo conjugando estudos de outras áreas, não está inserida no contexto das ciências da Educação, pois tem objeto próprio de estudo, que é o ensino e suas dimensões.",
+        "c": "A didática tem um núcleo próprio de estudos: a relação ensino-aprendizagem, na qual estão integrados apenas os métodos e as formas de organização do ensino.",
+        "d": "A didática possui a função de supervisionar o trabalho docente, proporcionando a socialização dos conteúdos e o desenvolvimento do aspecto cognitivo dos alunos.",
+        "e": "A prática pedagógica não se reduz só ao saber da sala de aula, pois é preciso garantir uma organização escolar de qualidade, favorecida por uma didática que seja mediadora nas relações multidimensionais."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A didática tem como compromisso melhorar os processos de ensinoaprendizagem.\nA alternativa B está incorreta. A didática está inserida dentro da ciência pedagógica, pois é uma articulação\nda teoria e da prática.\nA alternativa C está incorreta. Não são apenas os métodos, mas fundamentos do ensino-aprendizagem.\nA alternativa D está incorreta. A didática é uma teoria/prática orientadora e não relacionada a supervisão.\nA alternativa E está correta. A didática não é só sala de aula, mas é pensar a educação como um todo dentro\nda escola."
+    }
+  ]
+}

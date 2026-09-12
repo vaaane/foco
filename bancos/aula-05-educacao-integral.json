@@ -1,0 +1,85 @@
+{
+  "esquema": 1,
+  "id": "aula-05-educacao-integral",
+  "aula": "05",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 05",
+  "subtitulo": "Educação Integral",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 05 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    5
+  ],
+  "tagsEdital": [
+    {
+      "n": 5,
+      "titulo": "Educação integral"
+    }
+  ],
+  "resumoMd": "1. **Evolução Histórica e Paradigma da Educação Integral**:\n   - **Histórico**: Marco nos anos 1980/1990 com os **CIEPs (Centros Integrados de Educação Pública / Brizolões)** no Rio de Janeiro, idealizados por **Darcy Ribeiro** e **Anísio Teixeira**.\n   - **Dupla Função**:\n     - **Função Social**: Proporcionar proteção, segurança e alimentação no contraturno escolar, apoiando as famílias.\n     - **Função Educacional**: Oferecer desenvolvimento humano pleno por meio de currículo diversificado, articulado e contextualizado.\n\n2. **Educação Integral vs. Visão Compensatória/Assistencialista**:\n   - As bancas (especialmente CEBRASPE, FEPESE, VUNESP) cobram a superação da **visão compensatória/assistencialista** (que vê o tempo integral como mero \"depósito\" de crianças ou reforço escolar).\n   - **Direito e Equidade**: A ampliação do tempo escolar é um **direito educacional** e um mecanismo de **redução das desigualdades sociais**, aproximando a escola pública das oportunidades já oferecidas na rede privada.\n\n3. **Tempo, Espaço e Currículo no PPP**:\n   - **Variáveis Tempo e Espaço**: A Educação Integral reorganiza os tempos escolares e expande os espaços educativos para os territórios comunitários, culturais e sociais (MEC / Programa Mais Educação).\n   - **Integração Curricular**: O currículo **não deve ser fragmentado** ou dividido em \"ensino formal x passatempo\". Deve estar plenamente integrado ao **Projeto Político-Pedagógico (PPP)** da escola.\n   - **Autores de Referência**: Jaqueline Moll, Maurício Cury, Coelho e Cavaliere.\n\n---",
+  "total": 4,
+  "questoes": [
+    {
+      "id": "a05_001",
+      "numero": 1,
+      "banca": "SELECON",
+      "tipo": "multipla",
+      "enunciado": "SELECON - Professor (SME Cuiabá)/Artes/Ensino Fundamental/2019 - A meta nº 6 do Plano Municipal de Educação de Cuiabá é \"oferecer, em parceria com o MEC/FNDE, ações voltadas para a educação integral no contraturno, ampliando a carga horária para os alunos matriculados na Educação Básica da rede pública municipal\". Uma das estratégias apontadas nesse plano para atingimento desta meta é:",
+      "alternativas": {
+        "a": "garantir uma política de formação inicial e continuada para os profissionais do ensino fundamental, com a colaboração da União, do Estado, de instituições de ensino superior e ONGs",
+        "b": "fomentar a articulação das escolas com os diferentes espaços educativos culturais e esportivos e equipamentos públicos, centros comunitários e bibliotecas, bem como outros equipamentos culturais",
+        "c": "implementar, em regime de colaboração com a União, ações de alfabetização de jovens e adultos, com a garantia de continuidade da escolarização básica",
+        "d": "garantir a orientação e o monitoramento dos processos de credenciamento e autorização das instituições privadas com atendimento específico em Educação Infantil"
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O termo ONG está colocado de maneira totalmente inadequada.\nA alternativa B está correta. O uso de diferentes espaços educativos da educação integral está contemplado\nnesta alternativa.\nA alternativa C está incorreta. A educação integral é uma possibilidade maior para as crianças e adolescentes\ndo ensino regular.\nA alternativa D está incorreta. Essa é uma ação burocrática e não tem a ver diretamente com o conceito de\neducação integral."
+    },
+    {
+      "id": "a05_002",
+      "numero": 2,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Campinas)/Educação Básica I/Educação Infantil/2019 - Sobre o tema escola para a Educação Integral, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Novas tarefas são atribuídas aos profissionais da escola com a implementação da Educação Integral, as quais têm sido incorporadas de forma consciente e comprometida, minimizando as tensões entre os profissionais, famílias e a própria comunidade.",
+        "b": "A abrangência das funções da escola, para a Educação Integral, nos dias atuais, coloca-se como um desafio, principalmente como uma instituição educadora e protetora, cabendo ao professor a clareza e firmeza da finalidade pedagógica, sem se envolver com as demais funções extrassala.",
+        "c": "A Educação Integral deve estar inscrita no amplo campo das políticas sociais, secundarizando a especificidade das políticas educacionais dirigidas às crianças, aos jovens e aos adultos, pois atende a um complexo e estruturado conjunto de disposições legais mais amplo em vigor no país.",
+        "d": "A Educação Integral no Brasil, com base em legislação específica, nos últimos anos, traz novas possibilidades de articulação entre os campos da educação do desenvolvimento social, da saúde, do esporte, da inclusão digital e da cultura, ainda que o caminho a ser percorrido seja longo até transformar o legal em real.",
+        "e": "O projeto de Educação Integral é fruto de pesquisas e contribuições de especialistas das secretarias municipais de educação e saúde, que, ao elaborarem um projeto particular à realidade de cada município, apresentam-no à comunidade escolar e à sociedade civil para aprovação e ajustes quando necessário."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. A implementação de novas tarefas não tem necessariamente ligação com\nausência de conflitos.\nA alternativa B está incorreta. A realidade extraescolar deve fazer parte da educação integral.\nA alternativa C está incorreta. A educação integral deve ser prioridade, pois as políticas públicas para\ncrianças e adolescentes deve ser prioridade pela legislação vigente.\nA alternativa D está correta. A visão ampla e abrangente da educação integral é caracterizada nessa\nalternativa.\nA alternativa E está incorreta. A secretaria de saúde não necessariamente deve compor a educação integral."
+    },
+    {
+      "id": "a05_003",
+      "numero": 3,
+      "banca": "FUNRIO",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO - Professor II (Mesquita)/Anos Iniciais/2016 - Hoje em dia, há projetos de educação integral em jornada ampliada cuja dimensão maior está centrada na extensão do tempo fora da escola em atividades organizadas por vários tipos de parceiros. Muitas vezes, as atividades desenvolvidas são desconhecidas dos professores e não fazem parte do planejamento docente. Para Coelho (2009), essa situação fragmenta o trabalho pedagógico e dilui a função da escola porque:",
+      "alternativas": {
+        "a": "as atividades oferecidas aos alunos, embora instigantes e interessantes, precisam ser não intencionais e conduzidas por voluntários, empresas e clubes.",
+        "b": "espolia a instituição formal de ensino daquele que deveria ser seu objetivo primeiro, o de oferecer uma formação integral e integrada a todas as crianças.",
+        "c": "as atividades não se integram no projeto político-pedagógico construído pelo coletivo dos professores sob a supervisão da direção escolar.",
+        "d": "só pode ser implantada em escolas particulares já que demanda o aporte de grandes recursos financeiros e depende de contribuições empresariais.",
+        "e": "tem como meta o trabalho com percepções sensitivas diretas e a separação entre atividades manuais e intelectuais."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Toda atividade pedagógica deve ser intencional.\nA alternativa B está correta. Os docentes devem ter em mente a formação que a criança tem em diferentes\nespaços e tempos educativos.\nA alternativa C está incorreta. As atividades devem estar integradas ao PPP.\nA alternativa D está incorreta. A educação integral deve estar na escola pública pelo princípio de equidade.\nA alternativa E está incorreta. Pelo contrário, a educação integral deve juntar o trabalho manual e\nintelectual."
+    },
+    {
+      "id": "a05_004",
+      "numero": 4,
+      "banca": "DIPS UFLA",
+      "tipo": "multipla",
+      "enunciado": "DIPS UFLA - CAIPIMES - Professor (Pref Santo André)/Educação Infantil e Ensino Fundamental/2013 Jaqueline Moll nos alerta para manter a reflexão a respeito da escola de tempo integral, de modo a superar as visões preconceituosas para uma visão de valorização do sujeito de vida-corpo-espaço-tempo, em uma perspectiva de alargar a docência tradicional para uma docência turno contraturno com objetivo de educação integral. Para isso se concretizar é preciso: I- reforçar o ensino de conhecimentos científicos, para compensar as lacunas de oportunidade social. II- superar a didática aulista de enclausuramento e domesticação de corpos dos alunos em sala de aula. III- considerar parte das propostas educacionais, a vivência e aprendizagem de emoções, memórias, identidades. IV- organizar projetos intra e extracurriculares para propiciar o conhecimento das condições sociais injustas marcadas pela manutenção do status quo. Está correto o afirmado em:",
+      "alternativas": {
+        "a": "l, ll, lll e lV.",
+        "b": "l, lll e lV, apenas.",
+        "c": "ll, lll e lV, apenas.",
+        "d": "Il e lll, apenas."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. A educação integral deve ter vínculo com outras formas de saberes (popular,\nfamiliar e da comunidade como um todo)\nAfirmativa II está correta. A educação integral deve ser ativa e baseada em pesquisa.\nAfirmativa III está correta. A construção de emoções e da identidade faz parte da visão ampla de educação\nintegral.\nAfirmativa IV está correta. Os projetos podem favorecer a reflexão de situações de desigualdade social.\nAlternativa correta letra C."
+    }
+  ]
+}

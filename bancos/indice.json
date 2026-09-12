@@ -80,6 +80,61 @@
         }
       ],
       "total": 6
+    },
+    {
+      "arquivo": "aula-04-planejamento-participativo-ppp.json",
+      "aula": "04",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 04",
+      "itensEdital": [
+        1,
+        21
+      ],
+      "tagsEdital": [
+        {
+          "n": 1,
+          "titulo": "Planejamento e organização do trabalho pedagógico"
+        },
+        {
+          "n": 21,
+          "titulo": "Papel político-pedagógico e organicidade do ensinar, aprender e pesquisar"
+        }
+      ],
+      "total": 18
+    },
+    {
+      "arquivo": "aula-05-educacao-integral.json",
+      "aula": "05",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 05",
+      "itensEdital": [
+        5
+      ],
+      "tagsEdital": [
+        {
+          "n": 5,
+          "titulo": "Educação integral"
+        }
+      ],
+      "total": 4
+    },
+    {
+      "arquivo": "aula-06-didatica.json",
+      "aula": "06",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 06",
+      "itensEdital": [
+        12,
+        13
+      ],
+      "tagsEdital": [
+        {
+          "n": 12,
+          "titulo": "Didática e prática histórico-cultural"
+        },
+        {
+          "n": 13,
+          "titulo": "Didática na formação do professor"
+        }
+      ],
+      "total": 9
     }
   ]
 }
