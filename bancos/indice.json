@@ -135,6 +135,71 @@
         }
       ],
       "total": 9
+    },
+    {
+      "arquivo": "aula-07-processos-ensino-aprendizagem.json",
+      "aula": "07",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 07",
+      "itensEdital": [
+        15
+      ],
+      "tagsEdital": [
+        {
+          "n": 15,
+          "titulo": "Processos de ensino e de aprendizagem"
+        }
+      ],
+      "total": 32
+    },
+    {
+      "arquivo": "aula-08-relacao-professor-aluno-etica.json",
+      "aula": "08",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 08",
+      "itensEdital": [
+        16,
+        17
+      ],
+      "tagsEdital": [
+        {
+          "n": 16,
+          "titulo": "Relação professor/aluno"
+        },
+        {
+          "n": 17,
+          "titulo": "Compromisso social e ético do professor"
+        }
+      ],
+      "total": 14
+    },
+    {
+      "arquivo": "aula-09-sociologia-educacao.json",
+      "aula": "09",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 09",
+      "itensEdital": [
+        10
+      ],
+      "tagsEdital": [
+        {
+          "n": 10,
+          "titulo": "Educação/sociedade e prática escolar"
+        }
+      ],
+      "total": 19
+    },
+    {
+      "arquivo": "aula-10-projeto-politico-pedagogico.json",
+      "aula": "10",
+      "titulo": "Temas Educacionais e Pedagógicos - AULA 10",
+      "itensEdital": [
+        22
+      ],
+      "tagsEdital": [
+        {
+          "n": 22,
+          "titulo": "Projeto político-pedagógico da escola (PPP)"
+        }
+      ],
+      "total": 20
     }
   ]
 }

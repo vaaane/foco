@@ -1,0 +1,319 @@
+{
+  "esquema": 1,
+  "id": "aula-09-sociologia-educacao",
+  "aula": "09",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 09",
+  "subtitulo": "Sociologia da Educação",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 09 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    10
+  ],
+  "tagsEdital": [
+    {
+      "n": 10,
+      "titulo": "Educação/sociedade e prática escolar"
+    }
+  ],
+  "resumoMd": "1. **Fundamentos do Materialismo Histórico-Dialético (Karl Marx)**:\n   - O ser humano se constrói e transforma a si mesmo ao transformar a natureza pelo **trabalho**.\n   - As condições materiais de produção de uma sociedade determinam a consciência e as formas sociais de vida (*\"não é a consciência do homem que determina o seu ser, mas o seu ser social que determina a sua consciência\"*).\n\n2. **Infraestrutura vs. Superestrutura**:\n   - **Infraestrutura (Base Econômica)**: Relações de produção e forças produtivas (fábricas, economia, modo de produção capitalista).\n   - **Superestrutura (Base Ideológica e Jurídico-Político)**: Produção de ideias, leis, religião, política e a **Escola**. A superestrutura é condicionada e serve à manutenção da infraestrutura capitalista.\n\n3. **Educação, Classe Social e Ideologia em Marx**:\n   - **Escola de Classe**: Na sociedade capitalista, a educação é atravessada pela luta de classes. Para a classe dominante (burguesia), a escola atua na transmissão da ideologia dominante e adestramento da força de trabalho.\n   - **Alienação e Falsa Consciência**: A aceitação passiva da ideologia burguesa gera a falsa consciência na classe trabalhadora (proletariado).\n   - **Proposta Educacional Marxista**: Defesa do acesso ao conhecimento científico e omnilateralidade (formação integral física, intelectual e tecnológica) unindo ensino e trabalho produtivo (sistema fabril) para superar a divisão entre trabalho manual e intelectual.\n\n4. **Tríade da Sociologia Clássica (Comparativo)**:\n   - **Karl Marx**: Foco no conflito, contradição, luta de classes e transformação social revolucionária.\n   - **Émile Durkheim**: Foco na harmonia, coesão social, fatos sociais e a educação como socialização moral das novas gerações.\n   - **Max Weber**: Foco na ação social, dominação política (racional-legal, tradicional, carismática) e desencantamento do mundo.\n\n---",
+  "total": 19,
+  "questoes": [
+    {
+      "id": "a09_001",
+      "numero": 1,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Sociólogo (Pref Betim)/2020 - A cientificidade da sociologia está profundamente envolvida com a história, principalmente no tocante à evolução, ao progresso e ao desenvolvimento da sociedade moderna. A respeito desse tema, assinale a alternativa correta. A cientificidade da sociologia está profundamente envolvida com a história, principalmente no tocante à evolução, ao progresso e ao desenvolvimento da sociedade moderna. A respeito desse tema, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "As rápidas transformações ocorridas nos séculos XVIII e XIX trouxeram à tona questões como urbanização, aceleração do tempo e novas formas de pobreza. No entanto não é possível fazer uma conceituação referente ao processo de proletarização.",
+        "b": "O teocentrismo, movimento intelectual com o objetivo de entender e organizar a sociedade a partir da razão, foi fundamental para a Revolução Francesa. Esse evento incitou novos ideais sociais e políticos, assim como novos arranjos na forma de organizar e distribuir o poder político.",
+        "c": "Karl Marx foi um dos principais autores a formular um conjunto de conceitos explicativos sobre as mudanças históricas que ocorrem na idade moderna. Em seus estudos sobre a divisão social do trabalho, o autor demarcou a passagem da solidariedade orgânica (característica das sociedades pré-capitalistas) para a solidariedade mecânica (característica das sociedades pós-capitalistas).",
+        "d": "Para Émile Durkheim, o desenvolvimento da modernidade é marcado por um processo de racionalização, sendo esse o centro da sua teoria sociológica. Em sua definição teórica, a racionalização é a diminuição/eliminação da dimensão mágica e religiosa em favor do surgimento da ciência como método de interpretação de mundo.",
+        "e": "Os clássicos da sociologia, como Karl Marx, Émile Durkheim e Max Weber, além de oferecer diferentes explicações sobre a sociedade moderna, contribuíram com diferentes epistemologias e metodologias para a teoria sociológica."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Os séculos XVIII e XIX levaram a formas de conceituar a formação de\nproletariado.\nA alternativa B está incorreta. O teocentrismo é fundamentado na fé e não na razão.\nA alternativa C está incorreta. Karl Marx estudos majoritariamente a sociedade capitalista.\nA alternativa D está incorreta. O processo de racionalização não é definido por Durkheim, mas por Max\nWeber.\nA alternativa E está correta. Cada autor possui uma visão sociológica e epistemológica distintas."
+    },
+    {
+      "id": "a09_002",
+      "numero": 2,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor Efetivo de Ensino Básico, Técnico e Tecnológico (IF PB)/Sociologia/2019 -Leia atentamente as assertivas abaixo e identifique os seus respectivos autores - se Weber, Durkheim ou Marx. I. “O concreto é concreto porque é a síntese de múltiplas determinações, isto é, unidade do diverso. Aparece no pensamento como processo de síntese, como resultado, não como ponto de partida, ainda que seja o efetivo ponto de partida e, em consequência, o ponto de partida também da intuição e da representação” II. “No campo das ciências sociais, [...] o que nos interessa é o aspecto qualitativo dos fatos. [...] Nas ciências sociais, se trata da intervenção de fenômenos espirituais, cuja compreensão por revivência constitui uma tarefa especificamente diferente da que poderiam, ou quereriam, resolver as fórmulas do conhecimento exato da natureza.” III. “Muitas vezes se pensou que tais fenômenos [sociais], por causa de sua extrema complexidade, ou eram refratários à ciência, ou só poderiam entrar nela reduzidos a suas condições elementares, sejam psíquicas, sejam orgânicas, isto é, despojados de sua natureza própria. Procuramos estabelecer, ao contrário, que era possível tratá-los cientificamente sem nada retirar-lhes de seus caracteres específicos.”",
+      "alternativas": {
+        "a": "Durkheim, Weber e Marx",
+        "b": "Marx, Weber e Durkheim",
+        "c": "Weber, Marx e Durkheim",
+        "d": "Marx, Durkheim e Weber",
+        "e": "Weber, Durkheim e Marx"
+      },
+      "gabarito": "B",
+      "comentario": "A afirmativa I é Marx. O trecho em questão aborda a dialética que é um fundamento básico da teoria\nmarxista.\nA afirmativa II está é Max Weber. O trecho aborda a visão compreensiva trazida por Weber na aplicação do\nentendimento do meio social.\nA afirmativa III é Durkheim. Durkheim aborda a importância do recorte sociológico.\nA alternativa B está correta."
+    },
+    {
+      "id": "a09_003",
+      "numero": 3,
+      "banca": "CETREDE",
+      "tipo": "multipla",
+      "enunciado": "CETREDE - Sociólogo (Pref Juazeiro do N)/2019 - Na história da investigação sociológica destacam-se alguns autores clássicos. Acerca das diferentes formulações elaboradas por cada um deles, numere a coluna B pela coluna A, fazendo a correspondência entre o autor e o seu conceito. COLUNA A I. Karl Marx. II. Émile Durkheim. III. Max Weber. COLUNA B ( ) Método Compreensivo. ( ) Método Funcionalista. ( ) Método Histórico-Dialético. ( ) Divisão do Trabalho Social. ( ) Modo de Produção Capitalista. ( ) Racionalismo da Dominação do Mundo. Marque a opção que apresenta a sequência CORRETA.",
+      "alternativas": {
+        "a": "III – II – I – I – I – III.",
+        "b": "II – III – I – II – I – II.",
+        "c": "III – II – I – II – I – III.",
+        "d": "I – III – II – III – II – I.",
+        "e": "II – III – I – I – I – II."
+      },
+      "gabarito": "C",
+      "comentario": "Max Weber - Método Compreensivo. O método compreensivo é uma forma de abordar a fenômeno social\nna visão weberiana.\nEmile Durkheim - Método Funcionalista. Durkheim aborda a visão funcional da sociedade do ponto de vista\nda harmonia social.\nKarl Marx - Método Histórico-Dialético. A teoria marxista é baseada no materialismo histórico-dialético.\nEmile Durkheim - Divisão do Trabalho Social. A divisão social do trabalho é aplicada como forma de pensar\na harmonia social.\nKarl Marx- Modo de Produção Capitalista. Marx estudou o modo de produção capitalista em \"O Capital\"\nMax Weber - Racionalismo da Dominação do Mundo. Weber estudou as diferentes formas de dominação\nna sociedade moderna.\nA alternativa C está correta."
+    },
+    {
+      "id": "a09_004",
+      "numero": 4,
+      "banca": "Machado de Assis",
+      "tipo": "multipla",
+      "enunciado": "Machado de Assis - Sociólogo (Pref Paço do Lumiar)/2019 - Karl Marx é considerado por muitos estudiosos um dos maiores pensadores da humanidade, fora responsável por cunhar vários conceitos bastante usuais nos dias de hoje tendo grande aplicabilidade ao estudo da realidade. Assinale a alternativa que melhor corresponde a dois desses conceitos.",
+      "alternativas": {
+        "a": "Sofismo e Materialismo.",
+        "b": "Pragmatismo e Pós-modernismo.",
+        "c": "Materialismo Histórico e Materialismo Dialético.",
+        "d": "Consumismo e Existencialismo."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Sofismo é uma escola filosófica da Grécia Antiga. Não tem relação com Marx.\nA alternativa B está incorreta. O pragmatismo e o pós-modernismo são posteriores ao autor Karl Marx.\nA alternativa C está correta. O materialismo histórico é fundamentado pela luta de classes e o materialismo\ndialético como caminho para pensar o método científico.\nA alternativa D está incorreta. O existencialismo e o consumismo são posteriores ao autor Karl Marx."
+    },
+    {
+      "id": "a09_005",
+      "numero": 5,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Aluno-Oficial (PM SP)/2019 - O Brasil possui uma das dez maiores diferenças salariais do mundo entre o nível operacional e o alto escalão das empresas, de acordo com um estudo da consultoria Mercer, que analisou salários em 75 países. No Brasil, um profissional com um cargo de liderança, como gerência ou diretoria de departamento, recebe quase 14 vezes o salário de um funcionário de nível operacional, como operadores de máquinas. Isso faz do Brasil o décimo país com a maior diferença entre um nível e outro. (Acessível em https://economia.uol.com.br/noticias/valor-online/2013/05/28/ brasiltem- uma-das-maiores-diferencas-salariais-entre-a-base-e-o-topo.htm). Considerando os dados e as informações do texto, selecione a alternativa correta.",
+      "alternativas": {
+        "a": "Os dados da notícia justificam a concepção de solidariedade orgânica, sustentando a divisão do trabalho, de acordo com Émile Durkheim.",
+        "b": "A ditadura do proletariado defende a divisão do trabalho entre atividades operacionais e de liderança, inspirada em Karl Marx.",
+        "c": "As diferenças salariais entre atividades operacionais e de liderança promovem a justiça social, conforme Max Weber.",
+        "d": "As diferenças salariais extremas na remuneração do trabalho estão de acordo com a ética protestante, segundo Émile Durkheim.",
+        "e": "A divisão do trabalho entre atividades operacionais e de liderança constitui instrumento de alienação, na perspectiva de Karl Marx."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Durkheim não aborda o conceito de solidariedade orgânica.\nA alternativa B está incorreta. A ditadura do proletariado defende a estatização total dos meios de\nprodução.\nA alternativa C está incorreta. Max Weber não aborda dessa forma o conceito de justiça social. A análise do\nautor é baseada na dominação.\nA alternativa D está incorreta. Durkheim não abordou a ética protestante, pois foi Max Weber.\nA alternativa E está correta. O conceito de alienação em Marx é definido pela divisão do trabalho, pois o\ntrabalhador não tem a visão completa da sua atuação no mundo produtivo."
+    },
+    {
+      "id": "a09_006",
+      "numero": 6,
+      "banca": "FUNDEP",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP - Professor (Pref Ervália)/Docente Para Ensino Fundamental e Médio/Sociologia e Filosofia/2019 - Em meados do século XIX, Karl Marx (1818-1883), afastando-se da filosofia idealista alemã, buscou compreender o papel do ser humano enquanto agente transformador da sociedade. Já Émile Durkheim (1858-1917) e Max Weber (1864-1920) delimitaram e investigaram vários temas, assim como deram a eles definições sociológicas. A esse respeito, relacione a COLUNA I com a COLUNA II, associando os autores clássicos da Sociologia aos fragmentos de suas teorias. COLUNA I 1. Émile Durkheim 2. Karl Marx 3. Max Weber COLUNA II ( ) “A solidariedade social é forte, inclina fortemente os homens entre si, coloca-os em frequente contato, multiplica as ocasiões que têm de se relacionarem. [...] Quanto mais solidários são os membros de uma sociedade, mais relações diversas sustentam, seja entre si, seja com o grupo tomado coletivamente, porque se os seus encontros fossem raros eles não dependeriam uns dos outros, senão de maneira frágil e intermitente”. (Quintaneiro, 2002, p. 81) ( ) “As camadas mais baixas do proletariado – as mais instáveis do ponto de vista econômico, de muito difícil aceso às concepções racionais – e as camadas da pequena burguesia – em decadência proletária ou em constante indigência e ameaçadas de proletarização – são presa fácil de missões religiosas, sobretudo as que adquirem forma mágica ou mágico-orgiástica [...] Sem dúvida é mais fácil que prosperem sobre esse solo os elementos emotivos do que os racionais de uma ética religiosa”. (Quintaneiro, 2002, p. 133) ( ) “Um primeiro pressuposto de toda existência humana e, portanto, de toda história [...] (é) que os homens devem estar em condições de poder viver a fim de “fazer história”. Mas, para viver, é necessário, antes de mais nada, beber, comer, ter um teto onde se abrigar, vestir-se etc. o primeiro fato histórico é, pois, a produção dos meios que permitem satisfazer essas necessidades, a produção da própria vida material; trata-se de um fato histórico; de uma condição fundamental de toda a história, que é necessário, tanto hoje como há milhares de anos, executar, dia a dia, hora a hora, a fim de manter os homens vivos”. (Quintaneiro, 2002, p. 32) Assinale a sequência correta.",
+      "alternativas": {
+        "a": "1 3 2",
+        "b": "3 2 1",
+        "c": "2 1 3",
+        "d": "2 3 1"
+      },
+      "gabarito": "A",
+      "comentario": "O primeiro fragmento é 1. É Durkheim. O trecho aborda de modo geral a harmonia social.\nO segundo fragmento é 3. É Max Weber. É trabalhado no trecho a dominação carismática.\nO terceiro fragmento é 2. É Marx. O uso dos termos \"a produção da própria vida material\" é de fundamento\nmarxista.\nA alternativa A está correta."
+    },
+    {
+      "id": "a09_007",
+      "numero": 7,
+      "banca": "CONSULPLAN",
+      "tipo": "multipla",
+      "enunciado": "CONSULPLAN - Estagiário (MPE PA)/Ciências Sociais/2019 - O quadrinho expõe uma situação em que a pobreza é vista como uma escolha individual. Dentre os autores das ciências sociais, qual pensador expõe que as ações dos indivíduos são passíveis de uma compreensão social?",
+      "alternativas": {
+        "a": "Karl Marx.",
+        "b": "Habermas.",
+        "c": "Max Weber.",
+        "d": "Pierre Bourdieu."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Marx aborda que a pobreza é uma consequência social.\nA alternativa B está incorreta. Habermas aborda a questão da razão instrumental.\nA alternativa C está correta. Max Weber aborda o método compreensivo da ação individual.\nA alternativa D está incorreta. Bourdieu aborda o capital social e habitus sociais."
+    },
+    {
+      "id": "a09_008",
+      "numero": 8,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Recepcionista (CM C Sto Agostinho)/2019 - Entre as várias abordagens sobre a Ética, há duas contribuições de Max Weber que são teorias muito importantes. Assim, sobre a ética da convicção e a ética da responsabilidade, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Nas organizações, a ética da convicção está presente em todos os momentos porque se exige obediência absoluta à legislação, às normas e às regras escritas ou mesmo aos costumes.",
+        "b": "A ética da convicção abraça a ideia de que o indivíduo se torna responsável pelo que faz.",
+        "c": "A ética da responsabilidade tem duas ramificações: a do princípio e a da esperança.",
+        "d": "A ética da convicção também se ramifica em utilitarista e a da finalidade."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A racionalização racional-legal é o fundamento das sociedades ocidentais, pois\na ética moderna está fundamentada no respeito às leis e as normas jurídicas.\nA alternativa B está incorreta. Para Max Weber, a ética não é formada pela responsabilidade individual, mas\né formada com a dominação.\nA alternativa C está incorreta. Max Weber não trabalha com o conceito de esperança.\nA alternativa D está incorreta. A ética da convicção não é utilitarista, mas efeito de uma das formas de\ndominação."
+    },
+    {
+      "id": "a09_009",
+      "numero": 9,
+      "banca": "FUNDEP",
+      "tipo": "multipla",
+      "enunciado": "FUNDEP - Professor (Pref Ervália)/Docente Para Ensino Fundamental e Médio/Sociologia e Filosofia/2019 - Max Weber desenvolveu a teoria dos tipos ideais enquanto instrumento de pesquisa privilegiado do saber sociológico. A noção de tipo ideal representa, no campo lógico, uma síntese do método individualizante e generalizante, o que, para o referido teórico, compõe as bases do pensamento social. Com relação à teoria de Max Weber, assinale a alternativa incorreta.",
+      "alternativas": {
+        "a": "O tipo ideal é sempre uma construção mental elaborada pelo sujeito, motivo pelo qual, unilateralmente, o pesquisador escolhe qual aspecto da realidade ele pretende investigar.",
+        "b": "O tipo ideal é construção teórica pura, devendo o pesquisador ter consciência de que, no mundo objetivo, os elementos se acham ligados uns aos outros e, nesse sentido, é desnecessário esforço intelectual para formar uma visão idealizada do mundo real.",
+        "c": "O tipo ideal é uma idealização e uma normatização da realidade, e não uma tradução objetiva ou mesmo uma cópia da essência dos fenômenos.",
+        "d": "O tipo ideal é uma maneira de o pesquisador aproximar-se da realidade, tentando pensá-la de forma objetiva, formando um quadro homogêneo de pensamento."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O tipo ideal também é uma construção social.\nA alternativa B está correta. O excesso de idealização do tipo pode levar a uma visão irreal da sociedade.\nA alternativa C está incorreta. O tipo ideal não é conceituado como normatização da realidade.\nA alternativa D está incorreta. Pelo contrário, o tipo ideal é de certa forma uma \"fantasia\"."
+    },
+    {
+      "id": "a09_010",
+      "numero": 10,
+      "banca": "DES IFSUL",
+      "tipo": "multipla",
+      "enunciado": "DES IFSUL - Professor do Ensino Básico, Técnico e Tecnológico (IF SUL)/Sociologia/Área 07/2019/PEBTT Edital 016.2019 - A partir da obra: As Etapas do Pensamento Sociológico, de Raymond Aron, foram feitas as seguintes afirmações a respeito de Marx, Durkheim e Weber: 1. Sua obra se propõe a desvendar a economia, fazer uma análise sociológica do capitalismo e uma história filosófica da humanidade, articuladas em conjunto. Falhou como falharam todas as tentativas semelhantes, uma vez que tal conjunto não existe na vida real das sociedades, já que a história não é tão racional como muitas vezes se pretende. 2. Encara a Sociologia como uma ciência que procura compreender a ação dos indivíduos a partir da percepção destes indivíduos sobre suas próprias condutas. 3. centro de seu pensamento filosófico é entender os vínculos de solidariedade e de independência entre ciência e política. 4. Uma das debilidades em relação ao desenvolvimento de sua filosofia é a ênfase na necessidade de consenso por um lado, e a negligência a respeito dos fatores que levam ao conflito social, por outro. 5. tipo de Sociologia que desenvolveu fez com que muitas vezes analisasse a sociedade concreta como se essa sociedade fosse o “abrigo do ideal”. As afirmativas feitas correspondem, respectivamente aos seguintes sociólogos:",
+      "alternativas": {
+        "a": "Marx, Weber, Weber, Durkheim e Weber.",
+        "b": "Durkheim, Marx, Weber, Weber e Durkheim.",
+        "c": "Weber, Weber, Durkheim, Weber e Marx.",
+        "d": "Marx, Weber, Weber, Durkheim e Durkheim."
+      },
+      "gabarito": "D",
+      "comentario": "A afirmativa 1 é Marx. Isso por que utilizou o uso do termo \"análise sociológica do capitalismo.\"\nA afirmativa 2 é Weber. Isso porque utiliza uma lógica compreensiva.\nA afirmativa 3 é Weber. A relação entre dominação (política) e ciência é weberiana.\nA afirmativa 4 é Durkheim. Isso porque o trecho descreve o objetivo da harmonia social.\nA afirmativa 5 é Durkheim. O uso do termo abrigo evidencia a visão de Durkheim para pensar a harmonia\nsocial.\nA alternativa D está correta"
+    },
+    {
+      "id": "a09_011",
+      "numero": 11,
+      "banca": "ESMARN",
+      "tipo": "multipla",
+      "enunciado": "ESMARN - Estagiário (TJ RN)/Pedagogia/2014 - A Sociologia da Educação, disciplina que estuda os processos sociais tanto do ensino quanto da aprendizagem, é uma das Ciências Humanas que tem como objeto de estudo a sociedade, sua organização social e os processos que interligam os indivíduos em grupos, instituições e associações, tendo como principais representantes Karl Marx, Émile Durkheim e Max Weber. Com base no texto, escreva (V) para verdadeiro e (F) para falso. I. ( ) Durkheim concebe a sociedade enquanto instância beneficiada pelo processo educativo. Para ele, \"a educação é uma socialização da jovem geração pela geração adulta\". Sendo assim, a educação é um processo pelo qual passam as crianças a fim de serem moldadas para viver em sociedade. II. ( ) A concepção pedagógica Weberiana impõe uma nova conduta para o professor, cumprindo-lhe portar-se como reformador da cultura. Sua dignidade acadêmica é gerada pela responsabilidade em fazer a distinção para si e para outros, tanto do homem que fala quanto do que ensina e avalia. III. ( ) Marx defendia a educação pública e gratuita para todas as crianças, como solução para retirá-las do trabalho das fábricas; igualmente advogava que a educação era parte da superestrutura de controle usado pelas classes dominantes. IV. ( ) Compõem pensamentos de Marx e Weber o fato de considerar o processo histórico pelo qual passou dada sociedade, visto que a educação do tempo presente era fortemente influenciada pelo legado das gerações anteriores, via a sociedade como uma grande entidade moral. De acordo com os segmentos acima, assinale a alternativa CORRETA:",
+      "alternativas": {
+        "a": "V – F – V – F.",
+        "b": "V – V - F – F.",
+        "c": "V – F – F – F.",
+        "d": "V – V – V – V.",
+        "e": "V – V – V – F."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Durkheim está preocupado com a harmonia e a coesão social.\nAfirmativa II está correta. Um aspecto raro de cair em provas que trata sobre a coerência intelectual do\nponto de vista de Weber.\nAfirmativa III está correta. A educação da classe trabalhadora é uma preocupação de Karl Marx.\nAfirmativa IV está incorreta. Marx não vê a sociedade como uma grande entidade moral.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a09_012",
+      "numero": 12,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "Professor (Pref Betim)/Ensino Religioso/2020 - Os autores clássicos da Sociologia voltaram seu olhar para a religião como um fenômeno social e procuraram interpretá-lo. Dentre esses autores, está Émile Durkheim, o qual, em seu livro As formas elementares da vida religiosa (1912), afirmou que",
+      "alternativas": {
+        "a": "a religião tem uma dimensão social depositária de significados culturais. Por meio desses significados, os indivíduos e a coletividade interpretam sua condição de vida, constroem uma identidade e agem no ambiente como um todo.",
+        "b": "o surgimento do “espírito do capitalismo” (um conjunto de qualidades intelectuais e morais indispensáveis à racionalização econômica) foi possível graças a qualidades exaltadas e defendidas pela religião protestante.",
+        "c": "uma das principais funções da religião seria manter a coesão social, a união dos membros da sociedade. Dessa forma, a religião asseguraria a estabilidade da sociedade por meio de relações harmoniosas entre seus integrantes.",
+        "d": "o fenômeno religioso seria como um estágio relativamente “primitivo” da evolução social e cultural da humanidade, que ele chama de “estado teológico”. Nessa fase, o ser humano tenderia a passar, gradativamente, da crença em muitos deuses para a crença em um Deus único.",
+        "e": "a religião seria responsável pela alienação do indivíduo na estrutura da produção material da sociedade capitalista. É desse autor a célebre expressão “a religião é o ópio do povo”."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Para Durkheim, a religião é coesão social e não significados culturais.\nA alternativa B está incorreta. Durkheim não trabalhou o conceito de \"espírito do capitalismo. Este é o termo\nde Max Weber.\nA alternativa C está correta. Para Durkheim, a religião é coesão social.\nA alternativa D está incorreta. Durkheim não trabalha com o tema de dominação como definido em \"estado\nteológico\".\nA alternativa E está incorreta. Durkheim não trabalha a religião como alienação. Quem faz esta abordagem\né Karl Marx."
+    },
+    {
+      "id": "a09_013",
+      "numero": 13,
+      "banca": "Machado de Assis",
+      "tipo": "multipla",
+      "enunciado": "Machado de Assis - Sociólogo (Pref Paço do Lumiar)/2019 - Famoso livro escrito por Karl Marx onde o filósofo expõe sua teoria acerca da lógica de produção, onde este destaca que a força de trabalho é transformada em uma mercadoria com dupla face: por um lado é uma mercadoria como outra qualquer, paga pelo salário, por outro é a única mercadoria que produz valor através de sua força de trabalho.",
+      "alternativas": {
+        "a": "“A ordem do discurso”.",
+        "b": "“Discurso sobre o método”.",
+        "c": "“O capital”.",
+        "d": "“Política”."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Livro que não é da autoria de Karl Marx\nA alternativa B está incorreta. Livro de autoria de Rene Descartes\nA alternativa C está correta. O capital aborda a lógica da produção do sistema capitalista, bem como a relação\nda força de trabalho com a mercadoria.\nA alternativa D está incorreta. O autor não escreveu um livro com este título."
+    },
+    {
+      "id": "a09_014",
+      "numero": 14,
+      "banca": "Machado de Assis",
+      "tipo": "multipla",
+      "enunciado": "Machado de Assis - Sociólogo (Pref Paço do Lumiar)/2019 - “Karl Marx acreditava haver duas classes nas sociedades capitalistas: os capitalistas (ou ______ ), que possuía os meios de produção, e os trabalhadores (ou _____), que possuía apenas seu trabalho, que eram obrigados a por salários. No Modelo de Marx, só importam as relações econômicas. Para ele, a desigualdade social à medida que os trabalhadores continuassem a ser explorados” (FERRIS E STEIN, 2008). As duas palavras que preenchem as lacunas são, respectivamente:",
+      "alternativas": {
+        "a": "Burguesia; proletariado.",
+        "b": "Classe alta; classe baixa.",
+        "c": "Classe média; povão.",
+        "d": "Liberais; críticos."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Estes são os termos utilizados por Karl Marx.\nA alternativa B está incorreta. O termos utilizados são próprios das pesquisas econômicas atuais e não são\nda época de Marx.\nA alternativa C está incorreta. O termos utilizados são próprios das pesquisas econômicas atuais e não são\nda época de Marx.\nA alternativa D está incorreta. O termo liberal é utilizado posteriormente da época de Karl Marx no século\nXIX. É um termo do século XX."
+    },
+    {
+      "id": "a09_015",
+      "numero": 15,
+      "banca": "CETREDE",
+      "tipo": "multipla",
+      "enunciado": "CETREDE - Sociólogo (Pref Juazeiro do N)/2019 - Teoria filosófica de Karl Marx, adotada por diversos pensadores como um novo conjunto de pressupostos filosóficos para a Sociologia.",
+      "alternativas": {
+        "a": "Socialismo Utópico.",
+        "b": "Manifesto Comunista.",
+        "c": "Sociologia Compreensiva.",
+        "d": "Materialismo Dialético.",
+        "e": "Ideologia Alemã."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Marx era crítico do Socialismo Utópico, pois ele dizia que não chegaria à\nRevolução Social.\nA alternativa B está incorreta. O Manifesto Comunista é um título do pensador. Não é a base do sistema\nfilosófico do autor.\nA alternativa C está incorreta. O método compreensivo é estabelecido por Max Weber.\nA alternativa D está correta. O materialismo histórico-dialético é o sistema filosófico de Karl Marx.\nA alternativa E está incorreta. A ideologia alemã é o nome de um dos livros de Marx. Não é a descrição do\nsistema filosófico do autor."
+    },
+    {
+      "id": "a09_016",
+      "numero": 16,
+      "banca": "CPCC UFES",
+      "tipo": "multipla",
+      "enunciado": "CPCC UFES - Jornalista (UFES)/2019 - Em meados do século XIX, enquanto a sociedade e o jornalismo passavam por um período de transição para um modelo industrial, um dos mais destacados jornalistas alemães da época foi",
+      "alternativas": {
+        "a": "Karl Marx, do Rheinische Zeitung.",
+        "b": "Marx Weber, do Die Welt.",
+        "c": "Max Preminger, do Kreuzzeitung.",
+        "d": "Maximilian Heim, do Bild.",
+        "e": "Marx Brecht, do Vossische Zeitung."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Marx trabalhou como jornalista para poder sustentar a família.\nA alternativa B está incorreta. Max Weber não foi jornalista.\nA alternativa C está incorreta. Não está dentro do enunciado do período de transição para o modelo\nindustrial.\nA alternativa D está incorreta. Não está dentro do enunciado do período de transição para o modelo\nindustrial.\nA alternativa E está incorreta. Não está dentro do enunciado do período de transição para o modelo\nindustrial."
+    },
+    {
+      "id": "a09_017",
+      "numero": 17,
+      "banca": "Unifil",
+      "tipo": "multipla",
+      "enunciado": "Unifil - Professor (Pref Cambé)/Educação Física/2019 - Assinale a alternativa que preenche corretamente as lacunas. A abordagem __________________ tem inspiração no materialismo históricodialético de Karl Marx e compreende a Educação Física escolar como uma disciplina que trata pedagogicamente de um tipo de conhecimento denominado __________________, na qual visa à aprendizagem da expressão corporal como __________________.",
+      "alternativas": {
+        "a": "crítico-superadora / cultura corporal / linguagem",
+        "b": "desenvolvimentista / cultura corporal / linguagem",
+        "c": "crítico-superadora / linguagem / cultura",
+        "d": "desenvolvimentista / cultura corporal / movimento",
+        "e": "crítico-superadora / movimento / cultura"
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A abordagem marxista é crítico-superadora, pois o materialismo históricodialético\né crítico à realidade e elabora a superação de situações concretas.\nA alternativa B está incorreta. A abordagem marxista não é desenvolvimentista.\nA alternativa C está incorreta. Dentro da Educação Física, é mais importante o uso do termo cultura corporal.\nA alternativa D está incorreta. A abordagem marxista não é desenvolvimentista.\nA alternativa E está incorreta. Dentro da Educação Física, é mais importante o uso do termo cultura corporal."
+    },
+    {
+      "id": "a09_018",
+      "numero": 18,
+      "banca": "COPESE UFPI",
+      "tipo": "multipla",
+      "enunciado": "COPESE UFPI - Assistente (UFPI)/Administração/2019 - A teoria da burocracia surgiu a partir das ideias de:",
+      "alternativas": {
+        "a": "Karl Marx.",
+        "b": "Max Weber.",
+        "c": "Elton Mayo.",
+        "d": "Robert Dahl.",
+        "e": "Frederick Winslow."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O autor é a teoria crítica do capitalismo.\nA alternativa B está correta. O autor fala sobre a burocracia como dominação racional-legal.\nA alternativa C está incorreta. Não trabalha a questão da burocracia.\nA alternativa D está incorreta. Não trabalha a questão da burocracia.\nA alternativa E está incorreta. Não trabalha a questão da burocracia."
+    },
+    {
+      "id": "a09_019",
+      "numero": 19,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Assistente Social (PC ES)/2019 - O termo burocracia apresenta uma indicação da forma de organização com base na racionalidade das leis. A conotação negativa dos papéis e regulamentos tem sua origem nas disfunções das organizações burocráticas. Um dos seus pioneiros e teóricos de maior renome foi um cientista social do século XX, que entendeu que a Burocracia é importante para as organizações e o que se deve criticar é o excesso da burocracia, que, muitas vezes, gera o engessamento dos processos e do trabalho, sendo causador da ineficiência. A partir do exposto, assinale a alternativa que apresenta o precursor da Teoria da Burocracia.",
+      "alternativas": {
+        "a": "George Rousseau.",
+        "b": "Albert Einstein.",
+        "c": "Silvio Lane.",
+        "d": "Charles Darwin.",
+        "e": "Max Weber."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Não trabalha a questão da burocracia.\nA alternativa B está incorreta. Não trabalha a questão da burocracia.\nA alternativa C está incorreta. Não trabalha a questão da burocracia.\nA alternativa D está incorreta. Não trabalha a questão da burocracia.\nA alternativa E está correta. O autor discute a burocracia como dominação racional-legal."
+    }
+  ]
+}

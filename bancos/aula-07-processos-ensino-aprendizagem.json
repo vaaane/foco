@@ -1,0 +1,524 @@
+{
+  "esquema": 1,
+  "id": "aula-07-processos-ensino-aprendizagem",
+  "aula": "07",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 07",
+  "subtitulo": "Processos de Ensino e Aprendizagem",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 07 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    15
+  ],
+  "tagsEdital": [
+    {
+      "n": 15,
+      "titulo": "Processos de ensino e de aprendizagem"
+    }
+  ],
+  "resumoMd": "1. **Correntes Epistemológicas da Aprendizagem**:\n   - **Inatismo (Apriorismo)**: O conhecimento é inato (Platão, Sócrates); o sujeito nasce com aptidões prontas e o meio apenas desabrocha o que já existe.\n   - **Empirismo (Behaviorismo/Comportamentalismo)**: O conhecimento vem de fora, do ambiente (Locke, Skinner/Pavlov); o sujeito é uma *tabula rasa* moldada por estímulos e reforços.\n   - **Interacionismo / Construtivismo (Piaget)**: O conhecimento é construído na interação ativa do sujeito com o meio através de processos de **assimilação, acomodação e equilibração**. Estágios de desenvolvimento cognitivo.\n   - **Sociointeracionismo / Socioconstrutivismo (Vygotsky)**: A aprendizagem ocorre na interação social e culturalizada; mediação por instrumentos e signos. Destaque para a **Zona de Desenvolvimento Proximal (ZDP)**.\n   - **Psicogênese da Pessoa / Afetividade (Wallon)**: Integração entre **afetividade, cognição e movimento (ato motor)** em uma perspectiva dialética do desenvolvimento humano.\n\n2. **Quadro Comparativo dos Grandes Teóricos**:\n   | Teórico | Foco do Desenvolvimento | Papel da Cultura / Meio | Consequência Pedagógica |\n   | :--- | :--- | :--- | :--- |\n   | **Jean Piaget** | Construção da inteligência (estágios cognitivos). | Meio como elemento de provocação/desequilíbrio. | O desenvolvimento matura a aprendizagem. |\n   | **Lev Vygotsky** | Funções psicológicas superiores e linguagem. | Cultura e mediação social são determinantes. | A aprendizagem alavanca o desenvolvimento (ZDP). |\n   | **Henri Wallon** | Integração afetividade, cognição e motricidade. | Meio humano e social é indispensável. | Afetividade e emoção fundam a inteligência. |\n   | **B. F. Skinner** | Condicionamento operante e comportamento. | Ambiente molda o comportamento via reforços. | Instrução programada e treino. |\n   | **David Ausubel** | Aprendizagem Significativa. | Conhecimentos prévios (ancoradouros/subsumores). | Organização lógica do conteúdo. |\n\n---",
+  "total": 32,
+  "questoes": [
+    {
+      "id": "a07_001",
+      "numero": 1,
+      "banca": "SUGEP",
+      "tipo": "multipla",
+      "enunciado": "SUGEP - Técnico (UFRPE)/Assuntos Educacionais/2018 - De acordo com a concepção interacionista e com o sociointeracionismo, a construção do conhecimento se dá através:",
+      "alternativas": {
+        "a": "da homogeneização.",
+        "b": "da transmissão e repetição.",
+        "c": "do condicionamento estático.",
+        "d": "da cultura escolar de trabalho individual.",
+        "e": "dos processos de articulação, reflexão e assimilação."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Tanto Piaget quanto Vygotsky são contrários à homogeneização dos\nprocessos de ensino-aprendizagem. Isso porque eles partem do pressuposto que o sujeito constrói o\nconhecimento e não é passivo aos saberes.\nA alternativa B está incorreta. Novamente a visão de transmissão do conhecimento. Tanto para visão\ninteracionista quanto para sociointeracionista, o sujeito constrói o conhecimento de maneira ativa.\nA alternativa C está incorreta. Skinner é o autor que argumenta pelo condicionamento. Não tem relação\ncom Piaget e Vygotsky.\nA alternativa D está incorreta. Vygotsky argumenta pelo trabalho em grupo.\nA alternativa E está incorreta. Piaget e Vygotsky possuem em comum o processo de construção do\nconhecimento pelo sujeito: articulação, reflexão e assimilação. São processo de desenvolvimento\nhumano."
+    },
+    {
+      "id": "a07_002",
+      "numero": 2,
+      "banca": "IDCAP",
+      "tipo": "multipla",
+      "enunciado": "IDCAP - Professor (Pref Linhares)/Educação Infantil e Anos Iniciais/2018 - De acordo com a concepção Interacionista, o conhecimento é construído na interação com o meio. Os principais teóricos da concepção Interacionista da aprendizagem são:",
+      "alternativas": {
+        "a": "Pavlov, Rousseau e Wundt.",
+        "b": "Paulo Freire, Rogers e Freud.",
+        "c": "Piaget, Vigotsky e Henry Wallon.",
+        "d": "Skinner, Wertheimer e Watson.",
+        "e": "Comênio, Jonh Dewey, Emilia Ferreiro."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Pavlov – psicólogo comportamental. Rousseau – filósofo liberal. Wundt\n– psicólogo experimental\nA alternativa B está incorreta. Paulo Freire – pedagogo marxista. Vigotsky – psicólogo\n(socio)construtivista. Freud – médico psicanalista\nA alternativa C está correta. Piaget – psicólogo construtivista. Vigotsky – psicólogo\n(socio)construtivista. Henry Wallon – psicólogo construtivista.\nA alternativa D está incorreta. Skinner – psicólogo comportamental. Wertheimer – psicólogo Gestalt.\nWatson – psicólogo comportamental.\nA alternativa E está incorreta. Comênio – pedagogo tradicional. John Dewey – escolanovista. Emilia\nFerreiro – construtivista"
+    },
+    {
+      "id": "a07_003",
+      "numero": 3,
+      "banca": "CRESCER",
+      "tipo": "multipla",
+      "enunciado": "CRESCER - Professor (Pref Conc do Canindé)/Educação Infantil/1º ao 5º Ano/2018 - Assinale a alternativa que preenche corretamente a lacuna abaixo. No estágio ____________________, são construídas as operações lógicas de classificação e seriação, conservações físicas de substância, peso e volume e conservações espaciais de comprimento, área e volume espacial e conceito de número. A criança deixa de confundir o real com a fantasia e adquire a capacidade de realizar operações.",
+      "alternativas": {
+        "a": "Sensório-motor.",
+        "b": "Pré-operatório.",
+        "c": "Operatório concreto.",
+        "d": "Operatório formal."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Sensório-motor: é o estágio que a criança tem uma ação física sobre os\nobjetos e não estabelece relações entre eles.\nA alternativa B está incorreta. Pré-operatório: estágio onde se desenvolve a fantasia e o faz de conta.\nA alternativa C está correta. Operatório-concreto: estágio que ocorre a relação concreta entre os\nobjetos.\nA alternativa D está incorreta. Operatório formal: abstração consolidada"
+    },
+    {
+      "id": "a07_004",
+      "numero": 4,
+      "banca": "CRESCER",
+      "tipo": "multipla",
+      "enunciado": "CRESCER - Professor (Pref Conc do Canindé)/Educação Infantil/1º ao 5º Ano/2018 - Leia o trecho abaixo: Tem como característica a liberdade de regras e o desenvolvimento da imaginação e da fantasia. Ao reproduzir os diferentes papéis (de pai, mãe, professor, aluno etc.), a criança imita situações da vida real. Nele, aquele que brinca dá novos significados aos objetos, às pessoas, às ações, aos fatos etc., inspirando-se em semelhanças mais ou menos fiéis às representadas. Segundo Piaget, o tipo de jogo abordado no trecho é o:",
+      "alternativas": {
+        "a": "Jogo de exercício.",
+        "b": "Jogo simbólico.",
+        "c": "Jogo de regras.",
+        "d": "Jogo de memória."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Não há esta nomenclatura em Piaget.\nA alternativa B está correta. Fase do faz de conta, fantasia.\nA alternativa C está incorreta. Há esta nomenclatura, mas não se aplica porque falamos de fantasia.\nA alternativa D está incorreta. Não há esta nomenclatura em Piaget."
+    },
+    {
+      "id": "a07_005",
+      "numero": 5,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC - PAAFEF (Divinópolis)/Professor em Atuação na Educação Infantil e Anos Iniciais do Ensino Fundamental/2018 Piaget usou como instrumento para sua pesquisa testes de inteligência para saber a idade mental de cada indivíduo. Olhando mais atentamente para as respostas erradas das crianças, Piaget entendeu que o erro, na realidade, era uma forma de pensar da criança, diferente da forma de pensar do adulto. Ou seja, as respostas infantis seguiam uma lógica própria (MEC, 2005, p. 25). Sobre “o erro” analise as proposições a seguir atribuindolhes valores Verdadeiro (V) ou Falso (F): ( ) É algo positivo, pois por meio dele se chega ao acerto. ( ) Indica que houve ineficiência no ato de ensinar. ( ) Toda aprendizagem é acompanhada de erros e acertos. ( ) É consequência de uma hipótese levantada para solucionar uma questão. ( ) Faz parte da aprendizagem e do desenvolvimento cognitivo. Assinale a alternativa que apresenta, de cima para baixo, a sequência correta.",
+      "alternativas": {
+        "a": "F, F, V, V, F",
+        "b": "F, V, F, F, V",
+        "c": "V, F, V, V, V",
+        "d": "V, V, F, F, F"
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\n1ª. Proposição é verdadeira. Trata do erro construtivo na criança.\n2ª. proposição é falsa. Isso por que não podemos considerar o ensino como uma transmissão vertical\nde conhecimentos\n3ª. Proposição é verdadeira. Trata do erro construtivo na criança.\n4ª. Proposição é verdadeira. Trata do levantamento de hipóteses. Esta característica faz parte do\npensamento construtivo da criança.\n5ª. Proposição é verdadeira. O erro construtivo faz parte do desenvolvimento cognitivo.\nAlternativa correta letra C."
+    },
+    {
+      "id": "a07_006",
+      "numero": 6,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC - PAAFEF (Divinópolis)/Professor em Atuação na Educação Infantil e Anos Iniciais do Ensino Fundamental/2018 - Na compreensão de Piaget, dois processos são importantes para o desenvolvimento cognitivo: assimilação e acomodação. Quanto à acomodação, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Trata-se do processo cognitivo de colocar (classificar) novos eventos em esquemas existentes",
+        "b": "É a incorporação de elementos do meio externo (objeto, acontecimento etc.) a um esquema ou estrutura do sujeito",
+        "c": "Nela o indivíduo usa as estruturas que já possui",
+        "d": "Pode ser de duas formas, criando um novo esquema no qual se possa encaixar o novo estímulo ou modificar um já existente, de modo que o estímulo possa ser incluído nele"
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Acomodação é entendimento e não uma competência matemática\nA alternativa B está incorreta. Acomodação não é apenas incorporação, mas também manutenção\nmodificada de esquema antigo.\nA alternativa C está incorreta. Esta definição é de assimilação.\nA alternativa D está correta. Acomodação é incorporação de esquema novo e inclusão de esquema\nantigo. As duas ações ao mesmo tempo."
+    },
+    {
+      "id": "a07_007",
+      "numero": 7,
+      "banca": "IBFC",
+      "tipo": "multipla",
+      "enunciado": "IBFC - PAAFEF (Divinópolis)/Professor em Atuação na Educação Infantil e Anos Iniciais do Ensino Fundamental/2018 - Sobre o conceito de “Psicogênese” adotado para a compreensão da “Psicogênese da Língua Escrita”, analise as afirmativas abaixo e assinale a alternativa correta. I. Faz parte da Psicologia que se ocupa em estudar a origem e o desenvolvimento dos processos mentais, das funções psíquicas, das causas psíquicas que podem causar uma alteração no comportamento. II. Na Psicologia, a psicogênese trata de estudar o desfecho, ou seja, o resultado dos processos mentais que irão gerar alterações comportamentais no contexto de aquisição da leitura e da escrita, pois o indivíduo vai assimilando algo novo, algo que ele ainda não domina. III. O termo psicogênese é definido como um estudo das causas psíquicas susceptíveis de explicar uma neurose ou uma psicose. IV. É definida como o estudo da origem e desenvolvimento dos processos mentais ou psicológicos, da mente ou da personalidade. V. Independente da definição adotada, a psicogênese retrata uma mesma realidade, psicomente/ gênese: início, começo; seria então o início, o princípio das ações mentais que resultarão em uma alteração de pensamento ou comportamento. Estão corretas as afirmativas:",
+      "alternativas": {
+        "a": "I, II, III apenas",
+        "b": "I, III, IV, V apenas",
+        "c": "II, IV, V apenas",
+        "d": "II, III, IV, V apenas"
+      },
+      "gabarito": "B",
+      "comentario": "Proposição I está correta. O vocabulário utilizado na alternativa está correto e condizente com a\ncomplexidade dos comportamentos humanos.\nProposição II está incorreta. Pelo contrário, a psicologia do desenvolvimento estuda os processos\npsíquicos e não o desfecho.\nProposição III está correta. A alternativa utiliza termos para sinônimo de origem.\nProposição IV está correta. A alternativa define psicologia como processo e não desfecho.\nProposição V está correta. A alternativa utiliza termos para sinônimo de origem.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a07_008",
+      "numero": 8,
+      "banca": "CPCON UEPB",
+      "tipo": "multipla",
+      "enunciado": "CPCON UEPB - Pedagogo (Soledade PB)/Educação Infantil/2016 - Zona de Desenvolvimento Proximal (ZDP) é um conceito que se destacou nas pesquisas de Vygotsky, transformando-se em um eixo articulador da teoria, em sua contribuição de cunho educacional e para a compreensão adequada da relação entre aprendizagem e desenvolvimento. Tal teoria implica que:",
+      "alternativas": {
+        "a": "A Zona de Desenvolvimento Proximal apresenta uma concepção do ser humano como histórico e inacabado, e consequentemente sempre pronto a aprender novos acessos à cultura.",
+        "b": "A Zona de Desenvolvimento Proximal é um lugar privilegiado onde gestores, professores, alunos e pais têm oportunidade de ensinar, aprender e socializar a diversidade dos saberes escolares, construídos socialmente de forma ética e democrática.",
+        "c": "A Zona de Desenvolvimento Proximal funciona como instrumento de controles e de limitação das ações dos alunos e professores no contexto escolar. É uma prática de exclusão na medida em que seleciona o que pode e deve ser aceito na escola.",
+        "d": "Na Zona de Desenvolvimento Proximal o desenvolvimento humano envolve um processo de assimilação e acomodação, e está divido em dois estágios: Sensório motor e operatório-formal.",
+        "e": "Zona de Desenvolvimento Proximal é a distância entre o desenvolvimento real, que se costuma determinar através de solução independentemente de problemas, e o nível de desenvolvimento potencial, determinado através da solução de problemas sob a orientação de um adulto ou em colaboração com companheiros."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. A ZDP não possui este conceito. O conceito descrito na alternativa é do\nser humano inacabado e histórico. Está mais próximo do autor Paulo Freire.\nA alternativa B está incorreta. Este não é o conceito de ZDP. Não é um \"lugar privilegiado\", mas um\nconceito sobre aprendizagem e desenvolvimento humano.\nA alternativa C está incorreta. Pelo contrário, a ZDP funciona como um elemento de emancipação do\ndesenvolvimento humano, uma vez que a aprendizagem \"puxa\" do desenvolvimento.\nA alternativa D está incorreta. Esta descrição sobre assimilação e acomodação é como funciona a\nconstrução da inteligência segundo Piaget. Não tem paralelo com a teoria do Vygotsky.\nA alternativa E está correta. A ZDP é exatamente aquilo que a criança não consegue fazer sozinha, mas\ncom ajuda dos colegas ou do professor. É uma possibilidade intermediária entre seu desenvolvimento\nreal (\"aquilo que faz sozinha\") com outras ações que não domina, necessitando da mediação de uma\noutra criança, adulto ou professor."
+    },
+    {
+      "id": "a07_009",
+      "numero": 9,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica I (Rio Claro)/Quadro 1/2016 - Vygotsky constatou, em seus estudos, que a capacidade de crianças com iguais níveis de desenvolvimento mental para aprender sob a orientação de um professor variava muito. Tornou-se evidente que aquelas crianças não tinham a mesma idade mental, e que o curso subsequente de seu aprendizado seria diferente. Dentre as valiosas considerações do autor sobre esse tema, destaca- se a que",
+      "alternativas": {
+        "a": "denomina zona de desenvolvimento proximal aquela que caracteriza o desenvolvimento mental prospectivamente.",
+        "b": "define a solução independente de problemas por parte da criança como seu nível de desenvolvimento potencial.",
+        "c": "caracteriza as funções do nível de desenvolvimento real de uma criança como os “brotos” ou “flores” do desenvolvimento.",
+        "d": "estabelece a zona de desenvolvimento proximal como aquela que caracteriza o desenvolvimento mental retrospectivamente.",
+        "e": "demonstra que aquilo que é a zona de desenvolvimento real hoje constituirá o nível da zona de desenvolvimento proximal amanhã."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Exatamente. Zona de desenvolvimento próxima é uma possibilidade que\nfaz a criança avançar com a ajuda de um professor ou de um colega. Ela ainda não consegue realizar as\nações sozinha, mas consegue com ajuda. É prospectivo, pois em algum momento ela conseguirá atingir\no desenvolvimento real mais para frente.\nA alternativa B está incorreta. Esta não é definição de Zona de desenvolvimento proximal.\nA alternativa C está incorreta. A zona de desenvolvimento proximal não é o desenvolvimento real, mas\nsobretudo o desenvolvimento potencial. A possibilidade de \"vir a ser\".\nA alternativa D está incorreta. Vygotsky não é um autor inatista que acredita em desenvolvimento\nmental, uma vez que propõe que a inteligência é desenvolvida ao longo da história de vida.\nA alternativa E está incorreta. A zona de desenvolvimento proximal não é uma possibilidade acabada.\n\"Amanhã\" pode ser uma nova zona de desenvolvimento real e neste intervalo fica a zona de\ndesenvolvimento proximal. Ou seja, a ZDP fica entre duas zonas de desenvolvimento real: a atual e a\npossibilidade de \"vir a ser\"."
+    },
+    {
+      "id": "a07_010",
+      "numero": 10,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor de Educação Básica III (Pref Leopoldina)/Inglês/2016 - Para teoria sociointeracionista, a intervenção deliberada é essencial para o processo de desenvolvimento e aprendizagem. Observando, perguntando e recebendo respostas, o educando desenvolve-se intelectualmente. Se o ambiente não for desafiador, se não estimular a sua inteligência, este não desenvolverá a capacidade de raciocínio. Para isso, emprega-se uma pedagogia adequada de mediação docente junto ao aluno diante da",
+      "alternativas": {
+        "a": "Zona de Desenvolvimento Potencial (ZDP) do aprendiz, consistindo esta zona num nível intermediário entre o nível real e o nível proximal de desenvolvimento cognitivo.",
+        "b": "Zona de Desenvolvimento Proximal (ZDP) do aprendiz, consistindo esta zona num nível intermediário entre o nível real e o nível potencial de desenvolvimento exógeno.",
+        "c": "Zona de Desenvolvimento Proximal (ZDP) do aprendiz, consistindo esta zona num nível intermediário entre o nível real e o nível potencial de desenvolvimento cognitivo.",
+        "d": "Zona de Desenvolvimento Real (ZDR) do aprendiz, consistindo esta zona num nível intermediário entre o nível proximal e o nível potencial de desenvolvimento exógeno."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Aqui o termo \"proximal\" deixou a alternativa incorreta. O uso de\n\"proximal\" somente é possível em termos intermediários quando pensamos em \"aquilo que não é\" e no\n\"vir a ser\". O uso do termo proximal não é utilizado como final do processo de desenvolvimento.\nA alternativa B está incorreta. Não existe o termo \"nível potencial exógeno\". Poderia ser usado nível de\ndesenvolvimento real.\nA alternativa C está correta. A Zona de desenvolvimento Proximal é uma etapa intermediária entre\n\"aquilo que não é\" e \"aquilo que pode ser\", por isso o uso do termo potencial no final que significa \"aquilo\nque pode ser\". Termo \"potencial\" usado corretamente.\nA alternativa D está incorreta. A ZDR é aquilo que a criança consegue fazer sozinha independente de\noutras pessoas. Não é nível intermediário de nada."
+    },
+    {
+      "id": "a07_011",
+      "numero": 11,
+      "banca": "Instituto Excelência",
+      "tipo": "multipla",
+      "enunciado": "Instituto Excelência - Psicopedagogo (Pref Três Corações)/2016 - A zona de desenvolvimento proximal é: (...) a distância entre o nível do desenvolvimento real, que costuma determinar pela solução independente de problemas, e o nível de desenvolvimento potencial, determinado pela solução de problemas sob a orientação de um adulto ou em colaboração com companheiros mais capazes. Assinale a alternativa que NÃO condiz com a zona de desenvolvimento proximal:",
+      "alternativas": {
+        "a": "É um domínio psicológico em constante transformação, o que uma criança é capaz de fazer com a ajuda de alguém hoje, ela conseguirá fazer sozinha amanhã.",
+        "b": "É um caminho que o indivíduo vai percorrer para desenvolver funções que estão em processo de amadurecimento e que se tornará as funções consolidadas.",
+        "c": "Estabelece forte ligação entre o processo de desenvolvimento e a relação do indivíduo com seu ambiente sociocultural.",
+        "d": "A interferência de outros indivíduos é a mais transformadora.",
+        "e": "Nenhuma das alternativas."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. Exatamente. É aquilo que consegue fazer com ajuda. É também uma\npossibilidade de \"vir a ser\".\nA alternativa B está correta. Sim. As funções conseguem ser exercidas parcialmente com ajuda de outra\npessoa. Por isso elas não estão consolidadas.\nA alternativa C está correta. Isso mesmo. Por isso que a interferência de uma outra pessoa do contexto\ne do meio é tão importante para a promoção da zona de desenvolvimento proximal.\nA alternativa D está correta. Com certeza. O outro tem um papel fundamental na promoção da zona de\ndesenvolvimento proximal.\nA alternativa E é a única possibilidade possível. Todas as alternativas estão corretas. Não há\nalternativas incorretas."
+    },
+    {
+      "id": "a07_012",
+      "numero": 12,
+      "banca": "FGV",
+      "tipo": "multipla",
+      "enunciado": "FGV - Analista Judiciário (TJ AM)/Pedagogia/2013 - Sobre o conceito de zona de desenvolvimento proximal, analise as afirmativas a seguir. I. A educação e o ensino podem esperar, simplesmente, pela maturação das funções psíquicas, assim como ocorre com todo o desenvolvimento socioafetivo e cognitivo do aluno. II. O conceito de zona de desenvolvimento proximal corresponde à distância entre os níveis de desenvolvimento real e potencial, o que faz com que a atuação pedagógica ganhe importância. III. O papel do professor como mediador no processo de ensino-aprendizagem dos conteúdos escolares é enfatizado, pois valoriza a capacidade de a criança aprender mediante ajuda. Assinale:",
+      "alternativas": {
+        "a": "se somente as afirmativas I e II estiverem corretas.",
+        "b": "se somente as afirmativas I e III estiverem corretas.",
+        "c": "se somente as afirmativas II e III estiverem corretas.",
+        "d": "se somente a afirmativa III estiver correta.",
+        "e": "se somente a afirmativa II estiver correta."
+      },
+      "gabarito": "C",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. A maturação de funções psíquicas não diz respeito ao conceito de zona de\ndesenvolvimento proximal. É necessária a influência da cultura para o amadurecimento de funções\ncomo a linguagem.\nAfirmativa II está correta. Exatamente a Zona de Desenvolvimento Proximal é intermediária entre o\ndesenvolvimento real e o desenvolvimento potencial\nAfirmativa III está correta. Com certeza. O papel da mediação do professor ganha importância, pois a\nzona de desenvolvimento potencial somente é possível com ajuda de uma outra pessoa.\nAlternativa correta letra C."
+    },
+    {
+      "id": "a07_013",
+      "numero": 13,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Pref Poá)/Adjunto de Educação Básica II/Matemática Ciências/2015 - Ao tentar estabelecer as relações entre o processo de desenvolvimento e a capacidade de aprendizado, Vigotski determinou dois níveis de desenvolvimento: nível de desenvolvimento real e zona de desenvolvimento proximal. De acordo com o autor, é correto afirmar que o nível de desenvolvimento real",
+      "alternativas": {
+        "a": "define aquelas funções que ainda não amadureceram, mas que estão em processo de maturação.",
+        "b": "permite-nos delinear o futuro imediato da criança e seu estado dinâmico de desenvolvimento.",
+        "c": "é o nível de desenvolvimento das funções mentais da criança que se estabeleceram como resultado de certos ciclos de desenvolvimento já completados.",
+        "d": "caracteriza o desenvolvimento mental prospectivamente, enquanto a zona de desenvolvimento proximal caracteriza o desenvolvimento mental retrospectivamente.",
+        "e": "é determinado através da solução de problemas sob a orientação de um adulto ou em colaboração com companheiros mais capazes."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Esta é a definição de zona de desenvolvimento proximal e a questão pede\nsobre a zona de desenvolvimento real.\nA alternativa B está incorreta. A zona de desenvolvimento real é o que a criança consegue fazer no\npresente.\nA alternativa C está correta. Exatamente. São processo de desenvolvimento completados. É aquilo que\na criança já faz sozinha.\nA alternativa D está incorreta. Não há possibilidade de desenvolvimento retroceder do ponto de vista\ngeral de Vygotsky.\nA alternativa E está incorreta. Esta é a definição de zona de desenvolvimento proximal e a questão\npede zona de desenvolvimento real."
+    },
+    {
+      "id": "a07_014",
+      "numero": 14,
+      "banca": "CONSESP",
+      "tipo": "multipla",
+      "enunciado": "CONSESP - Professor (Ouro Verde SP)/Educação Infantil/2018 - Segundo Wallon (In: Piaget, Vygotsky, Wallon: Teorias Psicogenéticas em Discussão), Heloysa Dantas escreveu o texto “Do Ato Motor ao Ato Mental: a Gênese da Inteligência” e afirma que, com a função simbólica e a linguagem, inaugurar-se-á o pensamento discursivo, que mantém com aquela uma relação de construção recíproca. Suas primeiras manifestações, captáveis em diálogos sustentados, Wallon as obteve a partir de cinco anos, revestidas de características que sintetizou com a denominação de",
+      "alternativas": {
+        "a": "pluralismo.",
+        "b": "sincretismo.",
+        "c": "autismo.",
+        "d": "estruturalismo."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Não há esta nomenclatura em Wallon.\nA alternativa B está correta. O sincretismo é uma característica da criança pequena em não conseguir\ncolocar informações de forma em categorias. Por isso, ela sincretiza ou junta tudo sem lógica aparente.\nÉ uma peculiaridade da teoria de Wallon.\nA alternativa C está incorreta. Não há esta nomenclatura em Wallon.\nA alternativa D está incorreta. Não há esta nomenclatura em Wallon.\nA alternativa E está incorreta. Não há esta nomenclatura em Wallon."
+    },
+    {
+      "id": "a07_015",
+      "numero": 15,
+      "banca": "CONSESP",
+      "tipo": "multipla",
+      "enunciado": "CONSESP - Professor (Ouro Verde SP)/Educação Infantil/2018 - No texto de Heloysa Dantas, “Do Ato Motor ao Ato Mental: a Gênese da Inteligência Segundo Wallon (In: Piaget, Vygotsky, Wallon: Teorias psicogenéticas em discussão), afirma que, quase simultaneamente, a função simbólica, alimentada pelo meio humano, vem despontando no final do segundo ano, a fala e as condutas representativas que são inegáveis, confirmando uma nova forma de relação com o real, que emancipará a inteligência do quadro perceptivo imediato. Esta função é frágil no início, apóia-se ainda muito nos gestos que a transportam, ‘projeta-se’ em atos. Por isso Wallon a chama de",
+      "alternativas": {
+        "a": "projetiva.",
+        "b": "retroativa.",
+        "c": "expressiva.",
+        "d": "emancipativa."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O termo \"projetiva\" é muito elucidativo. É o período que a criança \"se abre\npara o mundo\" do ponto de vista cognitivo e afetivo.\nA alternativa B está incorreta. Não há esta nomenclatura em Wallon.\nA alternativa C está incorreta. Não há esta nomenclatura em Wallon.\nA alternativa D está incorreta. Não há esta nomenclatura em Wallon."
+    },
+    {
+      "id": "a07_016",
+      "numero": 16,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor (Pref F.co Morato)/Auxiliar de Desenvolvimento Infantil PADI/2019 - Wallon considera o desenvolvimento humano como resultante de uma dupla história, que envolve as condições do sujeito e as sucessivas situações nas quais ele se envolve e às quais responde. Segundo Oliveira (2002), para Wallon, toda pessoa constitui um sistema específico e ótimo de trocas com o meio, e tal sistema integra suas ações num processo de equilíbrio funcional que envolve",
+      "alternativas": {
+        "a": "motricidade, afeto e cognição.",
+        "b": "carinho, compreensão e razão.",
+        "c": "percepção, inteligência e afeição.",
+        "d": "consciência, sensibilidade e emoção.",
+        "e": "conhecimento, reflexão e experiência."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Exatamente. A teoria de Wallon expressa uma relação entre os\nmovimentos corporais, afetividade e inteligência. Em algumas fases há preponderância de um sobre\noutro, mas como o desenvolvimento é dialético há sempre a presença dos três de alguma forma.\nA alternativa B está incorreta. Não há nomenclatura “carinho\" em Wallon. Tão pouco o termo \"razão\"\nque pode ser visto como a razão dos adultos que é diferente da criança segundo Wallon.\nA alternativa C está incorreta. Percepção é um termo da psicologia comportamental que separava as\nhabilidades e não pensa o desenvolvimento como um todo como é o caso de Wallon.\nA alternativa D está incorreta. Não há o termo \"sensibilidade\" em Wallon\".\nA alternativa E está incorreta. Aqui não está colocada a dimensão afetiva que é central em Wallon."
+    },
+    {
+      "id": "a07_017",
+      "numero": 17,
+      "banca": "Instituto AOCP",
+      "tipo": "multipla",
+      "enunciado": "Instituto AOCP - Pedagogo (UFPB)/2019 - De acordo com a Teoria Walloniana, é correto afirmar que",
+      "alternativas": {
+        "a": "Henri Wallon explica o desenvolvimento do indivíduo à luz do Positivismo.",
+        "b": "o desenvolvimento ocorre em processo linear.",
+        "c": "a preponderância funcional é uma lei que rege o desenvolvimento do indivíduo.",
+        "d": "o primeiro momento da criança em seu desenvolvimento é a afetividade.",
+        "e": "Henri Wallon defende que a criança não é só corpo e cérebro, é emoção, e, ao nascer, traz consigo todas as aptidões."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Totalmente incorreto. Wallon é um autor do desenvolvimento dialético.\nportanto, próximo do marxismo.\nA alternativa B está incorreta. Pelo contrário, o desenvolvimento é dialético com avanços em algumas\ncaracterísticas e manutenção de algumas nas fases seguintes.\nA alternativa C está correta. Exatamente. Há momentos que há preponderância da emoção sobre o\ncognitivo, embora o último não esteja descartado totalmente. É o caso do primeiro ano de idade que o\nbebê é tomado pela emoção.\nA alternativa D está incorreta. Como disse na alternativa acima é a emoção que é uma forma não\ndirecionada do afeto. Há o sentir e acabou. Não há projeção do afeto como no caso da fase projetiva.\nA alternativa E está incorreta. totalmente incorreto. Wallon não é um psicólogo inatista, mas acredita\nno desenvolvimento humano dialético."
+    },
+    {
+      "id": "a07_018",
+      "numero": 18,
+      "banca": "CVEST IFPE",
+      "tipo": "multipla",
+      "enunciado": "CVEST IFPE - Técnico (IF Sertão PE)/Assuntos Educacionais/2016 - Para Ausubel, o termo estrutura cognitiva tem o significado de uma estrutura hierárquica de conceitos. Da mesma forma que em Piaget, Ausubel trabalha com o conceito de Organização de certas entidades. No entanto, enquanto estas entidades em Piaget eram os Esquemas (que englobam conceitos mais operações) em Ausubel estas entidades são apenas os conceitos. Poderíamos dizer que enquanto em Piaget os elementos que compõem a estrutura cognitiva incorporam o aspecto dinâmico em Ausubel estes elementos têm um aspecto estático. Dessa forma, há alguns pontos importantes da Teoria de Aprendizagem segundo Ausubel, exceto:",
+      "alternativas": {
+        "a": "A aprendizagem é um processo que envolve a interação da nova informação abordada com a estrutura cognitiva do aluno tornando-se o principal agente construtor de sua aprendizagem.",
+        "b": "A aprendizagem ocorre quando a nova informação ancora-se em conceitos ou proposições relevantes, preexistentes na estrutura cognitiva do aprendiz, ou seja, quando este aluno encontra significado no que ouve. Esses pontos de ancoragem, ou subsunçores de aprendizagem, é que irão relacionar o novo com o que o aluno já sabe.",
+        "c": "A definição de conteúdo deve ser feita por meio de uma série hierárquica, a partir de uma avaliação do que o aluno previamente já sabe.",
+        "d": "As “Pontes Cognitivas” são elos entre o que o aprendiz já sabe e o que ele deve aprender.",
+        "e": "O ponto central de sua teoria é o termo “Sunçor”, que pode ser entendido como o ponto cognitivo do aluno que dará sentido a um novo conhecimento."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está correta. Ausubel trabalha com o conceito de interação. E também com a ancoragem\nde uma informação nova em uma estrutura de conceito similar.\nA alternativa B está correta. Ele encontra significado no que escuta, mas consegue estabelecer uma\nrelação de ancoragem em uma estrutura de conceito que já possui.\nA alternativa C está correta. Ausubel trabalha com o tema de conhecimento prévio.\nA alternativa D está correta. Pode existir a nomenclatura \"ponte cognitivas\" se estiver relacionado com\nconhecimento existente no sujeito e conhecimentos novos.\nA alternativa E está incorreta. O conceito de sunçor é relativo com conhecimento que existe\nanteriormente, não é apenas um ponto cognitivo. O conceito precisa ser melhor explicado."
+    },
+    {
+      "id": "a07_019",
+      "numero": 19,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Bom Jesus)/Séries Iniciais do Ensino Fundamental/2018 - O modelo de ensino e aprendizagem de David P. Ausubel caracteriza-se como um modelo cognitivo que apresenta peculiaridades bastante interessantes para os professores, pois se centraliza, primordialmente, no processo de aprendizagem tal como ocorre em sala de aula. Para Ausubel, aprendizagem significa:",
+      "alternativas": {
+        "a": "Interação social para que o aluno possa refletir sobre sua realidade.",
+        "b": "Saberes e conhecimento curricular.",
+        "c": "Organização e integração do material aprendido na estrutura cognitiva.",
+        "d": "Assimilação ativa de conhecimentos e de operações mentais.",
+        "e": "Modalidades de aprendizagem e aspectos emocionais."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Ausubel não trabalhava com o conceito de interação social. Era um\npsicólogo cognitivista.\nA alternativa B está incorreta. Ausubel não trabalhava com conceito de currículo.\nA alternativa C está correta. Exatamente. Esta é a base do conceito de ancoragem que é a aprendizagem\nsignificativa. Uma estrutura conceitual mais ampla que consegue ser ancora para uma informação\nespecífica.\nA alternativa D está incorreta. Esta descrição é de Jean Piaget. Assimilação e operações mentais são\ntermos próprios da psicologia do desenvolvimento.\nA alternativa E está incorreta. Ausubel não trabalha sistematicamente com \"aspectos emocionais\""
+    },
+    {
+      "id": "a07_020",
+      "numero": 20,
+      "banca": "CVEST IFPE",
+      "tipo": "multipla",
+      "enunciado": "CVEST IFPE - Técnico (IF PE)/Assuntos Educacionais/2014 - A discussão sobre como se aprende é reconhecida hoje como um tópico fundamental quando se fala em processos de ensino e de aprendizagem. David Ausubel propôs um modelo de ensino baseado no conceito de aprendizagem significativa. Ao comentar a teoria de Ausubel, Ronca afirma que “numa sociedade tão massificante como a nossa, reveste-se de muita importância uma proposição de aprendizagem que tenha como ponto de partida aquilo que o aluno já sabe”. (RONCA, Antonio Carlos Caruso. O modelo de ensino de David Ausubel. Em: MILLAN, Wilma (Org.). Psicologia e ensino. São Paulo: Papelivros, 1980. p. 81.) A respeito da abordagem de Ausubel, é CORRETO afirmar que I. a aprendizagem significativa acontece quando um conhecimento novo se relaciona com a estrutura cognitiva do estudante de forma arbitrária. II. uma das condições para que a aprendizagem significativa aconteça é que o conteúdo a ser aprendido seja potencialmente significativo para aquele estudante. III. apresentar para os estudantes primeiro os conceitos mais amplos é uma estratégia que facilita a aprendizagem significativa. IV. a forma como o professor organiza os conteúdos a serem ensinados não influencia para que se aprenda de forma significativa, pois o fator mais importante nesse processo é a estrutura cognitiva do estudante. V. a aprendizagem significativa pode acontecer por meio da recepção ou da descoberta. Estão CORRETAS, apenas",
+      "alternativas": {
+        "a": "I e II",
+        "b": "II, III e V",
+        "c": "I, II, IV e V",
+        "d": "I, III e V",
+        "e": "II e III"
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. Não é de forma arbitrária, mas quando o conhecimento novo consegue\n\"ancorar\" no conhecimento prévio.\nAfirmativa II está correta. Com certeza. A questão do conhecimento significativo passa\nnecessariamente por algo que ele já conheça previamente de alguma forma.\nAfirmativa III está correta. Correto. Ausubel argumentava que era importante mostrar as estruturas\ndas matérias como uma ferramenta de ensino.\nAfirmativa IV está incorreta. Pelo contrário, o professor tem que levar em conta como o conteúdo da\nmatéria é ensinado para que possa ser compreendido pela estrutura cognitiva do aluno.\nAfirmativa V está correta. Exatamente. Por meio da aprendizagem mecânica na denominação de\nAusubel ou pela descoberta de situações novas.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a07_021",
+      "numero": 21,
+      "banca": "COSEAC UFF",
+      "tipo": "multipla",
+      "enunciado": "COSEAC UFF - Orientador (Pref Maricá)/Pedagógico/2018 - Foi a partir da segunda metade do século XX que as contribuições de pesquisadores como Piaget, Bruner e Vygotsky vieram redimensionar as práticas pedagógicas. Das contribuições desses autores e de seus seguidores, as teorias construtivistas destacam, particularmente:",
+      "alternativas": {
+        "a": "o fato de cada aluno fazer o que quiser.",
+        "b": "a maneira diferente de dar aulas.",
+        "c": "o modo como os sujeitos aprendem.",
+        "d": "a forma de lidar com a comunidade.",
+        "e": "a avaliação escolar produtiva."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. Os autores não argumentam pela espontaneidade\nA alternativa B está incorreta. Os autores não se debruçam sobre o planejamento de aula, mas no\ndesenvolvimento humano.\nA alternativa C está correta. Exatamente. Como ocorre a relação entre aprendizado e\ndesenvolvimento.\nA alternativa D está incorreta. Os autores não trabalham com o tema comunidade.\nA alternativa E está incorreta. Os autores não trabalham com o tema avaliação"
+    },
+    {
+      "id": "a07_022",
+      "numero": 22,
+      "banca": "ITAME",
+      "tipo": "multipla",
+      "enunciado": "ITAME - Professor (Pref Aruanã)/N2/Pedagogo/2018 - É possível aplicar à educação algumas teorias sobre a aprendizagem desenvolvidas pela psicologia. Dentre as alternativas abaixo, escolha a que apresenta corretamente os pressupostos de cada teoria.",
+      "alternativas": {
+        "a": "Teoria de Skinner: ressalta a importância da modelagem dos comportamentos no decorrer do processo ensino- aprendizagem.",
+        "b": "Teoria de Piaget: destaca a evolução cognitiva, enfatizando o desempenho do processo de organização, assimilação e acomodação.",
+        "c": "Teoria de David Ausubel: o indivíduo atribui significados a partir de sua realidade, do mundo que o envolve, propiciando o surgimento de outros significados.",
+        "d": "Teoria De Bruner: acredita que com a categorização da aprendizagem, de habilidades e de comportamentos ocorre uma influência nas demais condutas seguintes e causa um efeito cumulativo da aprendizagem."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA alternativa A está incorreta. Skinner trabalha com a relação de condicionamento por\ncomportamento. E não ensino-aprendizagem.\nA alternativa B está correta. Esta alternativa descreve que Piaget trabalha com a questão de como é\nconstruída a inteligência na criança.\nA alternativa C está incorreta. A teoria da aprendizagem significativa tem relação com o conhecimento\nprévio do sujeito sobre determinado assunto e não relacionado ao meio.\nA alternativa D está incorreta. Bruner não é um autor comportamental que propõe comportamentos,\nmas na aprendizagem pela descoberta."
+    },
+    {
+      "id": "a07_023",
+      "numero": 23,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "PR4 (UFRJ) - Técnico (UFRJ)/Assuntos Educacionais/Atendimento a Alunos/2014 - Burrhus Skinner realizou seus experimentos clássicos com ratos de laboratórios em uma gaiola ou câmara operante, como preferia seu idealizador. Era um compartimento no qual havia uma alavanca junto a um comedouro. Colocado em seu interior, o rato movimentava-se com agilidade, tocando a alavanca algumas vezes. Aumentar a frequência desse comportamento era o objetivo de Skinner, pois o reforço positivo se dá quando:",
+      "alternativas": {
+        "a": "atua para fortalecer o comportamento que o procede.",
+        "b": "elimina um comportamento.",
+        "c": "elimina uma resposta.",
+        "d": "elimina uma mania.",
+        "e": "o resultado não depende de uma ação do organismo que altera o ambiente físico."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. Exatamente. O reforço positivo serve para manter determinado\ncomportamento que se deseja.\nA alternativa B está incorreta. Pelo contrário, o reforço positivo faz manter o comportamento.\nA alternativa C está incorreta. Pelo contrário, ocorre a manutenção de determinada resposta.\nA alternativa D está incorreta. Skinner não trabalha com a nomenclatura \"mania\".\nA alternativa E está incorreta. Pelo contrário, Para Skinner o resultado da ação do organismo é muito\ndependente do ambiente. É assim que são condicionados os comportamentos."
+    },
+    {
+      "id": "a07_024",
+      "numero": 24,
+      "banca": "CETAP",
+      "tipo": "multipla",
+      "enunciado": "CETAP - Professor (Pref São João de Pirabas)/Educação Básica I/2016 - Atribua V para as assertivas verdadeiras e F para as assertivas faltas sobre a afetividade na Educação Infantil e assinale a sequência correta: I- ( ) O indivíduo que é tratado com afeto pode transformar-se em um ser humano capaz de enfrentar os problemas da vida e tornar-se uma pessoa mais solidária. II- ( ) O professor não apenas transmite conhecimentos, mas também pode estabelecer uma relação afetiva com seus alunos, o que facilitaria o processo de aprendizagem. III- ( ) Para Piaget, toda ação comporta um aspecto cognitivo, representado pelas estruturas mentais, e um aspecto afetivo, representado por uma energética, que é a afetividade. IV- ( ) Para Wallon, as emoções têm papel predominante no desenvolvimento da pessoa, é por meio delas que o aluno exterioriza seus desejos e suas vontades. V- ( ) No ato de ensinar, afetividade e cognição devem ser tratadas pelo professor separadamente.",
+      "alternativas": {
+        "a": "I- (F); II - (V); III- (V); IV - (V); V - (V).",
+        "b": "I- (V); II - (F); III- (V); IV - (V); V - (V).",
+        "c": "I- (V); lI - (V); III- (F); IV - (V); V - (F).",
+        "d": "I- (V); II - (V); III- (V); IV - (V); V - (F).",
+        "e": "I- (V); lI - (V); III- (V); IV - (F); V - (V)."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa é verdadeira. A afetividade é um importante fator de construção da\npersonalidade.\nA segunda afirmativa é verdadeira. A afetividade está junto com a cognição no processo de ensinoaprendizagem.\nA terceira afirmativa é verdadeira. Piaget aborda a afetividade e a afetividade como faces da mesma\nmoeda. Um avanço em uma área corresponde à progressão em outra.\nA quarta afirmativa é verdadeira. Para Wallon, a emoção faz parte do desenvolvimento.\nA quinta afirmativa é falsa. Pelo contrário, devem ser tratadas de forma conjunta. Não é possível\nsepará-las no ato educativo.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a07_025",
+      "numero": 25,
+      "banca": "COSEAC UFF",
+      "tipo": "multipla",
+      "enunciado": "COSEAC UFF - Inspetor Escolar (Pref Maricá)/2018 - “A Educação, no seu verdadeiro sentido, não se faz sem autoridade, pois o educando precisa do referencial do educador a fim de ter base para a construção do seu próprio referencial. Muitas vezes, o professor não consegue disciplina porque não tem autoridade diante dos alunos. Normalmente, o professor fica esperando que o aluno traga ‘reconhecimento natural’ para com a sua pessoa. Atualmente, esse tratamento de respeito tem que ser conquistado pelo professor.” (Celso Vasconcellos). Para tanto, o professor precisa exercer sua autoridade nos domínios:",
+      "alternativas": {
+        "a": "da intelectualidade, da ética, do profissionalismo e das relações humanas.",
+        "b": "da afetividade, da legalidade, da espontaneidade e da liderança.",
+        "c": "da autenticidade, da ousadia, da honestidade e da sabedoria.",
+        "d": "da coragem, da sinceridade, do amor próprio e do temperamento.",
+        "e": "da moralidade, da lealdade, da espiritualidade e da amizade."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O professor deve ter uma atividade intelectual, senso de profissão e boas\nrelações interpessoais.\nA alternativa B está incorreta. A espontaneidade atrapalha a construção da autoridade.\nA alternativa C está incorreta. A ousadia não possui relação com a construção da autoridade.\nA alternativa D está incorreta. A coragem não possui relação com a construção da autoridade.\nA alternativa E está incorreta. A espiritualidade não possui relação com a construção da autoridade."
+    },
+    {
+      "id": "a07_026",
+      "numero": 26,
+      "banca": "CPCON UEPB",
+      "tipo": "multipla",
+      "enunciado": "CPCON UEPB - Cuidador (Pref SJ Cordeiros)/2019 - Em suas pesquisas, Piaget postulou 4 estágios (fases) de desenvolvimento cognitivo infantil. No primeiro estágio, o _____________________, a criança se concentra nas sensações e nos movimentos, começa a entender o que as sensações significam e como os movimentos dela podem levar a alterações no mundo exterior. No segundo estágio, o _____________________, a criança começa a gerar representações da realidade no próprio pensamento. É isso que possibilita a aprendizagem da fala e as brincadeiras de “faz de conta”. No terceiro estágio, o _____________________, as crianças começam a manipular mentalmente as representações das coisas que internalizou durante os estágios passados. No entanto, essa manipulação só pode ocorrer com coisas concretas, dispostas no mundo real. No quarto e último estágio, o _____________________, a criança é capaz de manipular representações abstratas, fazendo operações com conceitos que não possuem formas físicas, como certos conceitos matemáticos. Em sequência, as palavras que completam CORRETAMENTE essas lacunas são:",
+      "alternativas": {
+        "a": "operatório concreto, operatório formal, sensório-motor, pré-operatório.",
+        "b": "pré-operatório, operatório concreto, operatório formal, sensório-motor.",
+        "c": "sensório-motor, pré-operatório, operatório concreto, operatório formal.",
+        "d": "operatório formal, operatório concreto, pré-operatório, sensório-motor.",
+        "e": "sensório-motor, pré-operatório, operatório formal, operatório concreto."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. O primeiro estágio é o sensório-motor (0-2 anos)\nA alternativa B está incorreta. O primeiro estágio é o sensório-motor (0-2 anos)\nA alternativa C está correta. sensório-motor (0-2 anos), pré-operatório (3-6 anos), operatório concreto\n(6-11 anos), operatório formal (12 anos em diante).\nA alternativa D está incorreta. O primeiro estágio é o sensório-motor (0-2 anos)\nA alternativa E está incorreta. O estágio operatório formal (12 anos em diante) é o último."
+    },
+    {
+      "id": "a07_027",
+      "numero": 27,
+      "banca": "CPCON UEPB",
+      "tipo": "multipla",
+      "enunciado": "CPCON UEPB - Cuidador Educacional (Pref Sumé)/2019 - Piaget, em suas pesquisas, postulou 4 estágios (fases) de desenvolvimento cognitivo infantil. Associe as duas colunas, relacionando esses estágios de desenvolvimento às suas respectivas características. 1. Sensório-motor 2. Pré-operatório 3. Operatório concreto 4. Operatório formal ( ) Estágio em que a criança começa a gerar representações da realidade no próprio pensamento. É isso que possibilita a aprendizagem da fala e as brincadeiras de “faz de conta”. ( ) Estágio em que as crianças começam a manipular mentalmente as representações das coisas que internalizou durante os estágios passados. No entanto, essa manipulação só pode ocorrer com coisas concretas, dispostas no mundo real. ( ) Estágio no qual a criança é capaz de manipular representações abstratas, fazendo operações com conceitos que não possuem formas físicas, como certos conceitos matemáticos. ( ) Estágio no qual a criança se concentra nas sensações e nos movimentos. Começa a entender o que as sensações significam e como os movimentos dela podem levar a alterações no mundo exterior. A sequência CORRETA dessa associação é:",
+      "alternativas": {
+        "a": "1, 2, 3 e 4.",
+        "b": "2, 3, 4 e 1.",
+        "c": "3, 2, 4 e 1.",
+        "d": "4, 2, 1 e 3",
+        "e": "4, 3, 1 e 2"
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa é 2. O estágio pré-operatório é caracterizado pela fantasia e o uso da linguagem\nsimbólica.\nA segunda afirmativa é 3. O estágio operatório é caracterizado pela causalidade concreta dos objetos.\nA terceira afirmativa é 4. O estágio operatório formal é caracterizado pela abstração.\nA quarta afirmativa é 1. O estágio sensório-motor é caracterizado pela manipulação sensitiva dos\nobjetos ao redor do indivíduo.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a07_028",
+      "numero": 28,
+      "banca": "MS CONCURSOS",
+      "tipo": "multipla",
+      "enunciado": "MS CONCURSOS - Professor (SEAD Passo Fundo)/Educação Infantil Nível I/2016 - Vygotsky considerava a BRINCADEIRA como o tipo principal de atividade das crianças pequenas, e que, através dela, a criança elabora hipóteses e vivência, proporcionando inúmeras sensações e experiências significativas, o que promove o desenvolvimento da personalidade e a formação da consciência. A partir do que foi exposto, assinale a alternativa correta:",
+      "alternativas": {
+        "a": "O brinquedo não cria uma zona de desenvolvimento proximal na criança.",
+        "b": "Identifica-se a importância desta atividade na vida das crianças, o que justifica o seu uso enquanto um dos eixos fulcrais do trabalho com crianças na educação infantil.",
+        "c": "Com o brinquedo, a criança nunca se comporta além do comportamento habitual para sua idade.",
+        "d": "O brinquedo não contempla todas as tendências do desenvolvimento sob forma condensada, não sendo ele uma fonte de desenvolvimento."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, a brincadeira cria a zona de desenvolvimento proximal,\npois ela exige ações mentais que estão em processo de maturação.\nA alternativa B está correta. A ZDP é importante para o desenvolvimento avançar.\nA alternativa C está incorreta. Pelo contrário, o brinquedo ajuda a criar a zona de desenvolvimento\nproximal, pois ela exige ações mentais que estão em processo de maturação.\nA alternativa D está incorreta. Pelo contrário, o brinquedo é uma fonte de desenvolvimento, pois está\nancorado na interação sujeito-meio."
+    },
+    {
+      "id": "a07_029",
+      "numero": 29,
+      "banca": "OBJETIVA CONCURSOS",
+      "tipo": "multipla",
+      "enunciado": "OBJETIVA CONCURSOS - Auxiliar de Educação Infantil (Bossoroca)/2018 - De acordo com Vygotsky, em relação às brincadeiras, assinalar a alternativa que preenche a lacuna abaixo CORRETAMENTE: O brinquedo ______________ das crianças pode ser entendido como um sistema muito complexo de “fala” através de gestos que comunicam e indicam os significados dos objetos usados para brincar. É somente na base desses gestos indicativos que esses objetos adquirem, gradualmente, seu significado - assim como o desenho que, de início apoiado por gestos, transforma-se num signo independente.",
+      "alternativas": {
+        "a": "interativo",
+        "b": "simbólico",
+        "c": "analítico",
+        "d": "autorreflexivo"
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Somente a interatividade não caracteriza o simbolismo do brinquedo.\nA alternativa B está correta. É simbólico, pois pode ter outros sentidos no ato de brincar.\nA alternativa C está incorreta. O brinquedo não pode ser analítico, pois é um instrumento lúdico.\nA alternativa D está incorreta. A autorreflexão não existe na infância, pois o adulto exerce um apoio\ninterpsíquico no desenvolvimento."
+    },
+    {
+      "id": "a07_030",
+      "numero": 30,
+      "banca": "IAUPE",
+      "tipo": "multipla",
+      "enunciado": "IAUPE - Auxiliar (Pref Pombos)/Creche/2017 - De acordo com Vygotsky, a brincadeira de papéis sociais é uma atividade, que guia o desenvolvimento da inteligência e da personalidade na idade pré-escolar. Sobre essa questão, analise as afirmativas a seguir e assinale a INCORRETA.",
+      "alternativas": {
+        "a": "Nas brincadeiras de papéis sociais, as crianças referem-se às relações sociais e às atividades humanas que conhecem, sendo que o espaço físico, os objetos e o tempo são condições que podem ou não favorecer o surgimento da interpretação daquelas esferas da vida que a criança conhece.",
+        "b": "Nas brincadeiras de papéis sociais, as crianças estão sempre se comportando como alguém, em geral, mais novo que ela. Dessa maneira, apreendem as regras desde cedo.",
+        "c": "As crianças criam uma situação imaginária para protagonizar papéis sociais balizados por regras. A base em que se apoiam os papéis interpretados nas ações lúdicas é a realidade social da criança.",
+        "d": "Há situações nas creches e pré-escolas em que a brincadeira de papéis sofre o abandono completo do professor que a trata como atividade de segunda categoria e que não merece sua intervenção para que as crianças ampliem as temáticas vivenciadas na brincadeira.",
+        "e": "Promover o enriquecimento das brincadeiras de papéis sociais implica ampliar o conhecimento das crianças sobre as várias esferas da atividade humana, para que elas possam criar novas e diversificadas situações imaginárias."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. A brincadeira pode reproduzir os papéis sociais.\nA alternativa B está incorreta. A brincadeira é em geral a reprodução de papéis sociais acima do\ndesenvolvimento infantil.\nA alternativa C está correta. A brincadeira é caraterizada por situações imaginárias, embora ancoradas\nna realidade em muitos momentos.\nA alternativa D está correta. O enriquecimento das brincadeiras ocorre através do repertório cultural\ninfantil."
+    },
+    {
+      "id": "a07_031",
+      "numero": 31,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor de Ensino Básico, Técnico e Tecnológico (IF Baiano)/Educação Física/2019 - Nos relatos sobre a brincadeira infantil, Vygotsky afirma que esta é uma situação imaginária criada pela criança e onde ela pode, no mundo da fantasia, satisfazer desejos até então impossíveis para a sua realidade. Portanto,",
+      "alternativas": {
+        "a": "a brincadeira, mesmo sendo livre e não estruturada, não possui regras.",
+        "b": "existe uma linha tênue que diferencia a brincadeira do jogo, porém para autores faz-se diferenciação semântica entre jogo e brincadeira.",
+        "c": "a perspectiva sócio-cultural estuda o brincar a partir da concepção de que é o social que caracteriza a ação na atividade lúdica do sujeito.",
+        "d": "todo tipo de brincadeira está isento de regras, até mesmo o faz-de-conta não possui regras que conduzem o comportamento das crianças.",
+        "e": "o brincar passa por momentos evolutivos e a brincadeira vai de uma situação inicial, onde o papel e a cena imaginária são explícitas e as regras latentes, para uma situação em que as regras são implícitas e o papel e a cena imaginária não estão latentes."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. A definição de brincadeira é a ausência de regras rígidas.\nA alternativa B está incorreta. Jogo é regra. Brincadeira é a ausência de regras rígidas.\nA alternativa C está correta. A ludicidade é um instrumento para o desenvolvimento das funções\npsicológicas superiores.\nA alternativa D está incorreta. O faz-de-conta deve ter um regramento mínimo para ter um simbolismo\nlúdico.\nA alternativa E está incorreta. Não é utilizado o termo “regra latente” em Vygotsky."
+    },
+    {
+      "id": "a07_032",
+      "numero": 32,
+      "banca": "CVEST IFPE",
+      "tipo": "multipla",
+      "enunciado": "CVEST IFPE - Assistente (IF PE)/Alunos/2016 - O desenvolvimento psicossocial dos seres humanos, conforme os escritos de Vygotsky, é marcado pela qualidade do contato estabelecido entre os sujeitos e a cultura circundante. Se imaginarmos que o desenvolvimento referido se dá em determinados contextos sociais, dentre estes, na escola, podemos concluir que a escola é um lugar relevante na promoção de experiências favorecedoras deste processo. Considerando as teorias e conceitos utilizados por Vygotsky para compreender o desenvolvimento da criança e do adolescente, é CORRETO afirmar que",
+      "alternativas": {
+        "a": "a variável mais importante que influencia o desenvolvimento humano é a sua condição congênita e circunscrita aos potenciais inatos que podem ser aperfeiçoados pela escola a partir do processo de mediação.",
+        "b": "o sujeito desenvolverá as funções da linguagem, do pensamento e do controle da própria conduta apenas se, a princípio, tais funções forem vivenciadas como atividade interpsíquica (entre as pessoas).",
+        "c": "etapas sucessivas de desenvolvimento invariavelmente acontecem como fruto de atividades intrapsíquicas (dentro da pessoa); caberá à escola favorecer as exigências culturais e familiares em torno da criança a partir do processo de mediação.",
+        "d": "a partir da exploração do corpo e da brincadeira, a criança conhece o mundo em um processo contínuo de mediação em que a escola exerce um papel preponderante no favorecimento da atividade intrapsíquica (dentro da pessoa).",
+        "e": "a escola é o lugar privilegiado onde o desenvolvimento da criança e do adolescente acontece; em uma perspectiva sociocognitiva, a família não é capaz sozinha de lidar com a educação de seus membros numa perspectiva interpsíquica (entre as pessoas)."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. Vygotsky é contrário ao desenvolvimento ter uma causalidade direta\ncom a genética ou do nascimento.\nA alternativa B está correta. A linguagem passa pelo desenvolvimento interpsíquico (entre sujeitos)\npara o intrapsíquico (internalização).\nA alternativa C está incorreta. É necessária a relação interpsíquica (entre sujeitos).\nA alternativa D está incorreta. É necessária a relação interpsíquica (entre sujeitos).\nA alternativa E está incorreta. É necessária a relação intrapsíquica (internalização)"
+    }
+  ]
+}

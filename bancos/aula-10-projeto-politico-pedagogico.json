@@ -1,0 +1,337 @@
+{
+  "esquema": 1,
+  "id": "aula-10-projeto-politico-pedagogico",
+  "aula": "10",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 10",
+  "subtitulo": "Projeto Político-Pedagógico (PPP)",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 10 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    22
+  ],
+  "tagsEdital": [
+    {
+      "n": 22,
+      "titulo": "Projeto político-pedagógico da escola (PPP)"
+    }
+  ],
+  "resumoMd": "### 1. Definição e Concepção do PPP\n- **Projeto**: Intencionalidade, projeção do futuro, ação intencional e reflexiva da escola.\n- **Político**: Compromisso com a formação do cidadão crítico, consciente e transformador da sociedade.\n- **Pedagógico**: Organização das ações educativas, definindo o processo de ensino-aprendizagem, metodologias e avaliações.\n- **Dimensão Coletiva**: O PPP não é um documento burocrático de prateleira ou elaborado por especialistas/consultores externos; é construído coletivamente pela comunidade escolar (professores, gestores, estudantes, funcionários e famílias).\n\n### 2. Princípios Norteadores do PPP (Veiga)\n1. **Igualdade de condições**: Para acesso e permanência na escola pública de qualidade.\n2. **Qualidade para todos**: Qualidade formal (técnica) e política (social).\n3. **Gestão Democrática**: Participação na tomada de decisões e construção compartilhada.\n4. **Liberdade/Autonomia**: Autonomia pedagógica, administrativa e de gestão financeira das unidades escolares.\n5. **Valorização dos Profissionais da Educação**: Formação continuada e condições dignas de trabalho.\n\n### 3. Estrutura e Etapas de Elaboração do PPP\n- **Marco Referencial**:\n  - *Marco Situacional*: Análise do contexto social, econômico e cultural da comunidade.\n  - *Marco Doutrenal/Filosófico*: Valores, utopias e concepção de homem e sociedade desejados.\n  - *Marco Operativo/Pedagógico*: Definição do modelo de ensino, avaliação, currículo e ação pedagógica.\n- **Diagnóstico**: Confronto entre a realidade atual da escola e o ideal desejado (identificação de problemas e necessidades).\n- **Programação/Plano de Ação**: Definição de metas, ações estratégicas, cronograma, responsáveis e recursos.\n\n---",
+  "total": 20,
+  "questoes": [
+    {
+      "id": "a10_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Orientador Educacional (Pref Gramado)/2019 - Segundo Veiga, constituindo-se em um processo participativo de decisões, o projeto político-pedagógico procura: I. Instaurar uma forma de organização do trabalho pedagógico que desvele os conflitos e as contradições. II. Buscar eliminar as relações competitivas, corporativas e autoritárias. III. Romper com a rotina do mando pessoal e racionalizado da burocracia e permitir as relações horizontais no interior da escola. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Os conflitos e contradições fazem parte do processo democrático. Está de acordo\ncom a autora.\nAfirmativa II está correta. Dentro da construção democrática do PPP não pode ter competição e relações\nautoritárias. É uma construção coletiva.\nAfirmativa III está correta. Relações horizontais são o contrário de relações verticalizadas. Está de acordo\ncom a construção democrática do PPP.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a10_002",
+      "numero": 2,
+      "banca": "SELECON",
+      "tipo": "multipla",
+      "enunciado": "SELECON - VUNESP - Pedagogo (UFABC)/2019 - A construção do projeto político-pedagógico (PPP) é um instrumento de luta, é uma forma de contrapor-se à fragmentação do trabalho pedagógico e sua rotinização, à dependência e aos efeitos negativos do poder autoritário e centralizador dos órgãos da administração central. Pelo menos sete elementos básicos são constitutivos do PPP: as finalidades da escola, a estrutura organizacional, o currículo, o tempo escolar, o processo de decisão, as relações de trabalho, a avaliação. Na construção do PPP, o currículo deve",
+      "alternativas": {
+        "a": "ser um instrumento neutro, sem ideologia.",
+        "b": "ser histórico e culturalmente determinado pela cultura popular.",
+        "c": "expelir toda forma de controle social.",
+        "d": "ser dinâmico e propor uma simplificação do conhecimento científico.",
+        "e": "inter-relacionar o conhecimento em torno de uma ideia integradora."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, o PPP deve ter ideologia que é um posicionamento referente\na visão de mundo.\nA alternativa B está incorreta. O PPP não deve contemplar a cultura popular, mas também a cultura histórica\ne acumulada pela humanidade.\nA alternativa C está incorreta. O PPP deve ser um instrumento de mudança e não de controle.\nA alternativa D está incorreta. O PPP não deve tornar superficial o conhecimento científico. Pode transformálo\nem conhecimento adaptado a didática, mas não simplificar a ciência.\nA alternativa E está correta. O PPP é uma ideia integradora por que agrega diferentes concepções e visões\nde escola. É uma proposta coletiva, mas que é necessário existir alguns consensos."
+    },
+    {
+      "id": "a10_003",
+      "numero": 3,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Pedagogo (UFABC)/2019 - O projeto político-pedagógico representa um desafio em busca de novas trilhas para a escola. Nesse ato de trilhar em direção à qualidade do processo educativo, de um lado, é necessário refletir sobre as relações mais amplas da escola com as políticas públicas; de outro, é fundamental compreender os pressupostos que devem embasar a construção do projeto políticopedagógico (PPP) da instituição educativa numa visão emancipadora. Nesse sentido, um pressuposto importante para a construção do PPP é",
+      "alternativas": {
+        "a": "a ação exercida pelos órgãos centrais da administração educacional no sentido de determinar conteúdos político-sociais importantes para a escola.",
+        "b": "o planejamento estratégico que minimiza o descompromisso de profissionais da educação com a escola pública.",
+        "c": "a padronização do pensamento na escola em favor da democracia, da liberdade e da negação do conservadorismo.",
+        "d": "o exercício da participação em suas dimensões administrativa, financeira e pedagógica.",
+        "e": "a racionalização da organização da escola visando uma gestão escolar mais eficiente e participativa."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. O PPP é construído de maneira democrática a partir da escola e não da\nadministração central.\nA alternativa B está incorreta. O PPP deve possuir uma ideia que faça sentido para todos na escola. Caso\ncontrário não há mudança no compromisso dos profissionais.\nA alternativa C está incorreta. O termo utilizado \"padronização\" é equivocado para caracterizar a construção\ndo PPP. O certo seria usar \"diversidade\".\nA alternativa D está correta. Exatamente. A construção do PPP significa participação em diferentes esferas\nda vida da escola.\nA alternativa E está incorreta. O PPP é participação e não racionalização para eficiência."
+    },
+    {
+      "id": "a10_004",
+      "numero": 4,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref Itapevi)/PEB II/Educação Física/2019 - Ao tratar da perspectiva multicultural no projeto político-pedagógico, Resende (In: Veiga, 1998) compreende o multiculturalismo na imbricação de dois significados, quais sejam: no reconhecimento da diversidade e no caráter intervencionista das ações, desvelando o cotidiano das pessoas, permeado que é pelas disputas de relações de poder construídas socialmente de forma desigual. Segundo a autora, abordar o caráter multicultural como transversalidade de um fazer e um pensar no mundo requer",
+      "alternativas": {
+        "a": "a compreensão de um retrospecto histórico que explica a faceta relativa à dificuldade comumente encontrada em adotar uma postura multicultural nos mais diferentes campos de atuação.",
+        "b": "a valorização de uma monocultura escolar que se expressa pela impermeabilidade em relação tanto às realidades diversas como ao multifacetado mundo das crianças e dos adolescentes.",
+        "c": "a aceitação da cultura dominante em sala de aula, a qual corresponde à visão de determinados grupos sociais quanto ao currículo e aos conteúdos e objetivos escolares.",
+        "d": "o movimento desintegrador de algumas culturas, fundado na desvalorização da diversidade cultural dos povos, atingindo a convivência com o outro, elemento indispensável ao projeto político-pedagógico.",
+        "e": "o reconhecimento da importância de valores neoliberais na construção de um projeto político-pedagógico que vise ao nivelamento dos participantes da comunidade escolar e a eliminação das diferenças interindividuais."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A descrição da alternativa coaduna com a visão de multiculturalismo que é a\ndiversidade em diferentes aspectos convivendo no mesmo espaço. A postura multicultural é um aprendizado\na ser exercido pelos profissionais de educação.\nA alternativa B está incorreta. O uso do termo \"monocultura\" é equivocado. São várias culturas.\nA alternativa C está incorreta. A aceitação da cultura dominante seria também estar a favor de uma cultura\nsó. São várias culturas.\nA alternativa D está incorreta. Desintegrar as culturas é um exagero para colocar como um problema do\nPPP.\nA alternativa E está incorreta. Os valores neoliberais apenas valorizam a cultura dominante. Uma só cultura.\nQuando deveriam ser várias culturas."
+    },
+    {
+      "id": "a10_005",
+      "numero": 5,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref Peruíbe)/História/2019 - O caminho da construção de um projeto político-pedagógico como indicador de diversidades pressupõe autonomia e espaços de participação reais e não simbólicos, como elementos da proposta pedagógica. Nessa perspectiva, segundo Resende (1998), é preciso",
+      "alternativas": {
+        "a": "adotar uma política de educação compensatória, interpretando a diferença como deficit, particularmente na área acadêmica, e criando meios de ajuda para o grupo dos diferentes.",
+        "b": "assumir a visão de que a participação dos diversos grupos que compõem a sociedade é a solução definitiva dos problemas e das mazelas que assolam a escola.",
+        "c": "buscar a homogeneização cultural, a fim de se evitar que grupos “marginais” exerçam uma dominação cultural no ambiente escolar que se pretende democrático.",
+        "d": "incorporar o multiculturalismo ao currículo, de forma que sua transversalidade possa perpassar os conteúdos tratados no cotidiano do processo de aprendizagem.",
+        "e": "optar entre a ênfase na igualdade cultural ou a ênfase na diferença, pois são visões irreconciliáveis que se anulam e impossibilitam um consenso entre as partes envolvidas."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. A educação compensatória está em desuso na educação por não valorizar a\ncultura do aprendiz. Se quereremos um PPP com base na participação temos que valorizar a cultura do outro.\nAssim, educação compensatória não está coerente com a construção do PPP.\nA alternativa B está incorreta. Somente a participação não resolve os problemas da escola. É preciso\nfinanciamento da administração central.\nA alternativa C está incorreta. O termo \"homogeneizar\" está colocado de maneira equivocada, pois a\npostura deveria valorizar diferentes culturas.\nA alternativa D está correta. Exatamente. O multiculturalismo é um tema que pode ser transversal ao PPP,\njá que valoriza diferentes culturas.\nA alternativa E está incorreta. Não existe o termo \"igualdade cultural\". Além disso, sempre é possível o\nconsenso na construção do PPP."
+    },
+    {
+      "id": "a10_006",
+      "numero": 6,
+      "banca": "CONSULPLAN",
+      "tipo": "multipla",
+      "enunciado": "CONSULPLAN - Estagiário (MPE PA)/Pedagogia/2019 - O Projeto Político-Pedagógico, ao se constituir em processo democrático de decisões, preocupa-se em instaurar uma forma de organização do trabalho pedagógico que supere os conflitos, buscando eliminar as relações competitivas, corporativas e autoritárias, rompendo com a rotina do mando impessoal e racionalizado da burocracia que permeia as relações no interior da escola.(VEIGA, 2007, p. 13.) Sobre o Projeto Político-Pedagógico, é INCORRETO afirmar que:",
+      "alternativas": {
+        "a": "A sua construção necessita de isenção das influências das práticas sociais, das relações históricas e políticas desenvolvidas por seus sujeitos.",
+        "b": "A escola irá concebê-lo buscando autonomia para executá-lo e avaliá-lo, partindo de uma reflexão sobre suas finalidades sociopolíticas e culturais e sobre a organização do seu trabalho pedagógico.",
+        "c": "Vai além de um agrupamento de planos de ensino e atividades, passando a ser uma ação intencional com um compromisso definido coletivamente, construído e vivenciado em todos os momentos.",
+        "d": "Tem um papel fundamental, no sentido de garantir uma intencionalidade política no trabalho pedagógico, construindo um espaço de reflexão para compreender a ideologia presente nos discursos e práticas pedagógicas."
+      },
+      "gabarito": "B",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está incorreta. Pelo contrário, o PPP deve deixar que as influências das práticas sociais\ncontribuam para a construção do PPP. Além disso, as práticas sociais estão como princípio da LDB.\nA alternativa B está correta. Todos os termos estão empregados corretamente: autonomia, avaliação,\nfinalidade e organização.\nA alternativa C está correta. O PPP é uma ideia integradora que ocorre através da participação.\nA alternativa D está correta. O PPP possui uma intenção política que é a visão de mundo que se tem em\npensar educação."
+    },
+    {
+      "id": "a10_007",
+      "numero": 7,
+      "banca": "CEFETMINAS",
+      "tipo": "multipla",
+      "enunciado": "CEFETMINAS - Técnico (IF Sudeste MG)/Assuntos Educacionais/Barbacena/2019 - Segundo Libâneo (2010), aqueles que pensam e atuam no campo da educação precisam conhecer as exigências por uma pedagogia em um mundo em mudança. Ela recebe a influência de várias teorias e correntes pedagógicas contemporâneas que têm impactado a educação, entre elas, a Teoria da Complexidade. Na perspectiva dessa teoria, abordagem metodológica em que se apreende a complexidade das situações educativas, é correto afirmar que NÃO é recomendável que o projeto pedagógico",
+      "alternativas": {
+        "a": "busque as inter-relações, a cooperação interdisciplinar entre as atividades e os conteúdos de ensino aprendizagem.",
+        "b": "exercite a prática pedagógica interdisciplinar com diferentes modelos de análise para entendimento das diferentes visões das coisas.",
+        "c": "promova projetos de mediações culturais para o desenvolvimento da razão crítica nos estudantes e de modos de ação para a formação cidadã.",
+        "d": "integre, no ato pedagógico de múltiplas dimensões, a dúvida sobre o que é a verdade e o que é a realidade empírica, de modo a ver os vários lados da situação.",
+        "e": "estimule, na formação dos estudantes, a compreensão de que a teoria científica é o reflexo do real e a base para a compreensão do diálogo com a prática pedagógica."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está correta. O PPP pode favorecer a interdisciplinaridade.\nA alternativa B está correta. Novamente uma alternativa que diz que o PPP pode favorecer a\ninterdisciplinaridade.\nA alternativa C está correta. O PPP pode contemplar projetos para melhorar a qualidade social e educacional\nda escola.\nA alternativa D está correta. A descrição da alternativa diz respeito ao pensamento diverso. Está de acordo\ncom a construção participativa do PPP.\nA alternativa E está incorreta. Se colocar apenas a teoria científica com base do real não vai valorizar outras\nculturas. A ciência é um aspecto da cultura apenas. Há várias outras dimensões da cultura que necessitam\nser contempladas no PPP."
+    },
+    {
+      "id": "a10_008",
+      "numero": 8,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor Efetivo de Ensino Básico, Técnico e Tecnológico (IF PB)/Didática Pedagogia/2019 - Sobre o nascimento do Projeto Político Pedagógico após a Constituição Federal de 1988, para dar autonomia às escolas na elaboração da própria identidade, sendo esse projeto referencial de quaisquer instituições de ensino, analise as assertivas a seguir: I. É um processo democrático, construído por todos os interessados, sejam eles: Equipe Administrativa, Diretor geral, Diretor adjunto, Secretário, Auxiliares de secretaria, Agente administrativo, Equipe Pedagógica, Coordenador pedagógico, Orientador pedagógico, Orientador educacional, Supervisor escolar, Funcionários, professores, auxiliares (exceto Serventes, Merendeiras), Inspetores, Alunos, pais e comunidade em geral. II. Planejar e construir um PPP é ter compromisso com uma educação de qualidade e participativa, é a união entre escola e comunidade, comunidade e escola, pois ambos são indissociáveis. É trilhar um caminho com foco na aprendizagem, participar de opiniões e responder os questionamentos. III. O Projeto Político Pedagógico não deve ser elaborado apenas para cumprir uma determinação legal, muito menos ficar engavetado ou ausente do cotidiano escolar. Assinale",
+      "alternativas": {
+        "a": "se todas as afirmativas estiverem corretas.",
+        "b": "se somente as afirmativas I e II estiverem corretas.",
+        "c": "se somente as afirmativas I e III estiverem corretas.",
+        "d": "se somente as afirmativas II e III estiverem corretas.",
+        "e": "se somente a afirmativa I estiver correta."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. O termo \"exceto servente e merendeiras\" invalidou a questão. O PPP é\nconstruído por todos em exceção.\nAfirmativa II está correta. O PPP é participativo e tem que ter vínculo com a comunidade.\nAfirmativa III está correta. Exatamente. O PPP não pode ser apenas burocrático. Deve ter uma função\npedagógica e política na escola.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a10_009",
+      "numero": 9,
+      "banca": "CEV UECE",
+      "tipo": "multipla",
+      "enunciado": "CEV UECE - Pedagogo (Pref Quixeramobim)/2019 - O projeto político-pedagógico deve ser considerado uma construção coletiva que respeita os sujeitos das aprendizagens, entendidos como cidadãos com direitos à proteção e à participação social. Para tanto, o projeto político-pedagógico deve contemplar alguns aspectos que levem em consideração: I. o diagnóstico da realidade concreta dos sujeitos do processo educativo, contextualizados no espaço e no tempo; II. a concepção sobre educação, conhecimento, avaliação da aprendizagem e mobilidade escolar; III. as bases norteadoras da organização do trabalho pedagógico; IV. a definição de qualidade das aprendizagens e, por consequência, da escola, no contexto das desigualdades que se refletem na escola; V. os fundamentos da gestão democrática, compartilhada e participativa (órgãos colegiados e de representação estudantil); VI. as ações de acompanhamento sistemático dos resultados do processo das avaliações interna e externa. Estão corretas as complementações contidas em",
+      "alternativas": {
+        "a": "III, V e VI apenas.",
+        "b": "I, II, III, IV, V e VI.",
+        "c": "I, II, III e IV apenas.",
+        "d": "I, II, IV, V e VI apenas."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O PPP deve partir de um diagnóstico da realidade.\nAfirmativa II está correta. Faz parte do PPP concepções pedagógicas ou educacionais.\nAfirmativa III está correta. As bases norteadoras são as concepções pedagógicas que estão no PPP.\nAfirmativa IV está correta. Definir qualidade de aprendizagem é definir concepção pedagógica.\nAfirmativa V está correta. O PPP deve ter como fundamento a democracia e a participação.\nAfirmativa V está correta. O PPP deve ser avaliado de maneira periódica para que se possa ter noção da\nqualidade educacional. As avaliações em vigor podem ser internas (da escola) ou externas (da administração\ncentral)\nAlternativa correta letra B."
+    },
+    {
+      "id": "a10_010",
+      "numero": 10,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Vila Lângaro)/Séries Iniciais/2019 - As pesquisas indicam que as grandes mudanças necessárias para obter uma educação de qualidade precisam não só de melhoria da gestão da sala de aula e do desenvolvimento de competências profissionais dos docentes, mas também da organização da escola. Nesse sentido, a proposição de um Projeto Pedagógico (PP) atende aos seguintes pressupostos, EXCETO:.",
+      "alternativas": {
+        "a": "A escola, ao elaborar o PP, afirma sua identidade e revela sua organização, suas metas e seus planos para toda a comunidade, o que possibilita avanços na construção de métodos para se relacionar e articular com o seu entorno.",
+        "b": "Uma lei federal define e regula a obrigatoriedade da elaboração do PP, indicando os mecanismos de participação obrigatória de todos os profissionais, sob pena de sanções restritivas quanto ao repasse financeiro para a manutenção da escola.",
+        "c": "Um dos direitos dos pais e familiares é conhecer o PP da escola onde irão matricular seus filhos.",
+        "d": "O PP tem a intencionalidade de orientar o funcionamento e a organização da escola para conquistar a educação almejada, de acordo com o contexto na qual está inserida.",
+        "e": "O PP aponta os compromissos que serão assumidos por todos os integrantes da comunidade escolar."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta\nA alternativa A está correta. O PPP é identidade e organização da escola. Também diz respeito aos objetivos\ne metas a serem alcançados. Possui também vínculo com a comunidade.\nA alternativa B está incorreta. Nenhuma lei federal define sanções quanto a não participação dos\nprofissionais no PPP.\nA alternativa C está correta. Exatamente. Os pais ou responsáveis tem o direito de conhecer o projeto\npolítico-pedagógico da escola.\nA alternativa D está correta. O PP possui intenção política e pedagógica nas suas propostas com a finalidade\nda qualidade social e educacional.\nA alternativa E está correta. A comunidade escolar assume compromissos no PPP, pois participa do processo\nde construção."
+    },
+    {
+      "id": "a10_011",
+      "numero": 11,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Santa Cecília do Sul)/Pedagogia/2019 - Para Vasconcellos, a gestão envolve estratégias, nas quais a comunicação exerce papel fundamental como ponto de partida para que todos se entendam. Nesse sentido, assinale V, se verdadeiro, ou F, se falso, quanto ao papel do gestor na construção do PPP. ( ) Discutir soluções possíveis e promover negociações. ( ) Assumir responsabilidades e deixar que os outros também assumam. ( ) Valorizar os aspectos positivos do grupo, deixando claras as suas intenções para com a escola e zelar pela total transparência de todas as ações. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+      "alternativas": {
+        "a": "F – V – F.",
+        "b": "V – F – V.",
+        "c": "V – V – F.",
+        "d": "V – V – V.",
+        "e": "F – F – V."
+      },
+      "gabarito": "D",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nA primeira afirmativa está correta. Este processo faz parte da democracia e da participação.\nA segunda afirmativa está correta. Assumir responsabilidades faz parte da construção do PPP.\nA terceira afirmativa está correta. A transparência e o trabalho em equipe fazem parte da construção do\nPPP.\nAlternativa correta letra D."
+    },
+    {
+      "id": "a10_012",
+      "numero": 12,
+      "banca": "FCM",
+      "tipo": "multipla",
+      "enunciado": "FCM - CEFETMINAS - Supervisor Pedagógico (Pref Guarani)/2019 - Trabalhar com projetos tem sido uma prática pedagógica comum nas escolas brasileiras de Educação Básica. Para que se alcancem não só ganhos individualizados na aprendizagem do aluno, mas resultados mais gerais que representem conquistas significativas como processos educativos, são necessários cuidados que integrem esse trabalho ao Projeto Político Pedagógico da Escola (PPP). (NOGUEIRA, 2006). Avalie as afirmações referentes aos cuidados na preparação de projetos na escola. I. Espalhar cartazes e faixas pelos corredores, relatando os resultados alcançados. II. Dar clareza ao que se pretende com o projeto, aos motivos para realizá-lo, conforme a proposta da escola. III. Identificar nos objetivos do projeto a contribuição para as múltiplas possibilidades do trabalho educativo. IV. Garantir o alcance dos objetivos, dos saberes, dos conhecimentos e das habilidades em cada disciplina, de modo que impactem a composição do PPP. Está correto apenas o que se afirma em",
+      "alternativas": {
+        "a": "I e II.",
+        "b": "II e III.",
+        "c": "I e IV.",
+        "d": "II, III e IV."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está incorreta. Espalhar cartazes não revela um cuidado com o PPP segundo o autor.\nAfirmativa II está correta. O PPP é dar clareza aos objetivos propostos.\nAfirmativa III está correta. Identificação dos objetivos também é importante no PPP.\nAfirmativa IV está incorreta. Os saberes e objetivos de cada disciplina faz parte do plano didático e não do\nPPP. O professor tem autonomia para compor seu plano de aula.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a10_013",
+      "numero": 13,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref N Horizonte)/Educação Básica II/Ciências/2019 - De acordo com Demo, a competência humana atual, diante dos desafios da inovação e da cidadania, lança pretensões específicas, que supõem sempre atitude reconstrutiva diante da vida, sem necessariamente ser construtivista. No lado formal, são alguns critérios de qualidade da educação, EXCETO:",
+      "alternativas": {
+        "a": "Capacidade de pesquisa, para ler criticamente a realidade.",
+        "b": "Elaboração própria, para saber reconstruir projeto próprio.",
+        "c": "Atualização facultativa, uma vez que as teorias educacionais não mudam.",
+        "d": "Teorização das práticas, para saber intervir criativamente.",
+        "e": "Saber pensar, argumentar, fundamentar e aprender."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. O professor pesquisador faz parte da formação de professores.\nA alternativa B está correta. O professor dá significado próprio as suas experiências na escola.\nA alternativa C está incorreta. A atualização do docente tem que ser obrigatória.\nA alternativa D está correta. A teoria e prática fazem parte das intervenções do professor em sala de aula.\nA alternativa E está correta. São ações próprias do professor pesquisador e crítico."
+    },
+    {
+      "id": "a10_014",
+      "numero": 14,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Diretor de Escola (Pref Olímpia)/2019 - “As experiências já vivenciadas em relação à democratização da gestão escolar apontam alguns pressupostos e alguns parâmetros que, se considerados, tendem a garantir maior sucesso na conquista daquela democratização e, consequentemente, da escola de melhor qualidade”. De acordo com Ângela A. Ciseski e José E. Romão, em Autonomia da Escola: princípios e propostas, podese considerar, dentre outros, como parâmetro para constituição de Conselhos de Escola que",
+      "alternativas": {
+        "a": "cabe ao Conselho de Escola definir e aprovar o plano de aplicação financeira da escola.",
+        "b": "as deliberações do Conselho de Escola deverão ser tomadas por, no mínimo, 2/3 (dois terços) de seus participantes.",
+        "c": "serão computados dois votos para professor que possua dois cargos na mesma unidade de ensino no processo de escolha de representantes.",
+        "d": "cabe ao diretor de escola, membro nato, a presidência das reuniões do Conselho de Escola.",
+        "e": "os representantes dos alunos terão sempre direito a voto e voz."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O Conselho Escolar define em ata o plano de aplicação de recursos financeiros\nda escola.\nA alternativa B está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende de leis\nlocais municipais e estaduais.\nA alternativa C está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende de leis\nlocais municipais e estaduais.\nA alternativa D está incorreta. Em geral, a presidência das reuniões do Conselho de Escola não recai sobre a\ngestão escolar, uma vez que a presidência deve ter autonomia em relação à gestão.\nA alternativa E está incorreta. Não necessariamente. Pode existir outras configurações. Isso depende de leis\nlocais municipais e estaduais."
+    },
+    {
+      "id": "a10_015",
+      "numero": 15,
+      "banca": "CS UFG",
+      "tipo": "multipla",
+      "enunciado": "CS UFG - Pedagogo (IF GOIANO)/2019 - O projeto político-pedagógico exige uma profunda reflexão sobre as finalidades da escola, bem como a explicitação de seu papel na comunidade e na sociedade. No que se refere à execução, o projeto político-pedagógico deve",
+      "alternativas": {
+        "a": "ser construído pela equipe diretiva da escola, abarcando exclusivamente os interesses desse grupo com vistas a conhecer o funcionamento da escola.",
+        "b": "explicitar as causas dos problemas e das situações nas quais tais problemas aparecem com vistas a enfrentá-los e superá-los coletivamente.",
+        "c": "fomentar a ação dos membros da escola na execução das tarefas da comunidade com vistas a solucionar os problemas que surgirem.",
+        "d": "explicitar os princípios baseados nas ações de controle, tanto interna quanto externa, com vistas a minimizar a ação dos professores no exercício de sua função."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O PPP não deve ser construído somente pela equipe diretiva. É por toda\ncomunidade escolar.\nA alternativa B está correta. Sim. O PPP deve ser um documento que se propõe a diagnosticar situações e\nresolvê-las.\nA alternativa C está incorreta. Não são ações dos membros das escolas, mas de toda a comunidade escolar.\nA alternativa D está incorreta. As ações de controle são próprias do eixo administrativo. No casos, o PPP é\num documentos pedagógico."
+    },
+    {
+      "id": "a10_016",
+      "numero": 16,
+      "banca": "CS UFG",
+      "tipo": "multipla",
+      "enunciado": "CS UFG - Pedagogo (IF GOIANO)/2019 - Leia o trecho a seguir. A primeira ação que me parece fundamental para nortear a organização do trabalho da escola é a construção do projeto pedagógico assentado na concepção de sociedade, educação e escola que vise à emancipação humana. Ao ser claramente delineado, discutido e assumido coletivamente ele se constitui como processo. E, ao se constituir como processo, o projeto político-pedagógico reforça o trabalho integrado e organizado da equipe escolar. VEIGA, 1996, p.157 (Adaptado). Nesse sentido, de acordo com a autora, a função primordial do projeto pedagógico é:",
+      "alternativas": {
+        "a": "coordenar a ação educativa da escola para que ela atinja o seu objetivo político-pedagógico.",
+        "b": "instaurar uma forma de organização do trabalho educativo na escola que reforce seus conflitos e contradições.",
+        "c": "fomentar a individualidade de cada funcionário da escola no exercício de suas funções como meio de garantir o alcance dos objetivos do projeto.",
+        "d": "intensificar o trabalho dos professores para assumir funções de outros agentes educativos para atingir os objetivos do projeto político-pedagógico."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. A coordenação de ações da escola no âmbito educativo é primordial no PPP.\nA alternativa B está incorreta. Pelo contrário, o PPP não deve reforçar conflitos e sim ajudar a solucioná-los.\nA alternativa C está incorreta. O PPP deve fomentar a coletividade.\nA alternativa D está incorreta. O professor tem função específica e não deve assumir outras atribuições que\nnão são próprias do seu cargo."
+    },
+    {
+      "id": "a10_017",
+      "numero": 17,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref Peruíbe)/História/2019 - Por razões pedagógicas e técnico-administrativas inerentes ao compromisso da escola com a educação e o ensino, reforçam-se hoje a necessidade e o desafio de cada escola construir seu próprio projeto político-pedagógico e administrálo. Bussmann (In: Veiga, 1996) defende o ponto de vista de que, ao ser discutido, elaborado e assumido coletivamente, o projeto político-pedagógico",
+      "alternativas": {
+        "a": "oferece garantia visível e sempre aperfeiçoável da qualidade esperada no processo educativo.",
+        "b": "torna-se um depósito estático de ideias de autodefesa contra críticas e divergências.",
+        "c": "encerra o processo de aperfeiçoamento do ato educativo e acarreta um bom resultado final.",
+        "d": "gera um tipo de “saber”ou um “programa oficial” a ser seguido fielmente por todos os envolvidos.",
+        "e": "assume seu papel de documento meramente elaborado para se cumprir uma obrigação formal."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O PPP é um documento com intenções da qualidade do processo educativo.\nA alternativa B está incorreta. O PPP não é uma depósito de ideias de autodefesa, mas um documento\nprospectivo para o futuro.\nA alternativa C está incorreta. O PPP inicia um processo educacional e não o encerra.\nA alternativa D está incorreta. O PPP não deve se fonte de controle, mas de aperfeiçoamento pedagógico.\nA alternativa E está incorreta. É um documento pedagógico e não uma obrigação administrativa apenas."
+    },
+    {
+      "id": "a10_018",
+      "numero": 18,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Professor de Educação Básica II (Pref Itapevi)/PEB II/Educação Física/2019 - Resende (In: Veiga, 1996) preocupa-se em discutir a relação entre paradigma, poder e projeto político-pedagógico (PPP). Ela entende que as relações sociais em torno do poder transitam entre dois polos paradigmáticos em crise: o conservador e o emergente. Contudo, como toda crise, esta também traz em si o germe de sua própria superação, que aponta para",
+      "alternativas": {
+        "a": "a renúncia, pelos educadores, de paradigmas tradicionais e a adoção de paradigmas emergentes.",
+        "b": "uma outra inspiração paradigmática rumo a novos conceitos de relação de poder e descentralização.",
+        "c": "uma formação cultural que reforce o pensar a contradição e não por contradição.",
+        "d": "uma superação de relações sociais em torno do poder, próprias do paradigma conservador.",
+        "e": "a necessidade de os professores assumirem de forma clara o paradigma que vão adotar durante todo o percurso profissional na escola."
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O PPP não é uma renúncia, mas uma construção de paradigmas. Não é o caso\nde simples adoção. É construído.\nA alternativa B está correta. O PPP é uma inspiração baseado em paradigmas que se propõe a organizar a\nproposta educativas da escola envolvendo toda comunidade escolar.\nA alternativa C está incorreta. O PPP não pode ser só cultural, ele é um documento educativo.\nA alternativa D está incorreta. O PPP não tem o poder de transformar as relações sociais estabelecidas na\nsociedade. Ele pode propor meio educacionais com a finalidade de diminuí-las.\nA alternativa E está incorreta. Esta alternativa é rígida e não está condizente com a flexibilidade que o PPP\ndeve ter."
+    },
+    {
+      "id": "a10_019",
+      "numero": 19,
+      "banca": "SELECON",
+      "tipo": "multipla",
+      "enunciado": "SELECON - Professor (SME Cuiabá)/Pedagogia/Ensino Fundamental/2019 - Segundo Libâneo (2015), o projeto pedagógico é a concretização do processo de planejamento em que se considera o que já está instituído e também o instituinte. A característica de instituinte significa que o projeto, institui:",
+      "alternativas": {
+        "a": "determinadas atividades e tarefas a serem desenvolvidas em compatibilização com os recursos financeiros",
+        "b": "a obediência à legislação, aos currículos, conteúdos e métodos e estabelece as formas organizativas da escola",
+        "c": "o estabelecimento e a criação de objetivos, procedimentos, instrumentos, modos de agir, estruturas, hábitos e valores",
+        "d": "certas restrições, dando preferência ao momento da elaboração e dependendo dos gestores da escola para a tomada de decisões"
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. O PPP é um documento pedagógico e não administrativo.\nA alternativa B está incorreta. O PPP não é apenas um documento normativo.\nA alternativa C está correta. O PPP é um documento pedagógico e prospectivo.\nA alternativa D está incorreta. O PPP não é um documento de propriedade dos gestores escolares."
+    },
+    {
+      "id": "a10_020",
+      "numero": 20,
+      "banca": "FUNRIO",
+      "tipo": "multipla",
+      "enunciado": "FUNRIO - Professor (Pref Alta Floresta)/Anos Iniciais/2019 - Pensando na elaboração do Projeto Político-Pedagógico, responda corretamente:",
+      "alternativas": {
+        "a": "Seu objetivo deve ser modificado anualmente a partir do perfil da clientela da escola, abarcando as subjetividades dos alunos e suas singularidades.",
+        "b": "O papel dos relacionamentos familiares no documento tem relação com a necessidade funcional em desenvolver um atendimento que reforce o papel da família dentro do quadro pedagógico e como objetivos do currículo.",
+        "c": "O projeto, buscando criar um vínculo entre escola, família e alunos, deve considerar o papel fundamental do Conselho Escolar e a dos pais nessas decisões.",
+        "d": "As diretrizes pedagógicas devem ser elaboradas pelos professores levando em consideração a funcionalidade do currículo e como adaptá-lo com exclusividade ao seu modo e estilo didático.",
+        "e": "Os planos de ação devem ser pensados em sua relação global enquanto uma funcionalidade esquemática adaptativa às situações complexas e particularidades encontradas no percurso de ações não programadas."
+      },
+      "gabarito": "C",
+      "comentario": "A alternativa A está incorreta. O objetivo pode permanecer. As ações podem estar diferentes.\nA alternativa B está incorreta. O PPP é um documento que pensa a escola e não a família.\nA alternativa C está correta. O PPP é um projeto que integra diferentes elementos da vida escolar e\ninstâncias deliberativas democráticas da instituição escolar.\nA alternativa D está incorreta. O PPP não discute apenas currículo. Não é um planejamento curricular.\nA alternativa E está incorreta. As ações do PPP devem ser programadas."
+    }
+  ]
+}

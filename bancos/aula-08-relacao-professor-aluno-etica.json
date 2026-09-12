@@ -1,0 +1,251 @@
+{
+  "esquema": 1,
+  "id": "aula-08-relacao-professor-aluno-etica",
+  "aula": "08",
+  "titulo": "Temas Educacionais e Pedagógicos - AULA 08",
+  "subtitulo": "Relação Professor-Aluno e Ética Docente",
+  "disciplina": "Temas Educacionais e Pedagógicos",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Aula 08 (Carla Abreu e Otávio A. M. Prado)",
+  "itensEdital": [
+    16,
+    17
+  ],
+  "tagsEdital": [
+    {
+      "n": 16,
+      "titulo": "Relação professor/aluno"
+    },
+    {
+      "n": 17,
+      "titulo": "Compromisso social e ético do professor"
+    }
+  ],
+  "resumoMd": "1. **Dignidade e Direitos Fundamentais no ECA (Lei nº 8.069/1990)**:\n   - **Art. 17**: Direito ao respeito (inviolabilidade da integridade física, psíquica e moral, preservação da imagem, identidade e valores).\n   - **Art. 18**: Dever de todos velar pela dignidade da criança e do adolescente, pondo-os a salvo de qualquer tratamento desumano, vexatório, violento ou constrangedor.\n   - **Impacto na Prática Docente**: O ambiente de sala de aula não pode utilizar humilhação, punições vexatórias ou discriminação como forma de controle.\n\n2. **O Papel da Afetividade na Aprendizagem**:\n   - Afetividade **não significa mero dengo ou carinho paternalista**, mas sim o vínculo de acolhimento, respeito, disponibilidade e construção de significados compartilhados entre docente e discente.\n   - **Infância vs. Adolescência**:\n     - Nas crianças menores, a afetividade vincula-se ao acolhimento e disponibilidade do professor.\n     - Nos adolescentes, o vínculo afetivo se fortalece pela paixão, domínio e entusiasmo do professor pela sua área de conhecimento.\n\n3. **Disciplina, Indisciplina e Autoridade Docente**:\n   - **Autoridade vs. Autoritarismo**: A autoridade pedagógica legítima é conquistada pelo professor com base na competência técnica, ética, clareza de regras, coerência e diálogo (Celso Vasconcellos e Paulo Freire).\n   - A indisciplina deve ser enfrentada via contratualização de regras (pactuação coletiva) e não por repressão cega.\n\n4. **Compromisso Ético e Social do Professor**:\n   - O professor possui obrigação legal e ética de identificar e comunicar à direção/órgãos competentes (Conselho Tutelar) suspeitas ou confirmações de maus-tratos, abusos ou violações de direitos contra crianças e adolescentes (**Parecer CNE/CEB nº 20/2009**).\n\n---",
+  "total": 14,
+  "questoes": [
+    {
+      "id": "a08_001",
+      "numero": 1,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref N Horizonte)/Educação Básica II/Ciências/2019 - De acordo com Demo, a competência humana atual, diante dos desafios da inovação e da cidadania, lança pretensões específicas, que supõem sempre atitude reconstrutiva diante da vida, sem necessariamente ser construtivista. No lado formal, são alguns critérios de qualidade da educação, EXCETO:",
+      "alternativas": {
+        "a": "Capacidade de pesquisa, para ler criticamente a realidade.",
+        "b": "Elaboração própria, para saber reconstruir projeto próprio.",
+        "c": "Atualização facultativa, uma vez que as teorias educacionais não mudam.",
+        "d": "Teorização das práticas, para saber intervir criativamente.",
+        "e": "Saber pensar, argumentar, fundamentar e aprender."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. O professor pesquisador faz parte da formação de professores.\nA alternativa B está correta. O professor dá significado próprio as suas experiências na escola.\nA alternativa C está incorreta. A atualização do docente tem que ser obrigatória.\nA alternativa D está correta. A teoria e prática fazem parte das intervenções do professor em sala de aula.\nA alternativa E está correta. São ações próprias do professor pesquisador e crítico."
+    },
+    {
+      "id": "a08_002",
+      "numero": 2,
+      "banca": "CEFETMINAS",
+      "tipo": "multipla",
+      "enunciado": "CEFETMINAS - Assistente (IF Baiano)/Aluno/2017 - O trabalho pedagógico deve ser orientado e apresentar um bom projeto. A sua execução acontece com a intenção e a certeza de que a escola e seus profissionais realizem um trabalho de qualidade. Ele será o resultado de reflexões e de questionamentos de seus profissionais sobre o que é a escola hoje e o que poderá vir a ser no futuro, visando a inovação da prática pedagógica escolar para elevar a qualidade do ensino. Os assistentes de alunos NÃO devem",
+      "alternativas": {
+        "a": "atender os professores individualmente, dando suporte nas demandas de materialidade.",
+        "b": "auxiliar na organização dos encontros de docentes por área e por ano.",
+        "c": "conhecer o desempenho da escola em avaliações externas.",
+        "d": "garantir a realização semanal do horário de trabalho pedagógico coletivo.",
+        "e": "visitar empresas do entorno da escola para fechar parcerias em busca de inserção dos alunos como jovens aprendizes."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. Faz parte da ação do gestor auxiliar os professores e ajudar no materialismo\npedagógico.\nA alternativa B está correta. Faz parte da ação do gestor ajudar os professores trabalharem em equipe.\nA alternativa C está correta. Faz parte da ação do gestor conhecer os índices de desempenho da escola.\nA alternativa D está correta. Faz parte da ação do gestor garantir as reuniões pedagógicas.\nA alternativa E está incorreta. A escola de educação básica não deve encaminhar os alunos para serem\njovens aprendizes. Deve apenas focar na qualidade do ensino."
+    },
+    {
+      "id": "a08_003",
+      "numero": 3,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Sapucaia do Sul)/Área I/2019 - Segundo Libâneo, o trabalho docente é uma atividade: I. Intencional. II. Planejada conscientemente, visando a atingir objetivos de aprendizagem. III. Estruturada e ordenada. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O trabalho dos professores deve ter intencionalidade pedagógica.\nAfirmativa II está correta. A ação docente deve ser planejada, pois é pedagógica.\nAfirmativa III está correta. Deve ser estruturada em princípios pedagógicos e organizada.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a08_004",
+      "numero": 4,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor Efetivo de Ensino Básico, Técnico e Tecnológico (IF PB)/Matemática Perfil 01/2019 - A formação inicial de professores de Matemática deve favorecer que eles elaborem saberes relacionados à sua autonomia profissional. Para tanto, os Estágios Supervisionados são importantes aliados, pois representam o momento de inserção no campo da prática profissional. Assinale a alternativa que não corresponde a uma característica dos estágios.",
+      "alternativas": {
+        "a": "O estágio oportuniza o licenciando a questionar sobre como e por que ensiná-la, permitindo a superação de mitos e crenças que envolvem o ensino e a aprendizagem dessa disciplina.",
+        "b": "Possibilita que os futuros docentes construam saberes indispensáveis à sua identidade profissional, tendo como referencial a realidade social.",
+        "c": "O estágio é um espaço de conhecimento que abrange: estudos, análise, problematização, reflexão e proposição de soluções para o ensinar e o aprender, e que compreende a reflexão sobre práticas pedagógicas.",
+        "d": "Possibilita a percepção do trabalho do professor como algo individualizado, que se constitui no singular, como dinâmica político-pedagógica que requer planejamento sistemático e integrado, aprimoramento profissional e prática educativa, que se constitui no contexto histórico, social, cultural e educacional.",
+        "e": "A aproximação com a escola, futuro campo de atuação profissional do licenciando, pressupõe atitude investigativa, levantamento de dados, observação da prática de profissionais mais experientes, reflexão, análise e articulação entre as teorias estudadas com as situações práticas, de modo que contribuam para seu desenvolvimento pessoal e profissional."
+      },
+      "gabarito": "A",
+      "comentario": "A questão pede a alternativa incorreta.\nA alternativa A está correta. O estágio serve para eliminar mitos e crenças sobre a docência.\nA alternativa B está correta. O estágio faz parte da construção da identidade do futuro professor, pois faz\nele refletir sobre a prática profissional.\nA alternativa C está correta. O estágio é uma oportunidade muito boa de reflexão.\nA alternativa D está incorreta. Pelo contrário, o trabalho do professor é coletivo.\nA alternativa E está correta. O estágio pode favorecer que o professor seja um pesquisador de sua prática\ntambém."
+    },
+    {
+      "id": "a08_005",
+      "numero": 5,
+      "banca": "IDECAN",
+      "tipo": "multipla",
+      "enunciado": "IDECAN - Professor Efetivo de Ensino Básico, Técnico e Tecnológico (IF PB)/Matemática Perfil 01/2019 - Sobre as concepções e práticas de Estágio Supervisionado como pesquisa e a pesquisa no estágio, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Essa concepção trata a prática como instrumentalização técnica, sendo necessária a utilização de técnicas para executar operações de pesquisa e interpretação da realidade.",
+        "b": "Essa concepção considera a pesquisa como verdade absoluta, em que o professor fica restrito ao prático, ao como fazer.",
+        "c": "Essa concepção retrata a pesquisa como método de formação do futuro professor por meio da problematização das situações, visando compreendê-las fora de seu contexto.",
+        "d": "Essa concepção aborda a pesquisa como fundamental no processo de compreensão da realidade com enfoque na ampliação e análise dos contextos como métodos indispensáveis a formação do futuro professor.",
+        "e": "Essa concepção utiliza a prática como imitação de modelos em que o futuro professor aprende com a observação, imitação e reelaboração dos modelos existentes."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. A alternativa não traz o componente principal do estágio que é a reflexão.\nA alternativa B está incorreta. A pesquisa não é absoluta, assim como a ciência é relativa no tempo.\nA alternativa C está incorreta. O uso do termo \"fora de seu contexto\" inviabilizou a alternativa. É dentro do\ncontexto.\nA alternativa D está correta. Coloca a pesquisa como uma atitude reflexiva em relação à realidade.\nA alternativa E está incorreta. O uso do termo \"imitação\" inviabilizou a alternativa."
+    },
+    {
+      "id": "a08_006",
+      "numero": 6,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Pedagogo (Pref Valinhos)/SAS/2019a) Na concepção de Rios (2011), os educadores não têm clareza da dimensão política de seu trabalho. Ao interpretarem política como envolvimento partidário, ou mesmo sindical, alguns até negam que tenham algo a ver com isso. Não podem se recusar a admitir a presença da moralidade em sua ação. Essa moralidade aparece de forma extremada – o moralismo. A ideia de responsabilidade que se encontra articulada com a de liberdade, conceito que representa o eixo central da reflexão ética está ligada à noção de compromisso político e moral. Os professores não têm clareza quanto a implicação política de seu comprometimento, veem como parte de uma essência do educador. Para a autora, o sentido político da prática docente se realiza",
+      "alternativas": {
+        "a": "pelo envolvimento partidário.",
+        "b": "pela participação em causas sociais.",
+        "c": "pela aprovação dos alunos nas avaliações.",
+        "d": "pela estética metodológica das aulas.",
+        "e": "pela mediação da competência técnica."
+      },
+      "gabarito": "E",
+      "comentario": "A alternativa A está incorreta. Pelo contrário, não se pode ter envolvimento político-partidário nas ações da\nescola.\nA alternativa B está incorreta. A autora vai além de causas sociais.\nA alternativa C está incorreta. A autora pensa de modo mais amplo do que só o aluno ir bem na prova.\nA alternativa D está incorreta. A autora vai além de apenas uma aula esteticamente agradável.\nA alternativa E está correta. A competência técnica anda junto com as ações políticas."
+    },
+    {
+      "id": "a08_007",
+      "numero": 7,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Tapejara)/Língua Inglesa/2019 - Mittler afirma que o ato de educar depende do trabalho diário dos professores em sala de aula, ou seja, depende de: I. Professores conscientes de suas ações. II. Escolas planejadas de acordo com linhas inclusivas. III. Escolas que sejam apoiadas pelos governantes, pela comunidade local, pelas autoridades educacionais locais e, acima de tudo, pelos pais. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e III.",
+        "e": "I, II e III"
+      },
+      "gabarito": "A",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. O professor reflexivo ou pesquisador é consciente de suas ações.\nAfirmativa II está incorreta. Essa é uma ação da escola e não do professor propriamente dito.\nAfirmativa III está incorreta. Essa é uma ação da escola e não do professor propriamente dito.\nAlternativa correta letra A."
+    },
+    {
+      "id": "a08_008",
+      "numero": 8,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Salto do Jacuí)/Anos Iniciais/2019 - Para Tardif (2002), o professor ideal é alguém que deve conhecer sua matéria, sua disciplina, seu programa, além de possuir conhecimentos relativos às ciências da educação e à pedagogia e desenvolver um saber prático. Dessa forma, entende-se que a prática docente deve ser baseada em:",
+      "alternativas": {
+        "a": "Teorias estudadas durante sua formação.",
+        "b": "Sua experiência cotidiana com os alunos.",
+        "c": "Evidências dos indicativos socioeconômicos.",
+        "d": "Pesquisas políticas atuais.",
+        "e": "Legislações vigentes"
+      },
+      "gabarito": "B",
+      "comentario": "A alternativa A está incorreta. O enunciado da questão pede um saber prático.\nA alternativa B está correta. A experiência cotidiana desde de que refletiva pode ser uma saber prático.\nA alternativa C está incorreta. O enunciado da questão pede um saber prático.\nA alternativa D está incorreta. O enunciado da questão pede um saber prático.\nA alternativa E está incorreta. O enunciado da questão pede um saber prático."
+    },
+    {
+      "id": "a08_009",
+      "numero": 9,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Paraí)/Ciências/2019 - De acordo com Vasconcellos, as primeiras aulas devem ser planejadas com mais cuidado. Não basta determinar os conteúdos a serem abordados, os objetivos a serem atingidos e a metodologia mais adequada, é necessário, sobretudo: I. Tornar-se disponível para aqueles alunos. II. Acreditar na possibilidade do ensino e da aprendizagem. III. Estar inteiramente presente naquela sala de aula, naquele momento. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Investir na relação professor-aluno é um aspecto importante da formação.\nAfirmativa II está correta. Acreditar que todo aluno pode aprender é um produto de boa formação.\nAfirmativa III está correta. Isso é um saber prático advindo da experiência docente.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a08_010",
+      "numero": 10,
+      "banca": "VUNESP",
+      "tipo": "multipla",
+      "enunciado": "VUNESP - Supervisor de Ensino (Pref Peruíbe)/2019 - No entendimento de Nóvoa (1992), o trabalho centrado na pessoa do professor e na sua experiência é particularmente relevante nos períodos de crise e de mudança, pois uma das fontes mais importantes de “stress” é o sentimento de que não se dominam as situações e os contextos de intervenção profissional. É preciso um tempo para acomodar as inovações e as mudanças, para refazer as identidades. Entretanto, a organização das escolas parece desencorajar um conhecimento profissional partilhado dos professores, dificultando o investimento das experiências significativas nos percursos de formação e a sua formulação teórica. Para o autor, o desenvolvimento de uma nova cultura profissional dos professores passa pela",
+      "alternativas": {
+        "a": "mobilização da experiência numa dimensão pedagógica e não em um quadro conceitual de produção de saberes.",
+        "b": "dissociação das dimensões pessoais e profissionais, permitindo aos professores apropriar-se dos seus processos de formação.",
+        "c": "superação dos momentos de balanço retrospectivo sobre os percursos pessoais como meio de produzir a profissão.",
+        "d": "produção de saberes e de valores que deem corpo a um exercício autônomo da profissão docente.",
+        "e": "institucionalização de dispositivos de avaliação dos professores que contribuam para a emergência de uma verdadeira cultura profissional."
+      },
+      "gabarito": "D",
+      "comentario": "A alternativa A está incorreta. Para o autor, o professor também produz saberes próprios no campo da\nprofissão.\nA alternativa B está incorreta. As dimensões pessoais e profissionais não podem ser dissociadas.\nA alternativa C está incorreta. A descrição da alternativa não falou do percurso profissional que é o mais\nimportante.\nA alternativa D está correta. O professor produz saberes e a intelectualidade docente é autonomia.\nA alternativa E está incorreta. O autor não defende a institucionalização de avaliação de professores como\ncultura profissional."
+    },
+    {
+      "id": "a08_011",
+      "numero": 11,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Água Santa)/Pedagogia/2019 - O erro e o fracasso escolar geralmente são ligados à reprovação do aluno, mas o erro faz parte do aprendizado e possibilita uma melhor oportunidade de crescimento diante das situações no cotidiano escolar. É ideal que o professor não tenha a visão do erro como indício do fracasso, mas, sim, uma postura comprometida com a concepção do erro construtivo, o que significa encarar o conhecimento produzido pelo educando em processo de construção. Nesse sentido, faz parte da tarefa docente não apenas ensinar conteúdos, mas: I. Ensinar a refletir. II. Compreender a realidade. III. Participar das suas mudanças. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "E",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Esse é o papel do professor como mediador do conhecimento.\nAfirmativa II está correta. Esse é o papel do professor pesquisador.\nAfirmativa III está correta. Esse é o papel do professor reflexivo e pesquisador.\nAlternativa correta letra E."
+    },
+    {
+      "id": "a08_012",
+      "numero": 12,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Monitor (Pref Água Santa)/Educação Básica/2019 - Vasconcellos afirma que, em uma atividade por projeto, cabe ao professor: I. Mediar o processo de ensino-aprendizagem. II. Assegurar o acesso a boas fontes de informação. III. Fiscalizar o trabalho individual dos alunos. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas I e II.",
+        "c": "Apenas I e III.",
+        "d": "Apenas II e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "B",
+      "comentario": "Analisaremos as afirmativas pela ordem e colocaremos a alternativa correta ao final do comentário.\nAfirmativa I está correta. Esse é o papel do professor que faz a mediação do aluno ao conhecimento.\nAfirmativa II está correta. Esse é o papel do professor defendido pelo viés construtivista de Vasconcellos.\nAfirmativa III está correta. Esse papel do professor disciplinador não é defendido por Vasconcellos.\nAlternativa correta letra B."
+    },
+    {
+      "id": "a08_013",
+      "numero": 13,
+      "banca": "CS UFG",
+      "tipo": "multipla",
+      "enunciado": "CS UFG - Pedagogo (IF GOIANO)/2019 - A compreensão da relação entre teoria e prática tem iluminado perspectivas para uma nova concepção de estágio. Pimenta (1994) introduz, nesse contexto, a discussão da práxis, na tentativa de superar a dicotomia entre teoria e prática. Nessa perspectiva, o estágio se constitui como uma atividade",
+      "alternativas": {
+        "a": "teórica, instrumentalizadora da práxis docente.",
+        "b": "prática, de conhecimento e intervenção na realidade, objeto da práxis.",
+        "c": "teórica e prática de intervenção na realidade social, ou seja, na práxis.",
+        "d": "técnica, que aproxima a vida e o trabalho concreto que ocorre nas escolas, na práxis docente."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O estágio como forma teórica e instrumentalizadora (práxis) está contemplado\nna descrição dessa alternativa.\nA alternativa B está incorreta. Práxis não é só prática.\nA alternativa C está incorreta. Práxis é instrumentalizadora da ação docente.\nA alternativa D está incorreta. Não é só uma dimensão técnica. É reflexiva também."
+    },
+    {
+      "id": "a08_014",
+      "numero": 14,
+      "banca": "FUNDATEC",
+      "tipo": "multipla",
+      "enunciado": "FUNDATEC - Professor (Pref Santa Cecília do Sul)/Pedagogia/2019 - Para Martha Gabriel, o professor exerce um papel essencial nesse novo mundo digital, não mais como um “provedor de conteúdos”, mas funcionando como um:",
+      "alternativas": {
+        "a": "Catalisador de reflexões e conexões para seus alunos nesse ambiente mais complexo.",
+        "b": "Promotor de uma formação puramente moral e intelectual.",
+        "c": "Transmissor de conteúdos de forma global sem se preocupar com as individualidades.",
+        "d": "Elo entre a verdade científica e o aluno como um ser fragmentado.",
+        "e": "Especialista do conhecimento para repassar e aplicar ao aluno."
+      },
+      "gabarito": "A",
+      "comentario": "A alternativa A está correta. O papel descrito nessa alternativa condiz com um professor mediador do\nconhecimento e não aplicador de conteúdos.\nA alternativa B está incorreta. O professor é muito mais que um doutrinador e formador do cognitivo dos\nalunos.\nA alternativa C está incorreta. A alternativa está incoerente com a descrição do enunciado.\nA alternativa D está incorreta. Não existe verdade científica e nem é possível ter um aluno fragmentado.\nA alternativa E está incorreta. A alternativa está incoerente com a descrição do enunciado."
+    }
+  ]
+}
