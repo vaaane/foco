@@ -1111,6 +1111,7 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 .ct-meta { font-size: .8rem; color: var(--muted); margin-top: 2px; }
 .ct-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
 .ct-tag { font-size: .72rem; background: var(--accent-weak); color: var(--accent); border-radius: 6px; padding: 2px 8px; }
+.ct-tag-extra { background: transparent; color: var(--muted); border: 1px dashed var(--muted); padding: 1px 7px; }
 .ct-nota-previa { margin-top: 8px; font-size: .82rem; color: var(--text); background: var(--surface); border-radius: 8px; padding: 6px 10px; }
 .ct-btn-nota { flex-shrink: 0; }
 .ct-nota-editor {

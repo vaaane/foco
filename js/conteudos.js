@@ -79,7 +79,11 @@ function render() {
 function cardAula(b) {
   const st = estado[b.arquivo] || {};
   const temNota = st.nota && st.nota.trim();
-  const tags = (b.tagsEdital || []).map((t) => `<span class="ct-tag">${escapar(`${t.n}. ${t.titulo}`)}</span>`).join("");
+  const tags = (b.tagsEdital || []).map((t) =>
+    t.extra
+      ? `<span class="ct-tag ct-tag-extra" title="Item extra, fora da lista numerada do edital">Extra · ${escapar(t.titulo)}</span>`
+      : `<span class="ct-tag">${escapar(`${t.n}. ${t.titulo}`)}</span>`
+  ).join("");
   const meta = b.soConteudo
     ? `conteúdo` + (b.subtitulo ? ` · ${escapar(b.subtitulo)}` : "")
     : `${b.total || 0} questões no banco`;
@@ -89,7 +93,7 @@ function cardAula(b) {
         <input type="checkbox" data-toggle="${b.arquivo}" ${st.estudado ? "checked" : ""} />
       </label>
       <div class="ct-corpo">
-        <div class="ct-tit">${escapar(b.titulo)}</div>
+        <div class="ct-tit">${escapar(tituloCurto(b))}</div>
         <div class="ct-meta">${meta}</div>
         ${tags ? `<div class="ct-tags">${tags}</div>` : ""}
         ${temNota ? `<div class="ct-nota-previa">📝 ${escapar(resumir(st.nota))}</div>` : ""}
@@ -185,6 +189,19 @@ function abrirNota(bancoId) {
 }
 
 /* ------------------------------ UTIL ------------------------------ */
+
+// Remove o nome da disciplina do início do título (ele já aparece no cabeçalho
+// da seção), junto com o separador que o segue: " - ", " · ", ":" ou espaço.
+// Ex.: "Matemática - AULA 07 · …" -> "AULA 07 · …"
+//      "Educação Inclusiva 1.1 · …" -> "1.1 · …"
+function tituloCurto(b) {
+  const disc = b.disciplina || "";
+  let t = b.titulo || "";
+  if (disc && t.startsWith(disc)) {
+    t = t.slice(disc.length).replace(/^[\s·:–-]+/, "");
+  }
+  return t.trim() || (b.titulo || "");
+}
 
 function resumir(t, n = 90) {
   t = t.replace(/\s+/g, " ").trim();
