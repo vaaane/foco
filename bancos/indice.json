@@ -583,6 +583,418 @@
         }
       ],
       "total": 34
+    },
+    {
+      "arquivo": "mat-aula-00.json",
+      "aula": "00",
+      "titulo": "Matemática - AULA 00 · Conjuntos",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-01.json",
+      "aula": "01",
+      "titulo": "Matemática - AULA 01 · Conjuntos Numéricos",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1",
+        "e_1_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-02.json",
+      "aula": "02",
+      "titulo": "Matemática - AULA 02 · Potenciação e Radiciação",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-03.json",
+      "aula": "03",
+      "titulo": "Matemática - AULA 03 · Potências de 10 e Notação Científica",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-04.json",
+      "aula": "04",
+      "titulo": "Matemática - AULA 04 · MMC e MDC",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-05.json",
+      "aula": "05",
+      "titulo": "Matemática - AULA 05 · Frações, Razões e Proporções",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_1",
+        "e_9_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-06.json",
+      "aula": "06",
+      "titulo": "Matemática - AULA 06 · Regra de Três e Porcentagem",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-07.json",
+      "aula": "07",
+      "titulo": "Matemática - AULA 07 · Porcentagem, Gráficos e Tabelas",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_1",
+        "e_8_3",
+        "e_8_4"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-08.json",
+      "aula": "08",
+      "titulo": "Matemática - AULA 08 · Juros Simples e Compostos",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-09.json",
+      "aula": "09",
+      "titulo": "Matemática - AULA 09 · Taxas de Juros",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_1",
+        "e_9_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-10.json",
+      "aula": "10",
+      "titulo": "Matemática - AULA 10 · Descontos",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-11.json",
+      "aula": "11",
+      "titulo": "Matemática - AULA 11 · Fluxo de Caixa e Equivalência de Capitais",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_9_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-12.json",
+      "aula": "12",
+      "titulo": "Matemática - AULA 12 · Equações do 1º e 2º Grau",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_3"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-13.json",
+      "aula": "13",
+      "titulo": "Matemática - AULA 13 · Funções",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-14.json",
+      "aula": "14",
+      "titulo": "Matemática - AULA 14 · Função do 1º Grau",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2",
+        "e_2_7"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-15.json",
+      "aula": "15",
+      "titulo": "Matemática - AULA 15 · Função do 2º Grau",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2",
+        "e_2_7"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-16.json",
+      "aula": "16",
+      "titulo": "Matemática - AULA 16 · Função Modular",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2",
+        "e_2_7"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-17.json",
+      "aula": "17",
+      "titulo": "Matemática - AULA 17 · Função Exponencial",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2",
+        "e_2_7"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-18.json",
+      "aula": "18",
+      "titulo": "Matemática - AULA 18 · Função Logarítmica",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2",
+        "e_2_7"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-19.json",
+      "aula": "19",
+      "titulo": "Matemática - AULA 19 · Sequências, PA e PG",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_6",
+        "e_6_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-20.json",
+      "aula": "20",
+      "titulo": "Matemática - AULA 20 · Geometria Plana e Espacial",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_4",
+        "e_4_1",
+        "e_4_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-22.json",
+      "aula": "22",
+      "titulo": "Matemática - AULA 22 · Trigonometria",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_5"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-23.json",
+      "aula": "23",
+      "titulo": "Matemática - AULA 23 · Matrizes e Determinantes",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_7",
+        "e_7_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-24.json",
+      "aula": "24",
+      "titulo": "Matemática - AULA 24 · Sistemas Lineares",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_7_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-25.json",
+      "aula": "25",
+      "titulo": "Matemática - AULA 25 · Geometria Analítica: Reta, Circunferência e Cônicas",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_4_3"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-26.json",
+      "aula": "26",
+      "titulo": "Matemática - AULA 26 · Números Complexos",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_11"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-27.json",
+      "aula": "27",
+      "titulo": "Matemática - AULA 27 · Polinômios e Equações Polinomiais",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_2_7",
+        "e_3"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-28.json",
+      "aula": "28",
+      "titulo": "Matemática - AULA 28 · Estatística Descritiva",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8",
+        "e_8_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-29.json",
+      "aula": "29",
+      "titulo": "Matemática - AULA 29 · Médias",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-30.json",
+      "aula": "30",
+      "titulo": "Matemática - AULA 30 · Mediana e Separatrizes",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-31.json",
+      "aula": "31",
+      "titulo": "Matemática - AULA 31 · Moda",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8_1"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-32.json",
+      "aula": "32",
+      "titulo": "Matemática - AULA 32 · Medidas de Dispersão",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8_2"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-33.json",
+      "aula": "33",
+      "titulo": "Matemática - AULA 33 · Assimetria e Curtose",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_8"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-34.json",
+      "aula": "34",
+      "titulo": "Matemática - AULA 34 · Análise Combinatória e Permutação",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_7_3"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-35.json",
+      "aula": "35",
+      "titulo": "Matemática - AULA 35 · Binômio de Newton",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_7_4"
+      ],
+      "total": 0
+    },
+    {
+      "arquivo": "mat-aula-36.json",
+      "aula": "36",
+      "titulo": "Matemática - AULA 36 · Probabilidade",
+      "disciplina": "Matemática",
+      "soConteudo": true,
+      "ementaIds": [
+        "e_10"
+      ],
+      "total": 0
     }
   ]
 }

@@ -80,6 +80,9 @@ function cardAula(b) {
   const st = estado[b.arquivo] || {};
   const temNota = st.nota && st.nota.trim();
   const tags = (b.tagsEdital || []).map((t) => `<span class="ct-tag">${escapar(`${t.n}. ${t.titulo}`)}</span>`).join("");
+  const meta = b.soConteudo
+    ? `conteúdo` + (b.subtitulo ? ` · ${escapar(b.subtitulo)}` : "")
+    : `${b.total || 0} questões no banco`;
   return `
     <div class="ct-aula ${st.estudado ? "feita" : ""}">
       <label class="ct-check">
@@ -87,7 +90,7 @@ function cardAula(b) {
       </label>
       <div class="ct-corpo">
         <div class="ct-tit">${escapar(b.titulo)}</div>
-        <div class="ct-meta">${b.total || 0} questões no banco</div>
+        <div class="ct-meta">${meta}</div>
         ${tags ? `<div class="ct-tags">${tags}</div>` : ""}
         ${temNota ? `<div class="ct-nota-previa">📝 ${escapar(resumir(st.nota))}</div>` : ""}
       </div>
@@ -121,8 +124,11 @@ async function marcarEstudada(bancoId, marcado) {
   atualizarContadores();
 }
 
-// ids da ementa cobertos por uma aula, via mapa por disciplina + itensEdital.
+// ids da ementa cobertos por uma aula. Duas formas:
+//  - ementaIds direto no item (usado por Matemática, vínculo por aula)
+//  - via mapa por disciplina + itensEdital (Pedagógicos/Informática, por número)
 function idsEmentaDaAula(b) {
+  if (Array.isArray(b.ementaIds) && b.ementaIds.length) return b.ementaIds.slice();
   const porDisc = (mapaEmenta && mapaEmenta.porDisciplina) || {};
   const mapa = porDisc[b.disciplina];
   if (!mapa) return [];

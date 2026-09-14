@@ -61,7 +61,7 @@ function renderLista() {
   topoSub.textContent = "Um banco por aula. As tags mostram os itens do edital que ele cobre.";
   topoAcoes.innerHTML = "";
 
-  const bancos = (indice && indice.bancos) || [];
+  const bancos = ((indice && indice.bancos) || []).filter((b) => !b.soConteudo);
   if (!bancos.length) {
     conteudo.innerHTML = `<p class="resumo-geral">Nenhum banco cadastrado ainda.</p>`;
     return;
