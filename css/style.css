@@ -1114,6 +1114,9 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 .ct-tag-extra { background: transparent; color: var(--muted); border: 1px dashed var(--muted); padding: 1px 7px; }
 .ct-paginas { font-size: .7rem; color: var(--muted); background: var(--surface-2); border-radius: 6px; padding: 1px 7px; }
 .ct-sem-material { display: inline-block; font-size: .72rem; font-weight: 600; color: #e6a23c; background: rgba(230,162,60,.12); border: 1px solid rgba(230,162,60,.45); border-radius: 6px; padding: 1px 8px; }
+.ct-fora-edital { display: inline-block; font-size: .72rem; color: var(--muted); background: var(--surface-2); border: 1px solid var(--muted); border-radius: 6px; padding: 1px 8px; }
+.ct-aula.fora-edital { opacity: .75; }
+.ct-aula.fora-edital .ct-tit { text-decoration: line-through; }
 .ct-nota-previa { margin-top: 8px; font-size: .82rem; color: var(--text); background: var(--surface); border-radius: 8px; padding: 6px 10px; }
 .ct-btn-nota { flex-shrink: 0; }
 .ct-nota-editor {
