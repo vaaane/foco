@@ -25,7 +25,7 @@ import {
   listarCadernos,
   criarCaderno,
 } from "./db.js";
-import { PLANO } from "./plano.js";
+import { planoDoUsuario, nomeDoUsuario, dataProvaDoUsuario } from "./planos.js";
 
 const $ = (s) => document.querySelector(s);
 const telaDeslogado = $("#tela-deslogado");
@@ -33,7 +33,6 @@ const telaCal = $("#tela-cal");
 const quemSou = $("#quem-sou");
 const resumoGeral = $("#resumo-geral");
 const metricasEl = $("#metricas");
-const DATA_PROVA = "2026-10-11"; // prova
 const btnCarregar = $("#btn-carregar");
 const btnRecarregar = $("#btn-recarregar");
 const listaDias = $("#lista-dias");
@@ -42,6 +41,7 @@ const DOMINIO_LOGIN = "@foco.app";
 let itens = []; // itens carregados do banco
 let cadernosPorId = {}; // id do caderno → caderno (para itens de exercícios)
 const cronometros = {}; // id -> { inicio, intervalo }
+let usuarioAtual = null; // user do Firebase logado (para escolher o plano)
 
 const NOMES_TIPO = { video: "Videoaula", pdf: "PDF", revisao: "Revisão", simulado: "Simulado", exercicios: "Exercícios" };
 const CLASSE_MAT = {
@@ -94,6 +94,7 @@ aoMudarUsuario(async (user) => {
   }
   telaDeslogado.hidden = true;
   telaCal.hidden = false;
+  usuarioAtual = user;
   quemSou.textContent = (user.email || "").replace(DOMINIO_LOGIN, "") || "conectado";
   await carregar();
 });
@@ -101,11 +102,16 @@ aoMudarUsuario(async (user) => {
 /* --------------------------- CARREGAMENTO --------------------------- */
 
 async function carregar() {
+  const plano = planoDoUsuario(usuarioAtual);
+  // Texto dos botões sempre com o nome de quem está logado.
+  btnCarregar.textContent = plano ? `Carregar plano de ${nomeDoUsuario(usuarioAtual)}` : "Carregar plano";
   const temPlano = await planoJaCarregado();
-  btnCarregar.hidden = temPlano;
+  btnCarregar.hidden = temPlano || !plano;
   btnRecarregar.hidden = !temPlano;
   if (!temPlano) {
-    resumoGeral.textContent = "Nenhum plano carregado ainda. Clique em “Carregar plano do Eduardo”.";
+    resumoGeral.textContent = plano
+      ? `Nenhum plano carregado ainda. Clique em “Carregar plano de ${nomeDoUsuario(usuarioAtual)}”.`
+      : "Nenhum plano cadastrado para este usuário.";
     listaDias.innerHTML = "";
     return;
   }
@@ -127,16 +133,20 @@ async function carregarCadernos() {
 }
 
 btnCarregar.addEventListener("click", async () => {
+  const plano = planoDoUsuario(usuarioAtual);
+  if (!plano) { alert("Não há plano cadastrado para este usuário."); return; }
   btnCarregar.disabled = true;
-  await importarPlano(PLANO);
+  await importarPlano(plano);
   btnCarregar.disabled = false;
   await carregar();
 });
 
 btnRecarregar.addEventListener("click", async () => {
+  const plano = planoDoUsuario(usuarioAtual);
+  if (!plano) { alert("Não há plano cadastrado para este usuário."); return; }
   if (!confirm("Isto apaga o progresso atual e recarrega o plano do zero. Continuar?")) return;
   await limparItens();
-  await importarPlano(PLANO);
+  await importarPlano(plano);
   await carregar();
 });
 
@@ -193,9 +203,10 @@ function render() {
 function renderMetricas() {
   if (!itens.length) { metricasEl.innerHTML = ""; return; }
 
-  // dias até a prova
+  // dias até a prova (data por usuário)
   const hoje = hojeISO();
-  const diasProva = diffDias(hoje, DATA_PROVA);
+  const dataProva = dataProvaDoUsuario(usuarioAtual);
+  const diasProva = dataProva ? diffDias(hoje, dataProva) : null;
 
   // horas planejadas (total e restante)
   const minTotal = itens.reduce((s, i) => s + (i.duracaoMin || 0), 0);
@@ -223,7 +234,7 @@ function renderMetricas() {
   const realH = (realSeg / 3600);
 
   const cards = [
-    { n: diasProva >= 0 ? diasProva : "—", r: diasProva >= 0 ? "dias até a prova" : "prova passou", cls: diasProva <= 14 ? "urgente" : "" },
+    { n: diasProva == null ? "—" : (diasProva >= 0 ? diasProva : "—"), r: diasProva == null ? "sem data de prova" : (diasProva >= 0 ? "dias até a prova" : "prova passou"), cls: diasProva != null && diasProva >= 0 && diasProva <= 14 ? "urgente" : "" },
     { n: `${Math.round(minTotal / 60)}h`, r: "horas planejadas" },
     { n: `${realH < 10 ? realH.toFixed(1) : Math.round(realH)}h`, r: "tempo real estudado", cls: "med" },
     { n: `${pctFeito}%`, r: "do plano concluído", cls: "bom" },
