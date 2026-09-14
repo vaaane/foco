@@ -541,3 +541,23 @@ export async function restaurarComentarioBanco(bancoId, numero) {
   const uid = exigirLogin();
   await remove(ref(db, `comentariosBanco/${uid}/${bancoId}/${numero}`));
 }
+
+/* ===================== CONTEÚDOS (aulas estudadas + anotações) ===================== */
+// usuarios/{uid}/conteudos/{bancoId} = { estudado: bool, nota: string, em: ts }
+// Cada "aula" (mesmo id dos bancos) pode ser marcada como estudada e ter uma
+// anotação livre. Substitui a ementa como forma de acompanhar o estudo.
+
+export async function carregarConteudos() {
+  const uid = exigirLogin();
+  const snap = await get(ref(db, `usuarios/${uid}/conteudos`));
+  return snap.val() || {}; // { [bancoId]: { estudado, nota, em } }
+}
+
+export async function salvarConteudo(bancoId, { estudado, nota }) {
+  const uid = exigirLogin();
+  await set(ref(db, `usuarios/${uid}/conteudos/${bancoId}`), {
+    estudado: !!estudado,
+    nota: String(nota || ""),
+    em: serverTimestamp(),
+  });
+}

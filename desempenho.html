@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pomodoro — Foco</title>
+  <title>Desempenho — Foco</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -22,7 +22,7 @@
   </section>
 
   <!-- App -->
-  <section id="tela-pomo" class="app" hidden>
+  <section id="tela-desemp" class="app" hidden>
 
     <div class="overlay" id="overlay"></div>
 
@@ -42,14 +42,14 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M9 6h11M9 12h11M9 18h11"/><path d="m3.5 6 1.2 1.2L7 5M3.5 12l1.2 1.2L7 11M3.5 18l1.2 1.2L7 17"/></svg>
           Atividades
         </a>
-        <a href="desempenho.html" class="sb-item">
+        <a href="desempenho.html" class="sb-item ativo">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>
           Desempenho
         </a>
         <a href="bancos.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 6.5C4 5 6 4 9 4s5 1 5 2.5M4 6.5V18c0 1.5 2 2.5 5 2.5s5-1 5-2.5m-10-11.5v0M14 6.5C14 5 16 4 19 4s1 0 1 0M20 6.5V18c0 1.5-2 2.5-5 2.5"/><path d="M14 6.5V18"/></svg>
           Bancos
-        </a>        <a href="pomodoro.html" class="sb-item ativo">
+        </a>        <a href="pomodoro.html" class="sb-item">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="13" r="8"/><path d="M12 13V8.5M9.5 3h5M18.5 6.5l1.5-1.5"/></svg>
           Pomodoro
         </a>        <a href="ementa.html" class="sb-item">
@@ -75,29 +75,20 @@
 
       <div class="topo-pag">
         <div>
-          <h1>Pomodoro</h1>
-          <p>Quanto tempo de foco você acumulou.</p>
+          <h1>Desempenho</h1>
+          <p id="resumo-mat" class="resumo-geral">Carregando…</p>
         </div>
       </div>
 
       <div class="painel">
         <main class="cal-main">
-          <div class="cal-cabecalho">
-            <div>
-              <h2 class="titulo-secao">Análise do Pomodoro</h2>
-              <p id="resumo-pomo" class="resumo-geral">Carregando…</p>
-            </div>
-          </div>
-
-          <div id="cartoes" class="pomo-cartoes"></div>
-          <div id="por-dia" class="pomo-por-dia"></div>
-          <div id="tempo-real" class="pomo-tempo-real" style="margin-top:26px"></div>
+          <div id="lista-mat" class="mat-lista"></div>
         </main>
       </div>
     </div>
   </section>
 
   <script defer src="js/shell.js"></script>
-  <script type="module" src="js/pomodoro.js"></script>
+  <script type="module" src="js/materias.js"></script>
 </body>
 </html>

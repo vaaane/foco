@@ -1087,3 +1087,35 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 /* ---- Bancos: cabeçalho de disciplina ---- */
 .bc-disc-titulo { margin: 28px 0 14px; font-size: 1.25rem; }
 .bc-disc-titulo:first-child { margin-top: 0; }
+
+/* ============================================================
+   CONTEÚDOS (materias.html) — aulas por matéria, marcar + anotar
+   ============================================================ */
+.ct-disc { margin-bottom: 26px; }
+.ct-disc-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+.ct-disc-head .titulo-secao { margin: 0; }
+.ct-disc-prog { font-size: .82rem; color: var(--muted); }
+.ct-lista { display: grid; gap: 10px; }
+
+.ct-aula {
+  display: flex; align-items: flex-start; gap: 12px;
+  background: var(--surface-2); border: 1px solid var(--line);
+  border-radius: 12px; padding: 14px 16px;
+}
+.ct-aula.feita { border-color: rgba(62,207,142,.45); background: rgba(62,207,142,.06); }
+.ct-check { display: flex; align-items: center; padding-top: 2px; }
+.ct-check input { width: 20px; height: 20px; cursor: pointer; accent-color: var(--accent); }
+.ct-corpo { flex: 1; min-width: 0; }
+.ct-tit { font-weight: 600; font-size: 1rem; }
+.ct-aula.feita .ct-tit { color: var(--muted); }
+.ct-meta { font-size: .8rem; color: var(--muted); margin-top: 2px; }
+.ct-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.ct-tag { font-size: .72rem; background: var(--accent-weak); color: var(--accent); border-radius: 6px; padding: 2px 8px; }
+.ct-nota-previa { margin-top: 8px; font-size: .82rem; color: var(--text); background: var(--surface); border-radius: 8px; padding: 6px 10px; }
+.ct-btn-nota { flex-shrink: 0; }
+.ct-nota-editor {
+  width: 100%; box-sizing: border-box; resize: vertical; min-height: 160px;
+  background: var(--surface); color: var(--text); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; font-family: inherit; font-size: .92rem; line-height: 1.5;
+}
+.ct-nota-editor:focus { outline: none; border-color: var(--accent); }

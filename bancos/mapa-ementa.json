@@ -1,0 +1,13 @@
+{
+  "esquema": 1,
+  "descricao": "Vínculo entre itens do edital de cada disciplina e ids de nós da ementa (ementa-data.js). Ao marcar uma aula como estudada, os ids listados para seus itensEdital são marcados na ementa. Só há correspondência para Informática hoje.",
+  "porDisciplina": {
+    "Informática": {
+      "1": ["b_info_1"],
+      "2": ["b_info_2"],
+      "3": ["b_info_3"],
+      "4": ["b_info_4"],
+      "5": ["b_info_5"]
+    }
+  }
+}

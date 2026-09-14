@@ -9,7 +9,7 @@ import { listarItens, listarAtividades } from "./db.js";
 
 const $ = (s) => document.querySelector(s);
 const telaDeslogado = $("#tela-deslogado");
-const telaMat = $("#tela-mat");
+const telaMat = $("#tela-mat") || $("#tela-desemp");
 const quemSou = $("#quem-sou");
 const resumo = $("#resumo-mat");
 const listaEl = $("#lista-mat");
