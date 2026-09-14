@@ -1,13 +1,100 @@
 {
   "esquema": 1,
-  "descricao": "Vínculo entre itens do edital de cada disciplina e ids de nós da ementa (ementa-data.js). Ao marcar uma aula como estudada, os ids listados para seus itensEdital são marcados na ementa. Só há correspondência para Informática hoje.",
+  "descricao": "Vínculo entre itens do edital de cada disciplina e ids de nós da ementa (ementa-data.js). Ao marcar uma aula como estudada, os ids listados para seus itensEdital são marcados na ementa. Informática: itens 1-5 -> b_info_1..5. Temas Pedagógicos: item N -> c_ped_N.",
   "porDisciplina": {
     "Informática": {
-      "1": ["b_info_1"],
-      "2": ["b_info_2"],
-      "3": ["b_info_3"],
-      "4": ["b_info_4"],
-      "5": ["b_info_5"]
+      "1": [
+        "b_info_1"
+      ],
+      "2": [
+        "b_info_2"
+      ],
+      "3": [
+        "b_info_3"
+      ],
+      "4": [
+        "b_info_4"
+      ],
+      "5": [
+        "b_info_5"
+      ]
+    },
+    "Temas Educacionais e Pedagógicos": {
+      "1": [
+        "c_ped_1"
+      ],
+      "2": [
+        "c_ped_2"
+      ],
+      "3": [
+        "c_ped_3"
+      ],
+      "4": [
+        "c_ped_4"
+      ],
+      "5": [
+        "c_ped_5"
+      ],
+      "6": [
+        "c_ped_6"
+      ],
+      "7": [
+        "c_ped_7"
+      ],
+      "8": [
+        "c_ped_8"
+      ],
+      "9": [
+        "c_ped_9"
+      ],
+      "10": [
+        "c_ped_10"
+      ],
+      "11": [
+        "c_ped_11"
+      ],
+      "12": [
+        "c_ped_12"
+      ],
+      "13": [
+        "c_ped_13"
+      ],
+      "14": [
+        "c_ped_14"
+      ],
+      "15": [
+        "c_ped_15"
+      ],
+      "16": [
+        "c_ped_16"
+      ],
+      "17": [
+        "c_ped_17"
+      ],
+      "18": [
+        "c_ped_18"
+      ],
+      "19": [
+        "c_ped_19"
+      ],
+      "20": [
+        "c_ped_20"
+      ],
+      "21": [
+        "c_ped_21"
+      ],
+      "22": [
+        "c_ped_22"
+      ],
+      "23": [
+        "c_ped_23"
+      ],
+      "24": [
+        "c_ped_24"
+      ],
+      "25": [
+        "c_ped_25"
+      ]
     }
   }
 }
