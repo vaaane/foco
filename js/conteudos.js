@@ -41,11 +41,20 @@ aoMudarUsuario(async (user) => {
   render();
 });
 
+// Progresso por páginas (referência de % de material concluído).
+// Aulas sem `paginas` (ex.: "sem material") contam como 0.
+function progMaterial(lista) {
+  const tp = lista.reduce((s, b) => s + (b.paginas || 0), 0);
+  const fp = lista.reduce((s, b) => s + (estado[b.arquivo]?.estudado ? (b.paginas || 0) : 0), 0);
+  return { fp, tp, pct: tp ? Math.round((fp / tp) * 100) : 0 };
+}
+
 function render() {
   const bancos = (indice && indice.bancos) || [];
   const total = bancos.length;
   const feitos = bancos.filter((b) => estado[b.arquivo]?.estudado).length;
-  topoSub.textContent = `${feitos} de ${total} aulas estudadas`;
+  const mp = progMaterial(bancos);
+  topoSub.textContent = `${feitos} de ${total} aulas · ${mp.pct}% do material (${mp.fp}/${mp.tp} pág.)`;
 
   // agrupa por disciplina, preservando ordem de aparição
   const grupos = new Map();
@@ -58,10 +67,11 @@ function render() {
   let html = "";
   for (const [disc, lista] of grupos) {
     const f = lista.filter((b) => estado[b.arquivo]?.estudado).length;
+    const dp = progMaterial(lista);
     html += `<div class="ct-disc">
       <div class="ct-disc-head">
         <h2 class="titulo-secao">${escapar(disc)}</h2>
-        <span class="ct-disc-prog">${f}/${lista.length} estudadas</span>
+        <span class="ct-disc-prog">${f}/${lista.length} estudadas · ${dp.pct}%</span>
       </div>
       <div class="ct-lista">${lista.map(cardAula).join("")}</div>
     </div>`;
@@ -82,11 +92,16 @@ function cardAula(b) {
   const tags = (b.tagsEdital || []).map((t) =>
     t.extra
       ? `<span class="ct-tag ct-tag-extra" title="Item extra, fora da lista numerada do edital">Extra · ${escapar(t.titulo)}</span>`
-      : `<span class="ct-tag">${escapar(`${t.n}. ${t.titulo}`)}</span>`
+      : t.n != null
+        ? `<span class="ct-tag">${escapar(`${t.n}. ${t.titulo}`)}</span>`
+        : `<span class="ct-tag">${escapar(t.titulo)}</span>`
   ).join("");
-  const meta = b.soConteudo
-    ? `conteúdo` + (b.subtitulo ? ` · ${escapar(b.subtitulo)}` : "")
-    : `${b.total || 0} questões no banco`;
+  const meta = b.semMaterial
+    ? `<span class="ct-sem-material">sem material</span>`
+    : b.soConteudo
+      ? `conteúdo` + (b.subtitulo ? ` · ${escapar(b.subtitulo)}` : "")
+      : `${b.total || 0} questões no banco`;
+  const badgePag = b.paginas ? ` <span class="ct-paginas">${b.paginas} pág.</span>` : "";
   return `
     <div class="ct-aula ${st.estudado ? "feita" : ""}">
       <label class="ct-check">
@@ -94,7 +109,7 @@ function cardAula(b) {
       </label>
       <div class="ct-corpo">
         <div class="ct-tit">${escapar(tituloCurto(b))}</div>
-        <div class="ct-meta">${meta}</div>
+        <div class="ct-meta">${meta}${badgePag}</div>
         ${tags ? `<div class="ct-tags">${tags}</div>` : ""}
         ${temNota ? `<div class="ct-nota-previa">📝 ${escapar(resumir(st.nota))}</div>` : ""}
       </div>
@@ -147,13 +162,15 @@ function idsEmentaDaAula(b) {
 function atualizarContadores() {
   const bancos = indice.bancos;
   const feitos = bancos.filter((b) => estado[b.arquivo]?.estudado).length;
-  topoSub.textContent = `${feitos} de ${bancos.length} aulas estudadas`;
+  const mp = progMaterial(bancos);
+  topoSub.textContent = `${feitos} de ${bancos.length} aulas · ${mp.pct}% do material (${mp.fp}/${mp.tp} pág.)`;
   // por disciplina
   conteudo.querySelectorAll(".ct-disc").forEach((el) => {
     const h = el.querySelector(".titulo-secao").textContent;
     const lista = bancos.filter((b) => (b.disciplina || "Outros") === h);
     const f = lista.filter((b) => estado[b.arquivo]?.estudado).length;
-    el.querySelector(".ct-disc-prog").textContent = `${f}/${lista.length} estudadas`;
+    const dp = progMaterial(lista);
+    el.querySelector(".ct-disc-prog").textContent = `${f}/${lista.length} estudadas · ${dp.pct}%`;
   });
 }
 
