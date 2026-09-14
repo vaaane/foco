@@ -1,0 +1,879 @@
+{
+  "esquema": 1,
+  "id": "info-aula-00-internet-conceitos",
+  "aula": "00",
+  "titulo": "Informática - AULA 00",
+  "subtitulo": "Noções de Internet, Intranet e Web",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+    }
+  ],
+  "resumoMd": "- **Conceitos Fundamentais de Rede**:\n  - **Internet**: Rede mundial de computadores pública, baseada na arquitetura e protocolo TCP/IP.\n  - **Intranet**: Rede privada corporativa que utiliza os mesmos recursos e protocolos da Internet, mas restrita a usuários autorizados de uma organização.\n  - **Extranet**: Acesso externo controlado à Intranet de uma organização para parceiros, clientes ou fornecedores.\n  - **Internet das Coisas (IoT)**: Conexão e integração de objetos físicos do dia a dia à Internet para troca de dados.\n- **Protocolos e Serviços (`01.pdf`)**:\n  - **HTTP / HTTPS**: Transferência de páginas web (HTTPS com camada de criptografia TLS/SSL).\n  - **FTP / SFTP**: Transferência de arquivos.\n  - **DNS**: Resolução de nomes de domínio em endereços IP.\n  - **DHCP**: Atribuição dinâmica de endereços IP nas redes.\n- **Ferramentas de Busca (`02.pdf`)**:\n  - Uso de aspas (`\"termo exato\"`) para buscar frases exatas.\n  - Sinal de subtração (`-termo`) para excluir palavras da busca.\n  - Operador `filetype:pdf` ou `filetype:docx` para filtrar por extensão de arquivo.\n  - Operador `site:gov.br` para restringir buscas a um domínio específico.\n\n---",
+  "total": 65,
+  "questoes": [
+    {
+      "id": "info00_001",
+      "numero": 1,
+      "banca": "CESPE / PM SC – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PM SC – 2023) O endereço eletrônico https://www.pm.sc.gov.br/ refere-se:",
+      "alternativas": {
+        "a": "a um site que somente pode ser acessado a partir do navegador Chrome ou da página do Google.",
+        "b": "a um site de segurança do governo brasileiro, conforme indicado pela sigla https.",
+        "c": "à intranet da Polícia Militar (PM) de Santa Catarina (SC), conforme indicado por pm.sc.",
+        "d": "a um site que somente pode ser acessado por colaboradores da Polícia Militar (PM) de Santa Catarina (SC).",
+        "e": "a um site do governo do Brasil, como indicado por gov.br."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado. O endereço eletrônico https://www.pm.sc.gov.br/ pode ser acessado por diversos\nnavegadores, não estando limitado ao Chrome ou à página do Google.\n(b) Errado. Embora a sigla https indique um protocolo de segurança, ela não especifica que o site é\nde segurança do governo brasileiro.\n(c) Errado. O endereço menciona \"pm.sc\", mas isso não indica necessariamente que se trata de uma\nintranet, apenas que está relacionado à Polícia Militar de Santa Catarina.\n(d) Errado. Não há informações no endereço que indiquem que o acesso ao site é restrito apenas\naos colaboradores da Polícia Militar de Santa Catarina.\n(e) Correto. O domínio \"gov.br\" indica que o site pertence a uma entidade governamental brasileira.\nNeste caso, está associado à Polícia Militar do Estado de Santa Catarina (\"pm.sc\")."
+    },
+    {
+      "id": "info00_002",
+      "numero": 2,
+      "banca": "CESPE / TJ-AM – 2019",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-AM – 2019) Apesar de a Internet ser uma rede mundial de acesso amplo e gratuito, os usuários domésticos a utilizam por meio de algum provedor de acesso à Internet, isto é, uma empresa privada que cobra pelo acesso ao serviço.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Essa questão é polêmica e, para mim, deveria ser anulada por ambiguidade. Por que, Diego? Galera,\no acesso à internet é público, mas não é gratuito. Em outras palavras, todo mundo pode acessá-la,\ndesde que pague a um provedor de acesso. Logo, apesar de a Internet ser uma rede mundial de\nacesso amplo ou público, ela não tem acesso gratuito. Dessa forma, discordo do gabarito!"
+    },
+    {
+      "id": "info00_003",
+      "numero": 3,
+      "banca": "CESPE / MPC/PA – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / MPC/PA – 2019) Considere que quatro empresas distintas, localizadas em países e continentes diferentes, tenham de acessar e compartilhar dados entre si. Essa demanda pode ser atendida mediante a elaboração de projeto em que se conste a implementação de uma rede:",
+      "alternativas": {
+        "a": "VoIP (voice over IP).",
+        "b": "PGP (Pretty Good Privacy).",
+        "c": "LAN (local area network).",
+        "d": "SSL (secure sockets layer).",
+        "e": "WAN (wide area network)."
+      },
+      "gabarito": "E",
+      "comentario": "Se as empresas estão localizadas em continentes diferentes, trata-se uma Rede WAN."
+    },
+    {
+      "id": "info00_004",
+      "numero": 4,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) As redes de computadores podem ser classificadas, pela sua abrangência, em LAN (Local Area Network), MAN (Metropolitan Area Network), e WAN (Wide Area Network).",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "TIPO SIGLA DESCRIÇÃO DISTÂNCIA\nPERSONAL\nAREA NETWORK\nPAN Rede de computadores pessoal (celular, tablet,\nnotebook, entre outros).\nDe alguns centímetros a alguns\npoucos metros.\nLOCAL\nAREA NETWORK\nLAN Rede de computadores de lares, escritórios,\nprédios, entre outros.\nDe algumas centenas de metros a\nalguns quilômetros.\nMETROPOLITAN\nAREA NETWORK\nMAN Rede de computadores entre uma matriz e filiais\nem uma cidade.\nCerca de algumas dezenas de\nquilômetros.\nWIDE\nAREA NETWORK\nWAN Rede de computadores entre cidades, países ou\naté continentes.\nDe algumas dezenas a milhares de\nquilômetros.\nAs redes de computadores realmente podem ser classificadas em LAN, MAN e WAN. Essa é a\nclassificação tradicional, apesar de nos últimos anos PAN ter ficado cada vez mais comum! Cuidado:\nnão é porque a questão não menciona PAN que a questão está errada!"
+    },
+    {
+      "id": "info00_005",
+      "numero": 5,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) PAN (Personal Area Network) são redes de computadores destinadas a ambientes com acesso restrito, seja por limitações físicas ou por definições de segurança. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Definições de Segurança? Não, apenas por limitações físicas – assim como todas as outras\nclassificações quanto à dimensão, tamanho ou área geográfica. Professor, é uma rede de\ncomputadores? Sim, em sentido genérico, dispositivos são computadores capazes de processar\ndados."
+    },
+    {
+      "id": "info00_006",
+      "numero": 6,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Uma empresa tem unidades físicas localizadas em diferentes capitais do Brasil, cada uma delas com uma rede local, além de uma rede que integra a comunicação entre as unidades. Essa rede de integração facilita a centralização do serviço de email, que é compartilhado para todas as unidades da empresa e outros sistemas de informação. Se as redes locais das unidades da empresa estiverem interligadas por redes de operadoras de telecomunicação, então elas formarão a WAN (Wide Area Network) da empresa.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Se a empresa possui unidades físicas localizadas em diferentes capitais do Brasil, trata-se de uma\nWide Area Network (WAN)."
+    },
+    {
+      "id": "info00_007",
+      "numero": 7,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Por se tratar de arquitetura ultrapassada e possuir pouco compartilhamento de recursos, redes do tipo cliente/servidor não podem ter mais que 100 clientes conectados ao respectivo servidor.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Pelo contrário, redes do tipo cliente/servidor são as mais utilizadas atualmente no mundo inteiro.\nUm exemplo clássico desse tipo de rede é a Internet, logo é óbvio que pode haver muito mais que\ncem clientes conectados ao respectivo servidor."
+    },
+    {
+      "id": "info00_008",
+      "numero": 8,
+      "banca": "CESPE / EBSERH – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / EBSERH – 2018) Uma empresa que precise interligar suas filiais, em Brasília e no Rio de Janeiro, por meio de uma mesma rede de comunicação, deverá implantar uma rede do tipo WAN, que disponibiliza serviços de rede acessíveis de forma geograficamente distribuída.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! A rede que interliga capitais diferentes é considerada uma Rede WAN."
+    },
+    {
+      "id": "info00_009",
+      "numero": 9,
+      "banca": "CESPE / TELEBRAS – 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TELEBRAS – 2016) Redes de computadores do tipo ponto a ponto apresentam a vantagem de fornecer elevado nível de segurança.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Como não há um dispositivo central capaz de oferecer serviços de autenticação, criptografia, entre\noutros, o nível de segurança é reduzido nesse tipo de rede em comparação a redes de computadores\ndo tipo cliente/servidor."
+    },
+    {
+      "id": "info00_010",
+      "numero": 10,
+      "banca": "CESPE / TELEBRÁS – 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TELEBRÁS – 2015) As redes locais (LANs) são aquelas instaladas em grandes cidades de regiões metropolitanas, para a interconexão de um grupo grande de usuários.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "São as redes metropolitanas (MAN) e, não, as redes locais, que são aquelas instaladas em grandes\ncidades de regiões metropolitanas, para a interconexão de um grupo grande de usuários."
+    },
+    {
+      "id": "info00_011",
+      "numero": 11,
+      "banca": "CESPE / TELEBRÁS – 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TELEBRÁS – 2015) O acesso à Internet com o uso de cabo (Cable Modem) é, atualmente, uma das principais formas de acesso à rede por meio de TVs por assinatura, pois um cabo (geralmente coaxial) de transmissão de dados de TV é compartilhado para trafegar dados de usuário.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O cabo coaxial é utilizado para transmitir sinais e informações a determinados aparelhos. Os\npacotes de TV/Internet utilizam cabos coaxiais também para transmitir dados de usuário. À época\nda questão, era a principal forma de acesso – atualmente tem perdido espaço para a fibra óptica."
+    },
+    {
+      "id": "info00_012",
+      "numero": 12,
+      "banca": "CESPE / ICMBio – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ICMBio – 2014) Uma rede de dados, assim como os softwares, tem a função de transmitir informações e processá-las.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Redes de dados têm a função de transmitir informações e, não, de processá-las; e softwares têm a\nfunção de processar informações e, não, de transmiti-las."
+    },
+    {
+      "id": "info00_013",
+      "numero": 13,
+      "banca": "CESPE / Polícia Federal – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2014) Embora apresentem abrangência ampla e sejam utilizadas para interligar cidades distantes, as redes MAN (Metropolitan Area Network) não utilizam tecnologias de transmissão sem fio.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Redes de abrangência ampla são WAN (Wide Area Network) e, não, MAN (Metropolitan Area\nNetwork). Além disso, a rede apresentada no enunciado conecta regiões de uma mesma cidade ou\nmetrópole e, não, cidades distantes. Por fim, é possível ter redes MAN com transmissão sem fio."
+    },
+    {
+      "id": "info00_014",
+      "numero": 14,
+      "banca": "CESPE / CBM-CE – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CBM-CE – 2014) Em uma rede que utiliza o modelo cliente/servidor, um computador com atributos de servidor pode atender a diversos clientes em uma mesma empresa.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Essa é a ideia por traz do modelo cliente/servidor, isto é, um servidor atende a requisições\nde diversos clientes."
+    },
+    {
+      "id": "info00_015",
+      "numero": 15,
+      "banca": "CESPE / Câmara dos Deputados – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Câmara dos Deputados – 2014) A Internet foi criada a partir de um órgão conhecido como ARPAnet, que estava vinculado diretamente ao departamento de defesa americano.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A internet foi criada por uma agência governamental chamada ARPA (Advanced Research Projects\nAgency), que realmente estava vinculada ao departamento de defesa americano. Já ARPANET foi\na rede de computadores que deu origem a Internet. Em outras palavras, a questão só trocou o nome\ndo órgão pelo nome da rede."
+    },
+    {
+      "id": "info00_016",
+      "numero": 16,
+      "banca": "CESPE / CADE – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CADE – 2014) Para que uma rede de computadores seja classificada de acordo com o modelo cliente/servidor, faz-se necessário que tanto o cliente quanto o servidor estejam fisicamente no mesmo local. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Não, senhor! Pelo contrário, eles podem estar em qualquer lugar do planeta, respondendo a\nrequisições remotamente. Para que uma rede de computadores seja classificada de acordo com o\nmodelo cliente/servidor é que tenhamos máquinas diferentes que exercem o papel de consumir\nserviços e máquinas que fazem o papel de oferecer serviços."
+    },
+    {
+      "id": "info00_017",
+      "numero": 17,
+      "banca": "CESPE / MJ – 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MJ – 2013) Uma rede local (LAN) permite conectar um número reduzido de computadores entre si, uma vez que ela é usada para comunicação em uma área geograficamente pequena. A recomendação técnica é de que esse número não ultrapasse cem computadores.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Esse item não faz o menor sentido! Primeiro, a classificação da rede como Rede Local trata de sua\nabrangência geográfica e, não, quantidade de computadores. Além disso, não existe\nrecomendação técnica que limite a quantidade de computadores conectados em uma Rede Local."
+    },
+    {
+      "id": "info00_018",
+      "numero": 18,
+      "banca": "CESPE / Câmara dos Deputados – 2012",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Câmara dos Deputados – 2012) Uma rede local (LAN — Local Area Network) é caracterizada por abranger uma área geográfica, em teoria, ilimitada. O alcance físico dessa rede permite que os dados trafeguem com taxas acima de 100 Mbps.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A LAN é caracterizada por abranger uma área geográfica bastante limitada. A WAN (Wide Area\nNetwork) seria uma rede que não possui uma abrangência geográfica muito definida. Ademais, o\nalcance físico de uma rede local não tem relação com sua taxa de transmissão de dados. É possível\nter, sim, redes locais com taxas acima de 100 Mbps."
+    },
+    {
+      "id": "info00_019",
+      "numero": 19,
+      "banca": "CESPE / TRE/RJ – 2012",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TRE/RJ – 2012) Redes LAN (Local Area Network) podem ser providas por mecanismos que estabeleçam a comunicação com fios, sem fios ou com ambos os meios de transmissão.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Redes LAN podem ser providas por diversos meios (com fio, sem fio ou ambos). Claro que,\nquando providas por mecanismos sem fio, ela passa a se chamar WLAN."
+    },
+    {
+      "id": "info00_020",
+      "numero": 20,
+      "banca": "CESPE / PREVIC – 2011",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PREVIC – 2011) WAN é uma rede geográfica que surgiu da necessidade de se compartilhar recursos especializados para uma maior comunidade de usuários geograficamente dispersos. Por terem um custo de comunicação elevado, essas redes são, em geral, públicas, ou seja, o sistema de comunicação é mantido, gerenciado e de propriedade de grandes operadoras (públicas ou privadas) e seu acesso é público.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Vamos por partes! WAN compartilha recursos para uma comunidade maior de usuários\ngeograficamente dispersos? Sim! WAN possui alto custo de comunicação? Sim! Redes WAN são\ngeralmente são públicas? Sim, mas isso não significa que sejam gratuitas! É pública no sentido de\nque qualquer pessoa que deseje acessá-la, pode pagar para tê-la. Elas são geralmente de propriedade\nde grandes operadoras? Sim, apenas elas possuem capacidade de investimento de fazer instalações\nintercontinentais, por exemplo."
+    },
+    {
+      "id": "info00_021",
+      "numero": 21,
+      "banca": "CESPE / BRB – 2011",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BRB – 2011) O acesso à Internet em alta velocidade por meio de conexão dial-up, via linha telefônica, também conhecido como serviço ADSL, dispensa o uso de modem, visto que, nesse caso, a conexão ocorre diretamente a partir de infraestrutura das empresas de telefonia fixa ou móvel (celular).",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O serviço ADSL não se dá por meio de conexão dial-up, via linha telefônica. Ademais, ele necessita\ndo uso de um Modem ADSL (diferente do modem convencional para acesso discado), porém não\nprecisa converter o sinal de digital para analógico porque o sinal é sempre digital (Asymetric Digital\nSubscriber Line). Por fim, ele ocorre a partir da infraestrutura das empresas de telefonia fixa e, não,\nmóvel."
+    },
+    {
+      "id": "info00_022",
+      "numero": 22,
+      "banca": "CESPE / Banco da Amazônia – 2010",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Banco da Amazônia – 2010) A Internet funciona a partir do modelo cliente/servidor, no qual os computadores dos usuários operam como clientes conectados aos servidores que funcionam como provedores de acesso e de serviços de correio eletrônico, transferência de arquivos e acesso a páginas web.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A Internet realmente funciona a partir do Modelo Cliente/Servidor. Nesse modelo, os\ncomputadores realmente operam como clientes conectados aos servidores e esses funcionam\ncomo provedores de diversos serviços. Acho que há uma imprecisão em dizer que os servidores\nfuncionam como provedores de acesso."
+    },
+    {
+      "id": "info00_023",
+      "numero": 23,
+      "banca": "CESPE / Ministério da Saúde – 2010",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Ministério da Saúde – 2010) A Internet funciona a partir de um modelo cliente/servidor, em que servidores são os usuários que produzem informações (documentos, imagens, programas) e os clientes são os provedores de acesso que contratam as empresas de telecomunicação para oferecerem serviços de conexão à rede.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A internet realmente funciona a partir de um modelo cliente/servidor, mas servidores não são\nusuários que produzem informações, eles são máquinas que fornecem informações; e clientes não\nsão provedores de acesso, clientes consomem informações. Provedores de acesso são contratados\npor usuários para ter acesso à internet."
+    },
+    {
+      "id": "info00_024",
+      "numero": 24,
+      "banca": "CESPE / SEFAZ/ES – 2010",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SEFAZ/ES – 2010) Para a conexão de um computador à Internet, é necessário ter, entre outros componentes de hardware, uma placa de rede ou um modem. A placa é usada no caso de o computador pertencer a uma rede de comunicação, enquanto que o modem é necessário quando a conexão é realizada via linha telefônica.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Para conectar um computador à internet, é realmente necessário ter – entre outros equipamentos\nde hardware – uma placa de rede e/ou um modem. Antigamente, para acessar a internet era comum\nter um modem instalado no computador conectado diretamente via cabo à linha telefônica. Hoje\nem dia, para acessar a internet, um notebook pode fazê-lo sem possuir um modem, desde que ele\npertença a uma rede de computadores (Ex: ele pode estar conectado à rede doméstica de uma\ncasa). Além disso, é possível também acessar a internet por meio de um computador com placa de\nrede conectada via cabo a um modem. A questão é polêmica porque você pode interpretar o ou de\numa forma inclusive ou exclusiva."
+    },
+    {
+      "id": "info00_025",
+      "numero": 25,
+      "banca": "CESPE / MPU – 2010",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MPU – 2010) Um modem ADSL permite que, em um mesmo canal de comunicação, trafeguem sinais simultâneos de dados e de voz. Por isso, com apenas uma linha telefônica, um usuário pode acessar a Internet e telefonar ao mesmo tempo. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O Modem ADSL realmente permite o tráfego de sinais de dados e voz em um mesmo canal de\ncomunicação. Lembrem-se de que é possível utilizar a internet e o telefone sem que este último\nesteja com a linha ocupada. Enfim... ele modula o sinal de forma que possam trafegar em conjunto\ndados e voz sem que um interfira no outro."
+    },
+    {
+      "id": "info00_026",
+      "numero": 26,
+      "banca": "CESPE / ANATEL – 2009",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ANATEL – 2009) Uma rede residencial de computadores, que atende aos moradores de uma residência e está conectada à Internet, por meio de acesso ADSL, denomina-se PAN (Personal Area Network).",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, trata-se de uma LAN (Local Area Network). A PAN (Personal Area Network) atende a\numa única pessoa e geralmente está conectada via Bluetooth."
+    },
+    {
+      "id": "info00_027",
+      "numero": 27,
+      "banca": "CESPE / TRE-PR – 2009",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TRE-PR – 2009) A Internet se caracteriza por ser uma rede do tipo cliente/servidor, na qual cada computador independe um do outro e compartilha os dados sem uma centralização, e qualquer computador do tipo cliente é um servidor independente de informações ou serviços.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A questão descreve o Modelo Ponto-a-Ponto. A Internet se caracteriza realmente por ser uma rede\ndo tipo cliente/servidor, mas existe uma centralização e qualquer computador do tipo cliente é\napenas do tipo cliente, ele não exerce o papel de servidor."
+    },
+    {
+      "id": "info00_028",
+      "numero": 28,
+      "banca": "CESPE / MIN – 2009",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MIN – 2009) A terceira geração de padrões e de tecnologias de telefonia móvel, denominada 3G, permite conexão com a Internet.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito... ela realmente permite a conexão com a internet banda larga."
+    },
+    {
+      "id": "info00_029",
+      "numero": 29,
+      "banca": "CESPE / DATAPREV – 2006",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / DATAPREV – 2006) Redes locais — Local Area Networks (LANs) — normalmente cobrem pequenas áreas geográficas, operam a baixas taxas de transmissão e com pequena ocorrência de erros.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "As Redes Locais – em geral – realmente operam com pequena ocorrência de erros, mas com altas\ntaxas de transmissão. Em relação a taxas de transmissão, temos que LAN > MAN > WAN!"
+    },
+    {
+      "id": "info00_030",
+      "numero": 30,
+      "banca": "FCC / SEGEP-MA – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FCC / SEGEP-MA – 2018) Há uma correta associação entre o problema e a sua solução usando o tipo correto de rede de computadores em:",
+      "alternativas": {
+        "a": "Uma empresa possui dois escritórios em uma mesma cidade e deseja que os computadores permaneçam interligados. Para isso deve-se utilizar uma LAN − Local Area Network que conecta diversas máquinas dentro de dezenas de quilômetros.",
+        "b": "Uma empresa possui um enorme volume de dados e precisa interligar o servidor principal aos outros computadores. Para permitir esta conexão deve-se utilizar uma SAN − Servidor Area Network que conecta diversas máquinas a um servidor central.",
+        "c": "Há diversos dispositivos em uma residência que precisam se comunicar dentro de uma distância bastante limitada. Para isso deve ser utilizada uma rede PAN − Private Area Network, que utiliza tecnologias como Wi-Fi e bluetooth.",
+        "d": "Deseja-se conectar redes de escritórios de uma mesma empresa ou de vários campi de universidades. A melhor solução é utilizar uma WLAN − Wireless Local Area Network, a versão wireless (sem fio) de uma LAN que alcança centenas de quilômetros.",
+        "e": "Uma empresa presta serviços online 24 horas para países localizados em diferentes continentes. Deve-se utilizar uma WAN − Wide Area Network, que vai além da MAN − Metropolitan Area Network, conseguindo alcançar uma área maior, como um país ou mesmo um continente."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, deve-se utilizar uma MAN; (b) Errado, SAN (Storage Area Network) é uma rede para\narmazenamento de dados; (c) Errado, PAN é Personal Area Network e, não, Private Area Network.\nAdemais, PAN usa apenas bluetooth; (d) Errado, a WLAN alcança centenas de metros – o ideal para\no caso seria uma MAN; (e) Correto. A WAN (Wide Area Network) resolveria o problema."
+    },
+    {
+      "id": "info00_031",
+      "numero": 31,
+      "banca": "FCC / DPE-RS / Técnico em Segurança - 2017",
+      "tipo": "multipla",
+      "enunciado": "(FCC / DPE-RS / Técnico em Segurança - 2017) Considere uma rede de computadores instalada e em funcionamento que é caracterizada pelo seu alcance local, por se tratar de uma rede interna de curto alcance. De acordo com sua extensão geográfica, essa rede é classificada como:",
+      "alternativas": {
+        "a": "Metropolitan Area Network − MAN.",
+        "b": "Local Area Network − LAN.",
+        "c": "Wide Area Network − WAN.",
+        "d": "Storage Area Network − SAN. 95717730268 - Keyla Kiyoku",
+        "e": "Popular Area Network − PAN."
+      },
+      "gabarito": "B",
+      "comentario": "Alcance local, rede interna e curto alcance... só pode ser uma Rede de Área Local (LAN)."
+    },
+    {
+      "id": "info00_032",
+      "numero": 32,
+      "banca": "FCC / TRT-RJ – 2013",
+      "tipo": "multipla",
+      "enunciado": "(FCC / TRT-RJ – 2013) Sabendo que uma intranet utiliza a infraestrutura de rede da empresa e fazendo uso das informações contidas no texto, considere que o computador de Paulo pode se comunicar com o computador servidor do Tribunal porque os recursos necessários estão fisicamente localizados em um raio de até 500 metros dentro do prédio do Tribunal, incluindo o computador de Paulo e o servidor. Isso significa que a rede utilizada é do tipo.",
+      "alternativas": {
+        "a": "WAN",
+        "b": "CAN",
+        "c": "LAN",
+        "d": "MAN",
+        "e": "ADSL"
+      },
+      "gabarito": "C",
+      "comentario": "O texto introdutório é muito grande e irrelevante para responder à questão. Se recursos estão\nfisicamente localizados em um raio de até 500 metros, trata-se de uma Rede Local (LAN)."
+    },
+    {
+      "id": "info00_033",
+      "numero": 33,
+      "banca": "FCC / TRE-SP – 2012",
+      "tipo": "multipla",
+      "enunciado": "(FCC / TRE-SP – 2012) Para que o computador de uma residência possa se conectar à Internet, utilizando a rede telefônica fixa, é indispensável o uso de um hardware chamado:",
+      "alternativas": {
+        "a": "hub.",
+        "b": "Modem.",
+        "c": "Acess point.",
+        "d": "Adaptador 3G.",
+        "e": "Switch."
+      },
+      "gabarito": "B",
+      "comentario": "O modem é o dispositivo que se conecta à Internet por meio de uma rede de telefonia fixa."
+    },
+    {
+      "id": "info00_034",
+      "numero": 34,
+      "banca": "FCC / TRT-RS – 2011",
+      "tipo": "multipla",
+      "enunciado": "(FCC / TRT-RS – 2011) Numa rede LAN (Local Area Network), o recurso de hardware mínimo que deverá estar instalado no computador para permitir a comunicação com os demais elementos da rede é:",
+      "alternativas": {
+        "a": "o teclado.",
+        "b": "o hub.",
+        "c": "o cartão de memória.",
+        "d": "o switch.",
+        "e": "a placa de rede."
+      },
+      "gabarito": "E",
+      "comentario": "Trata-se da Placa de Rede, que é o recurso a ser instalado no seu computador para permitir a\ncomunicação com os demais elementos."
+    },
+    {
+      "id": "info00_035",
+      "numero": 35,
+      "banca": "CESGRANRIO / IBGE – 2006",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2006) Sobre a Internet, assinale a afirmativa INCORRETA.",
+      "alternativas": {
+        "a": "Músicas podem ser compartilhadas.",
+        "b": "A velocidade de transferência de arquivos é limitada em 1 KB/s.",
+        "c": "É possível assistir a filmes diretamente na Internet.",
+        "d": "Existem sites que disponibilizam arquivos infectados por vírus.",
+        "e": "Existem várias lojas virtuais que vendem seus produtos pela Internet."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Correto, elas podem ser compartilhadas; (b) Errado, não existe essa limitação; (c) Correto, é\nrealmente possível assistir a filmes diretamente na Internet; (d) Correto, existem – sim – sites que\ndisponibilizam arquivos infectados por vírus; (e) Correto, existem infinitas lojas virtuais que vendem\nseus produtos pela internet."
+    },
+    {
+      "id": "info00_036",
+      "numero": 36,
+      "banca": "CESGRANRIO / UNIRIO – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / UNIRIO – 2019) Uma das características interessantes de uma URL é poder conter o nome de um usuário e uma senha ao acessar um recurso. Qual a URL correta para usar o endereço http://testes. cesgranrio.org.br com o usuário candidato e a senha segredo?",
+      "alternativas": {
+        "a": "http://candidato:segredo@testes.cesgranrio.org.br",
+        "b": "http://candidato$segredo!testes.cesgranrio.org.br",
+        "c": "http://candidato!segredo:testes.cesgranrio.org.br",
+        "d": "http://candidato&segredo/testes.cesgranrio.org.br",
+        "e": "http://candidato@segredo//testes.cesgranrio.org.br"
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. \"http://candidato:segredo@testes.cesgranrio.org.br\" é a correta, onde \"candidato\" é o\nusuário e \"segredo\" é a senha;\n(b) Errado. Esta opção usa símbolos incorretos ('$' e '!') e não segue a sintaxe padrão para inserção\nde usuário e senha em URLs;\n(c) Errado. A colocação do ponto de exclamação e dos dois-pontos está incorreta, não seguindo a\nestrutura padrão de URL com autenticação;\n(d) Errado. O uso do símbolo '&' e do símbolo de barra '/' é inadequado para a sintaxe de\nautenticação em URLs;\n(e) Errado. Esta opção coloca incorretamente o símbolo '@' entre o nome de usuário e a senha, e\nadiciona barras extras após a senha, o que não está de acordo com a sintaxe padrão."
+    },
+    {
+      "id": "info00_037",
+      "numero": 37,
+      "banca": "CESGRANRIO / LIQUIGÁS – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / LIQUIGÁS – 2018) Uma pessoa usou seu telefone celular para visitar um site Web no qual são encontrados vídeos científicos. Após informar seu endereço de e-mail e receber um link de confirmação, começou a procurar vídeos sobre cosmologia. Para sua surpresa, os vídeos a que assistiu estavam todos com legenda em português, embora ela não tivesse informado que estava acessando o site a partir do Brasil. Mais tarde, ao ler sobre o assunto na Internet, descobriu que o site científico soube de onde partiu o acesso tomando por base o:",
+      "alternativas": {
+        "a": "número do telefone celular a partir do qual o acesso foi feito.",
+        "b": "endereço de e-mail fornecido.",
+        "c": "endereço de IP usado na conexão com o site.",
+        "d": "o idioma do sistema operacional instalado no telefone celular. 95717730268 - Keyla Kiyoku",
+        "e": "o idioma do navegador usado para acessar o site."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O número do telefone celular não é normalmente utilizado para determinar a localização\ngeográfica de um usuário em acessos à web;\n(b) Errado. O endereço de e-mail, por si só, geralmente não fornece informações suficientes sobre\na localização geográfica do usuário;\n(c) Correto. O endereço IP é utilizado para identificar a localização geográfica de um usuário na\ninternet. Sites podem usar essa informação para personalizar conteúdos (Ex: idioma das legendas);\n(d) Errado. Embora o idioma do sistema operacional possa ser um indicativo do idioma preferido do\nusuário, ele não é usado para determinar a localização geográfica;\n(e) Errado. Similar ao idioma do sistema operacional, o idioma do navegador pode indicar a\npreferência linguística do usuário, mas não é um indicador confiável da localização geográfica."
+    },
+    {
+      "id": "info00_038",
+      "numero": 38,
+      "banca": "CESGRANRIO / CEFET-RJ – 2014",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / CEFET-RJ – 2014) Os tipos de rede digital podem ser classificados em função dos seus alcances geográficos. A rede com alcance de até 500 metros, utilizada em escritórios ou andares de um edifício, é denominada rede local e é conhecida pela sigla:",
+      "alternativas": {
+        "a": "LAN",
+        "b": "RAN",
+        "c": "CAN",
+        "d": "MAN",
+        "e": "WAN"
+      },
+      "gabarito": "A",
+      "comentario": "Apesar de a questão ter mencionado um alcance de até 500 metros, não se atenham tanto a\nmedidas precisas. Pensem sempre em uma variação de valores."
+    },
+    {
+      "id": "info00_039",
+      "numero": 39,
+      "banca": "CESGRANRIO / CMB – 2012",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / CMB – 2012) Os softwares navegadores são ferramentas de internet utilizadas para a interação dos usuários com a rede mundial. Para que essa interação seja possível, é necessário fazer uma conexão à internet por um dos diversos meios de acesso disponíveis aos usuários. O meio de acesso no qual o usuário utiliza um modem e uma linha de telefonia fixa para conectar-se com a internet é o: 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "dial up",
+        "b": "rádio",
+        "c": "satélite",
+        "d": "wi-fi",
+        "e": "cabo coaxial"
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, esse equipamento utiliza modem e linha de telefonia fixa para se conectar à internet;\n(b) Errado, esse equipamento não é utilizado para conexão com a internet; (c) Errado, essa\ntecnologia não utiliza linha de telefonia fixa; (d) Errado, essa tecnologia não utiliza linha de telefonia\nfixa; (e) Errado, esse é um tipo de cabo de rede."
+    },
+    {
+      "id": "info00_040",
+      "numero": 40,
+      "banca": "CESGRANRIO / PETROBRAS – 2011",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2011) No núcleo da Internet, o tráfego de informações entre os computadores, além de intenso, ocorre em grande velocidade, exigindo equipamentos de forte tecnologia. Esses equipamentos, em conjunto com outras tecnologias, constituem os:",
+      "alternativas": {
+        "a": "protocols",
+        "b": "backbones",
+        "c": "web softwares",
+        "d": "security softwares",
+        "e": "control cables"
+      },
+      "gabarito": "B",
+      "comentario": "O conjunto de equipamentos que, em conjunto com outras tecnologias, formam o núcleo da\ninternet, permitindo o tráfego de informações entre computadores é o backbone (espinha dorsal)."
+    },
+    {
+      "id": "info00_041",
+      "numero": 41,
+      "banca": "CESGRANRIO / IBGE – 2010",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2010) As opções a seguir, relacionadas à Internet, são corretas, EXCETO a afirmativa de que:",
+      "alternativas": {
+        "a": "nas páginas Web, existem Links ou vínculos que, quando clicados com o ponteiro do mouse, abrem outras páginas.",
+        "b": "nos Sites, os formulários servem como entrada de dados do usuário, como por exemplo, um formulário de cadastro ou um formulário de busca. 95717730268 - Keyla Kiyoku",
+        "c": "fazer o download de algo significa fazer uma cópia de um arquivo do computador de um usuário para algum servidor na Internet.",
+        "d": "o e-mail é um recurso que permite ao usuário receber e enviar mensagens e textos pela internet.",
+        "e": "as comunidades virtuais, como o Orkut, são sites nos quais o usuário pode criar um perfil virtual para interagir com outros usuários, fazendo amigos, criando parcerias de trabalho, etc."
+      },
+      "gabarito": "C",
+      "comentario": "Fazer o download de algo não significa fazer uma cópia de um arquivo do computador de um\nusuário para algum servidor na Internet e, sim, fazer a transferência de um arquivo de um servidor\npara um computador usuário. Todos os outros itens estão perfeitos!"
+    },
+    {
+      "id": "info00_042",
+      "numero": 42,
+      "banca": "CESGRANRIO / PETROBRAS – 2010",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2010) A Internet pode ser vista como um enorme espaço para troca de informações, gerando uma infinidade de benefícios a seus usuários. Entre esses benefícios, pode-se incluir: I - acesso a uma infinidade de especialistas e especialidades; II - obtenção de atualizações constantes sobre tópicos de interesse; III - formação de equipes para trabalhar em conjunto, independente das distâncias geográficas; IV - obtenção de hardwares e softwares específicos da Internet, de forma fácil e gratuita. Estão corretos os benefícios:",
+      "alternativas": {
+        "a": "I e IV, apenas.",
+        "b": "II e III, apenas.",
+        "c": "I, II e III, apenas.",
+        "d": "I, II e IV, apenas.",
+        "e": "I, II, III e IV."
+      },
+      "gabarito": "C",
+      "comentario": "Entre os benefícios da internet temos: acesso a uma infinidade de especialistas e especialidades,\nobtenção de atualizações constantes sobre tópicos de interesse e formação de equipes para\ntrabalhar em conjunto, independente das distâncias geográficas. Já a obtenção de hardwares e\nsoftwares específicos da Internet, de forma fácil e gratuita, não é um benefício direto do emprego\nda internet."
+    },
+    {
+      "id": "info00_043",
+      "numero": 43,
+      "banca": "CESGRANRIO / IBGE – 2006",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2006) Sobre a Internet, assinale a afirmativa INCORRETA.",
+      "alternativas": {
+        "a": "Músicas podem ser compartilhadas.",
+        "b": "A velocidade de transferência de arquivos é limitada em 1 KB/s.",
+        "c": "É possível assistir a filmes diretamente na Internet.",
+        "d": "Existem sites que disponibilizam arquivos infectados por vírus.",
+        "e": "Existem várias lojas virtuais que vendem seus produtos pela Internet."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Correto, elas podem ser compartilhadas; (b) Errado, não existe essa limitação; (c) Correto, é\nrealmente possível assistir a filmes diretamente na Internet; (d) Correto, existem – sim – sites que\ndisponibilizam arquivos infectados por vírus; (e) Correto, existem infinitas lojas virtuais que vendem\nseus produtos pela internet."
+    },
+    {
+      "id": "info00_044",
+      "numero": 44,
+      "banca": "IBFC / EBSERH – 2020",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / EBSERH – 2020) A integração cada vez maior da tecnologia nos objetos e consequentemente na nossa vida e negócios está em evolução e é uma tendência que tem o objetivo de conectar objetos do mundo real a pessoas. Analise a definição acima e escolha a alternativa correta:",
+      "alternativas": {
+        "a": "Internet das máquinas",
+        "b": "Internet das pessoas",
+        "c": "Internet das coisas",
+        "d": "Internet com a internet das pessoas",
+        "e": "mecanismos de detecção inteligente"
+      },
+      "gabarito": "C",
+      "comentario": "A tecnologia capaz de integrar objetos ao cotidiano das pessoas é a Internet das Coisas."
+    },
+    {
+      "id": "info00_045",
+      "numero": 45,
+      "banca": "INAZ DO PARÁ / CORE-SP – 2019",
+      "tipo": "multipla",
+      "enunciado": "(INAZ DO PARÁ / CORE-SP – 2019) A Internet se configura no mundo de hoje como uma das principais ferramentas de comunicação do planeta. Aponte a alternativa que apresenta conteúdo correto sobre a história dessa importante fonte de informação dos dias contemporâneos.",
+      "alternativas": {
+        "a": "No final da década de 70, uma agência americana de projetos de pesquisa criou a base da estrutura de comunicação de dados que mais tarde se transformaria na Internet.",
+        "b": "O tráfego eficiente de dados na grande rede somente começou a dar resultados positivos a partir da utilização do conjunto de protocolos de referência TCP/IP, desenvolvido no início da década de 70.",
+        "c": "A Fundação Nacional da Ciência, instituição americana de pesquisa em tecnologia, desenvolveu uma rede comercial chamada FNCNET, que mais tarde faria parte da configuração da Internet.",
+        "d": "Sua origem está fundamentada na implantação de uma rede experimental de computadores de longa distância, chamada ARPANET, formada por um conjunto de laboratórios americanos de pesquisa.",
+        "e": "Somente foi possível consolidar a criação da Internet após a adequada junção de redes paralelas como a Intranet e a Extranet 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, foi criada no final da década de 60; (b) Errado, foi desenvolvido no início da década de\n80; (c) Errado, essa fundação jamais existiu; (d) Correto, era uma rede experimental criada por um\nconjunto de laboratórios de pesquisas de universidades e era inicialmente chamada de ARPANET;\n(e) Errado, não faz o menor sentido e foram criadas posteriormente.\nObs: cobrar data é uma das coisas mais absurdas que eu já vi em provas de concurso!"
+    },
+    {
+      "id": "info00_046",
+      "numero": 46,
+      "banca": "CONSULPLAN / Pref. de Pirapora – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / Pref. de Pirapora – 2019) Qual o conceito de INTERNET?",
+      "alternativas": {
+        "a": "É uma rede global de computadores, interligada por equipamentos e protocolos de comunicação.",
+        "b": "Conjunto de regras que os equipamentos envolvidos no processo de comunicação deve seguir para que a ligação entre os mesmos permaneça estável.",
+        "c": "Representação gráfica das informações.",
+        "d": "Linhas e colunas com funções para trabalhar com números."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, é realmente uma rede global de computadores interligada por equipamentos e\nprotocolos; (b) Errado, essa é a definição de protocolos de comunicação; (c) Errado, não faz o menor\nsentido; (d) Errado, essa é a definição de planilha eletrônica."
+    },
+    {
+      "id": "info00_047",
+      "numero": 47,
+      "banca": "CONSULPLAN / Pref. de Resende – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / Pref. de Resende – 2019) Podemos dizer que internet é um conjunto de redes interligadas através de Backbones que é o termo principal utilizado para:",
+      "alternativas": {
+        "a": "Interpretar as páginas da web.",
+        "b": "Enviar mensagens instantâneas pelos sites.",
+        "c": "Solicitar informação em qualquer lugar do mundo por meio de sites.",
+        "d": "Identificar a rede principal pela qual os dados de todos os clientes da Internet passam."
+      },
+      "gabarito": "D",
+      "comentario": "A internet pode ser fornecida por meio de satélites, ondas de rádio ou uma rede de milhares de\ncabos de fibra óptica terrestres ou submarinos, que conectam diversos países, respondendo por\n80% de toda a comunicação. Essa infraestrutura de redes – que forma a espinha dorsal da internet\n– é chamada de backbone. Ela possui alto velocidade, desempenho e interliga várias redes,garantindo o fluxo da informação por dimensões continentais. Todos os dados da Internet passam\npor essa infraestrutura de redes principal chamada backbone."
+    },
+    {
+      "id": "info00_048",
+      "numero": 48,
+      "banca": "DÉDALUS / CORE/RJ – 2019",
+      "tipo": "multipla",
+      "enunciado": "(DÉDALUS / CORE/RJ – 2019) A Arpanet foi a propulsora do (a):",
+      "alternativas": {
+        "a": "Windows.",
+        "b": "Linux.",
+        "c": "Internet.",
+        "d": "Apple.",
+        "e": "Google."
+      },
+      "gabarito": "C",
+      "comentario": "A Arpanet foi a propulsora da... Internet."
+    },
+    {
+      "id": "info00_049",
+      "numero": 49,
+      "banca": "OBJETIVA / Prefeitura de Jaú – 2019",
+      "tipo": "multipla",
+      "enunciado": "(OBJETIVA / Prefeitura de Jaú – 2019) “Rede mundial que interliga computadores. Começou no final dos anos 60, com objetivos militares, e se caracteriza por ser uma rede altamente descentralizada. É comumente chamada de www ou web”. Essa descrição refere-se a:",
+      "alternativas": {
+        "a": "Intranet.",
+        "b": "Link.",
+        "c": "HTTP.",
+        "d": "Internet"
+      },
+      "gabarito": "D",
+      "comentario": "Rede mundial? Interliga computadores? Começou no final da década de 60? Tinha objetivos militares?\nÉ uma rede altamente descentralizada? Tudo isso nos remete à Internet. Ao final, a questão afirma\nque é comumente chamada de www ou web. Sim, isso é verdadeiro, mas é errado! Internet e Web\nsão conceitos completamente diferentes."
+    },
+    {
+      "id": "info00_050",
+      "numero": 50,
+      "banca": "CRO/AC – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CRO/AC – 2019) Redes de Computadores, de curta distância (poucos metros), que têm como principal tecnologia o Bluetooth e permitem a conexão sem fio de fones de ouvido a telefones celulares, assim como teclados e mouses sem fio a computadores dotados desta tecnologia. Trata-se de:",
+      "alternativas": {
+        "a": "LAN (Local Área Network). 95717730268 - Keyla Kiyoku",
+        "b": "CAN (Campus Área Network).",
+        "c": "PAN (Personal Área Network).",
+        "d": "MAN (Metropolitan Área Network)."
+      },
+      "gabarito": "C",
+      "comentario": "Curta distância, tecnologia bluetooth, conexão sem fio – todas são palavras-chave de PAN."
+    },
+    {
+      "id": "info00_051",
+      "numero": 51,
+      "banca": "CRO/AC – 2019",
+      "tipo": "certo_errado",
+      "enunciado": "(CRO/AC – 2019) A Internet é uma rede do tipo MAN, pois consegue interligar computadores localizados em diferentes cidades por meio das linhas de comunicação fornecidas pelas empresas de telecomunicação.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A internet é uma rede de extensão global, logo é considerada uma WAN."
+    },
+    {
+      "id": "info00_052",
+      "numero": 52,
+      "banca": "MGS / MGS – 2019",
+      "tipo": "multipla",
+      "enunciado": "(MGS / MGS – 2019) Sites públicos, armazenados em servidores comerciais e indexados nos buscadores populares como o Google, compõem a internet acessada pela grande parte dos usuários da rede de computadores. Entretanto, existe uma infraestrutura de rede e de navegação que expande essa possibilidade em algo conhecido como Deep web. Um exemplo é a rede implementada pelo sistema Tor (do inglês The Onion Router, ou Roteador Cebola), no qual os sites hospedados não serão, por exemplo, localizáveis pelos buscadores tradicionais. A informação da rede e o processamento dos dados durante a navegação do usuário são realizados em diversos dos nós pertencentes (em uma estrutura de acesso em camadas) e a informação é encriptada. Os sites da rede Tor são identificados pela extensão .onion em seus domínios e, são acessados pelos usuários através do browser Tor, desenvolvido a partir do Firefox. Analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F). ( ) O rastreamento dos dados de navegação de um usuário na rede Tor com o Tor browser em sites .onion é praticamente impossível. ( ) Os sites https://facebookcorewwwi.onion/ e http://3g2upl4pq6kufc4m.onion/ podem ser acessados por browsers como o Firefox ou o Google Chrome. ( ) Uma rede oculta dos mecanismos tradicionais de busca e visita foi provavelmente desenvolvida para uso na propagação de pornografa e venda de drogas. 95717730268 - Keyla Kiyoku ( ) Se um usuário da rede Tor acessa um site normal da rede http está comprometendo a segurança dos demais usuários da rede Tor. ( ) A estrutura descentralizada do acesso aos sites na rede Tor e o processo de criptografa devem inviabilizar a realização de buscadores de conteúdo como o Google. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+      "alternativas": {
+        "a": "V, V, F, V, F",
+        "b": "V, F, V, F, V",
+        "c": "V, V, V, V, F",
+        "d": "V, F, F, F, V"
+      },
+      "gabarito": "D",
+      "comentario": "(V) De fato, é praticamente impossível; (F) Esses endereços não podem ser acessados por\nnavegadores comuns; (F) Ela foi desenvolvida com intuito legítimo e, não, malicioso; (F) Isso não\nfaz o menor sentido; (V) Correto."
+    },
+    {
+      "id": "info00_053",
+      "numero": 53,
+      "banca": "IADES / BRB – 2019",
+      "tipo": "multipla",
+      "enunciado": "(IADES / BRB – 2019) Acerca da Internet das Coisas, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Internet das Coisas é uma forma mais econômica de acesso à internet, a qual permite que dispositivos como geladeiras ofereçam internet a celulares e computadores de usuários, dispensando a necessidade de aquisição de roteadores ADSL à parte.",
+        "b": "Como exemplo de Internet das Coisas, é correto citar um dispositivo que mede a temperatura ambiente interna de um escritório e envia essa informação pela internet.",
+        "c": "Um exemplo de Internet das Coisas é o bitcoin, que é uma moeda virtual e iniciou a era da Internet das Moedas, com bancos virtuais sem agências.",
+        "d": "A Internet das Coisas opera separadamente da Internet das Pessoas e, por isso, não é possível enviar os dados coletados por dispositivos conectados à Internet das Coisas para a nuvem.",
+        "e": "A Internet das Coisas tem grande aplicação em ambientes domésticos e escritórios, mas pouca em ambientes industriais."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, não há relação com economia de custos, geladeiras não vão oferecer internet – vão\nacessar à internet, e não dispensam a aquisição de um roteador; (b) Correto; (c) Errado, não hánenhuma relação entre bitcoin e IoT; (d) Errado, opera em conjunto e permite – sim – enviar dados\npara nuvem; (e) Errado, tem aplicação em ambientes industriais."
+    },
+    {
+      "id": "info00_054",
+      "numero": 54,
+      "banca": "CONTEMAX / Prefeitura de Lucena/PB – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CONTEMAX / Prefeitura de Lucena/PB – 2019) As inovações tecnológicas ajudam em vários elementos da vida. Grandes corporações são constantemente favorecidas por essas novidades desde que paguem por elas, e isso também ocorre nas residências. Mesmo que as pessoas às vezes não saibam de sua existência, a IoT está cada vez mais popular e faz parte de vários dispositivos domésticos, como TV, geladeira, telefones celulares e outros. Sabendo disso, assinale abaixo a opção que traz o significado em português da sigla IoT.",
+      "alternativas": {
+        "a": "Inteligência Artificial Total.",
+        "b": "Informações de Tudo.",
+        "c": "Virtualização.",
+        "d": "Internet para Todos.",
+        "e": "Internet das Coisas."
+      },
+      "gabarito": "E",
+      "comentario": "Essa sigla significa Internet of Things ou Internet das Coisas."
+    },
+    {
+      "id": "info00_055",
+      "numero": 55,
+      "banca": "AOCP / UNIR – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(AOCP / UNIR – 2018) O acesso à Internet só é possível por intermédio de uma entidade denominada provedor de acesso, o qual conecta o usuário à grande rede.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! É realmente necessário contratar um provedor de acesso para se conectar à Internet."
+    },
+    {
+      "id": "info00_057",
+      "numero": 57,
+      "banca": "UFMT / Prefeitura de Várzea Grande/MT – 2018",
+      "tipo": "multipla",
+      "enunciado": "(UFMT / Prefeitura de Várzea Grande/MT – 2018) Sobre topologias de redes, o protocolo de comunicação para Internet das Coisas (Long Range, Low Power), pode ser tipificado como:",
+      "alternativas": {
+        "a": "LAN",
+        "b": "MAN",
+        "c": "WAN",
+        "d": "PAN"
+      },
+      "gabarito": "C",
+      "comentario": "Trata-se de uma rede Long-Range Low-Power WAN – Wide Area Network."
+    },
+    {
+      "id": "info00_058",
+      "numero": 58,
+      "banca": "FEPESE / CELESC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / CELESC – 2018) Os empresários do ramo das telecomunicações vislumbram as possibilidades de a Internet ter, já a partir do próximo ano, velocidades ainda maiores permitindo o desenvolvimento e a expansão da chamada “Internet das coisas”. Assinale a alternativa que indica a inovação que permitirá esse progresso.",
+      "alternativas": {
+        "a": "A possibilidade de conversa entre máquinas, como um smartwatch e um smartphone.",
+        "b": "A “banda estreita” capaz de transmitir sinais analógicos de voz.",
+        "c": "A comunicação instantânea entre pessoas, mesmo em países muito distantes como Cingapura ou China.",
+        "d": "A transmissão analógica de sinais de rádio.",
+        "e": "Internet móvel de quinta geração (5G)."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, a questão trata da inovação que permitirá esse progresso e isso já é possível atualmente\npor meio de um Bluetooth; (b) Errado, isso não tem nenhuma relação com IoT; (c) Errado, isso não\ntem nenhuma relação com IoT; (d) Errado, isso não tem nenhuma relação com IoT; (e) Correto, a\nTecnologia 5G será a grande impulsionadora do IoT."
+    },
+    {
+      "id": "info00_059",
+      "numero": 59,
+      "banca": "IBFC / DPE/PR – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / DPE/PR – 2017) Leia a frase abaixo referente aos conceitos de ambiente de Redes de Computadores: “Uma rede tipicamente __________é a própria Internet pelo fato de abranger uma área geográfica global, interligando países e continentes. Por outro lado, a _________se refere a redes pequenas restritas a uma pequena área geográfica, normalmente é a rede em um prédio comercial, em um escritório ou em uma residência que abriga dispositivos que compartilham dados e recursos entre si. “. Assinale a alternativa que completa correta e respectivamente as lacunas:",
+      "alternativas": {
+        "a": "LAN - WAN",
+        "b": "MAN - PAN",
+        "c": "PAN - MAN",
+        "d": "WAN - LAN"
+      },
+      "gabarito": "D",
+      "comentario": "A WAN é uma Rede de Área Ampla. Quando uma empresa possui filiais em cidades ou países\ndiferentes, ela pode criar uma WAN. Um ótimo exemplo de WAN é Internet! Sim, a Internet é uma\nWAN. Por outro lado, temos a LAN que é uma Rede de Área Local. Quem aí já foi a uma Lan House?\nO nome já dá a dica, trata-se de uma LAN. A rede da sua casa também, assim como a rede do andar\nde um prédio ou de um órgão, ou até mesmo a rede de uma pequena faculdade é uma LAN."
+    },
+    {
+      "id": "info00_060",
+      "numero": 60,
+      "banca": "CRESCER-GM / Prefeitura de Lourdes – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CRESCER-GM / Prefeitura de Lourdes – 2017) \"É um conglomerado de redes locais espalhadas pelo mundo\". Essa é a definição de:",
+      "alternativas": {
+        "a": "Intranet.",
+        "b": "Internet.",
+        "c": "Extranet.",
+        "d": "LAN."
+      },
+      "gabarito": "B",
+      "comentario": "Conglomerado de redes locais espalhadas pelo mundo é a definição de... Internet."
+    },
+    {
+      "id": "info00_061",
+      "numero": 61,
+      "banca": "EXATUS-AJ / TER-SC – 2016",
+      "tipo": "multipla",
+      "enunciado": "(EXATUS-AJ / TER-SC – 2016) É um conglomerado de redes locais, interconectadas e espalhadas pelo mundo inteiro, através do protocolo de internet facilitando o fluxo de informações espalhadas por todo o globo terrestre. 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "Intranet.",
+        "b": "LAN.",
+        "c": "Internet.",
+        "d": "Extranet:"
+      },
+      "gabarito": "C",
+      "comentario": "Mais uma vez! Conglomerado de redes locais, interconectadas e espalhadas pelo mundo é a\ndefinição de... Internet."
+    },
+    {
+      "id": "info00_062",
+      "numero": 62,
+      "banca": "FEPESE / CELESC – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / CELESC – 2016) Como é conhecida a estrutura mundial de redes que pode ser acessada por todos os usuários com acesso controlado por protocolos?",
+      "alternativas": {
+        "a": "Força",
+        "b": "Internet",
+        "c": "Convenção",
+        "d": "Hard reset",
+        "e": "TCP/IP."
+      },
+      "gabarito": "B",
+      "comentario": "Estrutura mundial de redes cujo acesso é controlado por protocolos? Trata-se da Internet!"
+    },
+    {
+      "id": "info00_063",
+      "numero": 63,
+      "banca": "FUNRIO / UFRB – 2015",
+      "tipo": "multipla",
+      "enunciado": "(FUNRIO / UFRB – 2015) O hardware de computador, além da unidade central de processamento e da memória, é composto de dispositivos de entrada e saída, que permitem a comunicação com o usuário. O dispositivo padrão de entrada é o teclado e o dispositivo padrão de saída é o monitor. Alguns dispositivos são chamados híbridos porque podem funcionar tanto como dispositivo de entrada e como de saída. Qual alternativa é um exemplo de dispositivo híbrido (de entrada e saída)?",
+      "alternativas": {
+        "a": "Microfone.",
+        "b": "Mouse.",
+        "c": "Alto Falante.",
+        "d": "Scanner.",
+        "e": "Placa de rede."
+      },
+      "gabarito": "E",
+      "comentario": "==2f06f1==\nA placa de rede permite uma comunicação bidirecional (transmissão e recebimento de dados).\nLogo, é um dispositivo híbrido de entrada/saída de dados."
+    },
+    {
+      "id": "info00_064",
+      "numero": 64,
+      "banca": "MGS / MGS – 2015",
+      "tipo": "multipla",
+      "enunciado": "(MGS / MGS – 2015) O que é a Internet?",
+      "alternativas": {
+        "a": "Uma rede de computadores.",
+        "b": "Vários computadores interligados",
+        "c": "Uma rede mundial de computadores",
+        "d": "Uma rede mundial de celulares"
+      },
+      "gabarito": "C",
+      "comentario": "A Internet é a rede (mundial) de computadores! Logo, a questão possui duas respostas, mas temos\nque responder a mais correta: é uma rede mundial de computadores."
+    },
+    {
+      "id": "info00_065",
+      "numero": 65,
+      "banca": "MGS / MGS – 2015",
+      "tipo": "multipla",
+      "enunciado": "(MGS / MGS – 2015) A configuração de rede mais adequada para conectar computadores de: - um pavimento - um estado - uma nação é, respectivamente:",
+      "alternativas": {
+        "a": "LAN, WAN, WAN.",
+        "b": "LAN, LAN, WAN.",
+        "c": "LAN, LAN, WAN.",
+        "d": "WAN, WAN, LAN.",
+        "e": "WAN, LAN, LAN."
+      },
+      "gabarito": "A",
+      "comentario": "para conectar um pavimento ou andar de um prédio, utilizamos uma LAN. Já para conectar um\nestado, isto é, as cidades que o compõem, nós utilizamos uma WAN. Por fim, para conectar uma\nnação, isto é, os estados que a compõem, nós utilizamos uma WAN. Professor, e a MAN? Galera,\nlembrem-se que a MAN é para conectar redes dentro de uma mesma cidade – que não era o caso\nda questão. Tranquilo? Então, a resposta é LAN, WAN e WAN."
+    },
+    {
+      "id": "info00_066",
+      "numero": 66,
+      "banca": "SOUSÂNDRADE / CRC-MA – 2010",
+      "tipo": "multipla",
+      "enunciado": "(SOUSÂNDRADE / CRC-MA – 2010) Considere um arranjo de dois ou mais computadores conectados fisicamente por meio de cabos. Dentre as palavras abaixo, selecione aquela que melhor descreve esse cenário:",
+      "alternativas": {
+        "a": "Rede",
+        "b": "WAN",
+        "c": "Wireless",
+        "d": "Ponto de Acesso",
+        "e": "Servidor"
+      },
+      "gabarito": "A",
+      "comentario": "Vamos relembrar o conceito básico de redes: conjunto de dispositivos conectados por links de\ncomunicação. Logo, um arranjo de dois ou mais computadores conectados fisicamente por meio\nde cabos é uma rede."
+    }
+  ]
+}

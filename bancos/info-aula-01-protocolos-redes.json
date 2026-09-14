@@ -1,0 +1,833 @@
+{
+  "esquema": 1,
+  "id": "info-aula-01-protocolos-redes",
+  "aula": "01",
+  "titulo": "Informática - AULA 01",
+  "subtitulo": "Protocolos e Serviços de Rede",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+    }
+  ],
+  "resumoMd": "- **Conceitos Fundamentais de Rede**:\n  - **Internet**: Rede mundial de computadores pública, baseada na arquitetura e protocolo TCP/IP.\n  - **Intranet**: Rede privada corporativa que utiliza os mesmos recursos e protocolos da Internet, mas restrita a usuários autorizados de uma organização.\n  - **Extranet**: Acesso externo controlado à Intranet de uma organização para parceiros, clientes ou fornecedores.\n  - **Internet das Coisas (IoT)**: Conexão e integração de objetos físicos do dia a dia à Internet para troca de dados.\n- **Protocolos e Serviços (`01.pdf`)**:\n  - **HTTP / HTTPS**: Transferência de páginas web (HTTPS com camada de criptografia TLS/SSL).\n  - **FTP / SFTP**: Transferência de arquivos.\n  - **DNS**: Resolução de nomes de domínio em endereços IP.\n  - **DHCP**: Atribuição dinâmica de endereços IP nas redes.\n- **Ferramentas de Busca (`02.pdf`)**:\n  - Uso de aspas (`\"termo exato\"`) para buscar frases exatas.\n  - Sinal de subtração (`-termo`) para excluir palavras da busca.\n  - Operador `filetype:pdf` ou `filetype:docx` para filtrar por extensão de arquivo.\n  - Operador `site:gov.br` para restringir buscas a um domínio específico.\n\n---",
+  "total": 62,
+  "questoes": [
+    {
+      "id": "info01_001",
+      "numero": 1,
+      "banca": "CESPE / PO-AL - 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PO-AL - 2023) A internet é uma rede de computadores que interconecta sistemas finais por enlaces de comunicação e comutadores, em que o TCP (Transmission Control Protocol) e o IP (Internet Protocol) são dois dos protocolos mais importantes.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A internet é, de fato, uma rede global de computadores interconectados que utilizam um conjunto\npadronizado de protocolos de comunicação, dos quais o TCP e o IP são fundamentais. O TCP é\nresponsável por dividir as mensagens em pacotes e remontá-los no destino, garantindo que os\ndados cheguem íntegros e na ordem correta. Já o IP é responsável pelo endereçamento dos\npacotes, assegurando que eles cheguem ao destino correto.\nJuntos, TCP/IP formam a base da comunicação na internet, possibilitando a interconexão eficiente\ne confiável entre diferentes sistemas e dispositivos ao redor do mundo."
+    },
+    {
+      "id": "info01_002",
+      "numero": 2,
+      "banca": "CESPE / CODEVASF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CODEVASF – 2021) O POP3 é um protocolo utilizado para serviços de correio eletrônico e tem a função de transporte no envio de emails do cliente para o destinatário.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O protocolo utilizado para envio de e-mails é o SMTP; POP3 é utilizado para recebimento."
+    },
+    {
+      "id": "info01_003",
+      "numero": 3,
+      "banca": "CESPE / ME – 2020",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ME – 2020) Spam é uma funcionalidade do SMTP que permite o recebimento de emails de clientes e a sua retransmissão para outro servidor SMTP.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Não se trata de uma funcionalidade e, sim, de uma prática de enviar e-mails não solicitados – são\nos famosos e-mails indesejados geralmente com alguma propaganda."
+    },
+    {
+      "id": "info01_004",
+      "numero": 4,
+      "banca": "CESPE / PRF – 2019",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PRF – 2019) As versões mais modernas dos navegadores Chrome, Firefox e Edge reconhecem e suportam, em instalação padrão, os protocolos de Internet FTP, SMTP e NNTP, os quais implementam, respectivamente, aplicações de transferência de arquivos, correio eletrônico e compartilhamento de notícias. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "FTP é um protocolo para transferência de arquivos suportado pelos navegadores modernos; NNTP\né um protocolo utilizado em recursos de grupos de discussão suportado por clientes de e-mail e,\nnão, por navegadores modernos; SMTP é um protocolo para envio de e-mail suportado por clientes\nde e-mail e, não, por navegadores modernos."
+    },
+    {
+      "id": "info01_005",
+      "numero": 5,
+      "banca": "CESPE / MPC-PA – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / MPC-PA – 2019) O protocolo TCP possui uma série de camadas que segmentam as funções de trabalho desse protocolo. A esse respeito, se o protocolo SMTP for consumido, ele deverá operar na camada de:",
+      "alternativas": {
+        "a": "rede.",
+        "b": "enlace.",
+        "c": "Internet.",
+        "d": "aplicação.",
+        "e": "transporte."
+      },
+      "gabarito": "D",
+      "comentario": "É estranha essa utilização do verbo “consumir”, mas o que a questão quer saber é em qual camada\nfunciona o SMTP. Logo, trata-se da camada de aplicação."
+    },
+    {
+      "id": "info01_006",
+      "numero": 6,
+      "banca": "CESPE / PGE-PE – 2019",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PGE-PE – 2019) O envio de uma mensagem eletrônica que contenha texto e um arquivo anexado é realizado mediante dois protocolos: SMTP (Simple Mail Transfer Protocol), para o texto, e FTP (File Transfer Protocol), para o arquivo.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Nós vimos que não é necessário utilizar FTP para enviar arquivos em um e-mail. O SMTP permite o\nenvio de arquivos anexados por meio de um protocolo chamado MIME."
+    },
+    {
+      "id": "info01_007",
+      "numero": 7,
+      "banca": "CESPE / SLU-DF – 2019",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SLU-DF – 2019) O DHCP disponibiliza IPs de forma automática para computadores em uma rede, por meio de um servidor que fornece informações essenciais, como a máscara de sub-rede e o gateway padrão.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O DHCP disponibiliza IPs de forma automática para computadores de uma rede? Sim, essa é\nexatamente a sua função. Por meio de um servidor que fornece informações essenciais, como a\nmáscara de sub-rede e o gateway padrão? Sim, dessa forma o usuário não precisa fazer a\nconfiguração manual."
+    },
+    {
+      "id": "info01_008",
+      "numero": 8,
+      "banca": "CESPE / PM/MA – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM/MA – 2018) O protocolo DNS, entre outras funcionalidades, transforma um nome em um endereço MAC da placa de rede.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O protocolo DNS (Domain Name System) tem como funcionalidade transformar um Nome de\nDomínio em Endereços IP e vice-versa. Como seria muito difícil memorizar o endereço IP para cada\npágina ou recurso, nós damos um nome a este endereço por meio da URL (Uniform Resource\nLocator)."
+    },
+    {
+      "id": "info01_009",
+      "numero": 9,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) O modelo de referência de rede TCP/IP, se comparado ao modelo OSI, não contempla a implementação das camadas física, de sessão e de apresentação.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O último concurso da Polícia Federal decidiu vir cheio de polêmicas! Galera, não é que o modelo de\nreferência TCP/IP não contemple a implementação das camadas física, de sessão e de\napresentação. A implementação dessas camadas com seus recursos e funcionalidades está\ncondensada em outras camadas, apenas a sua apresentação como uma camada inexiste no TCP/IP.\nEstá claro que o examinador queria saber se o aluno sabia distinguir as camadas do Modelo TCP/IP\ne do Modelo OSI, mas a redação da questão gerou essa confusão. Além disso, o próprio CESPE já\nanulou uma questão por achar que há divergências na literatura quanto à existência ou não da\ncamada física no Modelo TCP/IP."
+    },
+    {
+      "id": "info01_010",
+      "numero": 10,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) DNS é um protocolo da camada de aplicação que usa o UDP — com o UDP há apresentação entre as entidades remetente e destinatária da camada de transporte antes do envio de um segmento.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "DNS é um protocolo da camada de aplicação? Sim. DNS usa o UDP? Sim. Com o UDP, há apresentação\nentre as entidades remetente e destinatária da camada de transporte antes do envio de um segmento?\nO que a questão chama de apresentação entre as entidades remetente e destinatária da camada de\ntransporte antes do envio de um segmento é a conexão. Ora, UDP é orientado à conexão? Não, o\nprotocolo da camada de transporte orientado à conexão é o TCP."
+    },
+    {
+      "id": "info01_011",
+      "numero": 11,
+      "banca": "CESPE / Polícia Rodoviária Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Rodoviária Federal – 2018) O UDP é utilizado por outros serviços de rede e protocolos, como DNS, NFS, DHCP e SNMP, por serviços de tempo real como streaming de vídeo e VoIP, que são sensíveis ao atraso, porém mais tolerantes a perdas de pacotes, e ainda encontra aplicações em serviços do tipo unicast e multicast.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Imagine que eu estou conversando com você via VoIP (que é um serviço que utiliza o UDP na\ncamada de transporte, ou seja, não é orientado a conexões). Se a comunicação falhar em algum\ninstante, faz sentido que o protocolo tente recuperar o que foi perdido e entregue depois? Não, isso\nfaria surgir uma sílaba ou uma palavra do nada no meio da nossa conversa depois de já termos até\nmudado de assunto. E se a internet estiver ruim, eu falar uma coisa e demorar muito para chegar para\nvocê quando você já estava até falando sobre outra coisa? Também é ruim!\nEm outras palavras, o UDP tolera perdas (pode perder alguns pacotes sem problema nenhum\nporque eu vou continuar te entendendo e não faz sentido tentar recuperar), no entanto ele não\ntolera atrasos, porque aí a comunicação se torna inviável - eu vou estar falando sobre uma coisa e\nvocê sobre outra.\nO UDP é utilizado por outros serviços de rede e protocolos, como DNS, NFS, DHCP e SNMP, por serviços\nde tempo real como streaming de vídeo e VoIP? Sim! Esses protocolos e serviços são sensíveis ao\natraso? Sim! Esses protocolos e serviços são mais tolerantes a perdas de pacotes? Sim! Esses serviços\ne protocolos encontram aplicações em serviços do tipo unicast e multicast? Sim, lembrem-se que o\nTCP trabalha apenas em unicast, mas o UDP trabalha em unicast, multicast ou broadcast."
+    },
+    {
+      "id": "info01_013",
+      "numero": 13,
+      "banca": "CESPE / BNB – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BNB – 2018) Diferentemente do SMTP, o protocolo IMAP permite que sejam utilizadas aplicações de acesso a terminal, como o Telnet.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Tanto o SMTP quanto o IMAP permitem que sejam utilizadas aplicações de acesso a terminal via\nTelnet."
+    },
+    {
+      "id": "info01_014",
+      "numero": 14,
+      "banca": "CESPE / EMAP – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / EMAP – 2018) Com a criação do protocolo TCP, que é orientado a conexões, o protocolo UDP deixou de ser utilizado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Opa... esses protocolos são utilizados em contextos diferentes e se complementam."
+    },
+    {
+      "id": "info01_015",
+      "numero": 15,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) TCP e UDP são protocolos de transporte orientados à conexão e tem a função de fornecer a entrega confiável de dados a camadas superiores da pilha de protocolos.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "TCP e UDP são protocolos de transporte? Sim! Orientados à conexão? Opa... apenas o TCP é\norientado à conexão! E tem a função 1. de fornecer a entrega confiável de dados a camadas\nsuperiores da pilha de protocolos? Não, apenas o TCP fornece uma entrega confiável de dados."
+    },
+    {
+      "id": "info01_016",
+      "numero": 16,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) Serviços como VoIP (voz sobre IP) necessitam de um protocolo de tempo real, como o TCP/IP.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "TCP/IP é uma arquitetura de protocolos. Serviços como VoIP realmente necessitam de um\nprotocolo de tempo real, como o RTP, RTCP, etc."
+    },
+    {
+      "id": "info01_017",
+      "numero": 17,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) Uma das funções do DNS é resolver nomes para endereços IP e utilizar o UDP, que é um protocolo orientado à conexão, isto é, tem controle do estado das conexões.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "UDP não é orientado à conexão, logo não tem controle do estado das conexões."
+    },
+    {
+      "id": "info01_018",
+      "numero": 18,
+      "banca": "CESPE / SEFAZ-RS – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / SEFAZ-RS – 2018) Assinale a opção que indica o protocolo de transporte a ser utilizado na publicação de um serviço HTTPS acessível a todos os usuários na Internet.",
+      "alternativas": {
+        "a": "ICMP (Internet control message protocol)",
+        "b": "DNS (domain name system)",
+        "c": "TCP (transmission control protocol)",
+        "d": "UDP (user datagram protocol)",
+        "e": "ARP (address resolution protocol)"
+      },
+      "gabarito": "C",
+      "comentario": "Protocolo de transporte? Já podemos eliminar as opções (a), (b) e (e). Utilizado na publicação de um\nserviço HTTPS? O HTTPS opera sobre o TCP."
+    },
+    {
+      "id": "info01_019",
+      "numero": 19,
+      "banca": "CESPE / SEFAZ-RS – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / SEFAZ-RS – 2018) Assinale a opção que apresenta o protocolo de transporte a ser utilizado para a publicação de um serviço não orientado a conexões, mas que seja acessível a todos os usuários de uma rede local.",
+      "alternativas": {
+        "a": "IP (Internet protocol)",
+        "b": "UDP (user datagram protocol)",
+        "c": "TCP (transmission control protocol)",
+        "d": "DHCP (dynamic host configuration protocol)",
+        "e": "RPC (remote procedure call)"
+      },
+      "gabarito": "B",
+      "comentario": "Protocolo de transporte? Já podemos eliminar as opções (a), (d) e (e). Utilizado para a publicação de\num serviço não orientado a conexões? Só pode ser o UDP."
+    },
+    {
+      "id": "info01_020",
+      "numero": 20,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) Em um serviço orientado a conexão, é possível fazer controle de fluxo e congestionamento.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O estabelecimento de uma conexão permite fazer controle de fluxo e congestionamento,\ncomo – por exemplo – ocorre com serviços que utilizam o Protocolo TCP."
+    },
+    {
+      "id": "info01_021",
+      "numero": 21,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) No modelo OSI de redes de computadores, o TCP está localizado em uma camada superior ao IP.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! TCP está na Camada 4 (Transporte) e o IP está na Camada 3 (Rede)."
+    },
+    {
+      "id": "info01_022",
+      "numero": 22,
+      "banca": "CESPE / ABIN – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ABIN – 2018) O FTP (File Transfer Protocol) é um protocolo da camada de aplicação do TCP/IP que utiliza duas conexões TCP paralelas para transferir um arquivo: uma de controle e outra de dados.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Ele realmente é da camada de aplicação e possui duas conexões paralelas: controle e\ndados."
+    },
+    {
+      "id": "info01_023",
+      "numero": 23,
+      "banca": "CESPE / ABIN – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ABIN – 2018) Os sistemas de correio eletrônico fazem uso do protocolo MIME, que tem por finalidade permitir que dados não ASC-II sejam encaminhados por email.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O MIME permite que anexos com arquivos sejam enviados por e-mail e, não, apenas\ncaracteres ASCII."
+    },
+    {
+      "id": "info01_024",
+      "numero": 24,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Localizado na camada de transporte do modelo TCP/IP, o protocolo UDP tem como características o controle de fluxo e a retransmissão dos dados.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O protocolo UDP é realmente localizado na camada de transporte, mas não tem como\ncaracterísticas o controle de fluxo e retransmissão de dados, visto que ele não estabelece uma\nconexão antes do envio dos dados. Essa, na verdade, é uma característica do protocolo TCP."
+    },
+    {
+      "id": "info01_025",
+      "numero": 25,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) No NAT (Network Address Translation), os endereços IP são modificados no cabeçalho dos pacotes em uma rede privada, a fim de se contornar a limitação no número de endereços IPv4 disponíveis.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O NAT converte endereço público em endereço privado com o intuito de contornar a\nlimitação de números de endereços disponíveis. Lembrem-se que, para tal, ele utiliza uma tabela\nde conversão."
+    },
+    {
+      "id": "info01_026",
+      "numero": 26,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) IMAP é um protocolo que permite acesso ao conteúdo requisitado pelas máquinas clientes, impedindo que estas se comuniquem diretamente com o servidor que armazena tal conteúdo, resguardando, assim, a identidade das máquinas clientes.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "IMAP é um protocolo que permite acesso ao conteúdo requisitado pelas máquinas clientes? Sim,\nmáquinas clientes utilizam o IMAP para recuperar ou acessar e-mails armazenados no servidor.\nImpedindo que estas se comuniquem diretamente com o servidor que armazena tal conteúdo? Pelo\ncontrário, as máquinas clientes se comunicam diretamente com o servidor para acessar os e-mails."
+    },
+    {
+      "id": "info01_027",
+      "numero": 27,
+      "banca": "CESPE / FUB – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB – 2018) TCP (Transmission Control Protocol) é um protocolo orientado a conexões, confiável, que permite que um fluxo de dados entre duas máquinas conectadas em rede seja entregue sem erros.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Esse protocolo da camada de transporte é orientado a conexões, logo ele é confiável por\nfazer um controle de fluxo, erros e congestionamento."
+    },
+    {
+      "id": "info01_028",
+      "numero": 28,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) No IPv4, um endereço IP é composto por 32 bites, enquanto no IPv6, um endereço IP tem 128 bites. Em comparação com o modelo de referência OSI, tanto o IPv4 quanto o IPv6 encontram-se na camada de rede.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O IPv4 tem 32 bits e o IPv6 tem 128 bits. Além disso, ambos realmente se encontram na Camada de\nRede do Modelo OSI."
+    },
+    {
+      "id": "info01_029",
+      "numero": 29,
+      "banca": "CESPE / ABIN – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ABIN – 2018) O IP oferece serviço de entrega de melhor esforço, uma vez que seus datagramas não são fragmentados e, como o serviço não é confiável, há necessidade de serem reconstruídos pelos roteadores antes que cheguem à camada de transporte no destino.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O IP oferece serviço de entrega de melhor esforço? Sim! Datagramas não são fragmentados? Errado,\neles são fragmentados em pacotes! O serviço não é confiável? Correto, ele realmente não é\nconfiável! Há necessidade de serem reconstruídos pelos roteadores antes que cheguem à camada de\ntransporte no destino? Não, o responsável pela reconstrução dos datagramas é a camada de\ntransporte do destino final."
+    },
+    {
+      "id": "info01_030",
+      "numero": 30,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) É característica do HTTP o envio e o recebimento de dados na camada de aplicação do modelo TCP/IP; as definições do HTTP trabalham com códigos de erro, tanto do lado cliente quanto do lado servidor.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! É característica do HTTP o envio e o recebimento de dados na camada de aplicação do modelo\nTCP/IP? Sim, perfeito! As definições do HTTP trabalham com códigos de erro, tanto do lado cliente\nquanto do lado servidor? Sim, nós vimos na aula inclusive que erros cujo código é 4XX (400 a 499)\nindicam erro no lado do cliente; e erros cujo código é 5XX (500 a 599) indicam erro do lado do\nservidor."
+    },
+    {
+      "id": "info01_031",
+      "numero": 31,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) As informações do DNS (Domain Name System) estão distribuídas em várias máquinas e o tamanho de sua base de dados é ilimitado.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O DNS possui uma estrutura hierarquizada e distribuída em várias máquinas com\ncapacidade crescente à medida que houver necessidade, logo o tamanho de sua base de dados é\nilimitado."
+    },
+    {
+      "id": "info01_032",
+      "numero": 32,
+      "banca": "CESPE / STJ – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STJ – 2018) O roteador é um equipamento de rede cuja principal funcionalidade é a implementação da camada de redes (IP) do TCP/IP.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Ele é o equipamento responsável pelo roteamento de pacotes de dados, logo implementa\na camada de redes (IP) do TCP/IP."
+    },
+    {
+      "id": "info01_033",
+      "numero": 33,
+      "banca": "CESPE / ABIN – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ABIN – 2018) As trocas de mensagens entre os componentes de hardware ou de software de dispositivos conectados em rede, como, por exemplo, smartphones e tablets, são definidas por meio de protocolos, que, em última instância, envolvem as atividades de duas ou mais entidades remotas comunicantes na Internet.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Genericamente, protocolo pode ser definido como um conjunto de regras que controlam\na comunicação de dados. Logo, a comunicação entre dispositivos conectados em rede é definida\npor meio de protocolos."
+    },
+    {
+      "id": "info01_034",
+      "numero": 34,
+      "banca": "FCC / SABESP – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FCC / SABESP – 2018) Um Estagiário está habituado a realizar compras em sites de comércio eletrônico e realizar transações bancárias no site de seu banco. Sempre que acessa esses sites, como sabe que terá que informar senhas, números de cartão de crédito e dados bancários, observa na linha de endereço do navegador se o site usa um protocolo que aplica certificados digitais para garantir segurança. Esse protocolo é o:",
+      "alternativas": {
+        "a": "IMAPS.",
+        "b": "HTTPS.",
+        "c": "WWW.",
+        "d": "HTTP.",
+        "e": "IGMPS."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, o protocolo IMAPS é a versão segura do IMAP (Internet Message Access Protocol) que é\nutilizado para troca de mensagens eletrônicas; (b) Correto, o Protocolo HTTPS é a versão segura do\nHTTP (HyperText Transfer Protocol), pois utiliza o Protocolo SSL/TLS para criptografia dos dados\nassim como certificados digitais para garantia de autenticidade; (c) Errado, WWW não é um\nprotocolo; (d) Errado, HTTP é usado para navegação, porém não faz criptografia de dados; (e)\nIGMPS não existe!"
+    },
+    {
+      "id": "info01_035",
+      "numero": 35,
+      "banca": "FCC / SABESP – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FCC / SABESP – 2017) A transferência de dados em redes de computadores envolve normalmente transferência de arquivos, que ocorre entre um computador chamado cliente (aquele que solicita a conexão para a transferência de dados) e um servidor (aquele que recebe a solicitação de transferência). O usuário, através de um software específico, pode selecionar quais arquivos enviar ao servidor. Para estabelecer uma conexão ao servidor, o usuário informa um nome de usuário e uma senha, bem como o nome correto do servidor ou seu endereço IP. Se estes dados foram informados corretamente, a conexão será estabelecida, utilizando-se um canal de comunicação chamado de porta (port). Tais portas são conexões por meio das quais é possível trocar dados. No caso da conexão descrita, o padrão para porta é o número 21. (Adaptado de: http://www.simplemachines.org) Pode-se concluir corretamente que o texto descreve o uso do protocolo de transferência de arquivos",
+      "alternativas": {
+        "a": "Direct Transfer Protocol − DTP.",
+        "b": "On-Demand File Transfer Protocol − OnD-FTP.",
+        "c": "File Transfer Protocol − FTP. 95717730268 - Keyla Kiyoku",
+        "d": "File-Sharing Protocol over IP − FSPoIP.",
+        "e": "File Swap Protocol − FSP."
+      },
+      "gabarito": "C",
+      "comentario": "O protocolo utilizado para troca de arquivos entre cliente e servidor é o FTP (File Transfer Protocol).\nCom ele é possível copiar um arquivo de um computador para outro através da internet. O protocolo\nutiliza, geralmente, a porta 20 ou 21. As outras alternativas contêm apenas protocolos inventados\npela banca."
+    },
+    {
+      "id": "info01_036",
+      "numero": 36,
+      "banca": "FCC / COPERGÁS – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FCC / COPERGÁS – 2016) Sempre que um acesso envolver a transmissão de informações sigilosas, é importante que um funcionário da COPERGÁS se certifique do uso de conexões seguras. Indica uma conexão segura quando:",
+      "alternativas": {
+        "a": "o endereço do site começa com http://.",
+        "b": "o endereço do site não começa com www. Isso indica que o protocolo de segurança foi omitido por se tratar de uma conexão segura.",
+        "c": "um símbolo do site (logotipo) é apresentado próximo à barra de endereço e, ao passar o mouse sobre ele, não há detalhes da identidade do site, pois a conexão é segura.",
+        "d": "apenas o desenho de uma chave é mostrado na barra de endereço e, ao clicar sobre ele, o nome verdadeiro do site é exibido, indicando se tratar de uma conexão segura.",
+        "e": "a barra de endereço/recorte são apresentados na cor verde e há o nome do proprietário do site, indicando se tratar de conexão com EV SSL, muito segura, como também é o https."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, quando um endereço começa com http:// significa que o protocolo que está sendo\nutilizado é o HTTP, que não possui camada de segurança como o HTTPS possui;\n(b) Errado, a sigla WWW (World Wide Web) em um endereço é facultativa, portanto não indica se a\nconexão é segura ou não;\n(c) Errado, o que indica se uma conexão é segura é o prefixo https:// em sua url. Outros indicativos\npodem ser um cadeado ao lado da URL ou as informações do certificado digital utilizado quando se\npassa o mouse sobre a barra de endereço;\n(d) Errado, assim como a Letra C;\n(e) Correto. EV SSL é um tipo de certificação digital, que permite a navegadores mostrarem a barra\nde endereços na cor verde com o nome de sua empresa, permitindo aos usuários identificar o seu\nsite como seguro, autêntico e não clonado – como é mostra abaixo:"
+    },
+    {
+      "id": "info01_037",
+      "numero": 37,
+      "banca": "FGV / MPE-AL – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FGV / MPE-AL – 2018) Para baixar arquivos para o sistema operacional Ubuntu, uma das fontes oficiais é mostrada a seguir. Memorial University of Newfoundland ftp 10 Mbps O acrônimo ftp refere-se:",
+      "alternativas": {
+        "a": "ao método de autenticação usado para estabelecer a conexão.",
+        "b": "ao status da conexão.",
+        "c": "a um indicativo da segurança dos dados na conexão.",
+        "d": "a um indicativo da velocidade de transferência de arquivos.",
+        "e": "a um protocolo para a transferência de arquivo."
+      },
+      "gabarito": "E",
+      "comentario": "FTP é o acrônimo para File Transfer Protocol e se refere a um protocolo para transferência de\narquivos."
+    },
+    {
+      "id": "info01_038",
+      "numero": 38,
+      "banca": "FGV / Câmara Municipal de Caruaru-PE – 2015",
+      "tipo": "multipla",
+      "enunciado": "(FGV / Câmara Municipal de Caruaru-PE – 2015) No uso dos recursos da Internet, é comum a execução dos procedimentos básicos descritos a seguir. I. O envio de arquivos para sites de hospedagem (no sentido da máquina do usuário para a Internet). II. Baixar arquivos em formato PDF referentes às normas de concursos ou mesmo atualizações de antivírus (no sentido Internet para a máquina do usuário). Nesse contexto, os procedimentos (I) e (II) caracterizam, respectivamente, os conceitos denominados",
+      "alternativas": {
+        "a": "uplink e downlink.",
+        "b": "upstart e downstart.",
+        "c": "upstream e downstream.",
+        "d": "upload e download.",
+        "e": "upshift e downshift."
+      },
+      "gabarito": "D",
+      "comentario": "(I) O envio de arquivos para sites de hospedagens é um exemplo típico de... upload; (II) Baixar\narquivos quaisquer para um computador ou outro dispositivo é um exemplo típico de... download."
+    },
+    {
+      "id": "info01_039",
+      "numero": 39,
+      "banca": "FGV / Câmara Municipal de Recife-PE – 2014",
+      "tipo": "multipla",
+      "enunciado": "(FGV / Câmara Municipal de Recife-PE – 2014) Os termos upload / download são amplamente mencionados no âmbito da utilização de computadores. O significado de cada um desses termos, respectivamente, é:",
+      "alternativas": {
+        "a": "a transmissão de um arquivo do seu computador para outro computador / a transmissão de um arquivo de outro computador para o seu computador;",
+        "b": "a transmissão de um arquivo de outro computador para o seu / a transmissão de um arquivo do seu computador para outro computador;",
+        "c": "a transmissão de um arquivo do seu computador para um HD externo ou DVD / a transmissão de um arquivo de outro computador para o seu computador;",
+        "d": "a transmissão de um arquivo de outro computador para o seu / a transmissão de um arquivo do seu computador para um HD externo ou DVD;",
+        "e": "a transmissão de dados do seu computador para outro computador por meio de um navegador (browser) / o envio de dados de outro computador por meio de um navegador (browser)."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, essa é a definição perfeita de upload e download respectivamente; (b) Errado, a questão\ninverteu os conceitos; (c) Errado, a transferência para uma mídia externa não caracteriza um\nupload; (d) Errado, transmitir arquivos de outro computador para o seu seria um download e a\ntransferência para uma mídia externa não caracteriza um download; (e) Errado, não é\nnecessariamente por meio de um navegador."
+    },
+    {
+      "id": "info01_040",
+      "numero": 40,
+      "banca": "VUNESP / TJ-SP - 2023",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / TJ-SP - 2023) Na URL https://www.meusite.com.br/descontos%20especiais.html, o %20 representa:",
+      "alternativas": {
+        "a": "um espaço em branco.",
+        "b": "um traço.",
+        "c": "um site não seguro.",
+        "d": "um site marcado como Favorito.",
+        "e": "um sinal de adição."
+      },
+      "gabarito": "A",
+      "comentario": "O %20 representa um espaço em branco. Isso ocorre porque o % é um caractere de escape que é\nusado para representar outros caracteres, como espaços, barras invertidas e aspas. No caso de %20,\nele representa um espaço em branco."
+    },
+    {
+      "id": "info01_041",
+      "numero": 41,
+      "banca": "VUNESP / SEDUC/SP – 2019",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / SEDUC/SP – 2019) Na rede mundial de computadores, Internet, os serviços de comunicação e informação são disponibilizados por meio de endereços e links com formatos padronizados URL (Uniform Resource Locator). Um exemplo de formato de endereço válido na Internet é:",
+      "alternativas": {
+        "a": "http:@site.com.br",
+        "b": "HTML:site.estado.gov",
+        "c": "html://www.mundo.com",
+        "d": "https://meusite.org.br",
+        "e": "www.#social.*site.com"
+      },
+      "gabarito": "D",
+      "comentario": "Uma URL é formada – grosso modo – por: protocolo://servidor/caminho/recurso.\n(a) Errado. Após o protocolo, devem vir os caracteres :// e, não, :@.\n(b) Errado. HTML é uma linguagem de marcação e, não, um protocolo.\n(c) Errado. HTML é uma linguagem de marcação e, não, um protocolo.\n(d) Correto. Esse endereço seguiu a formatação correta.\n(e) Errado. Não é permitido utilizar os símbolos # ou *."
+    },
+    {
+      "id": "info01_042",
+      "numero": 42,
+      "banca": "VUNESP / PC/SP – 2018",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / PC/SP – 2018) Utilizando um navegador típico de Internet, o usuário digitou o seguinte endereço: www.carlos.cim.br. De acordo com o endereço digitado, é correto afirmar que o usuário está acessando um site web de um profissional liberal da classe:",
+      "alternativas": {
+        "a": "corretor.",
+        "b": "contador.",
+        "c": "importador.",
+        "d": "impressor.",
+        "e": "instrutor."
+      },
+      "gabarito": "A",
+      "comentario": "Quando um usuário digita uma URL no navegador, um servidor DNS (Domain Name System) traduz\nessa URL em um endereço IP e o envia ao navegador. Esse endereço IP é responsável por identificar\nqualquer computador ou servidor na internet. Portanto, a URL digitada pelo usuário pertence ao\ndomínio cim.br, disponível no site https://registro.br/dominio/categoria.html na categoria de\nprofissionais liberais. O domínio .cim.br é utilizado pela categoria de corretores (É ridículo uma\nquestão cobrar esse tipo de conteúdo, mas vamos seguir...)"
+    },
+    {
+      "id": "info01_043",
+      "numero": 43,
+      "banca": "VUNESP / PC/SP – 2018",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / PC/SP – 2018) O URL utilizado na Barra de endereço de um navegador identifica o tipo de informação que será encontrado no site visitado. No Brasil, o domínio REC.BR é utilizado para identificar sites de empresas com atividades de:",
+      "alternativas": {
+        "a": "televisão.",
+        "b": "turismo.",
+        "c": "radiodifusão pela rede.",
+        "d": "esportes.",
+        "e": "entretenimento."
+      },
+      "gabarito": "E",
+      "comentario": "Quando um usuário digita uma URL no navegador, um servidor DNS (Domain Name System) traduz\nessa URL em um endereço IP e o envia ao navegador. Esse endereço IP é responsável por identificar\nqualquer computador ou servidor na internet. Portanto, a URL digitada pelo usuário pertence ao\ndomínio REC.BR na categoria de pessoas jurídicas, disponível no site\nhttps://registro.br/dominio/categoria.html.\n(a) Errado. O domínio para a categoria de televisão é TV.BR. (b) Errado. O domínio para a categoria\nde turismo é TUR.BR. (c) Errado. O domínio para empresas que queiram enviar áudio pela rede é\nRADIO.BR. (d) Errado, o domínio para a categoria de esportes é ESP.BR. (e) Correto. O domínio\nREC.BR é utilizado para identificar sites de empresas com atividades de entretenimento, diversão,\njogos e etc."
+    },
+    {
+      "id": "info01_044",
+      "numero": 44,
+      "banca": "VUNESP / Prefeitura de Sertãozinho – 2018",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / Prefeitura de Sertãozinho – 2018) Na Internet, a função do ________ em uma URL é indicar que o site é seguro para navegação, ou seja, que será acessado utilizando um protocolo de transferência de hipertexto considerado seguro. Assinale a alternativa contendo a informação que preenche corretamente a lacuna do enunciado.",
+      "alternativas": {
+        "a": "prefixo http://",
+        "b": "prefixo https://",
+        "c": "sufixo .edu.br",
+        "d": "sufixo .com.br",
+        "e": "sufixo .org.br"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. O protocolo HTTP não é usado numa navegação segura. (b) Correto. O prefixo https://\nindica a junção de dois protocolos o HTTP, utilizado para transferências de arquivos de hipermídia,\ne o protocolo SSL, que assegura que os dados transferidos entre um cliente e um servidor\npermaneçam privados, permitindo que o cliente autentique a identidade do servidor.\nAs alternativas (c), (d), (e) estão erradas porque todos os sufixos citados indicam apenas o domínio\ne o local que a página está hospedada."
+    },
+    {
+      "id": "info01_045",
+      "numero": 45,
+      "banca": "VUNESP / TJ/SP – 2017",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / TJ/SP – 2017) Em geral, a especificação completa do Uniform Resource Locator (URL) apresenta os seguintes campos: esquema://domínio:porta/caminhorecurso?querystring#fragmento Sobre esses campos, é correto afirmar que:",
+      "alternativas": {
+        "a": "o caminho especifica as redes por meio das quais a solicitação será encaminhada.",
+        "b": "o fragmento é uma parte obrigatória, presente em qualquer URL.",
+        "c": "o esquema pode ser apenas http ou https.",
+        "d": "o domínio determina o servidor que torna disponível o recurso ou o documento solicitado.",
+        "e": "a porta sempre será um número menor ou igual a 40."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. O caminho indica aonde encontrar um recurso dentro do servidor determinado pelo\ndomínio;\n(b) Errado. É mais comumente utilizado para indicar um local em um site para que o navegador - ao\nabrir a página - vá direto para esse local (sem que seja preciso a rolagem na página pelo usuário) -\ndefinitivamente é um recurso da URL que não é obrigatório;\n(c) Errado. O esquema indica o protocolo a ser utilizado na conexão – os mais comuns são https,\nhttp, ftp e mailto, porém existem outros;\n(d) Correto. O domínio é o nome dado ao servidor a qual a URL está solicitando um recurso;\n(e) Errado. A porta é uma porta de acesso ao servidor determinado pelo domínio – pode variar de 1\naté 65535.\nPara ficar mais claro, temos abaixo alguns exemplos URL:\nhttps://dominio.com.br:433/index.html?nome=diego#profile\nftp://dominio.com.br:21/root/file.txt\nmailto://diego@dominio.com.br?Subject=Bom%20dia"
+    },
+    {
+      "id": "info01_046",
+      "numero": 46,
+      "banca": "VUNESP / TCE/SP - 2017",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / TCE/SP - 2017) Nos acessos à Internet, é normalmente possível identificar o tipo de serviço e a área de atuação do provedor do serviço por meio do URL. Por exemplo, considerando o seguinte URL: https://mail.google.com, é correto afirmar que o serviço é de acesso:",
+      "alternativas": {
+        "a": "ao serviço de e-mail, e que o provedor é uma entidade sem fins lucrativos.",
+        "b": "ao serviço de e-mail, e que o provedor é uma entidade comercial.",
+        "c": "à página web, e que o provedor é uma entidade comercial.",
+        "d": "ao serviço de e-mail, e que o provedor é estabelecido nos Estados Unidos.",
+        "e": "à página web, e que o provedor é uma entidade sem fins lucrativos."
+      },
+      "gabarito": "C",
+      "comentario": "Pela URL, podemos concluir: (1) trata-se de um protocolo seguro de acesso a páginas web (https);\n(2) o nome principal do domínio é mail.google; a finalidade da empresa que possui esse domínio é\ncomercial, tendo em vista que o final do domínio é .com. Logo, podemos concluir que o serviço é\nde acesso à página web, e que o provedor é uma entidade comercial. Muito cuidado: o que define o\nserviço é o protocolo e, não, o domínio em si. A questão fez uma pegadinha para o aluno achar que\nse tratava de um serviço de e-mail, mas qualquer coisa poderia estar escrita no domínio dessa URL\n– o que importa é o protocolo."
+    },
+    {
+      "id": "info01_047",
+      "numero": 47,
+      "banca": "VUNESP / Prefeitura de Itanhaém-SP – 2017",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / Prefeitura de Itanhaém-SP – 2017) Um usuário precisa enviar, por meio da página na internet de um sistema de Recursos Humanos, alguns comprovantes e cópias de documentos. Assinale a alternativa que contém o nome da ação correspondente a enviar um arquivo do computador do usuário através de uma página da internet, conforme a necessidade descrita no enunciado.",
+      "alternativas": {
+        "a": "Upload.",
+        "b": "Download.",
+        "c": "Backup.",
+        "d": "Cópia de segurança.",
+        "e": "Baixar."
+      },
+      "gabarito": "A",
+      "comentario": "Envio de arquivos do computador do usuário por meio de uma página da internet é considerado um\nprocedimento de Upload."
+    },
+    {
+      "id": "info01_048",
+      "numero": 48,
+      "banca": "VUNESP / Prefeitura de Alumínio – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / Prefeitura de Alumínio – 2016) Assinale a alternativa que contém um padrão válido de uma URL para a consulta de uma página na internet por meio de um navegador de internet.",
+      "alternativas": {
+        "a": "https://nomedosite.com.www",
+        "b": "fttp://nomedosite.com.br",
+        "c": "stmp://nomedosite.com.br",
+        "d": "http://www.nomedosite.com.br",
+        "e": "smtp://nomedosite.com.br.www"
+      },
+      "gabarito": "D",
+      "comentario": "Uma URL é um endereço por extenso de um recurso da web que será traduzida em um endereço IP\npor um servidor DNS. A primeira parte da URL é composta pelo protocolo, que permite qual serviço\nserá acessado. Em seguida a URL contém a sigla www (World Wide Web), que indica que a página\nestá disponível na Internet. Porém uso desta sigla não é obrigatório. Depois vem o domínio (que é\no nome da entidade dona do site), seguido do tipo do site \".yyy\" que indica qual o tipo de entidade\né dona do site, e finalmente a sigla \".xx\" que indica em qual país foi registrado o domínio. Caso não\nhaja este sufixo de duas letras indicando o país, significa que o domínio foi registrado nos Estados\nUnidos.\n(a) Errado. Mesmo que a sigla WWW não seja obrigatória, caso ela seja usada, deve ser inserida no\ninício da URL após o protocolo.(b) Errado. Não existe o protocolo FTTP, mas sim o FTP que é um protocolo de transferência de\narquivos utilizado para armazenar arquivos e possibilitar a excluir, renomear, mover, copiar e etc.\n(c) Errado. Não existe protocolo stmp, mas sim SMTP que é um protocolo utilizado pelos usuários\nde serviço de e-mail para enviar mensagens para o provedor.\n(d) Correto. Na URL, vemos o uso do protocolo http, seguido pela sigla www (World Wide Web), o\ndomínio que é \"nomedosite\", seguido do tipo do site \".com\" que indica que o site pertence a uma\nentidade comercial, e finalmente a sigla \".br\" que indica que o domínio foi registrado no Brasil.\n(e) Errado. Mesmo que a sigla WWW não seja obrigatória, caso ela seja usada, deve ser inserida no\ninício da URL após o protocolo."
+    },
+    {
+      "id": "info01_049",
+      "numero": 49,
+      "banca": "CESGRANRIO / BASA – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / BASA – 2018) O protocolo que permite a navegação na internet segura através de criptografia de informações é o:",
+      "alternativas": {
+        "a": "HTTPS",
+        "b": "HTTP",
+        "c": "HTML",
+        "d": "XHTML",
+        "e": "XML"
+      },
+      "gabarito": "A",
+      "comentario": "Navegação segura, aquela que nos oferece criptografia na comunicação, é uma característica do\nHTTPS. Lembrando que esse protocolo é como o HTTP, porém com uma camada adicional de\nsegurança oferecida pelo protocolo SSL/TLS."
+    },
+    {
+      "id": "info01_050",
+      "numero": 50,
+      "banca": "CESGRANRIO / LIQUIGÁS – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / LIQUIGÁS – 2018) A exploração da internet exige o uso de inúmeros protocolos, dentre os quais o protocolo FTP. Esse protocolo tem como objetivo:",
+      "alternativas": {
+        "a": "transferir arquivos entre cliente e servidor.",
+        "b": "confirmar a identidade de um servidor.",
+        "c": "prover serviço de datagrama não confiável.",
+        "d": "manipular caixas postais remotas como se fossem locais.",
+        "e": "gerenciar correio eletrônico."
+      },
+      "gabarito": "A",
+      "comentario": "File Transfer Protocol (FTP) é o protocolo que permite a transferência de arquivos entre cliente e\nservidor."
+    },
+    {
+      "id": "info01_051",
+      "numero": 51,
+      "banca": "CS-UFG / APARECIDAPREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / APARECIDAPREV – 2018) Há sites na Internet que são acessados por meio do protocolo HTTPS, como, por exemplo, o site https://cs.ufg.br. Qual é a função do HTTPS?",
+      "alternativas": {
+        "a": "Tornar mais rápida a navegação pelo site.",
+        "b": "Bloquear as janelas pop-up.",
+        "c": "Garantir que o navegador apresente uma única página por aba.",
+        "d": "Fazer com que os dados sejam transmitidos de forma criptografada."
+      },
+      "gabarito": "D",
+      "comentario": "O protocolo da camada de aplicação (HTTPS) tem a mesma finalidade do HTTP. Ele é responsável\npela transferência, formatação e apresentação de páginas web com conteúdo multimídia (textos,\náudio, imagens, etc) entre um servidor e um cliente. No entanto, ele realiza transferências de forma\nsegura e criptografada, oferecendo autenticação e integridade às páginas de um Servidor Web.\nSendo assim, ele possui a função de transmitir os dados de forma segura, criptografada."
+    },
+    {
+      "id": "info01_052",
+      "numero": 52,
+      "banca": "IADES / ARCON PA – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IADES / ARCON PA – 2018) [...] é um tipo de rede local que utiliza sinais de rádio para comunicação. CERT.br. Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. Cartilha de Segurança para Internet. Disponível em: <https://cartilha.cert.br/livro/cartilha_segurança_internet.pdf>. Acesso em: 28 jun. 2018. A definição apresentada refere-se a:",
+      "alternativas": {
+        "a": "IP: Internet Protocol.",
+        "b": "DNS: Domain Name Server.",
+        "c": "SMTP: Simple Mail Transfer Protocol.",
+        "d": "URL: Universal Resource Locator.",
+        "e": "Wi-Fi: Wireless Fidelity."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado. O IP é o protocolo de comunicação da Internet responsável por endereçar os dispositivos\nem uma rede; (b) Errado. O DNS é o sistema e protocolo responsável pela resolução de nomes da\nInternet, isto é, por traduzir os endereços IPs numéricos em nomes; (c) Errado. O SMTP é um==2f06f1==\nprotocolo utilizado para envios de correio eletrônico; (d) Errado. A URL é o identificador único usado\npara localizar um recurso na Internet; (e) Correto. O Wi-Fi é a tecnologia composta por um conjunto\nde especificações (IEEE802.11) para redes locais sem fio (WLAN). A ideia do Wi-Fi é possibilitar a\ncomunicação de dispositivos sem necessidade de cabos, utilizando a propagação das ondas de\nrádio através de antenas."
+    },
+    {
+      "id": "info01_053",
+      "numero": 53,
+      "banca": "IDECAN / IPC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / IPC – 2018) Considerando os recursos que podem ser consumidos ou acessados na Internet, analise as seguintes informações. I. O FTP é o protocolo utilizado para a transferência de arquivos entre duas máquinas ligadas à Internet. II. Um correio eletrônico permite a troca de mensagens que um usuário de Internet pode fazer para outras pessoas conectados à Internet. III. O HTTP é o protocolo utilizado para controlar a comunicação entre o servidor de Internet e o browser ou navegador. IV. O ICMP é o protocolo responsável por estabelecer a comunicação entre os computadores emissores e receptores de maneira na qual a informação não se perca na rede. De acordo com as afirmativas acima, marque a alternativa correta.",
+      "alternativas": {
+        "a": "Apenas as afirmativas I e II estão corretas.",
+        "b": "Apenas as afirmativas I, II e III estão corretas.",
+        "c": "Apenas as afirmativas II e III estão corretas.",
+        "d": "Apenas as afirmativas I, II e IV estão corretas."
+      },
+      "gabarito": "B",
+      "comentario": "(I) Correto, ele é realmente um protocolo para transferência de arquivos entre duas máquinas\nconectadas à Internet; (II) Correto, ele realmente permite a troca de mensagens entre pessoas na\ninternet; (III) Correto, ele é utilizado para controlar a comunicação a comunicação entre servidor de\nInternet (é um nome ruim, o ideal seria chamar de Servidor Web) e navegador; (IV) Errado, a função\ndo ICMP é fornecer relatórios de erros e, não, estabelecer a comunicação."
+    },
+    {
+      "id": "info01_054",
+      "numero": 54,
+      "banca": "AOCP / ITEP-RN – 2018",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / ITEP-RN – 2018) Em relação à transferência de arquivos pela internet, assinale a alternativa correta. 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "Quando uma pessoa envia um arquivo de seu computador para um site na internet, a operação de transferência que está sendo executada é conhecida como Download.",
+        "b": "FTP é um protocolo que pode ser utilizado para transferir arquivos entre computadores conectados à internet.",
+        "c": "Podemos considerar os termos Upload e Download como análogos, ou seja, possuem o mesmo significado.",
+        "d": "O protocolo FTP é utilizado exclusivamente para se realizar o acesso a websites na internet.",
+        "e": "O termo Upload se refere à velocidade na qual um computador conectado à internet consegue receber os dados de um website qualquer."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, está sendo executado um Upload; (b) Correto, o Protocolo FTP é comumente utilizado\npara transferência de arquivos entre computadores via internet; (c) Errado, eles possuem\nsignificados diametralmente opostos: download para recebimento de dados e upload para envio de\ndados; (d) Errado, ele é utilizado exclusivamente para a transferência de arquivos na internet – a\nquestão trata do Protocolo HTTP; (e) Errado, upload é a operação de transferência de dados do\ncomputador do usuário para um servidor na internet."
+    },
+    {
+      "id": "info01_055",
+      "numero": 55,
+      "banca": "IBADE / IPERON – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / IPERON – 2017) Ao utilizar um software de correio eletrônico, um usuário precisou configurar o funcionamento do protocolo responsável pelo envio de e-mail através da rede. Nesse caso, ele acessou a configuração do protocolo:",
+      "alternativas": {
+        "a": "WAP.",
+        "b": "SMTP.",
+        "c": "POP.",
+        "d": "IMAP.",
+        "e": "ARP."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. WAP (Wireless Application Protocol) é um protocolo para aplicações que utilizam\ncomunicações de dados digitais sem fio;\n(b) Correto. SMTP (Simple Mail Transfer Protocol) é um protocolo para envio de correio eletrônico\npela Internet;(c) Errado. POP (Post Office Protocol) é um protocolo utilizado no acesso remoto a uma caixa de\ncorreio eletrônico que permite o recebimento local de mensagens;\n(d) Errado. IMAP (Internet Message Access Protocol) é um protocolo de gerenciamento de correio\neletrônico que permite o recebimento de mensagens localmente ou remotamente;\n(e) Errado. ARP (Address Resolution Protocol) é um protocolo de resolução de endereços lógicos (IP)\npara endereços físicos (MAC)."
+    },
+    {
+      "id": "info01_056",
+      "numero": 56,
+      "banca": "IBADE / PREVES – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PREVES – 2017) Um administrador de rede configurou as contas de e-mail dos usuários de uma empresa de modo a permitir que o status das mensagens recebidas seja igual tanto no servidor como no aplicativo de e-mail utilizado pelos usuários; que haja sincronia dessas mensagens, mantendo-se a conexão, para que as alterações e as novas mensagens recebidas no servidor sejam atualizadas quase que em tempo real no aplicativo de e-mail do usuário e que se mantivessem as duas cópias, tanto no servidor, quanto no aplicativo de e-mail. Para isso, esse administrador configurou o protocolo de recepção das mensagens de cada usuário como sendo o protocolo:",
+      "alternativas": {
+        "a": "ARP",
+        "b": "SMTP",
+        "c": "FTP",
+        "d": "IMAP",
+        "e": "POP"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. ARP (Address Resolution Protocol) é um protocolo de resolução de endereços lógicos (IP)\npara endereços físicos (MAC).\n(b) Errado. SMTP (Simple Mail Transfer Protocol) é um protocolo para envio de correio eletrônico\npela Internet;\n(a) Errado. FTP (File Transfer Protocol) é um protocolo para transferência de arquivos\n(download/upload);\n(d) Correto. IMAP (Internet Message Access Protocol) é um protocolo de gerenciamento de correio\neletrônico que permite o recebimento de mensagens localmente ou remotamente;\n(c) Errado. POP (Post Office Protocol) é um protocolo que permite o recebimento local de\nmensagens, mas não permite a sincronização de mensagens."
+    },
+    {
+      "id": "info01_057",
+      "numero": 57,
+      "banca": "CS-UFG / UFG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UFG – 2017) Um funcionário está acessando o site de um dos fornecedores da empresa, no endereço http://fornecedor.org/. Em um determinado momento, o site apresenta um formulário solicitando diversas informações. Antes de preencher o formulário, o funcionário quer saber se o site é seguro, no sentido de ter as informações transmitidas por meio de uma conexão criptografada. Qual endereço indica que o site é seguro?",
+      "alternativas": {
+        "a": "http://siteseguro.org/fornecedor.org/formulario/",
+        "b": "sec://firewall/fornecedor.org/formulario/",
+        "c": "https://fornecedor.org/formulario/",
+        "d": "http://https.fornecedor.org/formulario/"
+      },
+      "gabarito": "C",
+      "comentario": "O protocolo da camada de aplicação (HTTPS) tem a mesma finalidade do HTTP. Ele é responsável\npela transferência, formatação e apresentação de páginas web com conteúdo multimídia (textos,\náudio, imagens, etc) entre um servidor e um cliente. No entanto, ele realiza transferências de forma\nsegura e criptografada, oferecendo autenticação e integridade às páginas de um Servidor Web."
+    },
+    {
+      "id": "info01_058",
+      "numero": 58,
+      "banca": "CS-UFG / UNIRG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UNIRG – 2017) O uso do prefixo “HTTPS” é um dos recursos da Internet que ajudam a garantir o acesso e a navegação entre páginas de maneira protegida. Quando o termo “https:”aparece significa que a comunicação com a página é feita de forma",
+      "alternativas": {
+        "a": "segura.",
+        "b": "anônima.",
+        "c": "prioritária.",
+        "d": "privilegiada."
+      },
+      "gabarito": "A",
+      "comentario": "Questão bem parecida com a anterior, podemos associar o S da sigla HTTPS à Segurança!"
+    },
+    {
+      "id": "info01_059",
+      "numero": 59,
+      "banca": "IESES / CRM/SC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRM/SC – 2017) Considerando o cliente de e-mails Microsoft Outlook, aponte o número de porta padrão para o recebimento de mensagens POP3: 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "587",
+        "b": "110",
+        "c": "25",
+        "d": "443"
+      },
+      "gabarito": "B",
+      "comentario": "Essa questão é um pouco decoreba! Vamos relembrar para que servem as portas apresentadas: (a)\nPorta 587: utilizada para enviar e-mails pelo protocolo SMTP; (b) Porta 110: utilizada para o\nrecebimento de e-mails pelo protocolo POP; (c) Porta 25: não é mais utilizada para o envio de\nmensagens; (d) Porta 443: utilizada pela navegação com o protocolo HTTPS."
+    },
+    {
+      "id": "info01_060",
+      "numero": 60,
+      "banca": "IESES / CRMV/SC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRMV/SC – 2017) Uma das principais preocupações ao se realizar transações eletrônicas através da internet está na segurança da comunicação entre o computador do usuário e o servidor que provê o produto/serviço. Esta segurança é proporcionada pela criptografia dos dados entre as duas partes da comunicação, através de um protocolo específico, que usualmente é representado antes do endereço do site no qual se está navegando. Dentre os protocolos abaixo mencionados, qual representaria uma conexão criptografada entre o cliente e o servidor?",
+      "alternativas": {
+        "a": "wwws",
+        "b": "https",
+        "c": "http",
+        "d": "stp"
+      },
+      "gabarito": "B",
+      "comentario": "Galera, a questão pergunta qual é o protocolo que proporciona segurança por criptografia e que\ngeralmente é inserido antes do endereço de um site em um navegador. Logo, estamos falando do\nHTTPS, que é protocolo HTTP com a adição de uma camada de segurança por criptografia."
+    },
+    {
+      "id": "info01_061",
+      "numero": 61,
+      "banca": "IESES / CRO/SC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRO/SC – 2017) O servidor responsável por traduzir para números IP os endereços de sites que digitamos nos navegadores é o servidor:",
+      "alternativas": {
+        "a": "DNS.",
+        "b": "IMAP.",
+        "c": "SMTP.",
+        "d": "DHCP. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "A",
+      "comentario": "Pessoal, sempre que digitamos o nome de um site em nosso navegador existe um protocolo que\n“transforma” o texto em códigos, o conhecido IP, que é o verdadeiro responsável pelo acesso das\npáginas solicitadas. Esse protocolo é o DNS (Domain Name System), que possui a função de\nconverter ou traduzir as letras digitadas em número de IP."
+    },
+    {
+      "id": "info01_062",
+      "numero": 62,
+      "banca": "UEM / UEM – 2017",
+      "tipo": "multipla",
+      "enunciado": "(UEM / UEM – 2017) É possível ao usuário transferir um arquivo de um site da Internet para o seu próprio computador. Esta função é chamada de:",
+      "alternativas": {
+        "a": "E-book.",
+        "b": "Upload.",
+        "c": "Lista.",
+        "d": "Download.",
+        "e": "Copy."
+      },
+      "gabarito": "D",
+      "comentario": "A transferência de um arquivo de um site da Internet para o seu próprio computador é também\nchamada de download."
+    },
+    {
+      "id": "info01_063",
+      "numero": 63,
+      "banca": "IBGP / CISSUL-MG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBGP / CISSUL-MG – 2017) Ao se utilizar a internet, depara-se com diversos termos, dentre esses, o UPLOAD que significa:",
+      "alternativas": {
+        "a": "A ação de enviar dados de um computador local para um computador ou servidor remoto, geralmente através da internet.",
+        "b": "O ato de transferir (baixar) um ou mais arquivos de um servidor remoto para um computador local.",
+        "c": "O ato de enviar um arquivo para impressão.",
+        "d": "A ação de realizar buscas na internet."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, essa é a definição clássica de upload; (b) Errado, essa é a definição clássica de download;\n(c) Errado, isso não é upload; (d) Errado, isso não é upload."
+    }
+  ]
+}

@@ -1,0 +1,1318 @@
+{
+  "esquema": 1,
+  "id": "info-aula-04-correio-eletronico",
+  "aula": "04",
+  "titulo": "Informática - AULA 04",
+  "subtitulo": "Correio Eletrônico (E-mail)",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+    }
+  ],
+  "resumoMd": "- **Navegadores de Internet (`03.pdf`)**:\n  - Principais navegadores avaliados: **Google Chrome**, **Microsoft Edge** e **Internet Explorer**.\n  - **Navegação Anônima / InPrivate**: Não salva histórico de navegação, *cookies* nem dados de formulários no dispositivo local, mas não torna o usuário invisível para provedores ou administradores de rede.\n  - **Cookies**: Pequenos arquivos de texto gravados no computador do usuário pelos sites para armazenar preferências e sessões de login.\n  - **Teclas de Atalho Comuns**:\n    - `Ctrl + T`: Nova guia.\n    - `Ctrl + N`: Nova janela.\n    - `Ctrl + Shift + N` / `Ctrl + Shift + P`: Nova janela anônima / InPrivate.\n    - `Ctrl + H`: Histórico.\n    - `Ctrl + J`: Downloads.\n    - `F5` / `Ctrl + R`: Atualizar página.\n- **Correio Eletrônico / E-mail (`04.pdf`)**:\n  - **Campos de Envio**: *Para* (destinatários principais), *Cc* (Com Cópia - visível), *Cco* / *Bcc* (Com Cópia Oculta - invisível para os demais).\n  - **Protocolos de E-mail**:\n    - **SMTP**: Envio (saída) de mensagens.\n    - **POP3**: Recebimento/Download de mensagens (geralmente baixa e remove do servidor).\n    - **IMAP**: Recebimento e sincronização bidirecional em tempo real entre servidor e cliente.\n  - **Microsoft Outlook**: Cliente de e-mail e gerenciador de informações pessoais (calendário, contatos e tarefas).\n\n---",
+  "total": 83,
+  "questoes": [
+    {
+      "id": "info04_001",
+      "numero": 1,
+      "banca": "CESGRANRIO / BB – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / BB – 2023) Uma situação que ocorre no dia a dia da utilização de correio eletrônico é uma pessoa A (emissor), após enviar uma mensagem X para uma outra pessoa B (destinatário), receber uma resposta automática que informa que a caixa de correio do destinatário está cheia. Isso significa que a(o):",
+      "alternativas": {
+        "a": "espaço ocupado por mensagens na caixa de correio do destinatário atingiu o limite autorizado.",
+        "b": "quantidade de mensagens na caixa de correio do destinatário atingiu o limite autorizado.",
+        "c": "quantidade de mensagens enviadas pelo emissor atingiu o limite autorizado.",
+        "d": "quantidade máxima de mensagens que podem ser recebidas pelo destinatário naquele dia foi atingida.",
+        "e": "espaço ocupado pela mensagem X é muito grande, e seu envio não foi autorizado pela infraestrutura do emissor."
+      },
+      "gabarito": "A",
+      "comentario": "Isso significa que o espaço ocupado por mensagens na caixa de correio do destinatário atingiu o\nlimite autorizado. Quando a caixa de correio de um destinatário está cheia, significa que o espaço\nalocado para armazenar mensagens atingiu seu limite máximo. Isso pode impedir a entrega de\nnovas mensagens até que o destinatário libere espaço excluindo mensagens antigas ou fazendo\noutras ações para liberar espaço de armazenamento.\nAs demais opções não são a causa típica de uma resposta automática informando que a caixa de\ncorreio do destinatário está cheia. É importante notar que as respostas automáticas de caixas de\ncorreio cheias variam, e a linguagem exata da mensagem pode depender da configuração do\nserviço de e-mail utilizado."
+    },
+    {
+      "id": "info04_002",
+      "numero": 2,
+      "banca": "CESGRANRIO / BASA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / BASA – 2022) A importante contribuição na evolução dos processos organizacionais, que o avanço da Tecnologia da Informação proporciona, acarreta, concomitantemente, a necessidade de um maior cuidado com questões referentes à segurança da informação. Evitar ataques aos sistemas de correio eletrônico é um dos objetivos dos especialistas em segurança. Um conhecido ataque que pode ser feito por e-mail é o spoofing. Como o usuário sinaliza ao Gmail que um determinado e-mail é suspeito de ser spoofing? 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "Denunciando-o como spam.",
+        "b": "Gerenciando marcadores.",
+        "c": "Marcando-o como estrela.",
+        "d": "Movendo-o para a lixeira.",
+        "e": "Solicitando uma confirmação de leitura"
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. Denunciar um e-mail como spam é a maneira mais eficaz de informar ao Gmail que você\nsuspeita que um e-mail pode ser uma tentativa de spoofing ou outra forma de e-mail fraudulento.\nIsso o ajuda a aprender e aprimorar o filtro de spam, além de remover o e-mail da caixa de entrada;\n(b) Errado. Gerenciar marcadores no Gmail é uma forma de organizar e-mails, mas não tem relação\ndireta com a denúncia de e-mails suspeitos de spoofing;\n(c) Errado. Marcando um e-mail como estrela no Gmail serve para destacar e-mails importantes ou\npara leitura posterior, não estando relacionado à segurança ou à denúncia de spoofing;\n(d) Errado. Movendo um e-mail para a lixeira simplesmente exclui o e-mail da caixa de entrada, mas\nnão informa ao Gmail que o e-mail é suspeito de ser spoofing;\n(e) Errado. Trata-se de uma funcionalidade usada para saber se o destinatário leu o e-mail enviado,\nmas não é uma ferramenta para denunciar ou identificar e-mails suspeitos de spoofing."
+    },
+    {
+      "id": "info04_003",
+      "numero": 3,
+      "banca": "CESGRANRIO / CEF – 2021",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / CEF – 2021) O aplicativo de correio eletrônico pode ser configurado para enviar mensagens e acessar as caixas de mensagens que estão no servidor de correio. Um dos protocolos de comunicação mais utilizados para acessar as mensagens da caixa de entrada é o:",
+      "alternativas": {
+        "a": "SMTP",
+        "b": "IMAP",
+        "c": "SMB",
+        "d": "SSH",
+        "e": "RDP"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. Ele é usado principalmente para enviar e-mails, não para acessar mensagens da caixa de\nentrada;\n(b) Correto. Ele é usado para acessar e-mail em um servidor de correio, permitindo que os usuários\nvejam/manipulem suas mensagens como se estivessem armazenadas localmente;(c) Errado. SMB (Server Message Block) é um protocolo de rede para compartilhamento de\narquivos, não está relacionado ao e-mail;\n(d) Errado. SSH (Secure Shell) é um protocolo usado para operações seguras de rede, como acesso\nremoto a servidores, mas não para acessar e-mails;\n(e) Errado. RDP (Remote Desktop Protocol) é um protocolo para conexões de área de trabalho\nremota, não está relacionado ao acesso de e-mail."
+    },
+    {
+      "id": "info04_004",
+      "numero": 4,
+      "banca": "IBFC / MGS – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / MGS – 2022) Assinale a alternativa que preenche corretamente a lacuna. Em muitos aplicativos de Correios Eletrônicos aparece a abreviatura em Língua Portuguesa: “CCo”. Ao utilizar desse recurso permite _____________.",
+      "alternativas": {
+        "a": "que todos que recebam o e-mail, consigam ver o endereço de quem mais o recebeu",
+        "b": "encaminhar um e-mail para mais de uma pessoa, sem que ela saiba que a outra esteja recebendo a mesma mensagem",
+        "c": "acompanhar o e-mail, sabendo se o destinatário efetivamente recebeu a mensagem encaminhada",
+        "d": "que seja utilizado para apagar o e-mail encaminhado, depois que o emissário enviou por erro"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, o recurso que permite que todos vejam o endereço de quem receber é o PARA ou CC; (b)\nCorreto, o CCO é a cópia oculta, ou seja, ele não é visível para os outros destinatários da mensagem;\n(c) Errado, para acompanhar a chegada de um e-mail é possível utilizar recibos de entrega; (d)\nErrado, não há como apagar um e-mail que já foi recebido."
+    },
+    {
+      "id": "info04_005",
+      "numero": 5,
+      "banca": "REIS&REIS / PREFEITURA DE POTIM-SP – 2022",
+      "tipo": "multipla",
+      "enunciado": "(REIS&REIS / PREFEITURA DE POTIM-SP – 2022) Vitória quer enviar um e-mail utilizando sua conta no Gmail, para um grupo de dez pessoas, de modo que nenhum membro do grupo possa descobrir quem são os demais membros. Uma solução prática para isso é:",
+      "alternativas": {
+        "a": "Cadastrar contatos imaginários com os e-mails de todos os destinatários.",
+        "b": "Colocar toda a lista de destinatários como Cc.",
+        "c": "Criptografar a lista de destinatários do e-mail.",
+        "d": "Colocar toda a lista de destinatários como Cco."
+      },
+      "gabarito": "D",
+      "comentario": "Para enviar um e-mail para dez destinatários diferentes sem que nenhum saiba o endereço dos\noutros, é necessário colocar os endereços dos destinatários como cópias ocultas (CCO)."
+    },
+    {
+      "id": "info04_006",
+      "numero": 6,
+      "banca": "AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022",
+      "tipo": "multipla",
+      "enunciado": "(AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022) “Refere-se à prática de enviar uma mesma mensagem a vários destinatários de tal maneira que eles não conheçam uns aos outros.” A prática citada no trecho acontece quando enviamos um e-mail:",
+      "alternativas": {
+        "a": "Com cópia oculta.",
+        "b": "Em cópia acoplada.",
+        "c": "Para um destinatário público.",
+        "d": "Para vários destinatários.",
+        "e": "Privado."
+      },
+      "gabarito": "A",
+      "comentario": "Trata de uma cópia oculta – também conhecida como CCO."
+    },
+    {
+      "id": "info04_007",
+      "numero": 7,
+      "banca": "CESGRANRIO / Banco do Brasil – 2021",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco do Brasil – 2021) O envio e o recebimento de mensagens de correio eletrônico são atividades corriqueiras, tanto nas organizações quanto no dia a dia da grande maioria da população brasileira. No entanto, há situações em que as mensagens enviadas são devolvidas com um aviso de que não puderam ser entregues ao destinatário. Um dos motivos que justificam a não entrega de uma mensagem de correio eletrônico ao destinatário é porque:",
+      "alternativas": {
+        "a": "a estação de trabalho que o destinatário utiliza está desligada.",
+        "b": "a caixa postal de correio eletrônico do destinatário atingiu algum limite predeterminado de tamanho, como por exemplo, em bytes.",
+        "c": "o destinatário possui muitos endereços de correio eletrônico cadastrados no domínio internet.",
+        "d": "o destinatário não estava utilizando a sua estação de trabalho no momento do recebimento da mensagem de correio eletrônico.",
+        "e": "o destinatário estava utilizando muitos programas ativos na estação de trabalho no momento do recebimento da mensagem de correio eletrônico."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. O estado da estação de trabalho do destinatário (ligada ou desligada) não influencia a\nentrega de e-mails;\n(b) Correto. Se a caixa de correio eletrônico do destinatário atingir o limite de tamanho, as\nmensagens subsequentes não poderão ser entregues, resultando em um erro de entrega;(c) Errado. Ter muitos endereços de e-mail cadastrados não é um motivo para a não entrega de emails,\na menos que haja um erro específico no endereço usado;\n(d) Errado. A utilização ou não da estação de trabalho pelo destinatário no momento do\nrecebimento não interfere na entrega do e-mail;\n(e) Errado. O uso de vários programas na estação de trabalho do destinatário não afeta a entrega\nde e-mails."
+    },
+    {
+      "id": "info04_008",
+      "numero": 8,
+      "banca": "CESGRANRIO / Banco do Brasil – 2021",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco do Brasil – 2021) O serviço de correio eletrônico é uma ferramenta essencial para o trabalho do dia a dia dos colaboradores de uma empresa. Para garantir a segurança da comunicação do cliente de correio eletrônico com os servidores de correio eletrônico de entrada e de saída de mensagens, é importante configurar a utilização do padrão de segurança:",
+      "alternativas": {
+        "a": "TLS.",
+        "b": "SMTP.",
+        "c": "IMAP.",
+        "d": "POP3.",
+        "e": "HTTP."
+      },
+      "gabarito": "A",
+      "comentario": "O protocolo do servidor de correio eletrônico de entrada é o POP3 ou IMAP. Já o protocolo do\nservidor de correio eletrônico de saída é o SMTP. No entanto, a questão pergunta o que deve ser\nconfigurado como padrão de segurança para que eles garantam a segurança da comunicação do\ncliente de correio eletrônico. Nesse caso, trata-se do SSL (ou sua versão mais recente, TLS). Dessa\nforma, temos os protocolos: POP3S, IMAPS e SMTPS."
+    },
+    {
+      "id": "info04_009",
+      "numero": 9,
+      "banca": "IDIB / Ministério da Economia – 2021",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / Ministério da Economia – 2021) Uma das primeiras aplicações utilizadas na Internet foi o e-mail. A troca de mensagens entre os usuários permite que sejam enviados os mais diversos tipos de arquivos em uma mensagem. Sobre o tema, assinale a alternativa correta:",
+      "alternativas": {
+        "a": "Um usuário de nome Pedro Pedrosa, funcionário da ACME Inc., pode possuir o seguinte email:",
+        "b": "No Windows, o aplicativo de e-mails é o Internet Explorer. 95717730268 - Keyla Kiyoku",
+        "c": "Cco (cópia carbono oculta) permite o envio de cópia de uma mensagem de correio eletrônico a múltiplos destinatários sem que um veja quem mais recebeu a mensagem.",
+        "d": "Os anexos em vídeo, enviados por e-mail, só podem ser compartilhados em forma de links.",
+        "e": "É possível desfazer o envio de uma mensagem por e-mail após 60 segundos do seu envio."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, é obrigatório ter o símbolo de arroba; (b) Errado, é o Microsoft Outlook – Internet\nExplorer é um navegador web; (c) Correto; (d) Errado, não existe essa limitação; (e) Errado, em\nregra, não existe essa limitação – apesar de poder existir em clientes de e-mail e webmails\nespecíficos."
+    },
+    {
+      "id": "info04_010",
+      "numero": 10,
+      "banca": "IDIB / Ministério da Economia – 2021",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / Ministério da Economia – 2021) Como a aplicação de e-mail é assíncrona, é possível escrever uma mensagem em um cliente de e-mail e armazená-la por um tempo até que se decida por enviá-la. Assinale a alternativa que apresenta corretamente a pasta onde esse tipo de conteúdo fica armazenado:",
+      "alternativas": {
+        "a": "Histórico",
+        "b": "Lixeira",
+        "c": "Favoritos",
+        "d": "Rascunhos",
+        "e": "Caixa de Entrada"
+      },
+      "gabarito": "D",
+      "comentario": "Se ela foi escrita, mas ainda não foi enviada, então ela ficará armazenada em Rascunhos."
+    },
+    {
+      "id": "info04_011",
+      "numero": 11,
+      "banca": "IDIB / CRF RJ – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / CRF RJ – 2018) O Internet Message Access Protocol (IMAP) é um protocolo de gerenciamento de correio eletrônico que permite o recebimento de mensagens. Ele tem mais recursos que o protocolo POP3, que é um protocolo bastante utilizado por clientes para recebimento de emails. Com base nessas informações, marque a alternativa com a porta padrão do protocolo IMAP.",
+      "alternativas": {
+        "a": "8080",
+        "b": "22",
+        "c": "80",
+        "d": "143 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "D",
+      "comentario": "Pessoal, infelizmente precisamos decorar essas portas. A porta do IMAP é a 143.\nPROTOCOLO\n(CAMADA DE APLICAÇÃO\nPROTOCOLO\n(CAMADA DE TRANSPORTE)\nNÚMERO\nDA PORTA\nIMAP4 TCP 143"
+    },
+    {
+      "id": "info04_012",
+      "numero": 12,
+      "banca": "IDIB / CRF RJ – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / CRF RJ – 2018) Determine o principal protocolo de envio de email eletrônico.",
+      "alternativas": {
+        "a": "FTP.",
+        "b": "SMTP.",
+        "c": "POP3.",
+        "d": "UDP."
+      },
+      "gabarito": "B",
+      "comentario": "Galera, o SMTP é o principal protocolo de envio de correio eletrônico (e-mail) através da rede. Da\nmesma forma que o POP e IMAP são protocolos responsáveis por recuperar e-mails de um Servidor\nde E-Mail, o SMTP é o protocolo responsável por enviar e-mails para um Servidor de E-Mail.\nLembrem-se do mnemônico: Sua Mensagem Está Partindo."
+    },
+    {
+      "id": "info04_013",
+      "numero": 13,
+      "banca": "IDIB / CRF RJ – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / CRF RJ – 2018) Considerando as medidas de segurança atuais de envio de anexo em um correio eletrônico como o da Google, marque a alternativa com um tipo de anexo não permitido para envio.",
+      "alternativas": {
+        "a": "Arquivos do tipo .exe.",
+        "b": "Arquivos do tipo .txt.",
+        "c": "Arquivos do tipo .doc.",
+        "d": "Arquivos do tipo .docx."
+      },
+      "gabarito": "A",
+      "comentario": "O email do Google não permite que sejam anexados pastas ou arquivos com as seguintes\nextensões: .pif., .bat, .chm, .cmd, .com, .cpl, .dmg, .exe, .jar, .lib, .msc, .scr, .sys, .vb, .vbs, etc."
+    },
+    {
+      "id": "info04_014",
+      "numero": 14,
+      "banca": "IDIB / CRF RJ – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / CRF RJ – 2018) Considerando a capacidade de envio de email de um correio eletrônico gratuito e online, como o gmail, marque a alternativa com o item que não pode ser anexado ao corpo do email pelo fato de seu tamanho ser inadequado.",
+      "alternativas": {
+        "a": "Documento de texto com 332KB.",
+        "b": "Documento PDF com 32KB.",
+        "c": "Documento de planilha eletrônica com 3MB.",
+        "d": "Documento de texto com 3GB."
+      },
+      "gabarito": "D",
+      "comentario": "Pessoal, o limite de capacidade do Gmail hoje é de 25MB. Assim, o único arquivo que não poderia\nter sido anexado seria o com 3GB."
+    },
+    {
+      "id": "info04_015",
+      "numero": 15,
+      "banca": "IBFC / PM-SE – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / PM-SE – 2018) Quanto aos principais e mais conhecidos protocolos específicos de email, analise as afirmativas abaixo e assinale a alternativa correta: I - TCP II - POP III - SMTP Estão corretas as afirmativas:",
+      "alternativas": {
+        "a": "I e II, apenas",
+        "b": "II e III, apenas",
+        "c": "I e III, apenas",
+        "d": "I, II e III estão corretas"
+      },
+      "gabarito": "B",
+      "comentario": "No caso de Servidores de E-Mail, há três protocolos que podem ser usados: POP3, SMTP e IMAP. O\nSMTP é o protocolo responsável pelo envio de correio eletrônico pela internet. Já o POP3 é um\nprotocolo criado como uma forma simplificada de receber, baixar e deletar mensagens de um\nServidor de E-Mail."
+    },
+    {
+      "id": "info04_016",
+      "numero": 16,
+      "banca": "ESAF / ANAC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(ESAF / ANAC – 2018) A especificação do destinatário em Correio Eletrônico é um string alfanumérico da forma abaixo. 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "parte-empresa@nome-usuário.",
+        "b": "máquina-local@máquina-destino.",
+        "c": "cliente-prioritário@login-empresa",
+        "d": "parte-local@servidor-cliente.",
+        "e": "parte-local@nome-domínio."
+      },
+      "gabarito": "E",
+      "comentario": "A opção correta é: parte-local@nome-domínio. Lembrem-se que um e-mail válido possui três\npartes, quais sejam: Nome do Recipiente, Símbolo de Arroba e Nome do Domínio. Observação:\nstring alfanumérico é qualquer cadeia de caracteres que combine letras do alfabeto e números, isto\né, o nome do recipiente e o nome do domínio permite letras ou números."
+    },
+    {
+      "id": "info04_017",
+      "numero": 17,
+      "banca": "CESGRANRIO / Banco da Amazônia – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco da Amazônia – 2018) Está sintaticamente correto o seguinte endereço de e-mail:",
+      "alternativas": {
+        "a": "vendas?Consultas.example.com.@.br",
+        "b": "vendas@consultas.example.com.br",
+        "c": "@vendas@consultas@example.com.br",
+        "d": "vendas.consultas.example.com.br",
+        "e": "vendas@online@consultas.example.com.br"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. O endereço \"vendas?Consultas.example.com.@.br\" é inválido devido ao uso de\ncaracteres inapropriados (? e @) e à estrutura incorreta;\n(b) Correto. O endereço \"vendas@consultas.example.com.br\" segue a sintaxe correta de um\nendereço de e-mail, com um nome de usuário seguido do símbolo \"@\" e do domínio do e-mail;\n(c) Errado. O endereço \"@vendas@consultas@example.com.br\" é inválido devido à presença de\nmúltiplos caracteres \"@\" e à estrutura geral incorreta;\n(d) Errado. O endereço \"vendas.consultas.example.com.br\" não possui o símbolo \"@\", que é\nessencial na estrutura de um endereço de e-mail válido;\n(e) Errado. \"vendas@online@consultas.example.com.br\" é inválido devido à presença de múltiplos\ncaracteres \"@\"."
+    },
+    {
+      "id": "info04_018",
+      "numero": 18,
+      "banca": "IDIB / CRO BA – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / CRO BA – 2017) Acerca do correio eletrônico na língua portuguesa - que é visualizado pela Internet, ou seja, um webmail, assim como o Gmail da Google, analise as afirmativas abaixo, marcando V para as verdadeiras e F para as falsas e, em seguida, assinale a sequência correta: ( ) A Lixeira é a pasta que recebe os e-mails excluídos. ( ) Na pasta Enviados fica armazenado os e-mails enviados aos destinatários. ( ) A Entrada é a pasta onde o usuário recebe os e-mails.",
+      "alternativas": {
+        "a": "V – F – V",
+        "b": "V – V – V",
+        "c": "F – V – V",
+        "d": "V – V – F"
+      },
+      "gabarito": "B",
+      "comentario": "Pessoal, questão bem tranquila! Todas as alternativas estão corretas.\nCuidado para não confundir a pasta Enviados com a Caixa de Saída, sendo que esta armazena os emails\nque não foram enviados por alguma razão."
+    },
+    {
+      "id": "info04_019",
+      "numero": 19,
+      "banca": "INAZ do Pará / Pref. Rolim de Moura - 2017",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / Pref. Rolim de Moura - 2017) O correio eletrônico continua sendo a principal forma de comunicação entre empresas por garantir a entrega das mensagens aos destinatários. Sobre este assunto, para enviar uma cópia oculta de um e-mail, qual a sigla do campo onde devemos adicionar o destinatário?",
+      "alternativas": {
+        "a": "OCC",
+        "b": "CC",
+        "c": "OC",
+        "d": "OCO",
+        "e": "CCO"
+      },
+      "gabarito": "E",
+      "comentario": "Questão bem tranquila, pessoal. Basta se lembrar do próprio nome do instituto – Com Cópia Oculta.\nLogo, a alternativa correta é a letra E."
+    },
+    {
+      "id": "info04_020",
+      "numero": 20,
+      "banca": "IBADE / PC AC - 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PC AC - 2017) O correio eletrônico, também conhecido como e-mail, é um programa em que é possível realizar trocas de mensagens pela internei e se tornou uma alternativa muito usada no decorrer dos anos. Através dele é possível o envio e a troca de documentos, imagens 95717730268 - Keyla Kiyoku e áudios para qualquer pessoa que possua um endereço de correio eletrônico. Que nome se dá ao arquivo que é incluído em uma mensagem de e-mail?",
+      "alternativas": {
+        "a": "Anexo",
+        "b": "Atalho",
+        "c": "Cookie",
+        "d": "Browser",
+        "e": "JavaScript"
+      },
+      "gabarito": "A",
+      "comentario": "Anexo é um recurso que permite que qualquer arquivo (documento, imagem, texto, vídeo, etc)\nenviado ao destinatário seja incorporado a uma mensagem de correio eletrônico. Um ou mais\nanexos, com diferentes formatos ou extensões, podem ser enviados na mensagem criptografados\nou não, mas deve-se observar o tamanho limite total dos arquivos permitido pelo provedor de email\ne tomar cuidado com arquivos executáveis, que podem conter softwares maliciosos\n(malwares)."
+    },
+    {
+      "id": "info04_021",
+      "numero": 21,
+      "banca": "IESES / Prefeitura de São José do Cerrito – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IESES / Prefeitura de São José do Cerrito – 2017) Para encaminhar a cópia de uma mensagem eletrônica (e-mail) para um segundo destinatário, de forma a que o destinatário original da mensagem saiba da cópia enviada, o endereço eletrônico do segundo destinatário deve ser inserido no campo:",
+      "alternativas": {
+        "a": "Cco",
+        "b": "Cc",
+        "c": "Para",
+        "d": "Assunto"
+      },
+      "gabarito": "B",
+      "comentario": "Se o destinatário original da mensagem sabe da cópia enviada, então o endereço do segundo\ndestinatário deve ser colocado em cópia."
+    },
+    {
+      "id": "info04_022",
+      "numero": 22,
+      "banca": "UFPEL / UFPEL / 2016",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2016) Considere as afirmativas a seguir: I) Um e-mail que é escrito em um computador com sistema operacional Ubuntu só poderá ser lido por destinatários que estiverem utilizando este mesmo sistema operacional em seus computadores. 95717730268 - Keyla Kiyoku II) Ao enviar um arquivo anexado por e-mail ele é removido automaticamente do computador do remetente. III) Por segurança, é sempre aconselhável não clicar em links ou baixar arquivos recebidos por email de remetentes desconhecidos. IV) O campo assunto (subject) não é um campo obrigatório de ser preenchido ao enviar um email. Estão corretas,",
+      "alternativas": {
+        "a": "I, III e IV, apenas.",
+        "b": "III e IV, apenas.",
+        "c": "II e IV, apenas.",
+        "d": "I e III, apenas.",
+        "e": "II e III, apenas."
+      },
+      "gabarito": "B",
+      "comentario": "(I) Errado. O envio/recebimento de e-mails é complemente independente do sistema operacional\nutilizado; (II) Errado. O arquivo em anexo é uma cópia do arquivo original, logo ele não é removido\ndo computador do remetente; (III) Correto. Essa é uma recomendação de segurança bastante\npertinente – não clicar em links ou baixar arquivos recebidos de rementes que você desconhece;\n(IV) Correto. O campo Assunto realmente não é obrigatório."
+    },
+    {
+      "id": "info04_023",
+      "numero": 23,
+      "banca": "INAZ do Pará / CRO RJ - 2016",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / CRO RJ - 2016) Em virtude dos avanços tecnológicos, surgiram vários meios de comunicação no mundo todo. Marque a alternativa que representa corretamente a estrutura de um correio eletrônico.",
+      "alternativas": {
+        "a": "dominio@nome.com.br",
+        "b": "nome@dominio.com.br",
+        "c": "www.nome.dominio.com.br",
+        "d": "nome.dominio.com.br",
+        "e": "@nome.dominio.com.br"
+      },
+      "gabarito": "B",
+      "comentario": "Galera, um e-mail válido possui três partes, quais sejam: Nome do Recipiente, Símbolo de Arroba e\nNome do Domínio. Assim, a forma correta é: nome@dominio.com.br."
+    },
+    {
+      "id": "info04_024",
+      "numero": 24,
+      "banca": "INAZ do Pará / CREFITO 12 - 2016",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / CREFITO 12 - 2016) O correio eletrônico é muito utilizado para troca de e-mails. Caso venha utilizar o recurso CCo, o que acontece?",
+      "alternativas": {
+        "a": "O destinatário não identificará o endereço do remetente.",
+        "b": "O remetente não conseguirá transmitir o e-mail.",
+        "c": "O remetente não conseguirá retransmitir o e-mail.",
+        "d": "O destinatário não identificará o endereço que foi enviado pelo remetente.",
+        "e": "O destinatário identificará o endereço que foi enviado pelo remetente."
+      },
+      "gabarito": "D",
+      "comentario": "O CCo é o recurso de cópia oculta. Esse recurso é utilizado quando se deseja ocultar um destinatário\ndos demais. Em outras palavras, caso você envie um e-mail para um destinatário principal e\nadicione o endereço de e-mail de mais dez pessoas no campo de cópia oculta, cada uma dessas\npessoas só conseguirá visualizar seu próprio endereço de e-mail e não saberá que existem mais\nnove pessoas também copiadas na mensagem. Dito isso, vamos aos comentários:\n(a) Errado, o destinatário será capaz de identificar o endereço do remetente; (b) Errado, o\nremetente conseguirá transmitir o e-mail; (c) Errado, o remetente conseguirá retransmitir o e-mail\nsem problemas; (d) Errado, item extremamente mal redigido. Endereço que foi enviado? Isso não faz\nnenhum sentido! Além disso, o destinatário será capaz de identificar o remetente; (e) Correto, mas\ntambém mal escrito – o destinatário identificará o endereço do remetente.\nAgora, adivinhem só: a banca considerou que o gabarito é a Letra D. Eu acho que a questão não tem\ngabarito, mas – se tivesse – deveria ser Letra E."
+    },
+    {
+      "id": "info04_025",
+      "numero": 25,
+      "banca": "UFMT / Prefeitura de Rondonópolis – 2016",
+      "tipo": "multipla",
+      "enunciado": "(UFMT / Prefeitura de Rondonópolis – 2016) Os serviços de e-mail da Internet usam pastas para organizar as mensagens das contas de seus usuários. Estes serviços armazenam as mensagens transmitidas para outras pessoas na pasta",
+      "alternativas": {
+        "a": "Rascunhos.",
+        "b": "Enviados.",
+        "c": "Caixa de entrada.",
+        "d": "Spam."
+      },
+      "gabarito": "B",
+      "comentario": "Cuidado para não confundirem a Caixa de Saída e a Pasta Enviados ou Itens Enviados. A questão\ntrata da Pasta Enviados ou Itens Enviados. Lembrando que a Caixa de Saída armazena as\nmensagens não enviadas."
+    },
+    {
+      "id": "info04_026",
+      "numero": 26,
+      "banca": "CESGRANRIO / ANP – 2016",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / ANP – 2016) Para prevenir que vírus se instalem nos computadores de seus usuários, o Gmail não permite que sejam enviados ou recebidos arquivos executáveis. Como consequência dessa política, dentre os arquivos listados abaixo, o único que poderia ser enviado por e-mail através do Gmail é:",
+      "alternativas": {
+        "a": "arq_a.pif",
+        "b": "arq_b.exe",
+        "c": "arq_c.bat",
+        "d": "arq_d.jar",
+        "e": "arq_e.txt"
+      },
+      "gabarito": "E",
+      "comentario": "O Gmail não permite que sejam anexados algumas pastas ou arquivos com determinadas\nextensões, quais sejam: .pif., .bat, .chm, .cmd, .com, .cpl, .dmg, .exe, .jar, .lib, .msc, .scr, .sys, .vb, .vbs,\netc. Assim, o único que poderia ser enviado seria o .arq_e.txt.\n(a) Errado. Essa é a extensão de atalhos para comandos do sistema operacional DOS e não podem\nser anexados no Gmail; (b) Errado. Essa é a extensão de arquivos executáveis (programas) e não\npodem ser anexados no Gmail; (c) Errado. Essa é a extensão de arquivos em lote que contém\ncomandos do sistema operacional e não podem ser anexados no Gmail; (d) Errado. Essa é a\nextensão de arquivos compactados da linguagem Java e não podem ser anexados no Gmail; (e)\nCorreto. Essa é a extensão padrão do editor de textos Bloco de Notas do Windows e não são\nexecutáveis, logo podem ser anexados a e-mails."
+    },
+    {
+      "id": "info04_027",
+      "numero": 27,
+      "banca": "QUADRIX / CFB – 2016",
+      "tipo": "multipla",
+      "enunciado": "(QUADRIX / CFB – 2016) No Microsoft Outlook 2013 é possível criar um conjunto de regras para as mensagens que chegam, exceto:",
+      "alternativas": {
+        "a": "mover as mensagens recebidas de alguém para uma determinada pasta.",
+        "b": "excluir automaticamente mensagens com vírus.",
+        "c": "encaminhar todas as mensagens recebidas para outra conta de e-mail.",
+        "d": "tocar um som quando receber mensagens de e-mail de uma determinada pessoa.",
+        "e": "mover mensagens com uma palavra específica no assunto para uma determinada pasta."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, ele permite – sim – mover mensagens recebidas de alguém para uma determinada pasta;\n(b) Correto, ele não permite excluir automaticamente mensagens com vírus – ele sequer consegue\nverificar a existência de vírus; (c) Errado, ele realmente permite encaminhar todas as mensagensrecebidas para outra conta de e-mail; (d) Errado, ele permite tocar um som quando receber\nmensagens de e-mail de uma determinada pessoa; (e) Errado, ele permite mover mensagens com\numa palavra específica no assunto para uma determinada pasta."
+    },
+    {
+      "id": "info04_028",
+      "numero": 28,
+      "banca": "FEPESE / SAP/SC – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / SAP/SC – 2016) Assinale a alternativa com a extensão que possibilita integrar a funcionalidade de calendário ao e-mail do Mozilla Thunderbird.",
+      "alternativas": {
+        "a": "Thunder",
+        "b": "Lightning",
+        "c": "Mozilla Events",
+        "d": "Calendar",
+        "e": "Phoenix"
+      },
+      "gabarito": "B",
+      "comentario": "Essa extensão é chamada de Lightning. Ela é usada para organizar a agenda e eventos importantes\nem um calendário integrado ao e-mail do Thunderbird. Permite ainda gerenciar vários calendários,\ncriar lista diária de tarefas, convidar amigos para eventos e se inscrever em calendários públicos."
+    },
+    {
+      "id": "info04_029",
+      "numero": 29,
+      "banca": "QUADRIX / CRM/DF – 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRM/DF – 2015) No modo de exibição E-mail do Outlook 2016, as teclas de atalho CTRL + N servem para criar uma nova mensagem.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito... esse atalho permite criar uma nova mensagem no modo de exibição."
+    },
+    {
+      "id": "info04_030",
+      "numero": 30,
+      "banca": "CESGRANRIO / Banco do Brasil – 2015",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco do Brasil – 2015) O gerente de uma agência recebeu um e-mail, supostamente reenviado por um cliente, com o seguinte conteúdo COMPRASRAPIDO - PROMOÇÃO Prezado Amigo, você acaba de ser contemplado (a) na promoção Compra Premiada COMPRASRAPIDO e ganhou R$ 1.000,00 (Mil Reais) em vale compras em qualquer estabelecimento que tenha as máquinas COMPRASRAPIDO. Clique no botão abaixo e cadastre-se. 95717730268 - Keyla Kiyoku Cadastre-se Qual deve ser a providência do gerente?",
+      "alternativas": {
+        "a": "Clicar no botão e candidatar-se ao prêmio.",
+        "b": "Contatar o cliente e perguntar do que se trata.",
+        "c": "Devolver o e-mail ao cliente, solicitando informações suplementares.",
+        "d": "Encaminhar o e-mail aos amigos, celebrando o fato e incentivando-os a participar da promoção.",
+        "e": "Contatar o órgão responsável pela segurança da informação, relatar o fato e perguntar como proceder."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, recomenda-se não clicar no botão para evitar futuros problemas; (b) Errado, recomendase\nnão manter contato com o autor da mensagem; (c) Errado, recomenda-se não responder à\nmensagem ou manter contato com o autor da mensagem; (d) Errado, recomenda-se não\nencaminhar a mensagem para nenhum destinatário; (e) Correto, recomenda-se contatar a área de\nsegurança da informação e solicitar instruções sobre como proceder."
+    },
+    {
+      "id": "info04_031",
+      "numero": 31,
+      "banca": "AOCP / FUNDASUS – 2015",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / FUNDASUS – 2015) Acerca dos conceitos e fundamentos básicos da internet, a nomenclatura E-MAIL representa:",
+      "alternativas": {
+        "a": "Editor de Vídeo.",
+        "b": "Bloco de Notas.",
+        "c": "Planilha Eletrônica.",
+        "d": "Correio Eletrônico.",
+        "e": "Música Online."
+      },
+      "gabarito": "D",
+      "comentario": "E-Mail significa Electronic E-Mail, que pode ser traduzido como Correio Eletrônico."
+    },
+    {
+      "id": "info04_032",
+      "numero": 32,
+      "banca": "FUNRIO / INSS – 2014",
+      "tipo": "multipla",
+      "enunciado": "(FUNRIO / INSS – 2014) Analise as seguintes afirmações sobre os campos de destinatários de mensagens de um aplicativo de correio eletrônico: I. Para: é um campo obrigatório com um único endereço de e-mail do destinatário principal da mensagem. 95717730268 - Keyla Kiyoku II. Cc: é um campo opcional com uma lista de endereços de e-mail de destinatários para quem a mensagem será enviada como uma cópia. III. Cco: é um campo opcional com uma lista de endereços de e-mail de destinatários que ficarão ocultos para os demais destinatários. Quantas dessas afirmações estão corretas?",
+      "alternativas": {
+        "a": "Nenhuma delas está correta.",
+        "b": "Somente as duas primeiras estão corretas.",
+        "c": "Somente a primeira e a terceira estão corretas.",
+        "d": "Somente as duas últimas estão corretas",
+        "e": "Todas estão corretas."
+      },
+      "gabarito": "D",
+      "comentario": "(I) Errado, não há limite para a quantidade de destinatários e esse campo não é obrigatório – é\npossível enviar um e-mail somente com Cc ou CCo; (II) Correto, essa é justamente a definição de Cc.\nÉ o campo onde adicionamos os destinatários que vamos enviar os e-mails em cópia; (III) Correto,\nessa é justamente a definição de CCo, que é o campo onde adicionamos os destinatários que\ndesejamos que fiquem ocultos para os demais."
+    },
+    {
+      "id": "info04_033",
+      "numero": 33,
+      "banca": "CONSULPLAN / Prefeitura de Natividade – 2014",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / Prefeitura de Natividade – 2014) São algumas formas de endereçamento de correio eletrônico (e‐mail): I. www.thiago.com.br II. http://www.thiago.com.br III. thiago@gmail.com IV. ftp://servidor.thiago.com.br V. thiago.silva@gmail.com Estão corretas apenas as alternativas",
+      "alternativas": {
+        "a": "I e III.",
+        "b": "I e V.",
+        "c": "III e IV.",
+        "d": "III e V."
+      },
+      "gabarito": "D",
+      "comentario": "(I) Errado, falta o arroba e não tem www; (II) Errado, falta o arroba e não tem http://www; (III)\nCorreto; (IV) Errado, falta o arroba e não tem ftp://; (V) Correto."
+    },
+    {
+      "id": "info04_034",
+      "numero": 34,
+      "banca": "FUNCAB / PRODAM-AM – 2014",
+      "tipo": "multipla",
+      "enunciado": "(FUNCAB / PRODAM-AM – 2014) Sobre manipulação de mensagens em aplicativos de correio eletrônico, é correto afirmar que:",
+      "alternativas": {
+        "a": "somente mensagens lidas podem ser movidas para outras pastas.",
+        "b": "ao excluir uma mensagem, ela é removida definitivamente da Caixa de Correio Eletrônico.",
+        "c": "mensagens enviadas com sucesso são armazenadas na Caixa de Saída",
+        "d": "mensagens, quando recebidas, são armazenadas em sua Caixa de Entrada como não lidas.",
+        "e": "para se criar pastas em sua Caixa de Correio Eletrônico é preciso solicitar autorização do administrador de sistema."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Não há nenhuma restrição quanto a isso! Tanto as mensagens lidas quanto as não lidas\npodem ser movidas para pastas; (b) Errado. As mensagens apagadas são armazenadas na pasta\nItens Excluídos; (c) Errado. Cuidado para não confundir a Caixa de Saída com a pasta de Itens\nEnviados. As mensagens enviadas com sucesso vão para a pasta Itens Enviados; (d) Correto; (e)\nErrado. Não é necessária a autorização do administrador. A criação de pastas e subdivisões é livre\nao usuário, dentro das permitidas no próprio sistema."
+    },
+    {
+      "id": "info04_035",
+      "numero": 35,
+      "banca": "FUNCAB / PC-RO – 2014",
+      "tipo": "multipla",
+      "enunciado": "(FUNCAB / PC-RO – 2014) Suponha que você tenha recebido em sua Caixa de Entrada a mensagem com o assunto “Re: Número Celular\". Considerando a configuração padrão do correio eletrônico, a expressão “Re\" indica que essa mensagem foi:",
+      "alternativas": {
+        "a": "criada.",
+        "b": "encaminhada.",
+        "c": "Polícia Civil.",
+        "d": "respondida.",
+        "e": "Guarda Municipal."
+      },
+      "gabarito": "D",
+      "comentario": "O prefixo Re: significa que a mensagem foi respondida. Já o prefixo Enc ou Fw refere-se ao\nEncaminhar."
+    },
+    {
+      "id": "info04_036",
+      "numero": 36,
+      "banca": "CESGRANRIO / Banco do Brasil – 2014",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco do Brasil – 2014) Qual arquivo que, por questões de segurança, não pode ser enviado para terceiros através do Gmail diretamente anexado ao email? 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "prog.exe",
+        "b": "relatorio.xlsx",
+        "c": "carta.docx",
+        "d": "foto.jpg",
+        "e": "incio.html"
+      },
+      "gabarito": "A",
+      "comentario": "O Gmail não permite que sejam anexados algumas pastas ou arquivos com determinadas\nextensões, quais sejam: .pif., .bat, .chm, .cmd, .com, .cpl, .dmg, .exe, .jar, .lib, .msc, .scr, .sys, .vb, .vbs,\netc. Assim, dentre as opções apresentadas a única que não pode ser anexada ao e-mail (Gmail) é o\n.exe."
+    },
+    {
+      "id": "info04_037",
+      "numero": 37,
+      "banca": "CESGRANRIO / PETROBRAS – 2014",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2014) Uma funcionária deseja enviar, a partir de seu e-mail de trabalho, uma mensagem para seu chefe. No envio dessa mensagem, ela pretende disparar uma cópia para seu e-mail pessoal, mas sem que esse endereço particular seja revelado ao chefe. Para atingir esse objetivo, a funcionária pode usar, na composição da mensagem, o seguinte recurso:",
+      "alternativas": {
+        "a": "Anexo",
+        "b": "Antispam",
+        "c": "Deleção Espontânea",
+        "d": "Cópia Oculta (Cco)",
+        "e": "Responder a Todos"
+      },
+      "gabarito": "D",
+      "comentario": "Se ela pretende disparar uma cópia para seu e-mail pessoal, mas sem que esse endereço particular\nseja revelado ao chefe, ela poderá utilizar o recurso de cópia oculta (Cco)."
+    },
+    {
+      "id": "info04_038",
+      "numero": 38,
+      "banca": "UFPEL / UFPEL / 2013",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2013) Os softwares de navegação e de correio eletrônico devem suportar o acesso a alguns protocolos de comunicação em rede. Tendo essa informação em mente, assinale V (verdadeiro) ou F (falso) em cada afirmativa. ( ) O Outlook Express provê suporte ao protocolo SMTP. ( ) O Google Chrome não suporta o protocolo HTTP. ( ) O Internet Explorer e o Mozilla Firefox suportam o protocolo FTP. 95717730268 - Keyla Kiyoku A sequência correta é:",
+      "alternativas": {
+        "a": "V - F - V.",
+        "b": "F - F - V.",
+        "c": "F - V - V.",
+        "d": "V - V - F.",
+        "e": "F - V - F."
+      },
+      "gabarito": "A",
+      "comentario": "1. Verdadeiro, ele realmente fornece suporte ao SMTP; 2. Falso, Google Chrome suporte o HTTP;\n3. Verdadeiro, ambos suportam FTP."
+    },
+    {
+      "id": "info04_039",
+      "numero": 39,
+      "banca": "AOCP / Colégio Pedro II – 2013",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / Colégio Pedro II – 2013) Com relação a Spam no ambiente de internet, assinale a alternativa correta:",
+      "alternativas": {
+        "a": "São sistemas de gerenciamento de dados.",
+        "b": "É o processo de enviar arquivos de texto, vídeo ou imagens de um computador para um servidor remoto.",
+        "c": "Consiste em uma linguagem de marcação utilizada para produção de páginas na web.",
+        "d": "É um padrão baseado na linguagem XML que informa aos leitores as novidades dos sites do seu interesse.",
+        "e": "Uma mensagem eletrônica recebida, mas não solicitada pelo usuário."
+      },
+      "gabarito": "E",
+      "comentario": "Spam são mensagens eletrônicas (e-mails) não solicitadas e enviadas para um grande número de\nusuários – nenhum dos outros itens faz qualquer sentido."
+    },
+    {
+      "id": "info04_040",
+      "numero": 40,
+      "banca": "QUADRIX / CRF-RS – 2013",
+      "tipo": "multipla",
+      "enunciado": "(QUADRIX / CRF-RS – 2013) No envio e recebimento de mensagens de correio eletrônico, seja por meio de programas específicos ou de webmails, é correto afirmar que:",
+      "alternativas": {
+        "a": "Só é possível enviar no máximo oito arquivos anexados por mensagem.",
+        "b": "O uso de programas antivírus só é necessário se usarmos webmails para receber as mensagens.",
+        "c": "O campo Assunto é de preenchimento obrigatório e nunca pode estar em branco no envio da mensagem.",
+        "d": "As mensagens podem ser enviadas com solicitação de confirmação de entrega.",
+        "e": "Não se pode preencher simultaneamente os campos CC e CCO. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errada, não há limite máximo para o número de arquivos anexados, mas para o tamanho dos\narquivos, sendo que esse limite é determinado pelo provedor de e-mail; (b) Errado, isso não faz o\nmenor sentido; (c) Errado, esse campo é de preenchimento facultativo; (d) Correto, é possível\nconfigurar solicitações de confirmação de entrega; (e) Errado, não existe nenhum impedimento\nquanto a isso. Pode-se inserir diversos destinatários simultaneamente, independentemente do\ncampo em que são inseridos."
+    },
+    {
+      "id": "info04_041",
+      "numero": 41,
+      "banca": "FUNDEP / CONDEMIG – 2013",
+      "tipo": "multipla",
+      "enunciado": "(FUNDEP / CONDEMIG – 2013) Os e-mails não solicitados e enviados para um grande número de pessoas são chamados de:",
+      "alternativas": {
+        "a": "Backdoor.",
+        "b": "Vírus.",
+        "c": "Spam.",
+        "d": "Mala direta."
+      },
+      "gabarito": "C",
+      "comentario": "Essa é para não zerar! E-mail não solicitado enviado para muitas pessoas é spam!"
+    },
+    {
+      "id": "info04_042",
+      "numero": 42,
+      "banca": "CONSULPLAN / BANESTES – 2013",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / BANESTES – 2013) O e-mail é um recurso muito utilizado pelas empresas por proporcionar, de forma rápida e segura, a comunicação entre os colaboradores. Para que possa ocorrer a comunicação entre duas pessoas por intermédio deste recurso, é necessário que as pessoas possuam um endereço de e-mail. Considere os endereços de e-mail a seguir: 1º) joseaugusto@banestesseguros.com.br 2º) robertaleles@receita.gov.br 3º) embaixadaarg@embaixada.gov.ar Acerca da estrutura de um endereço de e-mail, analise. I. No primeiro endereço, “joseaugusto” representa o nome do usuário. II. No primeiro endereço, “com” identifica que o endereço pertence a uma instituição educacional. III. No segundo endereço, “gov” identifica que o endereço pertence a uma instituição governamental. 95717730268 - Keyla Kiyoku IV. No terceiro endereço, “ar” identifica que o país desse endereço, no caso, pertence à Argentina. V. Em todos os endereços, o símbolo “@” pode ser substituído sem maiores efeitos por “&”. Estão corretas apenas as afirmativas:",
+      "alternativas": {
+        "a": "I, II e III.",
+        "b": "I, IV e V.",
+        "c": "I, III e IV.",
+        "d": "II, III e IV.",
+        "e": "II, III, IV e V."
+      },
+      "gabarito": "C",
+      "comentario": "(I) Correto, também pode ser chamado de Nome do Recipiente; (II) Errado, o .com representa\ninstituições comerciais. Para instituições educacionais o correto seria .edu; (III) Correto, o gov\nrepresenta instituições governamentais; (IV) Correto, .ar corresponde à Argentina; (V) Errado, o\nsímbolo do arroba (@) não pode ser substituído."
+    },
+    {
+      "id": "info04_043",
+      "numero": 43,
+      "banca": "COVEST-COPSET / UFPE – 2013",
+      "tipo": "multipla",
+      "enunciado": "(COVEST-COPSET / UFPE – 2013) Para se enviar com sucesso uma mensagem de correio eletrônico, alguns campos devem ser preenchidos. É de preenchimento obrigatório:",
+      "alternativas": {
+        "a": "apenas o e-mail do destinatário.",
+        "b": "apenas o assunto e o e-mail do destinatário.",
+        "c": "o assunto, o corpo da mensagem não vazio, e o e-mail do destinatário.",
+        "d": "apenas o corpo da mensagem não vazio e o e-mail do destinatário.",
+        "e": "apenas o campo CC e o e-mail do destinatário."
+      },
+      "gabarito": "A",
+      "comentario": "Somente o e-mail do destinatário é obrigatório, não sendo possível enviar qualquer mensagem sem\no preenchimento desse campo. No entanto, o destinatário pode estar no campo Para, Cc ou Cco –\nAssunto e Corpo são facultativos."
+    },
+    {
+      "id": "info04_044",
+      "numero": 44,
+      "banca": "ESPP / MPE-PR – 2013",
+      "tipo": "multipla",
+      "enunciado": "(ESPP / MPE-PR – 2013) Identifique quais itens abaixo que são tipicamente utilizados em aplicativos de Correio Eletrônico: (1) E-mails Enviados (2) Lixeira 95717730268 - Keyla Kiyoku (3) Caixa de Entrada (4) Rascunho (5) Caixa de Saída",
+      "alternativas": {
+        "a": "somente os itens 1, 2, 3 e 4.",
+        "b": "somente os itens 2, 3, 4 e 5.",
+        "c": "somente os itens 1, 3, 4 e 5.",
+        "d": "somente os itens 1, 2, 3 e 5.",
+        "e": "todos os itens: 1, 2, 3, 4 e 5."
+      },
+      "gabarito": "E",
+      "comentario": "Essa é tranquila, pessoal! Todos os itens fazem parte da utilização do Correio Eletrônico\n(considerando Lixeira como Itens Excluídos)."
+    },
+    {
+      "id": "info04_045",
+      "numero": 45,
+      "banca": "CESGRANRIO / IBGE – 2013",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2013) Os softwares usados para envio de e-mails disponibilizam um campo intitulado Cco, que pode ser preenchido pelo usuário durante a criação de uma mensagem. Esse campo é usado para:",
+      "alternativas": {
+        "a": "informar a localização de um arquivo cujo conteúdo será anexado ao corpo da mensagem que será enviada",
+        "b": "informar que o endereço de e-mail do remetente não deve ser exibido para os destinatários da mensagem.",
+        "c": "informar a caixa de correio na qual a mensagem deverá ser armazenada após ser enviada.",
+        "d": "inserir um convite aos destinatários da mensagem.",
+        "e": "enviar uma mensagem para diversos destinatários sem que eles tomem conhecimento dos endereços de e-mail dos outros destinatários incluídos no campo."
+      },
+      "gabarito": "E",
+      "comentario": "Pessoal, a função do Cco serve para omitir dos destinatários a existência dos demais. Ele é um\nrecurso que tem como objetivo ocultar os destinatários em cópia, isto é, caso você envie um e-mail\npara um destinatário principal e adicione o endereço de e-mail de mais dez pessoas no campo de\ncópia oculta, cada pessoa dessas pessoas só conseguirá visualizar seu próprio endereço de e-mail e\nnão saberá que existem mais nove pessoas também copiadas na mensagem."
+    },
+    {
+      "id": "info04_046",
+      "numero": 46,
+      "banca": "UFPEL / UFPEL / 2012",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2012) São exemplos de “comunicador instantâneo” e “cliente de e-mail”, respectivamente:",
+      "alternativas": {
+        "a": "MSN e Google Talk.",
+        "b": "MSN e Skype.",
+        "c": "Evolution e Pegasus.",
+        "d": "aMSN e OutLook.",
+        "e": "Google Talk e Microsoft Access."
+      },
+      "gabarito": "D",
+      "comentario": "MSN: comunicador instantâneo; Google Talk: comunicador instantâneo; Skype: comunicador\ninstantâneo; Evolution: desconheço essa aplicação; Pegasus: trata-se de um spyware; MSN:\ncomunicador instantâneo; Outlook: cliente de e-mail; Microsoft Access: Banco de Dados."
+    },
+    {
+      "id": "info04_047",
+      "numero": 47,
+      "banca": "OBJETIVA / EPCT - 2012",
+      "tipo": "multipla",
+      "enunciado": "(OBJETIVA / EPCT - 2012) A comunicação por e-mail tornou-se, nos últimos anos, um dos canais mais utilizados tanto por profissionais quanto por particulares. Qual das seguintes alternativas expressa, em uma visão macro, os componentes necessários para que um serviço de e-mail funcione?",
+      "alternativas": {
+        "a": "Endereço de e-mail, sistema operacional Linux, sistema de arquivos e banco de dados.",
+        "b": "Serviço de e-mail baseado na web, notebook e conexão com a internet.",
+        "c": "Microsoft Word, Microsoft Outlook e Microsoft Excel.",
+        "d": "Conexão com a internet, programa de e-mail ou serviço de e-mail baseado na web e um Endereço de e-mail."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado! Não é necessário sistema operacional Linux, sistemas de arquivos ou banco de dados;\n(b) Errado! Não é necessário um notebook nem um serviço de e-mail baseado na web, pode ser um\nprograma de e-mail; (c) Errado! Não é necessário nenhum dos três; (d) Correto, é necessária uma\nconexão com a internet, um programa de e-mail ou serviço de e-mail baseado na web (webmail) e\num endereço de e-mail."
+    },
+    {
+      "id": "info04_048",
+      "numero": 48,
+      "banca": "SOUSÂNDRADE / EMAP – 2012",
+      "tipo": "multipla",
+      "enunciado": "(SOUSÂNDRADE / EMAP – 2012) Levando em consideração conceitos sobre internet e email, analise os itens abaixo. 95717730268 - Keyla Kiyoku I. Campo de email utilizado para enviar uma cópia do email, sem que os outros destinatários saibam. II. Programa ou recurso utilizado para abrir emails em um navegador. III. Protocolo utilizado para enviar emails. As informações acima referem-se, respectivamente,",
+      "alternativas": {
+        "a": "Cc, Navegador e HTTPS.",
+        "b": "Cco, Webmail e SMTP.",
+        "c": "Cc, Navegador e SMTP.",
+        "d": "Cc, Webmail e SMTP.",
+        "e": "Cco, Webmail, e HTTPS."
+      },
+      "gabarito": "B",
+      "comentario": "(I) A alternativa refere-se ao Cco, isto é, Com Cópia Oculta. Essa funcionalidade é utilizada quando\nse deseja enviar um e-mail a um destinatário sem que os outros tenham conhecimento;\n(II) A alternativa refere-se ao WebMail. Essa aplicação é uma interface de e-mail que roda em um\nnavegador para permitir a leitura e escrita de e-mails;\n(III) O protocolo utilizado para enviar e-mails é o STMP. Lembrem-se do mnemônico: Sua\nMensagem Tá Partindo (SMTP)."
+    },
+    {
+      "id": "info04_049",
+      "numero": 49,
+      "banca": "ESAF / Ministério da Fazenda – 2012",
+      "tipo": "multipla",
+      "enunciado": "(ESAF / Ministério da Fazenda – 2012) O Correio Eletrônico é um método que permite compor, enviar e receber mensagens através de sistemas eletrônicos de comunicação. O termo e-mail é aplicado aos sistemas que utilizam a Internet e são baseados no protocolo:",
+      "alternativas": {
+        "a": "SNMP.",
+        "b": "SMTP.",
+        "c": "Web.",
+        "d": "HTTP.",
+        "e": "HTTPS."
+      },
+      "gabarito": "B",
+      "comentario": "O termo e-mail é aplicado aos sistemas que utilizam a Internet e são baseados no protocolo SMTP,\nPOP e IMAP. Muitas pessoas ficam em dúvida por conta do HTTP e HTTPS. No entanto, HTTP é\nprimariamente utilizado para serviços de páginas web e, não, para serviços de e-mail. Se o\nexaminador estivesse tratando especificamente de webmail, seriam válidos como resposta os\nprotocolos HTTP/HTTPS."
+    },
+    {
+      "id": "info04_050",
+      "numero": 50,
+      "banca": "CESGRANRIO / TRANSPETRO – 2012",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / TRANSPETRO – 2012) Um usuário pode enviar um arquivo anexado a uma mensagem de e-mail desde que esse arquivo, entre outras restrições, não ultrapasse o tamanho limite estipulado pela(o).",
+      "alternativas": {
+        "a": "conexão da internet",
+        "b": "estrutura do arquivo",
+        "c": "receptor da mensagem",
+        "d": "sistema operacional do usuário",
+        "e": "provedor de e-mail utilizado pelo usuário"
+      },
+      "gabarito": "E",
+      "comentario": "Quem estipula o tamanho limite de um anexo de e-mail é quem está provendo a ferramenta de email\nutilizada pelo usuário: provedor de e-mail. O Gmail, por exemplo, limita em 25 Megabytes\ncomo tamanho máximo para anexo."
+    },
+    {
+      "id": "info04_051",
+      "numero": 51,
+      "banca": "CESGRANRIO / PETROBRAS – 2012",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2012) Bruno enviou um email com o seguinte cabeçalho: TO: Carlos <carlos@email.com> CC: Dalila <dalila@email.com> BCC: Ana <ana@email.com>, Edson <edson@email.com> FROM: Bruno <bruno@email.com> Se Dalila (dalila@email.com) responder a esse e-mail para todas as pessoas que puder identificar no cabeçalho da mensagem que recebeu, para quem será enviada a resposta de Dalila?",
+      "alternativas": {
+        "a": "somente para Bruno",
+        "b": "somente para Bruno e Carlos",
+        "c": "somente para Bruno, Ana e Edson",
+        "d": "somente para Carlos, Ana e Edson",
+        "e": "para Bruno, Carlos, Ana e Edson"
+      },
+      "gabarito": "B",
+      "comentario": "Quando um destinatário responde a um e-mail, o programa de e-mail geralmente inclui o\nremetente original (De:) e todos os destinatários nos campos Para: e Cc: no cabeçalho da resposta.No entanto, os destinatários no campo Cco: (cópia oculta) não são visíveis para outros destinatários\ne, portanto, não são incluídos automaticamente nas respostas.\nNeste caso, Dalila pode ver os endereços de Bruno (De:), Carlos (Para:) e o próprio endereço dela\n(Cc:). Ela não tem conhecimento dos destinatários Cco: (Ana e Edson) apenas olhando para o\ncabeçalho do e-mail que recebeu. Assim, se Dalila responder a todos que ela pode identificar no\ncabeçalho da mensagem, a resposta será enviada para:\n▪ Bruno, que é o remetente original;\n▪ Carlos, que é outro destinatário no campo para:\nOs destinatários em cópia oculta (Ana e Edson) não serão incluídos na resposta de Dalila, visto que\nela não tem conhecimento deles."
+    },
+    {
+      "id": "info04_052",
+      "numero": 52,
+      "banca": "CESGRANRIO / PETROBRAS – 2012",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2012) A vantagem de usar o protocolo IMAP em lugar do protocolo POP 3 está no fato de o uso desse último obrigar o usuário a estar ligado à Internet para ler os e-mails a ele dirigidos. PORQUE Com o uso do protocolo IMAP, as mensagens são apagadas do servidor, automaticamente, logo após a abertura do e-mail. Analisando-se as afirmações acima, conclui-se que:",
+      "alternativas": {
+        "a": "as duas afirmações são verdadeiras, e a segunda justifica a primeira.",
+        "b": "as duas afirmações são verdadeiras, e a segunda não justifica a primeira.",
+        "c": "a primeira afirmação é verdadeira, e a segunda é falsa.",
+        "d": "a primeira afirmação é falsa, e a segunda é verdadeira.",
+        "e": "as duas afirmações são falsas."
+      },
+      "gabarito": "E",
+      "comentario": "As duas afirmações são falsas. A primeira sentença está errada porque o POP3 é um protocolo que\npode operar offline, ou seja, ele não obriga o usuário a estar conectado à internet para ler os e-mails.\nA segunda sentença está errada porque o IMAP é um protocolo que opera online (e offline)\nrealizando o sincronismo das mensagens e não apaga necessariamente as mensagens do servidor\napós a abertura do e-mail."
+    },
+    {
+      "id": "info04_053",
+      "numero": 53,
+      "banca": "CONSULPLAN / CM-SAG – 2011",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / CM-SAG – 2011) Sobre a utilização de aplicativos gerenciadores de correio eletrônico, marque a alternativa correta:",
+      "alternativas": {
+        "a": "No aplicativo gerenciador de correio eletrônico Microsoft Outlook versão 2003/2007 (configuração padrão), a pasta “Caixa de saída” tem a função de armazenar definitivamente todas as mensagens enviadas pelo usuário.",
+        "b": "O programa Microsoft Publisher 2007 é um gerenciador de correio específico, componente da instalação padrão do Sistema Operacional Windows XP.",
+        "c": "Na opção de endereçamento de mensagens “CC...” (Com cópia), uma cópia da mensagem é enviada para um ou mais destinatários e os seus nomes não ficam visíveis para outros destinatários da mensagem.",
+        "d": "nome.provedor.com.br é um exemplo válido de formato de endereço eletrônico.",
+        "e": "Uma mensagem de correio eletrônico pode ser enviada para vários destinatários, basta utilizar como separador dos endereços, ponto e vírgula (;) no campo de preenchimento de endereços “Para:”."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado. A Caixa de Saída tem função de armazenar temporariamente mensagens pendentes de\nenvio – isso vale para todas as versões; (b) Errado. Esse software é utilizado para diagramação\neletrônica de textos, gráficos, etc; (c) Errado. Elas ficam visíveis, sim – para não ficarem visíveis,\ndeve-se utilizar a opção CCO; (d) Errado. Esse endereço não tem arroba, portanto não é um\nendereço válido; (e) Correto. Basta utilizar um separador no campo Para:"
+    },
+    {
+      "id": "info04_054",
+      "numero": 54,
+      "banca": "CESGRANRIO / PETROBRAS – 2011",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2011) Um navegador é um software de computador que possibilita a visualização de páginas na Internet. Considere os softwares abaixo. I – Google Chrome II – Windows Explorer III – Skype IV – Mozilla Firefox V – Mozilla Thunderbird São navegadores APENAS os softwares:",
+      "alternativas": {
+        "a": "I e IV.",
+        "b": "II e III. 95717730268 - Keyla Kiyoku",
+        "c": "I, II e IV.",
+        "d": "I, III e V.",
+        "e": "II, IV e V."
+      },
+      "gabarito": "A",
+      "comentario": "(I) Correto; (II) Errado, é um gerenciador de pastas; (III) Errado, é um software de videoconferência;\n(IV) Correto; (V) Errado, é um cliente de e-mail."
+    },
+    {
+      "id": "info04_055",
+      "numero": 55,
+      "banca": "CESGRANRIO / PETROBRAS – 2010",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / PETROBRAS – 2010) Os provedores de Internet disponibilizam a seus usuários um serviço de correio eletrônico para envio e recebimento de mensagens, que podem conter anexos como arquivos de fotos, documentos, programas de apresentação e muitos outros tipos de arquivos. Quando um usuário anexa um arquivo à mensagem que ele vai enviar, o destinatário da mensagem, para visualizar o conteúdo desse arquivo ao recebê-lo, precisará executar um procedimento denominado:",
+      "alternativas": {
+        "a": "download.",
+        "b": "sendmail.",
+        "c": "upload.",
+        "d": "file transfer.",
+        "e": "message transfer."
+      },
+      "gabarito": "A",
+      "comentario": "Para que ele possa visualizar o arquivo recebido em anexo, ele precisará realizar um download (isto\né, transferir de uma máquina remota para a máquina local)."
+    },
+    {
+      "id": "info04_056",
+      "numero": 56,
+      "banca": "CESGRANRIO / IBGE – 2009",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2009) Paulo deseja enviar uma mensagem de correio eletrônico para José e Matheus. Junto à mensagem, deverá seguir um arquivo xlsx do Excel 2007. Além disso, Paulo não quer que José saiba que ele (Paulo) enviou a mensagem para Matheus. Para atender às suas necessidades, Paulo deve:",
+      "alternativas": {
+        "a": "inserir o arquivo xlsx no campo “assunto”, colocar o endereço de José no campo “para” e o de Matheus, no campo “Cc”.",
+        "b": "inserir o arquivo xlsx no campo “assunto”, colocar o endereço de José no campo “Cc” e o de Matheus, no campo “para”. 95717730268 - Keyla Kiyoku",
+        "c": "anexar o arquivo xlsx à mensagem, colocar o endereço de José no campo “para” e o de Matheus, no campo “Cc”.",
+        "d": "anexar o arquivo xlsx à mensagem, colocar o endereço de José no campo “para” e o de Matheus, no campo “Cco”.",
+        "e": "anexar o arquivo xlsx à mensagem, colocar o endereço de José no campo “Cco” e o de Matheus, no campo “Cc”."
+      },
+      "gabarito": "D",
+      "comentario": "Para enviar uma mensagem de e-mail para José e Matheus com um arquivo .xlxs da forma como\napresenta o enunciado, Paulo deverá anexar o arquivo .xlsx à mensagem, colocar o endereço de\nJosé no campo “para” e o de Matheus, no campo “Cco”."
+    },
+    {
+      "id": "info04_057",
+      "numero": 57,
+      "banca": "CESGRANRIO / IBGE – 2009",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2009) Com base na figura abaixo, analise as afirmativas seguintes. Com base na figura acima, analise as afirmativas seguintes. I – O remetente do e-mail é identificado por trafego@ibge.gov.br. II – O corpo do e-mail possui texto sem formatação. III – Os arquivos comput.gif, logo.gif, pixel.gif e relat1.gif são imagens anexas ao e-mail. Está(ão) correta(s) APENAS a(s) afirmativa(s):",
+      "alternativas": {
+        "a": "I.",
+        "b": "II.",
+        "c": "III.",
+        "d": "I e II.",
+        "e": "II e III. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "C",
+      "comentario": "Com base na imagem, o remetente do e-mail não é trafego@ibge.gov.br – este é para quem o e-mail\nserá enviado (destinatário). O corpo do e-mail possui texto formatado e os arquivos comput.gif,\nlogo.gif, pixel.gif e relat1.gif são imagens anexas ao e-mail."
+    },
+    {
+      "id": "info04_058",
+      "numero": 58,
+      "banca": "CESGRANRIO / IBGE – 2009",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2009) Na Internet, e-mail é um recurso que permite ao usuário:",
+      "alternativas": {
+        "a": "criar gráficos interativos.",
+        "b": "criar senhas criptografadas.",
+        "c": "executar serviços ocultos.",
+        "d": "navegar por páginas internacionais.",
+        "e": "receber e enviar mensagens eletronicamente."
+      },
+      "gabarito": "E",
+      "comentario": "E-mail é um recurso que permite receber e enviar mensagens eletronicamente."
+    },
+    {
+      "id": "info04_059",
+      "numero": 59,
+      "banca": "CESGRANRIO / TERMOMACAÉ – 2009",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / TERMOMACAÉ – 2009) Uma das vantagens das ferramentas de Webmail como o GMail é a possibilidade de:",
+      "alternativas": {
+        "a": "armazenar todas as mensagens no computador pessoal do usuário da ferramenta, garantindo a segurança das informações.",
+        "b": "reduzir a propagação de vírus na Internet, uma vez que estas ferramentas somente permitem o envio e recebimento de mensagens que não apresentam arquivos anexados.",
+        "c": "exigir que o usuário utilize sempre o mesmo computador para ler e enviar suas mensagens.",
+        "d": "permitir que o usuário, uma vez conectado à Internet, utilize o seu navegador para acessar a ferramenta e, então, enviar e receber mensagens.",
+        "e": "dispensar o uso de senha para utilizar a ferramenta, solicitando ao usuário somente o seu login."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, webmails não são capazes de armazenar mensagens localmente; (b) Errado, elas\npermitem o envio de anexos e são suscetíveis à propagação de vírus na internet; (c) Errado, ele pode\nacessar as mensagens de qualquer dispositivo com acesso à internet, visto que as mensagens estão\nlocalizadas no servidor; (d) Correto; (e) Errado, ele não dispensa o uso de senha."
+    },
+    {
+      "id": "info04_060",
+      "numero": 60,
+      "banca": "UFPEL / UFPEL / 2008",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2008) Pode-se verificar se um e-mail foi efetivamente enviado clicando em:",
+      "alternativas": {
+        "a": "Caixa de Entrada.",
+        "b": "Lixo Eletrônico.",
+        "c": "Tarefas realizadas.",
+        "d": "Itens Enviados.",
+        "e": "Rascunhos."
+      },
+      "gabarito": "D",
+      "comentario": "Para verificar se um e-mail foi efetivamente enviado, basta clicar em Itens Enviados."
+    },
+    {
+      "id": "info04_061",
+      "numero": 61,
+      "banca": "CESGRANRIO / CEF – 2008",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / CEF – 2008) Considere um endereço eletrônico de destino abcd@efgh.com. Acerca do formato dos endereços eletrônicos utilizados na Internet, tem-se que:",
+      "alternativas": {
+        "a": "“abcd” é uma identificação única de usuário na Word Wide Web e “efgh.com” identifica a caixa postal do destinatário.",
+        "b": "“abcd” identifica a caixa postal do destinatário e “efgh.com” identifica o domínio ao qual o destinatário pertence.",
+        "c": "“abcd” identifica o domínio ao qual o destinatário pertence e “efgh.com” identifica a caixa postal do destinatário.",
+        "d": "“abcd” identifica o domínio ao qual o destinatário pertence e “efgh.com” é uma identificação única do usuário “@” da Word Wide Web.",
+        "e": "é impossível existir um endereço eletrônico como esse por não possuir em seu formato a identificação de país (após o “.com”)."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, não é único – pode se repetir em outros endereços; (b) Correto, é realmente o nome\nusuário ou caixa postal e o restante identifica o domínio do destinatário; (c) Errado, a questão\ninverteu os conceitos; (d) Errado, não é o domínio e também não é uma identificação única do\nusuário; (e) Errado, é possível sim – a ausência da identificação do país não invalida um endereço de\ne-mail."
+    },
+    {
+      "id": "info04_062",
+      "numero": 62,
+      "banca": "CESGRANRIO / ANP – 2008",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / ANP – 2008) A vantagem de se utilizar um serviço de webmail em relação ao uso de ferramentas locais para gerenciamento de e-mails é a possibilidade de acessar e-mails em:",
+      "alternativas": {
+        "a": "máquinas que possuam acesso à Internet e navegador HTML instalado.",
+        "b": "máquinas que possuam acesso à Internet e uma ferramenta de e-mail, como Microsoft Outllok Express, instalada.",
+        "c": "máquinas que possuam configuração necessária para acessar os servidores SMTP e POP3",
+        "d": "máquinas sem nenhum software instalado.",
+        "e": "qualquer máquina, independente do servidor de e-mail estar funcionando."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto; (b) Errado, não é necessário ter ferramentas de cliente de e-mail; (c) Errado, não é\nnecessário realizar configurações de servidores; (d) Errado, é necessário ter um navegador web\ninstalado; (e) Errado, é necessário que o servidor de e-mail esteja funcionando para acessar as\nmensagens de e-mail."
+    },
+    {
+      "id": "info04_063",
+      "numero": 63,
+      "banca": "CESGRANRIO / CAPES – 2008",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / CAPES – 2008) Luiz enviou um e-mail para Ana, com cópia para Beatriz e cópia oculta para Cristina. Luiz não enviou o e-mail para ninguém mais e nem utilizou endereço de lista de e-mails. Quantos endereços de e-mail de destinatários (incluindo os campos to, cc e bcc) existem, respectivamente, no e-mail criado por Luiz e no visualizado por Ana?",
+      "alternativas": {
+        "a": "2 e 1.",
+        "b": "2 e 2.",
+        "c": "2 e 3.",
+        "d": "3 e 1.",
+        "e": "3 e 2."
+      },
+      "gabarito": "E",
+      "comentario": "De: Luiz\nPara: AnaCc: Beatriz\nBcc: Cristina\nNo e-mail criado por Luiz, existem 3 (três) destinatários (Ana, Beatriz e Cristina); no e-mail\nvisualizado por Ana, existem 2 (dois) destinatários (Ana e Beatriz). Cristina não é visualizada por\nAna porque está em cópia oculta no e-mail original."
+    },
+    {
+      "id": "info04_064",
+      "numero": 64,
+      "banca": "CESGRANRIO / IBGE – 2006",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2006) Marque a opção que apresenta um endereço de e-mail:",
+      "alternativas": {
+        "a": "200.255.94.197",
+        "b": "provedor.com:fulano.pobox",
+        "c": "fulano@provedor.com.br",
+        "d": "www.provedor.com.br",
+        "e": "www.fulano#provedor.com.br!"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, isso é um endereço IP; (b) Errado, falta o símbolo de arroba; (c) Correto; (d) Errado, falta\no símbolo de arroba; (e) Errado, falta o símbolo de arroba e há caracteres proibidos."
+    },
+    {
+      "id": "info04_065",
+      "numero": 65,
+      "banca": "CESGRANRIO / IBGE – 2006",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2006) Suponha que um e-mail será enviado para os seguintes destinatários válidos: De acordo com as informações acima, pode-se afirmar corretamente que:",
+      "alternativas": {
+        "a": "o e-mail será enviado para todos os contatos de Sandra.",
+        "b": "a cópia oculta do e-mail será direcionada a Marina.",
+        "c": "somente João Carlos receberá o e-mail.",
+        "d": "João Carlos receberá o e-mail somente quando Marina o ler.",
+        "e": "Sandra receberá o e-mail sem que João Carlos e Marina saibam."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, será enviado apenas para João, Marina e Sandra; (b) Errado, será direcionada a Sandra;\n(c) Errado, João, Marina e Sandra receberão o e-mail; (d) Errado, João Carlos receberá o e-mail\nindependentemente de Marina o ler; (e) Correto, Sandra receberá o e-mail sem que João e Marina\nsaibam porque ela está em cópia oculta."
+    },
+    {
+      "id": "info04_066",
+      "numero": 66,
+      "banca": "CESGRANRIO / IBGE – 2006",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / IBGE – 2006) O protocolo utilizado no correio eletrônico para o envio de mensagens na Internet é:",
+      "alternativas": {
+        "a": "MAILP",
+        "b": "SMTP",
+        "c": "UDP",
+        "d": "POP",
+        "e": "FTP"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, esse protocolo não existe; (b) Correto, esse é o protocolo padrão de envio de e-mail; (c)\nErrado, esse é o protocolo de transporte de dados não confiável; (d) Errado, esse é o protocolo para\nrecebimento de e-mail; (e) Errado, esse é o protocolo de transferência de arquivos."
+    },
+    {
+      "id": "info04_067",
+      "numero": 67,
+      "banca": "VUNESP / PREF ALUMÍNIO – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / PREF ALUMÍNIO – 2016) Um usuário preparou uma mensagem de correio eletrônico usando o Microsoft Outlook 2010, em sua configuração padrão, e preencheu da seguinte forma seus campos: Para: joao@empresa.com.br Com cópia: joao@empresa.com.br Com cópia oculta: joao@empresa.com.br Assunto: joao@empresa.com.br 95717730268 - Keyla Kiyoku Assinale a alternativa que indica quantas mensagens o email joao@empresa.com.br receberá quando o envio for efetivado:",
+      "alternativas": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "e": "5"
+      },
+      "gabarito": "A",
+      "comentario": "Galera, não adianta essa gracinha! Se você inserir o mesmo endereço de e-mail nos campos “Para”,\n“CC” e “CCo”, somente um único e-mail será recebido. Ademais, inserir endereços de e-mail no\ncampo “Assunto” é irrelevante uma vez que esse campo tem como finalidade exibir o assunto do\nqual o e-mail tratará."
+    },
+    {
+      "id": "info04_068",
+      "numero": 68,
+      "banca": "VUNESP / CM PRADÓPOLIS – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / CM PRADÓPOLIS – 2016) Um usuário que queira enviar, por meio do MSOutlook 2010, em sua configuração padrão, o mesmo e-mail, ao mesmo tempo, para vários destinatários, de modo que todos os destinatários possam ver a lista de destinatários utilizada, deve utilizar o campo ________ para incluir os endereços de e-mail dos destinatários. Assinale a alternativa que preenche corretamente a lacuna:",
+      "alternativas": {
+        "a": "cco",
+        "b": "cc",
+        "c": "co",
+        "d": "cd",
+        "e": "dc"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. Esse campo é utilizado para inserir o endereço de um ou mais destinatários de modo que\neles não sejam visíveis para os outros que receberam o e-mail;\n(b) Correto. Esse campo é utilizado para inserir o endereço de destinatários de modo que os demais\ndestinatários possam visualizar quem mais recebeu a mensagem.\n(c), (d) e (e) Errado. Esses campos não existem – há apenas três campos com essa finalidade: “Para”,\n“Cc” e “Cco”."
+    },
+    {
+      "id": "info04_069",
+      "numero": 69,
+      "banca": "VUNESP / PREF PRESIDENTE PRUDENTE – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / PREF PRESIDENTE PRUDENTE – 2016) Um usuário, ao redigir um novo e-mail, pode fazer uso da funcionalidade relacionada ao ícone exibido a seguir, retirado do aplicativo MS-Outlook 2010, em sua configuração padrão. Assinale a alternativa que contém a funcionalidade relacionada ao ícone exibido:",
+      "alternativas": {
+        "a": "Catálogo de Filtros de Spam.",
+        "b": "Catálogo de Emails Enviados.",
+        "c": "Catálogo de Emails Recebidos.",
+        "d": "Catálogo de Pastas.",
+        "e": "Catálogo de Endereços."
+      },
+      "gabarito": "E",
+      "comentario": "A funcionalidade relacionada ao ícone exibido é a funcionalidade de Catálogo de Endereços,\ndisponível na Guia Contato → Grupo Nomes → Catálogo de Endereços."
+    },
+    {
+      "id": "info04_070",
+      "numero": 70,
+      "banca": "VUNESP / CM GUARATINGUETÁ – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / CM GUARATINGUETÁ – 2016) Um recurso muito útil do MS-Outlook 2010, em sua configuração padrão, é o que permite organizar os e-mails por conversa, de modo que um conjunto de e-mails de uma mesma conversa fiquem em sequência, facilitando a leitura e o entendimento da troca de e-mails. Assinale a alternativa que contém o nome da guia do MS-Outlook 2010 na qual se localiza o grupo Conversas:",
+      "alternativas": {
+        "a": "Página Inicial.",
+        "b": "Arquivo.",
+        "c": "Pasta.",
+        "d": "Exibição.",
+        "e": "Organizar."
+      },
+      "gabarito": "D",
+      "comentario": "Na Guia Exibição, existe o Grupo Conversa, que possibilita fazer várias configurações com relação\nàs conversas como – por exemplo – a função descrita no enunciado."
+    },
+    {
+      "id": "info04_071",
+      "numero": 71,
+      "banca": "VUNESP / CM POÁ – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / CM POÁ – 2016) A imagem a seguir foi retirada do MS-Outlook 2010, em sua configuração padrão, após um usuário selecionar um e-mail recebido.",
+      "alternativas": {
+        "a": "Marca o e-mail selecionado como SPAM.",
+        "b": "Marca o e-mail selecionado como não prioritário.",
+        "c": "Exclui o e-mail selecionado.",
+        "d": "Bloqueia o remetente do e-mail selecionado.",
+        "e": "Exclui apenas os anexos do e-mail selecionado."
+      },
+      "gabarito": "C",
+      "comentario": "Ao clicar no ícone acima o e-mail selecionado é excluído: ."
+    },
+    {
+      "id": "info04_072",
+      "numero": 72,
+      "banca": "VUNESP / PREF SERTÃOZINHO – 2016",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / PREF SERTÃOZINHO – 2016) Considere a preparação de um e-mail no Outlook 2010, a partir da sua configuração padrão, conforme é ilustrado na figura. Assinale a alternativa que contém a afirmativa correta.",
+      "alternativas": {
+        "a": "O e-mail não será enviado, pois está faltando o campo Cco no corpo do e-mail.",
+        "b": "O e-mail será enviado sem nenhum problema.",
+        "c": "O e-mail não será enviado, pois o endereço eletrônico contido no campo Assunto está errado.",
+        "d": "O e-mail será enviado somente para o destinatário do endereço eletrônico contido no campo “Cc”.",
+        "e": "O e-mail não será enviado, pois os endereços eletrônicos contidos nos campos “Para” e “Cc” estão errados."
+      },
+      "gabarito": "E",
+      "comentario": "Para que um endereço de e-mail seja válido, é necessário seguir um conjunto de regras de sintaxe.\nInicialmente, podemos dizer que um e-mail válido possui três partes, quais sejam: Nome do\nRecipiente, Símbolo de Arroba e Nome do Domínio, dessa forma:NOMEDORECIPIENTE@NOMEDODOMINIO.\nNa questão, os dois endereços de e-mail possuem mais de um “arroba”."
+    },
+    {
+      "id": "info04_073",
+      "numero": 73,
+      "banca": "PUC-PR / PARANACIDADE – 2016",
+      "tipo": "multipla",
+      "enunciado": "(PUC-PR / PARANACIDADE – 2016) Na instalação padrão do programa Microsoft Outlook 2013, ao iniciar o programa, tem-se na Barra de Ferramentas de Acesso Rápido e na Guia Enviar/Receber o botão . Assinale a alternativa CORRETA que representa a função deste botão apresentada como título em negrito na caixa de diálogo que surge ao deixar o cursor do mouse parado em cima do botão.",
+      "alternativas": {
+        "a": "Enviar/Receber Todas as Pastas (F9).",
+        "b": "Mostrar Progresso.",
+        "c": "Marcar Todas como Lidas.",
+        "d": "Abrir em Nova Janela.",
+        "e": "Grupo de Envio/Recebimento."
+      },
+      "gabarito": "A",
+      "comentario": "Esse botão representa o envio de todas as mensagens da caixa de saída e verifica novas mensagens\nem todas as contas de e-mail."
+    },
+    {
+      "id": "info04_074",
+      "numero": 74,
+      "banca": "PUC-PR / PARANACIDADE – 2016",
+      "tipo": "multipla",
+      "enunciado": "(PUC-PR / PARANACIDADE – 2016) O software Microsoft Outlook 2013, instalado de forma padrão no Windows, organiza e-mails, calendários, contatos, tarefas e listas de tarefas pendentes. Para enviar e-mail para as mesmas várias pessoas com frequência, sem a necessidade de adicionar cada uma em todo novo e-mail, é possível criar um Grupo de Contatos. Assinale a alternativa CORRETA que representa o atalho no teclado para a guia Grupo de Contatos.",
+      "alternativas": {
+        "a": "Ctrl+P. 95717730268 - Keyla Kiyoku",
+        "b": "Ctrl+Shift+T.",
+        "c": "F7.",
+        "d": "Ctrl+N.",
+        "e": "Alt+F11."
+      },
+      "gabarito": "B",
+      "comentario": "Para criar um grupo de contatos, devemos ir na Guia Pessoas e pressionar o atalho CTRL + SHIFT +\nT. Dessa forma, a Guia Grupo de Contatos será aberta!"
+    },
+    {
+      "id": "info04_075",
+      "numero": 75,
+      "banca": "PUC-PR / PARANACIDADE – 2016",
+      "tipo": "multipla",
+      "enunciado": "(PUC-PR / PARANACIDADE – 2016) Na instalação padrão no Windows do Microsoft Outlook 2013, ao iniciar o programa, clicar na guia PÁGINA INICIAL, a seguir no botão Novo Email, surge a tela de Mensagem, a seguir: Pode existir a necessidade de que existam endereços de destinatários que não possam ser vistos pelos outros que receberão a mensagem, assim, é necessário enviar com cópia oculta. Assinale a alternativa CORRETA que representa o caminho na tela Mensagem para adicionar o campo Cco.",
+      "alternativas": {
+        "a": "Guia MENSAGEM > Botão Verificar Nomes.",
+        "b": "Guia FORMATAR TEXTO > Botão Alterar Estilos.",
+        "c": "Guia OPÇÕES > Botão Cco.",
+        "d": "Guia REVISÃO > Botão ABC.",
+        "e": "Guia INSERIR > Botão Cco."
+      },
+      "gabarito": "C",
+      "comentario": "Percebam na imagem acima que o campo de Cco não está habilitado! Para habilitá-lo, temos que ir\nna Guia Opções e escolher a opção Cco."
+    },
+    {
+      "id": "info04_076",
+      "numero": 76,
+      "banca": "IBFC / CM Franca - 2016",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / CM Franca - 2016) No MS-Outlook pode-se recuperar um e-mail que possa ter sido excluído acidentalmente da caixa de entrada. Para tanto, foi criado a pasta denominada:",
+      "alternativas": {
+        "a": "pasta (Itens) Excluídos.",
+        "b": "pasta (Itens) de Lixeira",
+        "c": "pasta (Itens) Especiais",
+        "d": "pasta (Itens) de Rascunhos"
+      },
+      "gabarito": "A",
+      "comentario": "Cuidado! As duas alternativas que podem deixar o candidato na dúvida são a A e a B. No Outlook\nnão existe Lixeira, mas Lixo Eletrônico. Assim, a alternativa correta é a letra A – Itens Excluídos. É\npossível recuperar a mensagem excluída."
+    },
+    {
+      "id": "info04_077",
+      "numero": 77,
+      "banca": "AOCP / CISAMUSEP – 2016",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / CISAMUSEP – 2016) Você utiliza o Microsoft Outlook 2013 em seu computador. Ao verificar as configurações de sua conta, observa na configuração “Tipo de conta: IMAP”. Sabendo disso, quando você deleta um e-mail recebido, a mensagem vai para pasta “Lixeira/Trash” do Outlook. Ao apagar essa mensagem da pasta “Lixeira/ Trash” do Outlook, o que ocorre?",
+      "alternativas": {
+        "a": "A mensagem é apagada no Outlook e mantida no servidor de e-mails.",
+        "b": "A mensagem é apagada no Outlook e movida para lixeira do servidor de e-mails.",
+        "c": "A mensagem é apagada no Outlook e movida para pasta rascunho do servidor de e-mails.",
+        "d": "A mensagem é apagada no Outlook e também é apagada no servidor de e-mails.",
+        "e": "A mensagem é movida para pasta rascunho, e movida para lixeira no servidor de e-mail."
+      },
+      "gabarito": "D",
+      "comentario": "Em regra: quando você simplesmente envia para lixeira, ela permanece no servidor; quando você\nexcluir da lixeira, ela também é excluída do servidor."
+    },
+    {
+      "id": "info04_078",
+      "numero": 78,
+      "banca": "FCC / Eletrobrás – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FCC / Eletrobrás – 2016) É possível fazer o download de mensagens de uma conta de webmail e visualizá-las por meio de programas como o Microsoft Outlook. Para conectar o Outlook ao servidor de e-mail, de forma que seja realizada a sincronia das mensagens e, após esse processo, seja mantida a conexão para que as novas mensagens recebidas no webmail sejam atualizadas, deve-se configurar o servidor de recebimento de e-mails na conta de e-mail do Outlook para utilizar o acesso por meio do protocolo:",
+      "alternativas": {
+        "a": "IMAP",
+        "b": "POP",
+        "c": "SMTP",
+        "d": "FTP",
+        "e": "SMNP"
+      },
+      "gabarito": "A",
+      "comentario": "O protocolo utilizado pelo Outlook para recebimento de e-mails para sincronizar mensagens com\no webmail é o IMAP. Lembrando que POP não permite sincronizar, SMTP é um protocolo para envio\nde e-mails, FTP é um protocolo para transferência de arquivos e SMNP não existe – a questão se\nconfundiu com SNMP (que é um protocolo de gerenciamento de redes)!"
+    },
+    {
+      "id": "info04_079",
+      "numero": 79,
+      "banca": "CESPE / DPU – 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / DPU – 2016) No Microsoft Outlook 2013, desde que configurado adequadamente, um e-mail excluído acidentalmente pode ser recuperado, mesmo depois de a pasta Itens Excluídos ter sido esvaziada.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Galera, essa é uma questão extremamente técnica. O MS-Outlook realmente permite recuperar emails\ndeletados, mesmo que a pasta Itens Excluídos ter sido esvaziada. Para saber mais:\nhttps://support.office.com/pt-br/article/Recuperar-itens-exclu%C3%ADdos-do-Outlook-para-\nWindows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce"
+    },
+    {
+      "id": "info04_080",
+      "numero": 80,
+      "banca": "CESPE / TCE-PA – 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-PA – 2016) No Outlook, se a opção Com cópia oculta (Cco) estiver ativada durante a criação de uma nova mensagem de email, poderá ser efetuada a inserção de um ou mais endereços como destinatários, que receberão cópias do email com o conteúdo ocultado.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Não é o conteúdo que é ocultado, mas o endereço dos destinatários em cópia oculta que ficam\nocultos para os outros destinatários."
+    },
+    {
+      "id": "info04_081",
+      "numero": 81,
+      "banca": "VUNESP / Prefeitura de São José do Rio Preto – 2015",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / Prefeitura de São José do Rio Preto – 2015) Assinale a alternativa que contém o nome da pasta padrão do MS-Outlook 2010, em sua configuração original, onde ficam salvos os e-mails que ainda estão sendo preparados.",
+      "alternativas": {
+        "a": "Caixa de Entrada.",
+        "b": "Pendentes.",
+        "c": "Rascunhos.",
+        "d": "Temporários.",
+        "e": "Favoritos. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "C",
+      "comentario": "As mensagens que ainda estão sendo escritas ficam armazenadas temporariamente na pasta\nRascunhos. Quando forem concluídas e enviadas com sucesso, ficam na pasta Enviados."
+    },
+    {
+      "id": "info04_082",
+      "numero": 82,
+      "banca": "VUNESP / CRO-SP – 2015",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / CRO-SP – 2015) Um exemplo de aplicativo específico de correio eletrônico é o MSOutlook 2010. Quando um usuário acessa e-mails diretamente de uma página na web, é correto afirmar que ele está usando um aplicativo da categoria ___________________. Assinale a alternativa que preenche adequadamente a lacuna do texto:",
+      "alternativas": {
+        "a": "google",
+        "b": "mini aplicativo",
+        "c": "gmail",
+        "d": "firefox",
+        "e": "webmail"
+      },
+      "gabarito": "E",
+      "comentario": "A forma de se acessar e-mails diretamente de uma página da web é chamado de WebMail – são os\nnossos conhecidos Gmail, Yahoo, Hotmail e outros."
+    },
+    {
+      "id": "info04_083",
+      "numero": 83,
+      "banca": "CONSULPLAN / CBTU – 2014",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / CBTU – 2014) Considere a imagem do aplicativo de correio eletrônico Microsoft Office Outlook 2007 (configuração padrão). Sobre a situação apresentada na imagem, é correto afirmar que:",
+      "alternativas": {
+        "a": "somente os candidatos do campo Para receberão a mensagem. 95717730268 - Keyla Kiyoku",
+        "b": "somente os candidatos do campo Cc receberão uma cópia oculta da mensagem.",
+        "c": "os destinatários indicados nos campos Para e Cc não terão conhecimento que o destinatário indicado no campo Cco também recebeu a mensagem.",
+        "d": "o destinatário indicado no campo Cco não terá conhecimento que os destinatários indicados nos campos Para e Cc também receberam a mensagem."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Candidatos do campo Cc e Cco também receberão; (b) Errado. Somente candidatos do\ncampo Cco receberão uma cópia oculta da mensagem; (c) Correto. Eles estarão ocultos; (d) Errado.\nEle terá conhecimento de todos os destinatários que não estejam no campo Cco.\nLembrem-se: quem está no campo Cco vê os outros destinatários, mas os outros destinatários que\nnão veem quem está no campo Cco."
+    }
+  ]
+}

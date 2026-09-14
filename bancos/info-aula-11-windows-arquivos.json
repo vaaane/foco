@@ -1,0 +1,732 @@
+{
+  "esquema": 1,
+  "id": "info-aula-11-windows-arquivos",
+  "aula": "11",
+  "titulo": "Informática - AULA 11",
+  "subtitulo": "Windows 10 e Gerenciamento de Arquivos",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    3,
+    5
+  ],
+  "tagsEdital": [
+    {
+      "n": 3,
+      "titulo": "Sistema operacional e ambiente Windows (edição de textos, planilhas, apresentações)"
+    },
+    {
+      "n": 5,
+      "titulo": "Organização e gerenciamento de arquivos, pastas e programas"
+    }
+  ],
+  "resumoMd": "*(Fonte: `11.pdf`)*\n\n- **Explorador de Arquivos e Gerenciamento**:\n  - Estrutura de pastas, caminhos de diretórios e propriedades dos arquivos.\n  - **Seleção de Arquivos**: `Ctrl` para selecionar itens alternados/avulsos; `Shift` para selecionar um intervalo contínuo de itens.\n  - **Criptografia nativa**: *BitLocker* (criptografia de unidade de disco inteira) e *EFS* (Encrypting File System - criptografia de arquivos e pastas individuais).\n- **Assistente Virtual e Recursos**:\n  - *Cortana*: Assistente virtual integrada para comandos de voz e pesquisa rápida.\n\n---",
+  "total": 47,
+  "questoes": [
+    {
+      "id": "info11_001",
+      "numero": 1,
+      "banca": "IDECAN / COGERP – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / COGERP – 2023) Veja os seguintes arquivos que estão em uma pasta do sistema Windows: Você deseja copiar os arquivos a.txt, c.txt, h.txt desta pasta para outra. Mas, deseja fazer isso em apenas uma seleção com seu mouse. Para que isto seja possível, você optou por usar uma tecla (ou mais), que pode lhe ajudar neste processo. Identifique as teclas que possibilitam fazer a seleção em apenas uma vez para depois efetuar a cópia:",
+      "alternativas": {
+        "a": "Segurar o CAPS e ir clicando no que deseja copiar.",
+        "b": "Segurar o CTRL e ir clicando no que deseja copiar.",
+        "c": "Segurar o ALT e ir clicando no que deseja copiar.",
+        "d": "Segurar o FN e ir clicando no que deseja copiar.",
+        "e": "Segurar o SHIFT e ir clicando no que deseja copiar."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. A tecla CAPS LOCK é utilizada para alternar entre letras maiúsculas e minúsculas, não\npossui funcionalidade relacionada à seleção de múltiplos arquivos;\n(b) Correto. A tecla CTRL permite selecionar múltiplos arquivos de forma não contígua, ou seja,\nescolher individualmente quais arquivos deseja selecionar, clicando em cada um enquanto segura\na tecla CTRL;(c) Errado. A tecla ALT é geralmente usada em combinações de teclas para acessar funções\nespecíficas de um software ou do sistema operacional, mas não para selecionar arquivos de forma\nindividual;\n(d) Errado. A tecla Fn é utilizada principalmente em laptops para acessar funções secundárias em\noutras teclas, como controle de volume ou brilho da tela, e não tem relação com a seleção de\narquivos;\n(e) Errado. A tecla SHIFT é usada para selecionar uma série de arquivos de forma contígua. Por\nexemplo, se você clicar no primeiro arquivo e, segurando SHIFT, clicar em outro arquivo mais abaixo\nna lista, todos os arquivos entre eles serão selecionados. Não permite a seleção individual de\narquivos não adjacentes."
+    },
+    {
+      "id": "info11_002",
+      "numero": 2,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) No uso dos recursos do sistema operacional Windows 10 BR, analise e atribua V (verdadeira) ou F (falsa) para as afirmativas a seguir. ( ) Para abrir e acessar o gerenciador de pastas e arquivos, conhecido por Explorador de Arquivos, deve-se executar o atalho de teclado + . ( ) Para mostrar e ocultar a Área de Trabalho, deve-se executar o atalho de teclado + . ( ) Para abrir a janela de Configurações, deve-se executar o atalho de teclado + . Respondidas as afirmativas, a sequência correta é:",
+      "alternativas": {
+        "a": "F – V – F",
+        "b": "V – V – F",
+        "c": "F – F – V",
+        "d": "V – F – V"
+      },
+      "gabarito": "B",
+      "comentario": "(a) Correto. O atalho de teclado Winkey + E é de fato utilizado para abrir o Explorador de Arquivos\nno sistema operacional Windows 10. Esse atalho facilita o acesso rápido a pastas e arquivos.\n(b) Correto. Usando o atalho Winkey + D, é possível alternar rapidamente entre mostrar a Área de\nTrabalho (minimizando todas as janelas abertas) e retornar às janelas que estavam abertas\nanteriormente.\n(c) Errado. O atalho correto para abrir a janela de Configurações no Windows 10 é Winkey + I. O\natalho Winkey + C era usado em versões anteriores do Windows para abrir a Charm Bar, um recurso\nque foi descontinuado."
+    },
+    {
+      "id": "info11_003",
+      "numero": 3,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) Estando na área de Trabalho do Windows 10 BR (x64), a ação de pressionar exclusivamente o botão gera como resultado a abertura ou o fechamento do menu Iniciar. Como alternativa, esse sistema operacional oferece a possibilidade de execução de um atalho de teclado que produz o mesmo resultado. Esse atalho de teclado é:",
+      "alternativas": {
+        "a": "ALT + ESC",
+        "b": "ALT + TAB",
+        "c": "CTRL + ESC",
+        "d": "CTRL + TAB"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O atalho ALT + ESC é utilizado para alternar entre janelas abertas em ordem de abertura,\nmas não abre o menu Iniciar;\n(b) Errado. ALT + TAB é usado para alternar entre todas as janelas e programas abertos, mostrando\numa prévia de cada um. Este atalho também não abre o menu Iniciar;\n(c) Correto. O atalho CTRL + ESC é usado para abrir o menu Iniciar no Windows. Ele é uma\nalternativa ao uso da tecla do Windows (Winkey) para abrir o menu Iniciar, o que é útil\nespecialmente em teclados que podem não ter a tecla do Windows;\n(d) Errado. CTRL + TAB é comumente utilizado para alternar entre abas em aplicativos que\nsuportam navegação por abas, como navegadores de internet e alguns editores de código, mas não\ntem função relacionada ao menu Iniciar."
+    },
+    {
+      "id": "info11_004",
+      "numero": 4,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) O Windows 10 BR (x64) disponibiliza a Área de Notificação no canto inferior direito da área de trabalho de um notebook Intel, contendo diversos ícones, cada um com uma função específica. Enquanto um desses ícones tem por significado “Remover Hardware e Ejetar Mídia com Segurança”, outro tem por objetivo verificar o status e configurar aspectos relacionados ao som, associados ao fone de ouvido e alto falantes. Esses ícones são mostrados, respectivamente, na opção de resposta:",
+      "alternativas": {
+        "a": "",
+        "b": "95717730268 - Keyla Kiyoku",
+        "c": "",
+        "d": ""
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. O primeiro ícone se refere a remover hardware e ejetar mídia com segurança e o\nsegundo ícone se refere a verificar o status e configurar aspectos relacionados ao som;\n(b) Errado. O primeiro ícone se refere a remover hardware e ejetar mídia com segurança e o segundo\nícone se refere a configurações de impressora;\n(c) Errado. O primeiro ícone se refere à bateria e o segundo ícone se refere a remover hardware e\nejetar mídia com segurança;\n(d) Errado. O primeiro ícone se refere à bateria e o segundo ícone se refere a configurações de\nimpressora."
+    },
+    {
+      "id": "info11_005",
+      "numero": 5,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) No uso dos recursos do sistema operacional Windows 10/11 BR, um atalho de teclado tem por significado, alternar o acesso a programas que estejam em execução concorrente, na modalidade multitarefa preemptiva, enquanto que outro tem por finalidade acessar e/ou ocultar a área de trabalho, sendo estes, identificados, respectivamente como",
+      "alternativas": {
+        "a": "ALT + TAB e WINKEY + A.",
+        "b": "ALT + TAB e WINKEY + D.",
+        "c": "CTRL + TAB e WINKEY + A.",
+        "d": "CTRL + TAB e WINKEY + D."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. O atalho ALT + TAB é correto para alternar o acesso a programas que estejam em\nexecução concorrente, como descrito. No entanto, WINKEY + A não é utilizado para acessar e/ou\nocultar a área de trabalho; ele abre o Centro de Ações no Windows;\n(b) Correto. ALT + TAB é usado para alternar entre programas que estão em execução concorrente.\nWINKEY + D é o atalho para mostrar e ocultar a Área de Trabalho, minimizando ou restaurando\ntodas as janelas abertas, o que permite acesso rápido à Área de Trabalho;(c) Errado. CTRL + TAB geralmente é usado para alternar entre abas dentro de um programa\nespecífico, como navegadores de internet ou editores de texto, e não entre programas em execução\nno sistema operacional. WINKEY + A, como mencionado, abre o Centro de Ações;\n(d) Errado. Como já citado, CTRL + TAB é para alternar entre abas, e não entre programas em\nexecução. WINKEY + D é correto para acessar e/ou ocultar a área de trabalho, mas o par com CTRL\n+ TAB não atende à primeira parte da pergunta."
+    },
+    {
+      "id": "info11_006",
+      "numero": 6,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) Em um microcomputador com o Windows 11 BR instalado, um usuário acessou o site da Microsoft por meio do browser Google Chrome, em sua última versão. Para acessar a Área de Trabalho nesse sistema operacional, ele precisou executar um atalho de teclado. Com base nesse caso hipotético, assinale a opção que apresenta o atalho de teclado executado pelo usuário, que consiste em pressionar as teclas e:",
+      "alternativas": {
+        "a": "D.",
+        "b": "V.",
+        "c": "E.",
+        "d": "Z."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. O atalho Winkey + D é utilizado para acessar rapidamente a Área de Trabalho no\nWindows 11 (assim como no Windows 10). Esse atalho minimiza todas as janelas abertas,\npermitindo ao usuário visualizar e interagir com a Área de Trabalho. Pressionando novamente,\ntodas as janelas são restauradas à sua posição original;\n(b) Errado. Winkey + V é um atalho usado para abrir o histórico de área de transferência no\nWindows, que permite ao usuário visualizar itens que foram copiados para a área de transferência;\n(c) Errado. Winkey + E é o atalho que abre o Explorador de Arquivos no Windows, facilitando o\nacesso a arquivos e pastas no sistema operacional;\n(d) Errado. Winkey + Z é usado em contextos específicos para mostrar os comandos disponíveis em\naplicativos que suportam esse atalho, particularmente útil em aplicações de tela cheia ou apps da\nMicrosoft Store."
+    },
+    {
+      "id": "info11_007",
+      "numero": 7,
+      "banca": "IDECAN / Prefeitura SCS – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura SCS – 2023) O Windows Explorer é um software que já vem instalado na versão do Windows 11 da Microsoft. É possível gerenciar os arquivos e pastas do sistema Operacional e também pessoais, e assim, pode-se copiar, recortar, excluir, etc. Bem como 95717730268 - Keyla Kiyoku navegar entre as pastas e assim, facilitar a busca de arquivos previamente salvos. Uma opção bastante interessante é o modo visualizador de arquivo, que mostra previamente o arquivo selecionado. Desta forma, indique o atalho que ativa o modo de visualização de arquivos através do teclado.",
+      "alternativas": {
+        "a": "CTRL + P",
+        "b": "ALT + V",
+        "c": "CTRL + B",
+        "d": "ALT + P"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. CTRL + P, em muitos programas, é usado comumente para iniciar a impressão de um\ndocumento ou arquivo, não para ativar o modo de visualização de arquivos no Explorador de\nArquivos;\n(b) Errado. ALT + V é usado para acessar o menu \"Exibir\" no Explorador de Arquivos, mas por si só\nnão ativa o modo de visualização de arquivos;\n(c) Errado. CTRL + B não é um atalho padrão relacionado à visualização de arquivos no Windows\nExplorer ou qualquer função específica amplamente conhecida;\n(d) Correto. ALT + P é o atalho que ativa o painel de visualização no Explorador de Arquivos no\nWindows. Quando ativado, este painel mostra uma pré-visualização do arquivo selecionado,\npermitindo ao usuário ver o conteúdo do arquivo sem necessariamente abri-lo. Este recurso é útil\npara visualizar rapidamente documentos, imagens, vídeos e outros tipos de arquivos."
+    },
+    {
+      "id": "info11_008",
+      "numero": 8,
+      "banca": "IBFC / DETRAN-AM – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / DETRAN-AM – 2022) Conforme VELLOSO (2017), a plataforma Microsoft Windows é um Sistema Operacional de Rede que é considerado como sendo do tipo ______. Assinale a alternativa que preencha corretamente a lacuna.",
+      "alternativas": {
+        "a": "Multiusuário e Monotarefa",
+        "b": "Monousuário e Multitarefa",
+        "c": "Multiusuário e Multitarefa",
+        "d": "Monousuário e Monotarefa"
+      },
+      "gabarito": "C",
+      "comentario": "O Windows é definitivamente um sistema operacional multitarefa, mas se ele é um sistema\noperacional monousuário ou multiusuário é mais polêmico. Como a questão menciona oentendimento de um autor específico, esse autor considera o Windows como monousuário. Acho\npéssimo que a banca cobre o entendimento de um autor específico, mas enfim...\nEdit: a banca teve um pouco de bom senso e modificou o gabarito definitivo para multiusuário e\nmultitarefa."
+    },
+    {
+      "id": "info11_009",
+      "numero": 9,
+      "banca": "FUNDATEC / IPE-SAÚDE – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IPE-SAÚDE – 2022) O recurso do Windows 10 que, quando acionado, mantém o computador ligado com baixo consumo de energia e com o monitor desligado é chamado:",
+      "alternativas": {
+        "a": "Suspender.",
+        "b": "Repousar.",
+        "c": "Desligar.",
+        "d": "Reiniciar.",
+        "e": "Desconectar."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, esse é realmente um estado com baixo consumo de energia; (b) Errado, não há essa\nopção no Windows; (c) Errado, essa opção irá desligar o computador; (d) Errado, essa opção irá\nreiniciar o computador; (e) Errado, não há opção desconectar no Windows."
+    },
+    {
+      "id": "info11_010",
+      "numero": 10,
+      "banca": "QUADRIX / CRF-GO – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRF-GO – 2022) Em um computador pessoal com o sistema operacional Windows instalado, as extensões de nome de arquivo são compatíveis com apenas um único programa, dentre os diversos programas que estão ou que podem ser instalados no computador.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Não existe essa restrição! Se o formato do arquivo for aberto, em regra, ele poderá ser aberto por\ndiversos programas diferentes."
+    },
+    {
+      "id": "info11_011",
+      "numero": 11,
+      "banca": "FUNDATEC / IPE-SAÚDE – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IPE-SAÚDE – 2022) O atalho do Windows 10, conhecido como +X, tem a seguinte finalidade:",
+      "alternativas": {
+        "a": "Copia o(s) arquivo(s) ou a(s) pasta(s) selecionada(s).",
+        "b": "Recorta o(s) arquivo(s) ou a(s) pasta(s) selecionada(s), preparando-os para serem movidos de lugar.",
+        "c": "Cola os arquivos ou pastas copiados ou recortados anteriormente.",
+        "d": "Desfaz a última ação que você considere equivocada, seja recorte, cópia ou colagem. 95717730268 - Keyla Kiyoku",
+        "e": "Apaga o arquivo selecionado, movendo-o para a lixeira."
+      },
+      "gabarito": "B",
+      "comentario": "Questão mal redigida! Por outro lado, é possível saber pelo contexto que o CTRL está implícito!\nDessa forma, o CTRL+X recorta um arquivo ou pasta e envia para área de transferência.\nPosteriormente, tal arquivo ou pasta pode ser recuperado com a função Colar."
+    },
+    {
+      "id": "info11_012",
+      "numero": 12,
+      "banca": "IBFC / MGS – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / MGS – 2022) Tanto no Sistema Operacional da Microsoft como em aplicativos do Pacote Microsoft Office existem recursos para a edição de texto. Assinale a única alternativa que esteja tecnicamente incorreta quanto a softwares específicos para a edição de texto:",
+      "alternativas": {
+        "a": "WordPad",
+        "b": "Bloco de Notas",
+        "c": "MS-Word",
+        "d": "InfoPath"
+      },
+      "gabarito": "D",
+      "comentario": "Todos as alternativas são de softwares específicos para a edição de textos, exceto a letra (d). O\nInfoPath é um software que permite criar e preencher formulários eletrônicos."
+    },
+    {
+      "id": "info11_013",
+      "numero": 13,
+      "banca": "QUADRIX / CRF-GO – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRF-GO – 2022) No sistema operacional Windows, as extensões de arquivo bin e csv representam, respectivamente, o formato do arquivo de lote do computador e o formato do arquivo de biblioteca de vínculo dinâmico.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A extensão .bin representa um arquivo binário, geralmente utilizado para imagens de CDs e/ou\nDVDs. Já um arquivo .csv é um formato de arquivo de texto simples para intercâmbio de dados que\narmazena registros em linhas que contêm valores separados por um delimitador."
+    },
+    {
+      "id": "info11_014",
+      "numero": 14,
+      "banca": "QUADRIX / CRF-GO – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRF-GO – 2022) O Windows 10 possui uma barra com os ícones de todos os programas instalados. Essa barra chama-se Charms e está localizada na lateral direita da tela.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Opa! Na verdade, a barra Charms é um recurso do Windows 8."
+    },
+    {
+      "id": "info11_015",
+      "numero": 15,
+      "banca": "QUADRIX / CRF-GO – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRF-GO – 2022) Ao criar uma senha no Windows 10 para fins de logon, não é permitido que o usuário digite a sua senha exata como dica.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A dica da senha é visível para qualquer usuário para fins de logon. Desse modo, ela não pode ser\nigual a senha."
+    },
+    {
+      "id": "info11_016",
+      "numero": 16,
+      "banca": "ACCESS / Câmara de Arantina-MG – 2022",
+      "tipo": "multipla",
+      "enunciado": "(ACCESS / Câmara de Arantina-MG – 2022) Em um microcomputador com Windows 10 BR, no canto inferior direito da tela são visualizados diversos ícones na Área de Notificação, cada um com uma função específica, dos quais dois são caracterizados a seguir. I. é utilizado com o significado de “Remover Hardware e Ejetar Mídia com Segurança”; II. é utilizado para sinalizar o status de conexão wi-fi internet. Os ícones caracterizados em I e em II são, respectivamente,",
+      "alternativas": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "gabarito": "E",
+      "comentario": "(I) O símbolo para remover um hardware e ejetar a mídia com segurança é um pendrive. (II) O\nsímbolo de WI-FI é parecido com o de SOM, entretanto as ondas apontam na diagonal."
+    },
+    {
+      "id": "info11_017",
+      "numero": 17,
+      "banca": "IESES / Prefeitura de Palhoça-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / Prefeitura de Palhoça-SC – 2022) Algumas combinações de atalhos do teclado são úteis durante o uso do computador, especialmente durante a digitação de arquivos de texto. Nesse sentido, verifique as assertivas e assinale a alternativa correta. I. Alternar entre janelas abertas. II. Desfazer ação. III. Recortar itens selecionados para área de transferência.",
+      "alternativas": {
+        "a": "(I) Ctrl + Z; (II) Ctrl + X; (III) Alt + Tab.",
+        "b": "(I) Alt + Tab; (II) Ctrl + Z; (III) Ctrl + X.",
+        "c": "(I) Ctrl + X; (II) Ctrl + Z; (III) Alt + Tab.",
+        "d": "(I) Alt + Tab; (II) Ctrl + X; (III) Ctrl + Z."
+      },
+      "gabarito": "B",
+      "comentario": "(I) A combinação para alternar janelas abertas é ALT+TAB; (II) Para desfazer uma ação, utiliza-se\nCTRL+Z; (III) Para recortar itens e transportá-los para a área de transferência, utiliza-se o CTRL+X."
+    },
+    {
+      "id": "info11_018",
+      "numero": 18,
+      "banca": "IESES / Prefeitura de Palhoça-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / Prefeitura de Palhoça-SC – 2022) Algumas combinações de atalhos do teclado são úteis durante o uso do computador, especialmente durante a digitação de arquivos de texto. Nesse sentido, selecione a alternativa que indica corretamente a ação do atalho CTRL + C (ou CTRL + Insert):",
+      "alternativas": {
+        "a": "Mandar item selecionado para a lixeira.",
+        "b": "Copiar itens selecionados para área de transferência.",
+        "c": "Selecionar tudo.",
+        "d": "Colar itens da área de transferência."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, o atalho para enviar um item para a lixeira é o DEL; (b) Correto, o atalho CTRL+C copia\nitens para a área de transferência; (c) Errado, o atalho para selecionar tudo é o CTRL+A; (d) Errado,\no atalho CTRL+V cola os itens da área de transferência."
+    },
+    {
+      "id": "info11_019",
+      "numero": 19,
+      "banca": "IESES / Prefeitura de Palhoça-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / Prefeitura de Palhoça-SC – 2022) O Windows é:",
+      "alternativas": {
+        "a": "um gerenciador de arquivos e pastas. 95717730268 - Keyla Kiyoku",
+        "b": "um navegador.",
+        "c": "um sistema operacional.",
+        "d": "um banco de dados."
+      },
+      "gabarito": "C",
+      "comentario": "Essa questão está incompleta! O Windows é um sistema operacional."
+    },
+    {
+      "id": "info11_020",
+      "numero": 20,
+      "banca": "CONSULPLAN / Câmara Municipal de Itabira – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / Câmara Municipal de Itabira – 2022) Considere os seguintes atalhos utilizados no Sistema Operacional Windows (versões 7, 8.1, 10 e 11) em português. I. Tecla Windows + X. II. Tecla Windows + Pause. III. Tecla Windows + Tab. IV. Tecla Windows + Ctrl + D. V. Ctrl + Shift + Tab. Assinale a alternativa que descreve correta e respectivamente as funções dos atalhos.",
+      "alternativas": {
+        "a": "I. Abre o menu Link Rápido II. Abre a janela “Sobre” com requisitos do computador III. Adiciona uma área de trabalho virtual IV. Volta nas guias do navegador que estão abertas V. Abre Visão de Tarefas.",
+        "b": "I. Abre a janela “Sobre” com requisitos do computador II. Abre o menu Link Rápido III. Abre Visão de Tarefas IV. Adiciona uma área de trabalho virtual V. Volta nas guias do navegador que estão abertas.",
+        "c": "I. Abre o menu Link Rápido II. Abre a janela “Sobre” com requisitos do computador III. Abre Visão de Tarefas IV. Adiciona uma área de trabalho virtual V. Volta nas guias do navegador que estão abertas. 95717730268 - Keyla Kiyoku",
+        "d": "I. Abre o menu Link Rápido II. Abre Visão de Tarefas III. Abre a janela “Sobre” com requisitos do computador IV. Adiciona uma área de trabalho virtual V. Volta nas guias do navegador que estão abertas."
+      },
+      "gabarito": "C",
+      "comentario": "A associação correta é:\nI. Abre o menu Link Rápido\nII. Abre a janela “Sobre” com requisitos do computador\nIII. Abre Visão de Tarefas\nIV. Adiciona uma área de trabalho virtual\nV. Volta nas guias do navegador que estão abertas."
+    },
+    {
+      "id": "info11_021",
+      "numero": 21,
+      "banca": "IDIB / Ministério da Economia – 2021",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / Ministério da Economia – 2021) A imagem abaixo, Figura 1, mostra uma tela capturada do Windows Explorer, gerenciador de arquivos do sistema operacional Windows: Assinale a alternativa correta sobre a Figura 1:",
+      "alternativas": {
+        "a": "A pasta “livros_ler_agora” está selecionada e é “filha” da pasta “docs_FIEC”. 95717730268 - Keyla Kiyoku",
+        "b": "A seta ao lado das pastas indica se ela está aberta ou fechada, e as teclas “-” e “+” fecham e abrem uma pasta selecionada.",
+        "c": "Um arquivo pode ser selecionado com o mouse e movido utilizando-se o movimento de arrastar + tecla [Ctrl].",
+        "d": "Um duplo clique sobre uma pasta ou arquivo os envia para a Lixeira.",
+        "e": "Um clique com botão esquerdo do mouse sobre uma pasta ou arquivo mostra o seu menu de contexto, com opções para aquela pasta ou arquivo."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, ela não é filha de “docs_FIEC”; (b) Correto, mas com ressalvas: ela indica se a pasta está\naberta na árvore e, não, aberta como uma janela; (c) Errado, esse atalho copia arquivos em vez de\nmovê-los; (d) Errado, isso não faz nenhum sentido; (e) Errado, isso ocorreria caso fosse um clique\ncom o botão direito do mouse."
+    },
+    {
+      "id": "info11_022",
+      "numero": 22,
+      "banca": "NC-UFPR / Câmara Municipal de Quitandinha – 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / Câmara Municipal de Quitandinha – 2018) Em um site está para venda um computador com as seguintes características: Notebook Intel Core i7 7500U 13,3\" 8GB SSD 256 GB Windows 10 7ª Geração micro HDMI 2 USB 2.0 mini VGA. Assinale a alternativa que apresenta a sigla de dispositivo para armazenamento não volátil de dados digitais.",
+      "alternativas": {
+        "a": "8GB",
+        "b": "HDMI",
+        "c": "SSD",
+        "d": "USB",
+        "e": "VGA"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Essa sigla significa 8 Gigabytes; (b) Errado. HDMI é a sigla para High Definition Multimedia\nInterface, que é um dispositivo de saída digital de áudio e vídeo capaz de transmitir dados não\ncomprimidos; (c) Correto. SSD é a sigla para Solid State Disk, sendo um dispositivo não volátil,\nportanto mantém os dados após o desligamento do dispositivo; (d) Errado. USB é a sigla para\nUniversal Serial Bus, que é um tipo de conexão entre computador e periféricos que surgiu em 1995.\nA interface USB permite fornecimento de energia elétrica feito pelo mesmo cabo usado para o\ntráfego de dados; (e) Errado. VGA é a sigla para Video Graphics Array, que é um dispositivo de saída\nanalógico de áudio e vídeo capaz de transmitir dados não comprimidos."
+    },
+    {
+      "id": "info11_023",
+      "numero": 23,
+      "banca": "NC-UFPR / FOZPREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / FOZPREV – 2018) Em relação ao uso do gerenciador/explorador de arquivos do Microsoft Windows, é correto afirmar:",
+      "alternativas": {
+        "a": "Os atalhos CTRL + C e CTRL + Z são, respectivamente, para copiar e colar arquivos e pastas.",
+        "b": "A combinação ALT + P imprime a tela atual.",
+        "c": "As teclas CTRL + E selecionam a caixa de pesquisa.",
+        "d": "Ao serem selecionadas as pastas e teclas CTRL + INS, SHIFT + DEL e CTRL + W, respectivamente, copiam-se, removem-se e movem-se as pastas selecionadas.",
+        "e": "A tecla F11 abre uma nova janela."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O atalho CTRL + Z desfaz a última ação realizada; (b) Errado. ALT + P exibe o painel de\nvisualização; (c) Correto; (d) Errado. O atalho CTRL + W fecha a janela ativa; (e) Errado. A tecla F11\nalterna para a exibição em tela cheia."
+    },
+    {
+      "id": "info11_024",
+      "numero": 24,
+      "banca": "IDIB / Prefeitura de Farroupilha – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / Prefeitura de Farroupilha – 2018) Considerando o sistema operacional Windows 10, marque a alternativa com o nome do assistente virtual que funciona em todos os seus dispositivos e se integra a centenas de aplicativos do Windows.",
+      "alternativas": {
+        "a": "Painel de controle",
+        "b": "OneNote",
+        "c": "Network Speed Test",
+        "d": "Code Writer",
+        "e": "Cortana"
+      },
+      "gabarito": "E",
+      "comentario": "Um assistente pessoal ou agente digital para realização de tarefas como o Siri da Apple, mas com\numa profundidade e utilidade de informações mais próximos do Google Now. É acionado por voz\nou texto na barra de tarefas, ao lado do menu Iniciar."
+    },
+    {
+      "id": "info11_025",
+      "numero": 25,
+      "banca": "CS-UFG / APARECIDAPREV– 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / APARECIDAPREV– 2018) Um usuário utilizando o Windows em sua configuração padrão, abre a pasta Documentos que contém três arquivos: Concurso.doc, Gabarito.doc e Estudos.doc. O usuário seleciona o arquivo Concurso.doc e pressiona as teclas Ctrl + C. Em seguida, seleciona o arquivo Gabarito.doc e pressiona as teclas Ctrl + C. Por último, o usuário seleciona o arquivo Estudos.doc e pressiona as teclas Ctrl + C. Ao pressionar Crtl + V em outra pasta, qual é a saída do comando? 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "Concurso.doc e Gabarito.doc.",
+        "b": "Concurso.doc.",
+        "c": "Concurso.doc, Gabarito.doc e Estudos.doc.",
+        "d": "Estudos.doc."
+      },
+      "gabarito": "D",
+      "comentario": "Questão bem tranquila, pessoal! Os atalhos apresentados são uns dos mais utilizados, lembrando\nque CTRL+C é o atalho para copiar arquivos ou documentos, e o CTRL + V é o atalho para colar.\nAo pressionar o CTRL+C, o arquivo será copiado na área de transferência, uma espécie de pasta\n“imaginária”, até que seja pressionado o CTRL+V onde se deseja colar o novo arquivo. O detalhe é\nque sempre que se pressiona o CTRL+C o arquivo mais novo substitui o mais antigo, assim, o único\nque irá aparecer na saída do comando é o último – Estudos.doc."
+    },
+    {
+      "id": "info11_026",
+      "numero": 26,
+      "banca": "CS-UFG / APARECIDAPREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / APARECIDAPREV – 2018) Um usuário precisa desinstalar um jogo de um computador com sistema operacional Windows e, além disso, verificar a sua configuração relacionada à memória disponível. Para realizar ambas as tarefas ele deve",
+      "alternativas": {
+        "a": "instalar o aplicativo Microsoft Checker.",
+        "b": "usar o Painel de Controle.",
+        "c": "usar o Windows Explorer.",
+        "d": "instalar o aplicativo regedit."
+      },
+      "gabarito": "B",
+      "comentario": "Sempre que for necessário desinstalar algum programa, isso será feito no Painel de Controle.\nCuidado para não confundir com o Windows Explorer, que é utilizado para gerenciar arquivos."
+    },
+    {
+      "id": "info11_027",
+      "numero": 27,
+      "banca": "CS-UFG / Câmara Municipal de Goiânia – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / Câmara Municipal de Goiânia – 2018) No sistema Windows, a nomeação de arquivos e pastas obedece a algumas regras para tornar um nome válido. Nesse sentido, os nomes de:",
+      "alternativas": {
+        "a": "arquivos limitam extensões de até dois caracteres.",
+        "b": "pastas podem conter letras minúsculas e números.",
+        "c": "pastas podem ter extensões, mas seu tamanho é limitado em dois caracteres.",
+        "d": "arquivos podem conter qualquer caractere especial disponível a partir do teclado."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errada. O limite máximo de caracteres é de 260 caracteres; (b) Correto. Não há nenhuma\nlimitação nesse sentido; (c) Errado. As pastas não possuem extensões e o seu tamanho também\nnão é limitado a dois caracteres; (d) Errado. Há uma limitação para alguns caracteres especiais, são\neles: \\/|<>*:“?"
+    },
+    {
+      "id": "info11_028",
+      "numero": 28,
+      "banca": "CS-UFG / Câmara Municipal de Goiânia – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / Câmara Municipal de Goiânia – 2018) No sistema Windows, uma forma de ter acesso ao Gerenciador de Tarefas é usar um atalho formado pela combinação das seguintes teclas:",
+      "alternativas": {
+        "a": "Ctrl e Del.",
+        "b": "Shift e Del.",
+        "c": "Ctrl, Alt e Del.",
+        "d": "Shift, Alt e Del."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, a combinação não forma um atalho válido; (b) Errado, a atalho será utilizado para excluir\num arquivo definitivamente, sem movê-lo para a lixeira; (c) Correto, este atalho permite acessar o\nGerenciador de Tarefas indiretamente, porque o atalho para acessar diretamente é\nCTRL+SHIFT+ESC; (d) Errado, a combinação não forma um atalho válido."
+    },
+    {
+      "id": "info11_029",
+      "numero": 29,
+      "banca": "CS-UFG / APARECIDAPREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / APARECIDAPREV – 2018) Em uma pasta do Windows há três arquivos, assim nomeados: notafiscal.doc, pedido.doc, venda.doc. Um usuário precisa renomear o arquivo notafiscal.doc. A forma de realizar essa tarefa é:",
+      "alternativas": {
+        "a": "pressionar F1 e atribuir o nome recibo.doc.",
+        "b": "pressionar F2 e atribuir o nome recibo.doc.",
+        "c": "pressionar F2 e atribuir o nome venda.doc.",
+        "d": "pressionar F1 e atribuir o nome venda.doc."
+      },
+      "gabarito": "B",
+      "comentario": "Pessoal, no Windows o atalho F2 é utilizado quando se deseja renomear um arquivo ou pasta. Já o\nF1 é o atalho universal para Ajuda. Quanto ao nome do arquivo, vejamos que na mesma pasta já\ntemos outro arquivo com o nome “venda.com”. Considerando que não é possível manter dois\narquivos com o mesmo nome e formato na mesma pasta, somente seria possível renomear o\narquivo com o nome recibo.com."
+    },
+    {
+      "id": "info11_030",
+      "numero": 30,
+      "banca": "FUNDATEC / CIGA-SC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / CIGA-SC – 2018) No sistema operacional Windows 10 (Português), existem diversas combinações de teclas de atalho. Uma combinação possível é pressionar a tecla “Windows” (aquela que possui um desenho referente a uma janela.), e sem soltá-la, pressionar outra tecla. Caso a combinação “Windows” + E seja realizada, o que deve ocorrer?",
+      "alternativas": {
+        "a": "O Escritor de blocos será aberto.",
+        "b": "O Explorador de Arquivos será aberto.",
+        "c": "O menu Iniciar será mostrado.",
+        "d": "O software padrão de endereçamento de redes será aberto.",
+        "e": "O software padrão de leitura de e-mails será aberto."
+      },
+      "gabarito": "B",
+      "comentario": "ATALHO DESCRIÇÃO\nWIN + E Abre o Explorador de Arquivos.\nO atalho WIN + E abre o explorador de arquivos."
+    },
+    {
+      "id": "info11_031",
+      "numero": 31,
+      "banca": "FUNDATEC / DPE SC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / DPE SC – 2018) Suponha que há oito janelas abertas e você deseja trocar de janela utilizando apenas o teclado. Tal operação é possível através da seguinte sequência:",
+      "alternativas": {
+        "a": "Pressionar concomitantemente as teclas “Alt” e “F4” até mostrar a janela desejada.",
+        "b": "Pressionar concomitantemente as teclas “Shift” e “F4” até mostrar a janela desejada.",
+        "c": "Pressionar e manter pressionada a tecla “Ctrl”, pressionar e soltar a tecla “F4” até que a janela desejada seja selecionada, soltar a tecla “Ctrl”.",
+        "d": "Pressionar e manter pressionada a tecla “Tab”, pressionar e soltar a tecla “Alt” até que a janela desejada seja selecionada, soltar a tecla “Tab”.",
+        "e": "Pressionar e manter pressionada a tecla “Alt”, pressionar e soltar a tecla “Tab” até que a janela desejada seja selecionada, soltar a tecla “Alt”."
+      },
+      "gabarito": "E",
+      "comentario": "ATALHO DESCRIÇÃO\nALT + TAB Alterna entre as janelas abertas, exibindo uma bandeja com miniaturas das janelas.\nEsse atalho é bastante útil quando temos muitas janelas abertas."
+    },
+    {
+      "id": "info11_032",
+      "numero": 32,
+      "banca": "IBFC / Câmara Municipal de Araraquara – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / Câmara Municipal de Araraquara – 2018) Microsoft Windows (ou simplesmente Windows) é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft. A última versão desse sistema operacional foi denominada:",
+      "alternativas": {
+        "a": "Windows 2018",
+        "b": "Windows Vista",
+        "c": "Windows 2010",
+        "d": "Windows 10",
+        "e": "Windows 2000"
+      },
+      "gabarito": "D",
+      "comentario": "Cuidado! A questão é simples, mas pode confundir! As únicas versões do Windows que utilizaram a\nnomenclatura do ano completo foram 2000, 2003 e 2008.\nDepois do Windows 2008, tivemos as versões Windows7, Windows 8, Windows 8.1 e Windows 10,\nque é a versão mais recente."
+    },
+    {
+      "id": "info11_033",
+      "numero": 33,
+      "banca": "IESES / CRM-SC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRM-SC – 2018) Identifique nas opções abaixo o comando que deve ser executado na linha de comando do Windows 10 para acessar a ferramenta de diagnósticos do DirectX (considerando que o mesmo encontra-se instalado e funcionando):",
+      "alternativas": {
+        "a": "dxdiag",
+        "b": "directx",
+        "c": "dconfig",
+        "d": "dirdiag"
+      },
+      "gabarito": "A",
+      "comentario": "O DirectX é uma interface de programa de aplicativo (API - Application Program Interface) para\ncriar e gerenciar imagens gráficas e efeitos de multimídia em aplicativos como jogos ou páginas da\nWeb ativas que serão executadas nos sistemas operacionais Windows da Microsoft. No entanto,\nessa é uma pegadinha para todos pensarem que se trata do directx – no entanto, trata-se do\ncomando dxdiag."
+    },
+    {
+      "id": "info11_034",
+      "numero": 34,
+      "banca": "CONSULPLAN / Câmara Municipal de Belo Horizonte-MG – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / Câmara Municipal de Belo Horizonte-MG – 2018) O novo sistema operacional da Microsoft, o Windows 10, trouxe diversas novidades, uma nova interface e o retorno do menu iniciar. Muitos atalhos presentes em versões anteriores foram mantidos e outros adicionados, facilitando sua utilização pelos usuários. Uma nova janela foi adicionada: as configurações do sistema que se pode acionar pelo Menu Iniciar e clicar em ícone, parecendo uma engrenagem, ou utilizar uma combinação de teclas. “Tomando como base o Windows 10, Configuração Local, Idioma Português-Brasil, torna-se necessário modificar diversas configurações do sistema.” Assinale a alternativa que apresenta corretamente a sequência de teclas que aciona a janela Configurações.",
+      "alternativas": {
+        "a": "<WIN> + <I>.",
+        "b": "<WIN> + <J>.",
+        "c": "<WIN> + <E>.",
+        "d": "<WIN> + <G>."
+      },
+      "gabarito": "A",
+      "comentario": "Para acessar a janela de classificações, basta utilizar o atalho Winkey + I. Ele aparecerá em uma\njanela lateral conforme mostra a imagem a seguir."
+    },
+    {
+      "id": "info11_035",
+      "numero": 35,
+      "banca": "ITAME / Prefeitura de Aruanã – 2018",
+      "tipo": "multipla",
+      "enunciado": "(ITAME / Prefeitura de Aruanã – 2018) Ao abrir uma pasta qualquer do sistema operacional Windows 10 e pressionar CTRL N com a pasta ativa, o que ocorre: 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "Abre uma subpasta dentro da pasta aberta",
+        "b": "Abre uma nova pasta",
+        "c": "Abre novamente a mesma pasta",
+        "d": "Abre um arquivo"
+      },
+      "gabarito": "C",
+      "comentario": "Quando você utiliza o atalho CTRL+N com uma pasta aberta, o Windows abre uma nova janela com\na mesma pasta da pasta aberta anteriormente, logo abre novamente a mesma pasta."
+    },
+    {
+      "id": "info11_036",
+      "numero": 36,
+      "banca": "NC-UFPR / ITAIPU – 2017",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / ITAIPU – 2017) Os arquivos armazenados no computador possuem características específicas. No “Explorador de Arquivos” do Windows 10, na guia “Exibir”, que opção deve ser acionada para serem visualizadas informações complementares relativas a um arquivo do Word, PowerPoint ou Excel selecionado pelo usuário?",
+      "alternativas": {
+        "a": "Painel de Navegação.",
+        "b": "Painel de Visualização.",
+        "c": "Painel de Detalhes.",
+        "d": "Classificar por.",
+        "e": "Itens ocultos."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Essa opção permite escolher o que exibir no painel de navegação; (b) Errado. O Painel\nde Visualização permite visualizar o conteúdo de um arquivo sem precisar abri-lo; (c) Correto; (d)\nErrado. A opção “Classificar por” permite classificar os itens dessa exibição usando uma coluna; (e)\nErrado. Quando selecionada essa opção permite visualizar os itens ocultos da pasta."
+    },
+    {
+      "id": "info11_037",
+      "numero": 37,
+      "banca": "IBADE / IPERON – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / IPERON – 2017) Um usuário do sistema MS Windows a, em português, deseja capturar uma tela, a fim de usar essa tela capturada em outro aplicativo. A captura da tela se faz através do uso da tecla:",
+      "alternativas": {
+        "a": "Windows",
+        "b": "Print Screen",
+        "c": "Pause Break",
+        "d": "Scroll Lock",
+        "e": "Num Lock"
+      },
+      "gabarito": "B",
+      "comentario": "Para capturar telas, deve-se utilizar a Tecla Printscreen."
+    },
+    {
+      "id": "info11_038",
+      "numero": 38,
+      "banca": "IBADE / PC-AC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PC-AC – 2017) Suponha que se queira copiar as pastas\" Documentos e Imagens\" que estão no diretório raiz de um computador a fim de salvá-los em outro disco. Qual tecla deve ser usada juntamente com o mouse para selecionar apenas essas duas pastas?",
+      "alternativas": {
+        "a": "Tab",
+        "b": "Fn",
+        "c": "Shift",
+        "d": "All",
+        "e": "Ctrl"
+      },
+      "gabarito": "E",
+      "comentario": "Para selecionar duas páginas, deve-se pressionar a Tecla CTRL."
+    },
+    {
+      "id": "info11_039",
+      "numero": 39,
+      "banca": "IBADE / PM-AC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PM-AC – 2017) No ambiente Windows, os arquivos de computador que foram apagados recentemente ficam armazenados na(o):",
+      "alternativas": {
+        "a": "pasta \"Meus documentos\".",
+        "b": "menu \"Iniciar\".",
+        "c": "área de trabalho.",
+        "d": "lixeira.",
+        "e": "barra de ferramentas."
+      },
+      "gabarito": "D",
+      "comentario": "Os arquivos apagados recentemente vão para a Lixeira."
+    },
+    {
+      "id": "info11_040",
+      "numero": 40,
+      "banca": "IBADE / PM-AC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PM-AC – 2017) O sistema operacional fornece uma maneira para que o usuário interaja com o computador e gerencie sua unidade de processamento central (CPU). Dos sistemas operacionais listados a seguir, assinale a alternativa que contém um sistema de código aberto.",
+      "alternativas": {
+        "a": "lOS",
+        "b": "Windows",
+        "c": "Mac 95717730268 - Keyla Kiyoku",
+        "d": "Microsoft",
+        "e": "Linux"
+      },
+      "gabarito": "E",
+      "comentario": "O único dos sistemas operacionais listados que contém código aberto é o Linux."
+    },
+    {
+      "id": "info11_041",
+      "numero": 41,
+      "banca": "CS-UFG / UNIGR – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UNIGR – 2017) O Sistema Operacional Windows, na sua versão padrão, contém dois editores de texto nativos instalados na pasta acessórios. São eles:",
+      "alternativas": {
+        "a": "wordpad e paint.",
+        "b": "paint e word.",
+        "c": "word e bloco de notas.",
+        "d": "wordpad e bloco de notas."
+      },
+      "gabarito": "D",
+      "comentario": "Lembrem-se que o Windows, quando instalado, já possui alguns programas nativos. Dentre as\nopções apresentadas, somente o Word não é nativo, pertencendo ao pacote do MS Office. Resta\nanalisar a utilidade de cada utilitário nativo: Paint é utilizado para criar desenhos, colorir e até editar\nimagens; os outros dois – Wordpad e Bloco de Notas – são editores de texto, sendo que este\nsomente permita a criação de textos simples."
+    },
+    {
+      "id": "info11_042",
+      "numero": 42,
+      "banca": "CS-UFG / UFG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UFG – 2017) Utilizando o Windows Explorer, ferramenta de gerenciamento de arquivos do Windows, um usuário seleciona um determinado arquivo dentro da pasta “Downloads” e, a seguir, pressiona as teclas CTRL e X simultaneamente. Tais ações significam que o usuário pretende:",
+      "alternativas": {
+        "a": "mover o arquivo da pasta “Downloads” para outra pasta.",
+        "b": "duplicar o arquivo dentro da própria pasta “Downloads”.",
+        "c": "quebrar o arquivo em partes.",
+        "d": "copiar o arquivo para outra pasta."
+      },
+      "gabarito": "A",
+      "comentario": "O atalho CTRL+X é o famoso “cortar”. Ele é utilizado para retirar o arquivo do seu local de origem,\nquando se pretende colá-lo em local diverso. Assim, se o usuário retirou o arquivo do seu local\noriginal, entende-se que ele deseja movê-lo para outra pasta."
+    },
+    {
+      "id": "info11_043",
+      "numero": 43,
+      "banca": "CS-UFG / UFG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UFG – 2017) Utilizando Windows, uma pessoa cria um arquivo no editor de textos e o salva em uma pasta. Em seguida, a mesma pessoa posiciona o mouse sobre este arquivo, clica com o botão direito e seleciona a opção “Propriedades”. Na janela aberta, a pessoa marca o atributo “Somente leitura”. A escolha dessa opção impede que o arquivo seja",
+      "alternativas": {
+        "a": "deletado.",
+        "b": "anexado a um e-mail.",
+        "c": "modificado.",
+        "d": "lido pelo editor de textos."
+      },
+      "gabarito": "C",
+      "comentario": "Quando um arquivo é selecionado para exibir somente o modo leitura, isso significa que ele não\npoderá ser modificado ou editado. É uma ferramenta utilizada quando se deseja preservar o\nconteúdo do arquivo."
+    },
+    {
+      "id": "info11_044",
+      "numero": 44,
+      "banca": "CS-UFG / UFG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CS-UFG / UFG – 2017) Seis arquivos estão armazenados em uma pasta no Windows Explorer, conforme a figura a seguir. O usuário precisa apagar os arquivos F2.txt e F5.txt. Para isso, ele seleciona exclusivamente estes arquivos, conforme indicado na figura, executando o seguinte procedimento: (1) clicar, usando o botão esquerdo do mouse, em F2.txt; (2) mantendo uma determinada tecla pressionada, clicar em F5.txt, também usando o botão esquerdo do mouse. Qual tecla deve ser mantida pressionada?",
+      "alternativas": {
+        "a": "Ctrl.",
+        "b": "Del. 95717730268 - Keyla Kiyoku",
+        "c": "Shift.",
+        "d": "Alt."
+      },
+      "gabarito": "A",
+      "comentario": "Para selecionar os arquivos determinados, utilizamos a tecla CTRL. Cuidado para não confundir\ncom o SHIFT, que selecionaria todos os arquivos do intervalo, entre F2, F3, F4 e F5. Com a tecla ALT\nnada aconteceria e somente o arquivo F2 seria selecionado; e com a tecla DEL, o arquivo F2 seria\ndeletado."
+    },
+    {
+      "id": "info11_045",
+      "numero": 45,
+      "banca": "FUNDATEC / DPE-SC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / DPE-SC – 2017) Suponha que se deseja a execução de determinados softwares de forma automática todos os dias úteis, em determinados horários, nos computadores da Defensoria. Isso é possível através de um software que acompanha o Windows 10 Pro, denominado:",
+      "alternativas": {
+        "a": "Active Directory.",
+        "b": "Agendador de tarefas.",
+        "c": "Bloco de Notas.",
+        "d": "Desfragmentador de disco.",
+        "e": "Explorador de Arquivos."
+      },
+      "gabarito": "B",
+      "comentario": "Para personalizar a execução ou automatizar algumas funções utilizamos o Agendador de Tarefas,\nque é uma ferramenta administrativa que fornece a capacidade de agendar a inicialização de\nprogramas ou scripts em horários predefinidos ou após intervalos de tempo especificados."
+    },
+    {
+      "id": "info11_046",
+      "numero": 46,
+      "banca": "FUNDATEC / IGP-RS – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IGP-RS – 2017) Para que fosse exibida a caixa de diálogo da Figura 1(b), bastou, antes, na Figura 1(a), dar um clique com o botão esquerdo do mouse sobre o local apontado pela seta nº: 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "1, chamado \"Computador\".",
+        "b": "2, chamado \"Painel de Controle\".",
+        "c": "3, chamado \"Dispositivos e Impressoras\".",
+        "d": "4, chamado \"Programas Padrão\".",
+        "e": "5, chamado \"Ajuda e Suporte\"."
+      },
+      "gabarito": "B",
+      "comentario": "A Figura 1b representa o Painel de Controle. É nele que podemos alterar diversas configurações e\ncontrolar as utilidades do computador."
+    },
+    {
+      "id": "info11_047",
+      "numero": 47,
+      "banca": "IADES / CRF-DF – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IADES / CRF-DF – 2017) O gestor de uma empresa farmacêutica deseja fazer uma cópia do arquivo de uma planilha de dados com todos os pedidos de lotes de um certo medicamento do mês. Ele já havia selecionado o arquivo, quando seu mouse parou de funcionar. Nessa situação hipotética, quais teclas ele deve pressionar no teclado para fazer uma cópia desse arquivo na mesma pasta em que está o original?",
+      "alternativas": {
+        "a": "Ctrl + A, para copiar e colar.",
+        "b": "Ctrl + X, para copiar, e Ctrl + V, para colar.",
+        "c": "Alt + Tab, para copiar e colar.",
+        "d": "Ctrl + C, para copiar, e Ctrl + V, para colar.",
+        "e": "Ctrl + C, para copiar, e Alt + V, para colar."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, Ctrl + A seleciona todos os arquivos do diretório; (b) Errado. Ctrl + X “recorta” um arquivo\nselecionado e o mantendo na região de transferência, sendo que assim que é colado na pasta de\ndestino ele é retirado da pasta de origem; (c) Errado, Alt + Tab permite mudar entre janelas abertas\nno Windows; (d) Correto. Ctrl + C copia um arquivo selecionado para a região de transferência e Ctrl\n+ V cola essa cópia na pasta de destino, mantendo o arquivo na pasta de origem; (e) Errado, Alt + V\nserve para visualizar o menu."
+    }
+  ]
+}

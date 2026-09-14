@@ -1,0 +1,535 @@
+{
+  "esquema": 1,
+  "id": "info-aula-02-ferramentas-busca",
+  "aula": "02",
+  "titulo": "Informática - AULA 02",
+  "subtitulo": "Ferramentas e Mecanismos de Busca",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+    }
+  ],
+  "resumoMd": "- **Conceitos Fundamentais de Rede**:\n  - **Internet**: Rede mundial de computadores pública, baseada na arquitetura e protocolo TCP/IP.\n  - **Intranet**: Rede privada corporativa que utiliza os mesmos recursos e protocolos da Internet, mas restrita a usuários autorizados de uma organização.\n  - **Extranet**: Acesso externo controlado à Intranet de uma organização para parceiros, clientes ou fornecedores.\n  - **Internet das Coisas (IoT)**: Conexão e integração de objetos físicos do dia a dia à Internet para troca de dados.\n- **Protocolos e Serviços (`01.pdf`)**:\n  - **HTTP / HTTPS**: Transferência de páginas web (HTTPS com camada de criptografia TLS/SSL).\n  - **FTP / SFTP**: Transferência de arquivos.\n  - **DNS**: Resolução de nomes de domínio em endereços IP.\n  - **DHCP**: Atribuição dinâmica de endereços IP nas redes.\n- **Ferramentas de Busca (`02.pdf`)**:\n  - Uso de aspas (`\"termo exato\"`) para buscar frases exatas.\n  - Sinal de subtração (`-termo`) para excluir palavras da busca.\n  - Operador `filetype:pdf` ou `filetype:docx` para filtrar por extensão de arquivo.\n  - Operador `site:gov.br` para restringir buscas a um domínio específico.\n\n---",
+  "total": 46,
+  "questoes": [
+    {
+      "id": "info02_001",
+      "numero": 1,
+      "banca": "CESPE / COGERP – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / COGERP – 2023) Você precisa utilizar o buscador do Google e procurou na documentação: como pesquisar páginas de Internet que trarão, no mesmo título “felicidade” e, também, “guerra”. Testou-se alguns comandos e, finalmente, um respondeu, na primeira página do buscador em questão, tudo que você queria, informando o comando adequado como:",
+      "alternativas": {
+        "a": "intopic: felicidade,guerra",
+        "b": "safesearch intitle: felicidade, guerra",
+        "c": "header: felicidade, guerra",
+        "d": "allintitle: felicidade guerra",
+        "e": "searchseek: felicidade,guerra"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. O comando \"intopic:\" não é um operador reconhecido no Google para realizar pesquisas\nespecíficas no título ou conteúdo das páginas;\n(b) Errado. \"safesearch\" é um recurso usado para filtrar conteúdo explícito nos resultados de\npesquisa do Google, mas \"safesearch intitle:\" não é uma combinação válida de operadores de\npesquisa para especificar termos no título das páginas;\n(c) Errado. \"header:\" também não é um operador reconhecido no Google para filtrar resultados de\npesquisa com base no conteúdo dos cabeçalhos das páginas;\n(d) Correto. O operador \"allintitle:\" é utilizado no Google para buscar páginas cujos títulos\ncontenham todas as palavras especificadas após o operador. Neste caso, \"allintitle: felicidade\nguerra\" buscará páginas cujos títulos incluam tanto \"felicidade\" quanto \"guerra\", o que corresponde\nexatamente à necessidade descrita no enunciado;\n(e) Errado. \"searchseek:\" não é um operador válido no Google ou em qualquer outro mecanismo de\npesquisa popular."
+    },
+    {
+      "id": "info02_002",
+      "numero": 2,
+      "banca": "CESPE / PM SC – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PM SC – 2023) Assinale a opção em que é apresentada uma ferramenta de pesquisa na Internet:",
+      "alternativas": {
+        "a": "Explorador de Arquivos do Windows",
+        "b": "LibreOffice Math",
+        "c": "ChatGPT",
+        "d": "LibreOffice Draw 95717730268 - Keyla Kiyoku",
+        "e": "hiperlink"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O Explorador de Arquivos do Windows é uma ferramenta do sistema operacional para\ngerenciar arquivos locais, não uma ferramenta de pesquisa na Internet.\n(b) Errado. LibreOffice Math é um aplicativo de matemática, parte do pacote LibreOffice, usado\npara criar e editar fórmulas matemáticas, não é uma ferramenta de pesquisa na Internet.\n(c) Correto. ChatGPT é uma ferramenta de inteligência artificial que pode ser usada para pesquisar\ne fornecer informações baseadas na Internet.\n(d) Errado. LibreOffice Draw é um aplicativo de desenho e diagramação, parte do pacote\nLibreOffice, e não uma ferramenta de pesquisa na Internet.\n(e) Errado. Um hiperlink é um elemento em documentos digitais que linka para outro ponto no\nmesmo documento ou para um recurso externo, mas por si só não é uma ferramenta de pesquisa."
+    },
+    {
+      "id": "info02_003",
+      "numero": 3,
+      "banca": "CESPE / TRT 8ª Região – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRT 8ª Região – 2023) Um usuário deseja realizar uma pesquisa, por meio do Google, para encontrar resultados que incluam os termos trt8 e pará e que não apresentem o termo pje. Assinale a opção que atende às condições especificadas para a pesquisa referida na situação hipotética anterior.",
+      "alternativas": {
+        "a": "trt8 pará #pje",
+        "b": "trt8 pará -pje",
+        "c": "trt8 pará exclude (pje)",
+        "d": "trt8 pará ignore “pje”",
+        "e": "include [trt8 pará] remove [pje]"
+      },
+      "gabarito": "B",
+      "comentario": "Na pesquisa do Google, o sinal de menos (-) é usado para excluir palavras específicas dos resultados\nde pesquisa. Portanto, para encontrar resultados que incluam os termos \"trt8\" e \"pará\" e excluam o\ntermo \"pje\", a sintaxe correta seria \"trt8 pará -pje\".\n(a) Errado. O uso do símbolo \"#\" no Google não serve para excluir termos, mas geralmente é usado\npara hashtags em redes sociais; (b) Correto. \"trt8 pará -pje\" é a forma correta para incluir os termos\n\"trt8\" e \"pará\" e excluir o termo \"pje\"; (c) Errado. \"exclude (pje)\" não é uma sintaxe válida no Google\npara excluir termos de pesquisa; (d) Errado. \"ignore “pje”\" também não é uma sintaxe reconhecidapelo Google para excluir termos de uma pesquisa; (e) Errado. \"include [trt8 pará] remove [pje]\" não\né uma forma válida de pesquisa no Google."
+    },
+    {
+      "id": "info02_004",
+      "numero": 4,
+      "banca": "CESPE / TJ-ES - 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-ES - 2023) Para procurar no Google o termo câmaras exclusivamente no sítio https://www.tjes.jus.br, deve-se inserir na pesquisa o comando a seguir. câmaras include www.tjes.jus.br",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Para procurar exclusivamente no sítio https://www.tjes.jus.br no Google, pode-se usar o operador\n\"site:\". O comando correto para realizar a pesquisa seria:\ncâmaras site:www.tjes.jus.br"
+    },
+    {
+      "id": "info02_005",
+      "numero": 5,
+      "banca": "CESPE / TJ-ES - 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-ES - 2023) Suponha-se que um usuário tenha acessado o sítio https://images.google.com.br e digitado no campo de pesquisa os termos brasao, governo. espitiro; santo, para obter a imagem do brasão do governo do estado do Espírito Santo. Nesse caso, a pesquisa retornará um erro, pois, para a busca de imagens, é necessário digitar as palavras na forma ortográfica correta, considerando-se os devidos sinais de pontuação e acentuação.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Os motores de busca, como o Google Imagens, são projetados para serem robustos e tolerantes a\nerros, ou seja, eles possuem algoritmos avançados de correção de erros e sugestão de palavras.\nEsses algoritmos são capazes de interpretar o provável significado ou intenção da pesquisa, mesmo\nquando há erros ortográficos ou de digitação.\nNo caso mencionado, embora \"espiritiro\" seja uma grafia incorreta para \"Espírito\", é provável que\no Google Imagens identifique a intenção do usuário e retorne imagens relacionadas ao brasão do\ngoverno do Espírito Santo. Além disso, os motores de busca frequentemente ignoram a pontuação\ne se concentram nas palavras-chave para fornecer resultados relevantes."
+    },
+    {
+      "id": "info02_006",
+      "numero": 6,
+      "banca": "CESPE / TJ-CE - 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TJ-CE - 2023) Caso se queira fazer uma busca na Internet, um usuário deverá digitar na barra de endereços de um navegador Web:",
+      "alternativas": {
+        "a": "o endereço de um provedor de Internet. 95717730268 - Keyla Kiyoku",
+        "b": "os dados de usuário e senha do computador.",
+        "c": "o endereço do site de uma ferramenta de busca.",
+        "d": "o endereço de email do usuário.",
+        "e": "o endereço de IP de uma rede sem fio."
+      },
+      "gabarito": "C",
+      "comentario": "Caso se queira fazer uma busca na Internet, um usuário deverá digitar na barra de endereços de um\nnavegador Web o endereço do site de uma ferramenta de busca, como Google, Bing, entre outros.\nNenhum dos outros itens faz qualquer sentido!"
+    },
+    {
+      "id": "info02_007",
+      "numero": 7,
+      "banca": "CESPE / TRT8 – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRT8 – 2022) Em uma pesquisa avançada utilizando-se o sítio Google, para se recuperar conteúdos que contenham exatamente o mesmo termo escrito na pesquisa, deve-se usar o operador:",
+      "alternativas": {
+        "a": "intitle.",
+        "b": "* (asterisco).",
+        "c": "or.",
+        "d": "“ ” (aspas).",
+        "e": "related."
+      },
+      "gabarito": "D",
+      "comentario": "O operador que permite pesquisar exatamente o mesmo escrito na pesquisa é o operador de aspas."
+    },
+    {
+      "id": "info02_008",
+      "numero": 8,
+      "banca": "CESPE / APEX-Brasil – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / APEX-Brasil – 2022) Ao se utilizar o sítio de busca Google para pesquisar as ocorrências assertivas e exatas da expressão exportação e investimento, restringindo-se o acesso ao sítio eletrônico da APEX (https://apexbrasil.com.br), deve-se digitar:",
+      "alternativas": {
+        "a": "exportação e investimento related:apexbrasil.com.br",
+        "b": "\"exportação e investimento\" site:apexbrasil.com.br",
+        "c": "exportação 'e' investimento site:apexbrasil.com.br",
+        "d": "'exportação e investimento' 95717730268 - Keyla Kiyoku related:apexbrasil.com.br"
+      },
+      "gabarito": "B",
+      "comentario": "Para restringir à expressão exata, utilizam-se aspas (“exportação e investimento”) e para restringir\no acesso à um sítio específico, utiliza-se o operador site:. Logo, temos:\n“exportação e investimento” site:apexbrasil.com.br"
+    },
+    {
+      "id": "info02_009",
+      "numero": 9,
+      "banca": "CESPE / APEX-Brasil – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / APEX-Brasil – 2022) Assinale a opção correspondente ao comando que retornará o resultado mais eficaz, na utilização do motor de busca Google, para otimizar uma pesquisa sobre o assunto “comércio exterior” na qual se inclua, ainda, o termo “inteligência comercial”, restringindo-se a busca ao sítio eletrônico <https://apexbrasil.com.br>",
+      "alternativas": {
+        "a": "“comércio exterior” OR “inteligência comercial” site:apexbrasil.com.br",
+        "b": "“comércio exterior” AND “inteligência comercial” site:apexbrasil.com.br",
+        "c": "“comércio exterior” OR “inteligência comercial” related:apexbrasil.com.br",
+        "d": "“comércio exterior\" AND \"inteligência comercial” related:apexbrasil.com.br"
+      },
+      "gabarito": "B",
+      "comentario": "Para restringir um domínio, utiliza-se o operador site. Para pesquisar duas expressões de forma\nexata, basta utilizar aspas e separá-los utilizando o operador AND (ou sem utilizar nada):\n“comércio exterior” AND “inteligência comercial” site:apexbrasil.com.br\n“comércio exterior” “inteligência comercial” site:apexbrasil.com.br"
+    },
+    {
+      "id": "info02_010",
+      "numero": 10,
+      "banca": "CESPE / MC – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MC – 2022) No sítio de busca do Google, o uso do operador filetype: no comando de pesquisa amplia significativamente o universo de tipos de arquivos incluídos na busca, de forma a serem contemplados formatos não indexados originalmente pela ferramenta, ao custo de mais processamento e, eventualmente, maior tempo de resposta.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Esse operador restringe a pesquisa, trazendo resultados por tipo de arquivo – não há ampliação\npara formatos não indexados originalmente nem mudanças significativas no tempo de resposta."
+    },
+    {
+      "id": "info02_011",
+      "numero": 11,
+      "banca": "CESPE / PC-AL – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PC-AL – 2021) No sítio de busca do Google, uma pesquisa pela expressão “CIDADE DE MACEIÓ”, em letras maiúsculas, ou pela expressão “Cidade de Maceió”, em letras minúsculas, retornará ao usuário resultados idênticos.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! As pesquisas não são Case Sensitive, logo não diferenciam maiúsculas de minúsculas."
+    },
+    {
+      "id": "info02_012",
+      "numero": 12,
+      "banca": "CESPE / PM-AL – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM-AL – 2021) Ao utilizar o buscador do Google, um usuário conseguirá buscar palavras ‘recursos humanos’ dentro de arquivos em formato .pdf que contenham essas palavras se ele inserir o seguinte texto no buscador. “recursos humanos” filetype:pdf",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Esse texto realmente permite buscar as palavras ‘recursos humanos’ dentro de arquivos\nem formato .pdf."
+    },
+    {
+      "id": "info02_013",
+      "numero": 13,
+      "banca": "CESPE / PM-AL – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM-AL – 2021) O buscador Google tem um recurso que possibilita efetuar a busca de uma imagem a partir de uma palavra informada.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, basta pesquisar pelo Google Imagens! Aliás, é possível fazer busca de imagem tanto a\npartir de uma palavra informada quanto a partir de uma outra imagem."
+    },
+    {
+      "id": "info02_014",
+      "numero": 14,
+      "banca": "CESPE / PCDF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PCDF – 2021) Caso se deseje pesquisar, no Google, exatamente a frase “operação apate” (entre aspas), restringindo-se a pesquisa ao sítio da PCDF, em <https://www.pcdf.df.gov.br>, mas excluindo-se as páginas que contenham a palavra “drogas” (sem aspas), a pesquisa deverá ser feita conforme apresentando a seguir. “operação apate” -drogas site:pcdf.df.gov.br",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Nada melhor do que a justificativa da própria banca: “Excluir palavras da sua pesquisa: coloque -\nantes de uma palavra que você deseja omitir. Por exemplo, jaguar speed -car; pesquise umacorrespondência exata: coloque uma palavra ou frase entre aspas. Por exemplo, \"tallest building\";\npesquise um sítio específico: coloque \" site:\" antes de um sítio ou domínio. Por exemplo,\nsite:youtube.com ou site:.gov”.\nAqui não há muito a acrescentar: aspas para correspondência exata; hífen para excluir palavras; e\noperador site para restringir o domínio."
+    },
+    {
+      "id": "info02_015",
+      "numero": 15,
+      "banca": "CESPE / PCDF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PCDF – 2021) Considere que a sintaxe “velocidade do jaguar” -carro tenha sido utilizada em pesquisa no Google. Nesse caso, serão mostrados resultados que contenham a frase velocidade do jaguar, com essa correspondência exata, sem a palavra carro.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Na melhor que a justificativa da própria banca: “O uso sinal de hífen (-) antes de uma palavra em\npesquisa no Google exclui tal palavra dos resultados. O uso das aspas, por sua vez, permite a pesquisa\nde uma correspondência exata”."
+    },
+    {
+      "id": "info02_016",
+      "numero": 16,
+      "banca": "CESPE / Polícia Federal – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2021) A forma correta para pesquisar no Google a correspondência exata da frase “crime organizado”, exclusivamente no sítio pf.gov.br é “crime organizado” in pf.gov.br.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Para buscar exclusivamente em um sítio específico, utiliza-se o operador site:pf.gov.br – não existe\noperador “in” no Google."
+    },
+    {
+      "id": "info02_017",
+      "numero": 17,
+      "banca": "CESPE / Polícia Federal – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2021) A forma correta para pesquisar no Google a correspondência exata da frase “crime organizado”, exclusivamente no sítio pf.gov.br é “crime organizado” in pf.gov.br.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Para buscar exclusivamente em um sítio específico, utiliza-se o operador site:pf.gov.br – não existe\noperador “in” no Google."
+    },
+    {
+      "id": "info02_018",
+      "numero": 18,
+      "banca": "CESPE / PRF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PRF – 2021) Caso sejam digitados os termos descritos a seguir na ferramenta de busca do Google, serão pesquisadas publicações que contenham os termos “PRF” e “campanha” na rede social Twitter. Campanha PRF @twitter",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito... o operador de busca @ (arroba) permite realizar buscas em redes sociais – no caso, tratase\ndo Twitter. Claro que o ideal para fazer buscas em alguma rede social específica, seria utilizar o\noperador site:twitter.com. No entanto, notem que a questão afirma que essa pesquisa pesquisará\npublicações que contenham determinados termos no Twitter – e isso é verdadeiro! Serão\npesquisadas publicações em todas as redes sociais, inclusive no Twitter. A minha honesta opinião é\na de que o examinador quis perguntar uma coisa, mas deu sorte e o item se manteve correto ainda\nassim. Lembrando que @twitter faria pesquisa em qualquer rede social, inclusive – por exemplo –"
+    },
+    {
+      "id": "info02_019",
+      "numero": 19,
+      "banca": "CESPE / Polícia Federal - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal - 2018) Nas ferramentas de busca, o indexador é o programa que navega autonomamente pela Internet, localizando e varrendo os documentos em busca de palavras-chaves para compor a base de dados da pesquisa.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "A pesquisa é realizada em três etapas: rastreamento, indexação e veiculação. A indexação é o\nprocesso através do qual o Google tenta identificar o conteúdo de uma página encontrada. A\nquestão trata da etapa de rastreamento que, por meio de rastreadores (conhecidos como crawlers),\npercorrem a web, seguindo de link em link para gerar uma página de índice que inclui os termos\nbuscados e o mecanismo de busca consulta este índice quando as buscas são efetuadas. Já a\nveiculação é simplesmente a exibição dos resultados de pesquisa aos usuários quando eles realizam\numa consulta."
+    },
+    {
+      "id": "info02_020",
+      "numero": 20,
+      "banca": "CESPE / BNB - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BNB - 2018) Situação hipotética: Foram realizadas duas pesquisas na Web por meio do Google. Na primeira, inseriu-se na caixa de pesquisa a expressão site:bnb.com.br. Na segunda, inseriu-se na caixa de pesquisa a expressão site: bnb.com.br. Assertiva: Em ambos os casos, os resultados obtidos serão exatamente os mesmos, pois o Google não distingue o uso de espaço entre o termo de pesquisa e o símbolo ou a palavra. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Noooope! Nós vimos que é possível utilizar símbolos ou palavras na pesquisa para tornar os\nresultados mais precisos. No entanto, não se pode colocar espaços entre o termo de pesquisa e o\nsímbolo ou palavra – uma pesquisa com site:bnb.com.br retornará apenas resultados com esse\ndomínio, mas uma pesquisa com site: bnb.com.br retornará outros resultados."
+    },
+    {
+      "id": "info02_021",
+      "numero": 21,
+      "banca": "CESPE / BNB - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BNB - 2018) O Google permite que seja realizada uma combinação de pesquisas por meio do operador OR. Dessa forma, é possível, por exemplo, encontrar resultados que contenham as palavras crédito ou investimento em uma única pesquisa, por meio da inserção de crédito OR investimento na caixa de pesquisa.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Por meio desse operador, é possível combinar pesquisas encontrando palavras crédito ou\ninvestimento na mesma pesquisa."
+    },
+    {
+      "id": "info02_022",
+      "numero": 22,
+      "banca": "CESPE / FUB - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2018) O mecanismo de busca do Google permite encontrar imagens com base em diversos filtros, como, por exemplo, o tamanho e o tipo da imagem; contudo, não é possível pesquisar imagens por meio de sua(s) cor(es).",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "É realmente possível filtrar por tamanho/tipo da imagem e também por suas cores. Isso pode ser\nfeito por meio das pesquisas avançadas (de imagem)!"
+    },
+    {
+      "id": "info02_023",
+      "numero": 23,
+      "banca": "CESPE / FUB - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2018) Embora o Google possua diversos recursos para filtrar resultados de pesquisas, não é possível encontrar uma imagem em um sítio ou domínio específico.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Claro que é possível! Para tal, basta utilizar o operador filetype: com algum formato de imagem e o\noperador site: com algum domínio específico."
+    },
+    {
+      "id": "info02_024",
+      "numero": 24,
+      "banca": "CESPE / FUB - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2018) Em uma pesquisa por meio do Google, o uso da expressão \"concurso fub\" -\"nível médio\", incluindo as aspas duplas, permite encontrar informações somente dos concursos de nível médio da FUB que estiverem disponíveis na Internet.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, o Google retornará sites que contenham exatamente concurso fub, exceto páginas que\ncontenham exatamente nível médio."
+    },
+    {
+      "id": "info02_025",
+      "numero": 25,
+      "banca": "CESPE / PM/AL - 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM/AL - 2018) Embora possua uma enorme quantidade de recursos, o Google não permite a realização de pesquisa de imagens por meio da especificação de um formato de arquivo, impossibilitando, por exemplo, que se pesquisem exclusivamente arquivos com a extensão JPG.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O Google não permite a realização de pesquisa de imagens por meio da especificação de um\nformato de arquivo. Basta utilizar o operador filetype: com alguma extensão de imagem (Ex: JPG,\nPNG, etc)."
+    },
+    {
+      "id": "info02_026",
+      "numero": 26,
+      "banca": "CESPE / PM/AL - 2017",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM/AL - 2017) Na utilização do sítio de busca Google, é possível definir que a busca seja feita apenas em sítios que tenham sido atualizados nas últimas vinte e quatro horas.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Sim, é possível! Para tal, basta utilizar a pesquisa avançada do Google em Configurações > Pesquisa\nAvançada."
+    },
+    {
+      "id": "info02_027",
+      "numero": 27,
+      "banca": "CESPE / TCE-PA – 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-PA – 2016) Entre os sistemas utilizados no ordenamento dos links na página de resultados de buscas realizadas no Google inclui-se o PageRank, sistema que se baseia em algoritmos que avaliam a relevância dos links.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! PageRank é um algoritmo utilizado pelo Google para posicionar páginas web entre os\nresultados de suas buscas. O PageRank mede a importância de uma página contabilizando aquantidade e qualidade de links apontando para ela. Não é o único algoritmo utilizado pelo Google\npara classificar páginas da internet, mas é o primeiro utilizado pela companhia e o mais conhecido."
+    },
+    {
+      "id": "info02_028",
+      "numero": 28,
+      "banca": "CESPE / PM/PE - 2016",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PM/PE - 2016) Assinale a opção que apresenta corretamente o texto que, ao ser digitado no sítio de buscas Google, permite localizar, na web, arquivos no formato pdf que contenham a frase “valorização do policial civil”, mas não contenham o vocábulo “concurso”.",
+      "alternativas": {
+        "a": "‘valorização do policial civil’ without ‘concurso’ type(pdf)",
+        "b": "‘valorização do policial civil’ no:concurso archive(pdf)",
+        "c": "“valorização do policial civil” not(concurso) in:pdf",
+        "d": "“Valorização do Policial Civil.” -concurso filetype:pdf",
+        "e": "valorização and do and policial and civil exclude(concurso) in:pdf"
+      },
+      "gabarito": "D",
+      "comentario": "O intuito é buscar exatamente os termos “valorização do policial civil”, logo devemos utilizar as\naspas. O resultado deve ser um arquivo no formato pdf, logo devemos utilizar o operador\nfiletype:pdf. Por fim, não deve conter o vocábulo “concurso”, logo devemos utilizar o operador\nhífen. Resultado: “Valorização do Policial Civil.” -concurso filetype:pdf.\nÉ importante mencionar que pontuação não é considerada pelo Google nas aspas. Além disso, a\nordem dos operadores não importa."
+    },
+    {
+      "id": "info02_029",
+      "numero": 29,
+      "banca": "CESPE / TCE/PA - 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE/PA - 2016) Entre os sistemas utilizados no ordenamento dos links na página de resultados de buscas realizadas no Google inclui-se o PageRank, sistema que se baseia em algoritmos que avaliam a relevância dos links.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O Google avalia a relevância de uma página com relação a um determinado assunto usando o\nPageRank. Essa ferramenta funciona como um contador que soma o número de vezes que uma\ndeterminada página foi linkada por outras, sendo que a página que linkou a primeira tem um peso\nna sua contagem, dependendo de sua importância."
+    },
+    {
+      "id": "info02_030",
+      "numero": 30,
+      "banca": "CESPE / FUB - 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2016) Ao realizar uma pesquisa na Internet, o Google distingue palavras digitadas em maiúsculas daquelas digitadas em minúsculas no texto a ser pesquisado. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Noooope! Nós vimos que ele ignora a capitalização (maiúscula/minúscula) das palavras digitadas\nno texto pesquisado (das palavras e, não, dos operadores em si)."
+    },
+    {
+      "id": "info02_031",
+      "numero": 31,
+      "banca": "CESPE / FUB - 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2016) Entre as funcionalidades do sítio de busca Google, encontra-se a de permitir a pesquisa de temas de interesse em livros de domínio público.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A questão trata do Google Books – trata-se de uma ferramenta do Google que digitaliza e procura\nconteúdo de livros de forma total ou parcial, dependendo do acordo que a Google possui com a\neditora do livro em questão. Se o livro for de domínio público o acesso ao conteúdo é feito de forma\ntotal."
+    },
+    {
+      "id": "info02_032",
+      "numero": 32,
+      "banca": "CESPE / FUB - 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB - 2016) O sítio de buscas Google permite que o usuário realize pesquisas utilizando palavras e textos tanto em caixa baixa quanto em caixa alta.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Ele permite que você utilize ambos e ignora a capitalização para o resultado final da busca\nexibida ao usuário."
+    },
+    {
+      "id": "info02_033",
+      "numero": 33,
+      "banca": "CESPE / FUB - 2016",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / FUB - 2016) Assinale a opção que apresenta uma forma adequada e específica de buscar no Google por arquivos pdf relacionados ao BrOffice.",
+      "alternativas": {
+        "a": "filetype:pdf broffice",
+        "b": "related:pdf broffice",
+        "c": "link:pdf broffice",
+        "d": "link broffice",
+        "e": "type:file broffice"
+      },
+      "gabarito": "A",
+      "comentario": "Como se trata de arquivos PDF, deve-se utilizar a palavra-chave filetype:pdf."
+    },
+    {
+      "id": "info02_034",
+      "numero": 34,
+      "banca": "CESPE / MEC – 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MEC – 2015) O mecanismo denominado PageRank utiliza metadados semânticos e informações ligadas ao domínio para buscar as características de classificação de componentes de seu conteúdo.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Ele não utiliza metadados semânticos – ele se baseia na quantidade de links existem para uma\ndeterminada página web a fim de ordená-la nos resultados de uma busca."
+    },
+    {
+      "id": "info02_035",
+      "numero": 35,
+      "banca": "CESPE / TJDFT - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJDFT - 2015) Ao se fazer uma pesquisa no Google utilizando-se a expressão \"Edital TJDFT\", serão apresentadas todas as páginas que contenham apenas a palavra Edital e apenas a palavra TJDFT, além das páginas com a expressão exata Edital TJDFT.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, serão apresentadas apenas páginas que contenham exatamente as palavras Edital\nTJDFT."
+    },
+    {
+      "id": "info02_036",
+      "numero": 36,
+      "banca": "CESPE / TELEBRAS - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TELEBRAS - 2015) Devido à grande quantidade de páginas na Internet atualmente, a forma mais eficiente encontrada pelos sítios de busca para disponibilizar, com maior facilidade e rapidez, os resultados das pesquisas, é manter um catálogo atualizável de páginas no formato digital em vários servidores robustos.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Opaaaaa... muito cuidado! Os buscadores não armazenam um catálogo digital de páginas, na\nverdade eles apenas armazenam um índice para essas páginas. É preciso entender isso muito bem!\nO Google não armazena a página do Estratégia Concursos – ele armazena apenas um índice para\nobter resultados de buscas para essa página. Mesmo o cache, é apenas uma “foto” da última versão\ndo site e não é navegável."
+    },
+    {
+      "id": "info02_037",
+      "numero": 37,
+      "banca": "CESPE / TELEBRAS - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TELEBRAS - 2015) Para se filtrar o resultado de buscas no Google, é possível utilizar caracteres boolianos, para aumentar a precisão da busca, mas não é possível selecionar resultados por intervalos de datas, porque os resultados apresentam todo o conteúdo publicado na Internet com os termos informados na busca. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Caracteres booleanos são E, OU e NÃO, logo eles podem ser utilizados para aumentar a precisão\nda busca. Além disso, é possível – sim – selecionar resultados por intervalos de datas por meio da\npesquisa avançada do Google!"
+    },
+    {
+      "id": "info02_038",
+      "numero": 38,
+      "banca": "CESPE / SUFRAMA - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SUFRAMA - 2014) A pesquisa carro ~azul realizada no Google retornará resultados referentes a carro que não contenham a palavra azul.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Essa pesquisa retornará resultados referentes a carro que contenham a palavra azul ou algum\nsinônimo dela. Para eliminar a palavra azul da busca, seria necessário utilizar o operador hífen."
+    },
+    {
+      "id": "info02_039",
+      "numero": 39,
+      "banca": "CESPE / MDIC - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MDIC - 2014) A pesquisa pelo termo intitle “cloud” feita no Google retorna todas as páginas que contenham a palavra cloud em sua URL.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O erro mais grosseiro dessa questão é que o operador para realizar buscas em uma URL é o inurl:,\ne não, intitle:. Além disso, a forma correta é: inurl:cloud e, não, intitle “cloud”."
+    },
+    {
+      "id": "info02_040",
+      "numero": 40,
+      "banca": "CESPE / CNJ - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CNJ - 2013) Em uma pesquisa na Internet por meio do sítio de busca Google, caso a frase associada ao assunto seja digitada entre asteriscos, o Google irá procurar pela ocorrência exata, respeitando a mesma ordem da frase.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O operador asterisco funciona como um curinga, substituindo palavras ou frases. Para pesquisar\npela ocorrência exata, a frase deve ser digitada entre aspas."
+    },
+    {
+      "id": "info02_041",
+      "numero": 41,
+      "banca": "CESPE / CNJ - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CNJ - 2013) O SafeSearch é um recurso configurável do Google para impedir que sejam listados, como resultado da pesquisa, links de sítios suspeitos.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Essa questão deu uma bela polêmica! O SafeSearch é utilizado para filtrar conteúdo adulto\nrelacionado a sexo. O enunciado menciona sítios suspeitos! Ora, suspeitos de quê? Pode ser de tanta\ncoisa! Ela não deixou claro que eram sítios suspeitos de terem conteúdo explícito de sexo. O\ngabarito preliminar foi errado, mas o gabarito definitivo foi correto sob a seguinte justificativa:\nO SafeSearch tem a capacidade de filtrar pesquisas no Google de forma a garantir que não\nsejam exibidos também em sites com conteúdo adulto. Por concordar que esses sites podem ser\nconsiderados suspeitos, opta-se pela alteração do gabarito.\nBem... eu discordo completamente da alteração do gabarito. Um conteúdo pode ser suspeito por\ndiversos motivos: pode ter conteúdo de pessoas mortas, pode ter conteúdo suspeito de pragas\nvirtuais, entre outros. Logo, afirmar que ele impede sítios suspeitos não faz sentido!"
+    },
+    {
+      "id": "info02_042",
+      "numero": 42,
+      "banca": "CESPE / PC/BA - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PC/BA - 2013) Os sítios de busca, como o Google, nem sempre retornam ao usuário as páginas mais significativas disponíveis na Internet em relação ao que ele deseja realmente encontrar.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Sites de buscas fazem o melhor que podem, mas realmente nem sempre retornarão o que o usuário\ndeseja (tanto por culpa da busca mal formatada do usuário quanto do próprio algoritmo do\nbuscador)."
+    },
+    {
+      "id": "info02_043",
+      "numero": 43,
+      "banca": "CESPE / MTE - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MTE - 2013) Com relação ao Google Chrome e à figura acima, que mostra uma janela desse navegador com uma página da Web sendo exibida, julgue o item subsequente. 95717730268 - Keyla Kiyoku O botão funciona de forma similar ao botão ; entretanto a lista de links gerada pelo segundo botão não é ordenada pelo número de acessos, como ocorre na lista de links gerada pelo primeiro botão.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Pelo contrário! O botão estou com sorte direciona exatamente para o primeiro link da busca do\nbotão Pesquisa Google, logo não há sequer uma lista de links. Além disso, no primeiro caso, a lista\nnão é ordenada pelo número de acessos, mas pela precisão da pesquisa."
+    },
+    {
+      "id": "info02_044",
+      "numero": 44,
+      "banca": "CESPE / BACEN - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BACEN - 2013) A indexação do conteúdo de uma página recém-publicada na Internet ocorre de modo imediato nos sistemas de busca, como Google, Bing e semelhantes.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Galera, é impossível que os buscadores consigam indexar páginas recém-publicadas porque são\nmilhares sendo criadas por segundo. Em geral, demoram alguns dias para que um buscador indexe\numa nova página na internet."
+    },
+    {
+      "id": "info02_045",
+      "numero": 45,
+      "banca": "CESPE / BACEN - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BACEN - 2013) No sistema de buscas do Google, pode-se restringir a busca de documentos pertinentes a um domínio DNS específico, como, por exemplo, a busca do sítio:",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "OPERADOR UTILIZAÇÃO\nsite:\nEsse operador permite pesquisar palavras em um site específico.\nPor exemplo: site:youtube.com flamengo (a palavra buscada pode vir antes ou depois).\nÉ possível restringir a busca de documentos pertinentes a um domínio específico? Sim! Para tal, utilizase\no operador site: (Ex: site:www.brasil.gov.br presidente) - não é da maneira apresentada pelo\nenunciado."
+    },
+    {
+      "id": "info02_046",
+      "numero": 46,
+      "banca": "CESPE / DEPEN - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / DEPEN - 2013) A partir dos sítios de busca e pesquisa da Internet, é possível localizar, por exemplo, empresas, pessoas, mapas, imagens e vídeos relacionados a um tema específico, bem como restringir o retorno da busca. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, perfeito, perfeito! Algumas dessas, inclusive, são guias do Google."
+    }
+  ]
+}

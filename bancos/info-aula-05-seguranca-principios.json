@@ -1,0 +1,494 @@
+{
+  "esquema": 1,
+  "id": "info-aula-05-seguranca-principios",
+  "aula": "05",
+  "titulo": "Informática - AULA 05",
+  "subtitulo": "Princípios de Segurança da Informação",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    1
+  ],
+  "tagsEdital": [
+    {
+      "n": 1,
+      "titulo": "Segurança da informação (vírus, pragas, backup)"
+    }
+  ],
+  "resumoMd": "- **Princípios Básicos da Segurança (`05.pdf`)**:\n  - **Confidencialidade**: Garantia de que a informação só é acessível por pessoas autorizadas.\n  - **Integridade**: Garantia de que a informação não foi alterada ou adulterada indevidamente.\n  - **Disponibilidade**: Garantia de que a informação está acessível quando necessária.\n  - **Autenticidade**: Confirmação da identidade da fonte emissora da informação.\n  - **Não Repúdio (Irretratabilidade)**: Impossibilidade de negar a autoria de uma ação ou mensagem enviada.\n- **Pragas Virtuais / Malwares (`06.pdf`)**:\n  - **Vírus**: Programa malicioso que necessita de um arquivo hospedeiro e de execução do usuário para se propagar.\n  - **Worm (Verme)**: Programa autônomo que se propaga automaticamente explorando vulnerabilidades de rede.\n  - **Trojan (Cavalo de Tróia)**: Programa que se passa por legítimo ou útil, mas executa funções maliciosas ocultas.\n  - **Ransomware**: Malware que criptografa os dados da vítima e exige resgate (*ransom*) para o fornecimento da chave de decodificação.\n  - **Spyware**: Software espião (ex.: *Keylogger*, *Screenlogger*) que monitora a atividade do usuário.\n  - **Phishing**: Técnica de engenharia social voltada a enganar o usuário para obter dados confidenciais (senhas, cartões).\n- **Procedimentos de Backup (`07.pdf`)**:\n  - **Backup Total (Completo)**: Copia todos os dados selecionados. Mais demorado, porém restauração rápida e direta.\n  - **Backup Incremental**: Copia apenas os arquivos alterados/criados desde o último backup (total ou incremental). Mais rápido para salvar, porém restauração requer o backup total + todas as etapas incrementais.\n  - **Backup Diferencial**: Copia todos os arquivos alterados desde o último backup total.\n\n---",
+  "total": 30,
+  "questoes": [
+    {
+      "id": "info05_001",
+      "numero": 1,
+      "banca": "IDECAN / Prefeitura de Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura de Maracanaú – 2023) Sobre a assinatura digital, relacione as duas colunas, ligando o tipo de assinatura digital à sua descrição/interpretação no idioma nacional. I. Assinatura eletrônica simples II. Assinatura eletrônica avançada III. Assinatura eletrônica qualificada ( ) associada a quem assina de forma unívoca, se utilizando de métodos de criptografia aplicados diretamente ao documento e permitindo a identificação de qualquer alteração realizada. É um tipo de assinatura aceita em interações com ente público de menor impacto, registro de atos em Juntas Comerciais e em quaisquer documentos protegidos legalmente por certo grau de sigilo. ( ) é aquela que se utiliza de Certificado Digital. É um tipo de assinatura que oferece um maior nível de segurança, por isso é aceita em qualquer interação eletrônica com o ente público, sendo obrigatória para a emissão de notas fiscais eletrônicas. Não podem ser emitidas por pessoas físicas ou MEI e em atos de transferência e registro de imóveis. ( ) não utiliza criptografia para autenticação. São aquelas assinaturas realizadas com token, login/senha, biometria, confirmação de código para celular ou e-mail e outros. É um tipo de assinatura aceita em interações com o ente público de menor impacto e que não envolvam informações protegidas por grau de sigilo. Respondidas as alternativas, a sequência correta é:",
+      "alternativas": {
+        "a": "I – III – II",
+        "b": "II – III – I",
+        "c": "II – I – III",
+        "d": "III – II - I"
+      },
+      "gabarito": "B",
+      "comentario": "(II) Assinatura eletrônica avançada: associada a quem assina de forma unívoca, se utilizando de\nmétodos de criptografia aplicados diretamente ao documento e permitindo a identificação de\nqualquer alteração realizada. É um tipo de assinatura aceita em interações com ente público de\nmenor impacto, registro de atos em Juntas Comerciais e em quaisquer documentos protegidos\nlegalmente por certo grau de sigilo.\n(III) Assinatura eletrônica qualificada: é aquela que se utiliza de Certificado Digital. É um tipo de\nassinatura que oferece um maior nível de segurança, por isso é aceita em qualquer interaçãoeletrônica com o ente público, sendo obrigatória para a emissão de notas fiscais eletrônicas. Não\npodem ser emitidas por pessoas físicas ou MEI e em atos de transferência e registro de imóveis.\n(I) Assinatura eletrônica simples: não utiliza criptografia para autenticação. São aquelas assinaturas\nrealizadas com token, login/senha, biometria, confirmação de código para celular ou e-mail e\noutros. É um tipo de assinatura aceita em interações com o ente público de menor impacto e que\nnão envolvam informações protegidas por grau de sigilo."
+    },
+    {
+      "id": "info05_002",
+      "numero": 2,
+      "banca": "IDECAN / Prefeitura SCS – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura SCS – 2023) Nas situações em que um usuário recebe um arquivo assinado digitalmente o algoritmo verifica se a assinatura é válida com o uso da/de:",
+      "alternativas": {
+        "a": "uma chave pública",
+        "b": "uma chave privada",
+        "c": "um malware",
+        "d": "um backup"
+      },
+      "gabarito": "A",
+      "comentario": "O processo de verificação de uma assinatura digital envolve o uso da chave pública do remetente.\nQuando um arquivo ou uma mensagem é assinado digitalmente, o remetente utiliza sua chave\nprivada para criar a assinatura. A chave privada é mantida em segredo pelo remetente. Essa\nassinatura é anexada ao documento ou à mensagem. Quando o destinatário recebe o documento\nou a mensagem assinada, ele utiliza a chave pública do remetente, que é conhecida publicamente,\npara verificar a assinatura. Se a assinatura puder ser validada com a chave pública do remetente,\nisso confirma que a assinatura foi de fato criada com a chave privada correspondente e que o\nconteúdo não foi alterado desde que foi assinado, validando assim a integridade e a autenticidade\ndo conteúdo. Vamos analisar cada item:\n(a) Correto. A chave pública é usada para verificar a assinatura digital; (b) Errado. A chave privada é\nusada pelo remetente para criar a assinatura, não para verificá-la; (c) Errado. Malware não tem\nrelação alguma com o processo de assinatura ou verificação de assinaturas digitais; (d) Errado.\nBackup também não está relacionado com a verificação de assinaturas digitais."
+    },
+    {
+      "id": "info05_003",
+      "numero": 3,
+      "banca": "IDECAN / Prefeitura João Pessoa – 2024",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura João Pessoa – 2024) A segurança de informação compreende um conjunto de ações e estratégias para proteger sistemas, programas, equipamentos e redes de invasões. De uma forma geral, o objetivo central das ações de segurança de informação é proteger dados valiosos de possíveis violações ou ataques. 95717730268 - Keyla Kiyoku Entre os princípios da segurança da informação, um estabelece que as pessoas usuárias não podem negar a autoria das informações, como uma forma de garantir a sua autenticidade, significando que, por exemplo, nem a pessoa autora, nem a receptora podem contestar qualquer transação de dados. Esse princípio é conhecido como:",
+      "alternativas": {
+        "a": "integridade",
+        "b": "conformidade",
+        "c": "irretratabilidade",
+        "d": "confidencialidade"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O princípio da integridade na segurança da informação assegura que os dados não sejam\nalterados ou corrompidos durante o trânsito ou armazenamento de forma não autorizada. Ele não\nse relaciona diretamente com a não negação de autoria das informações;\n(b) Errado. Conformidade refere-se ao cumprimento de leis, políticas e normas que regulamentam\no uso e a proteção de dados. A conformidade garante que as práticas de segurança estejam de\nacordo com as exigências legais e normativas, mas não aborda a questão da negação da autoria de\ninformações;\n(c) Correto. A irretratabilidade, também conhecida como não repúdio, é o princípio que impede que\num usuário negue a autoria de uma transação ou comunicação na qual ele participou. Este princípio\né fundamental em muitos processos de negócios e transações eletrônicas, pois assegura que as\nações realizadas não possam ser negadas posteriormente;\n(d) Errado. Confidencialidade é o princípio que assegura que informações sensíveis sejam acessadas\napenas por pessoas autorizadas. Este princípio está focado na proteção de dados contra acesso não\nautorizado, e não na garantia de autenticidade ou na prevenção da negação de transações ou ações."
+    },
+    {
+      "id": "info05_004",
+      "numero": 4,
+      "banca": "IDECAN / Prefeitura Fortaleza – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Fortaleza – 2023) Segurança da informação é a proteção de dados de propriedade das organizações contra perigos e ameaças diversas, envolvendo ações que objetivam evitar riscos e garantir a continuidade das operações. Entre os princípios da segurança da informação, um tem por principal objetivo preservar o sigilo dos dados, significando que certas informações não devem ser acessadas por pessoas que não sejam credenciadas, nem divulgadas por essas pessoas com fins obscuros. Esse princípio é conhecido por:",
+      "alternativas": {
+        "a": "integridade",
+        "b": "autenticidade",
+        "c": "confidencialidade",
+        "d": "vulnerabilidade 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. O princípio da integridade refere-se à garantia de que os dados não são alterados ou\ncorrompidos de forma não autorizada ou acidental durante sua transferência, armazenamento ou\nprocessamento;\n(b) Errado. Autenticidade é um princípio que garante que os usuários, sistemas ou entidades\ncomunicantes sejam os que afirmam ser, assegurando a veracidade das identidades em uma\ntransação eletrônica;\n(c) Correto. O princípio da confidencialidade é exatamente como descrito no enunciado. Este\nprincípio visa garantir que as informações sejam acessadas apenas por indivíduos autorizados. A\nconfidencialidade é fundamental para proteger dados sensíveis de acessos não autorizados e\nprevenir divulgações indevidas;\n(d) Errado. Vulnerabilidade não é um princípio da segurança da informação, mas sim um termo\nusado para descrever uma fraqueza ou falha em um sistema que pode ser explorada por uma\nameaça para executar ações não autorizadas."
+    },
+    {
+      "id": "info05_005",
+      "numero": 5,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) No que diz respeito ao contexto da segurança da informação, associe o princípio de segurança ao seu respectivo significado/ interpretação no idioma nacional: I. Integridade II. Disponibilidade III. Autenticidade IV. Confiabilidade ( ) garante o acesso das informações às pessoas autorizadas, ou seja, não o disponibiliza a indivíduos, entidades ou processos não autorizados. ( ) garante a veracidade das informações, indicando que os dados não podem ser alterados sem autorização. ( ) garante a verdadeira autoria da informação, ou seja, que os dados são de fato provenientes de determinada fonte. ( ) garante que dados e sistemas estejam prontos para uso, por pessoas autorizadas, no momento em que tornar necessário. Respondidas as alternativas, a sequência correta é:",
+      "alternativas": {
+        "a": "IV – I – III – II 95717730268 - Keyla Kiyoku",
+        "b": "I – III – II – IV",
+        "c": "III – II – IV – I",
+        "d": "II – IV – I – III"
+      },
+      "gabarito": "A",
+      "comentario": "(I) Integridade: significa garantir que as informações sejam precisas e completas, e que não sejam\nalteradas de forma não autorizada. Portanto, se encaixa com a descrição: \"garante a veracidade das\ninformações, indicando que os dados não podem ser alterados sem autorização.\"\n(II) Disponibilidade: este princípio se refere a garantir que as informações estejam disponíveis para\nuso quando necessário por pessoas autorizadas. Assim, corresponde à descrição: \"garante que\ndados e sistemas estejam prontos para uso, por pessoas autorizadas, no momento em que tornar\nnecessário.\"\n(III) Autenticidade: assegura que uma entidade ou informação é realmente aquilo que se propõe a\nser, ou seja, que os dados são de fato provenientes da fonte alegada. Combina com: \"garante a\nverdadeira autoria da informação, ou seja, que os dados são de fato provenientes de determinada\nfonte.\"\n(IV) Confiabilidade: é muitas vezes relacionada com a confiança na precisão e na completação das\nfunções e informações. Neste caso, no entanto, a descrição que mais se aproxima é: \"garante o\nacesso das informações às pessoas autorizadas, ou seja, não o disponibiliza a indivíduos, entidades\nou processos não autorizados.\"\nAssim, podemos associar:\n(IV) Confiabilidade: garante o acesso das informações às pessoas autorizadas;\n(I) Integridade: garante a veracidade das informações;\n(III) Autenticidade: garante a verdadeira autoria da informação;\n(II) Disponibilidade: garante que dados e sistemas estejam prontos para uso."
+    },
+    {
+      "id": "info05_006",
+      "numero": 6,
+      "banca": "IDECAN / Prefeitura Maracanaú – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura Maracanaú – 2023) No que se relaciona à segurança da informação, sendo a prática que mantém os dados sensíveis em sigilo, a defesa do que não é público. Em uma empresa, a segurança da informação nada mais é do que as políticas, processos e métodos que devem ser empregados para que a circulação de dados e informações seja segura e controlada, evitando que pessoas indesejadas façam uso ou ao menos tenham acesso a essas informações. Entre os princípios da segurança da informação, um destaca que o importante será ter certeza de que as informações não sofram nenhuma modificação sem a devida autorização, sendo preciso assegurar que as informações não sejam alteradas durante seu tráfego, armazenamento ou processamento, ou seja, que elas permaneçam íntegras. Esse princípio da segurança da 95717730268 - Keyla Kiyoku informação garante, por exemplo, que os destinatários recebam os dados tais quais eles foram enviados. O referido princípio da segurança da informação é conhecido como:",
+      "alternativas": {
+        "a": "confiabilidade",
+        "b": "conformidade",
+        "c": "interatividade",
+        "d": "integridade"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Este termo geralmente é associado à capacidade de um sistema ou componente realizar\nsua função esperada de forma consistente. Embora relacionado à segurança, não especifica\ndiretamente a proteção contra alterações não autorizadas dos dados.\n(b) Errado. Refere-se ao cumprimento de leis e regulamentações que governam a proteção de\ndados e a segurança da informação. Enquanto importante, este princípio não foca diretamente na\nproteção contra alterações não autorizadas dos dados.\n(c) Errado. Não é um princípio reconhecido dentro da segurança da informação. Este termo\ngeralmente descreve a capacidade de sistemas e usuários interagirem, mas não se relaciona\ndiretamente com a proteção de dados.\n(d) Correto. Este é o princípio que garante que os dados não sejam alterados ou corrompidos\ndurante seu tráfego, armazenamento ou processamento, a menos que seja por uma ação\nautorizada. Este princípio assegura que os dados sejam confiáveis e não sofram modificações\nilícitas, mantendo sua precisão e consistência ao longo do tempo."
+    },
+    {
+      "id": "info05_007",
+      "numero": 7,
+      "banca": "IDECAN / Prefeitura de Serra – 2023",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / Prefeitura de Serra – 2023) As empresas devem atuar no atendimento aos requisitos dos princípios da segurança da informação. De acordo com um desses, o importante é ter a certeza de que as informações não sofreram nenhuma modificação sem a devida autorização, além de assegurar que as informações não sejam alteradas durante seu tráfego, armazenamento ou processamento. Ele representa um pilar da informação, que garante aos destinatários receberem os dados tais quais como foram enviados, sendo denominado por:",
+      "alternativas": {
+        "a": "confidencialidade.",
+        "b": "disponibilidade.",
+        "c": "autenticidade.",
+        "d": "integridade."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Este princípio foca em garantir que as informações sejam acessíveis somente por\npessoas autorizadas. É importante para proteger os dados contra acessos indevidos, mas não trata\ndiretamente de evitar alterações nos dados;\n(b) Errado. Este princípio assegura que as informações e recursos sejam acessíveis aos usuários\nautorizados sempre que necessário. Embora fundamental, este princípio não lida diretamente com\na manutenção da condição original dos dados;\n(c) Errado. Este princípio relaciona-se com a garantia de que uma entidade é quem ela diz ser, além\nde assegurar a origem dos dados. Embora próximo, não é o princípio específico que garante que os\ndados não sejam alterados indevidamente;\n(d) Errado. Este é o princípio diretamente relacionado à garantia de que as informações não sejam\nalteradas, corrompidas ou perdidas durante o tráfego, armazenamento ou processamento sem\nautorização. A integridade garante que os dados recebidos sejam exatamente como foram\nenviados, sem modificações."
+    },
+    {
+      "id": "info05_008",
+      "numero": 8,
+      "banca": "IADES / BRB – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IADES / BRB – 2022) As propriedades que garantem que o dado é correto e consistente com o estado ou informação pretendida, e que asseguram os limites de quem pode obtê-la são definidas respectivamente, como",
+      "alternativas": {
+        "a": "integridade e confidencialidade.",
+        "b": "integridade e disponibilidade.",
+        "c": "disponibilidade e integridade.",
+        "d": "consistência e autenticidade.",
+        "e": "Consistência e confidencialidade."
+      },
+      "gabarito": "A",
+      "comentario": "A propriedade que garante que o dado é correto e consistente com o estado ou informação\npretendida é a integridade; já a propriedade que garante que os limites de quem pode obtê-la é\nchamado de confidencialidade."
+    },
+    {
+      "id": "info05_009",
+      "numero": 9,
+      "banca": "FUNDATEC / IPE SAÚDE – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IPE SAÚDE – 2022) A política de segurança da informação estabelece como as informações são acessadas, tendo como objetivo manter os três pilares da segurança da informação, que são:",
+      "alternativas": {
+        "a": "Confidencialidade, velocidade e armazenamento.",
+        "b": "Confidencialidade, integridade e disponibilidade. 95717730268 - Keyla Kiyoku",
+        "c": "Conectividade, confiabilidade e disponibilidade.",
+        "d": "Velocidade, controle de acesso e atualização da informação.",
+        "e": "Velocidade, confiabilidade e controle de acesso."
+      },
+      "gabarito": "B",
+      "comentario": "Os pilares da segurança da informação são conhecidos como CID (Confidencialidade, Integridade e\nDisponibilidade)."
+    },
+    {
+      "id": "info05_010",
+      "numero": 10,
+      "banca": "FADESP / SEFA-PA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SEFA-PA – 2022) Na assinatura digital são utilizadas:",
+      "alternativas": {
+        "a": "a chave pública do receptor e a chave privada do receptor",
+        "b": "a chave pública do emissor e a chave privada do emissor.",
+        "c": "a chave pública do receptor e a chave privada do emissor",
+        "d": "a chave privada do receptor e a chave pública do emissor.",
+        "e": "as chaves secretas do emissor."
+      },
+      "gabarito": "B",
+      "comentario": "Na assinatura digital, são utilizadas a chave privada do emissor (para criptografar) e a chave pública\ndo emissor (para descriptografar)."
+    },
+    {
+      "id": "info05_011",
+      "numero": 11,
+      "banca": "FADESP / SEFA-PA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SEFA-PA – 2022) A forma de realizar assinatura digital baseada em logaritmos discretos, em que o trabalho principal para a geração de assinatura que não depende da mensagem pode ser feito durante o tempo ocioso do processador, e a parte da geração da assinatura que depende da mensagem exige multiplicar um inteiro de 2n bits por um inteiro de n bits, é conhecida como:",
+      "alternativas": {
+        "a": "SCHNORR.",
+        "b": "ELGAMAL.",
+        "c": "DSA.",
+        "d": "Curva Elíptica.",
+        "e": "RSA-PSS."
+      },
+      "gabarito": "A",
+      "comentario": "Questão de nível surreal! É o tipo de questão que eu sugiro simplesmente chutar e ser feliz. Esse\nnível de aprofundamento não é cobrado nem para analistas de sistemas – talvez para cargos\nespecíficos de segurança da informação. De todo modo, a questão trata de Assinatura de Schnorr,\nque é um protocolo de assinatura digital baseado no problema do logaritmo discreto."
+    },
+    {
+      "id": "info05_012",
+      "numero": 12,
+      "banca": "FADESP / SEFA-PA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SEFA-PA – 2022) A característica do modo de operação de cifra de bloco em que a entrada do algoritmo de encriptação é o XOR dos próximos 64 bits de texto claro e os 64 bits anteriores de texto cifrado é conhecida como:",
+      "alternativas": {
+        "a": "Electronic Codebook (EBC).",
+        "b": "Cipher Block Chaining (CBC).",
+        "c": "Cipher Feedback (CFB).",
+        "d": "Ouput Feedback (OFB).",
+        "e": "Counter (CTR)."
+      },
+      "gabarito": "B",
+      "comentario": "Questão de nível completamente absurdo! É o tipo de questão que eu sugiro simplesmente chutar\ne ser feliz. Esse nível de aprofundamento não é cobrado nem para analistas de sistemas – talvez\npara cargos específicos de segurança da informação. De todo modo, existem cinco modos de\noperação de cifra de bloco: ECB, CBC, CFB, OFB e CTR. A característica do modo de operação de\ncifra de bloco em que a entrada do algoritmo de encriptação é o XOR dos próximos 64 bits de texto\nclaro e os 64 bits anteriores de texto cifrado é conhecida como CBC (Cipher Block Chaining)."
+    },
+    {
+      "id": "info05_013",
+      "numero": 13,
+      "banca": "FADESP / SEFA-PA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SEFA-PA – 2022) A forma de controle de acesso lógico, em que o dono dos dados e os usuários individuais são capazes de definir, ao seu critério, qual acesso será permitido aos seus dados independentemente da política, é definida como um controle de acesso:",
+      "alternativas": {
+        "a": "mandatório",
+        "b": "baseado na função.",
+        "c": "discricionário",
+        "d": "baseado em reivindicações",
+        "e": "seletista"
+      },
+      "gabarito": "C",
+      "comentario": "O Controle de Acesso Discricionário (DAC) é um tipo de controle de acesso de segurança que\nconcede ou restringe o acesso ao objeto por meio de uma política de acesso determinada pelo\ngrupo de proprietários de um objeto. O Controle de Acesso Discricionário é dito discricionário\nporque o proprietário pode transferir objetos autenticados ou acesso a informações para outros\nusuários. Em outras palavras, o proprietário determina os privilégios de acesso ao objeto."
+    },
+    {
+      "id": "info05_014",
+      "numero": 14,
+      "banca": "FADESP / SEFA-PA – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SEFA-PA – 2022) Considerando os passos utilizados pelo algoritmo de assinatura digital RSA, julgue verdadeira (V) ou falsa (F) cada uma das afirmativas a seguir. I. A mensagem a ser assinada é inserida em uma função de hash que produz um código hash seguro de tamanho variado. II. O código hash gerado é encriptado usando a chave privada do emissor para formar a assinatura digital. III. O destinatário recebe a mensagem e produz um código hash. Ele também decripta a mensagem usando a chave pública do emissor. Se o código hash calculado coincidir com a assinatura decriptada, ela é aceita como válida. A sequência correta é:",
+      "alternativas": {
+        "a": "I - F; II - F; III - F.",
+        "b": "I - F; II - F; III - V.",
+        "c": "I - V; II - V; III - F.",
+        "d": "I - F; II - V; III - V.",
+        "e": "I - V; II - V; III - V."
+      },
+      "gabarito": "D",
+      "comentario": "(I) Errado, o código hash tem um tamanho fixo; (II) Correto, a chave privada do emissor é utilizada\npara criptografar e a chave pública do emissor é utilizada para descriptografar; (III) Correto, se os\nhashes forem idênticos, significa que a mensagem é íntegra e de quem diz ser."
+    },
+    {
+      "id": "info05_015",
+      "numero": 15,
+      "banca": "FUNDATEC / ISS-Porto Alegre – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / ISS-Porto Alegre – 2022) A Figura 1 apresenta notícia a respeito da 2ª fase da Operação Spoofing, na qual os policiais federais cumpriram dois mandados de prisão temporária e outros de busca e apreensão em endereços de pessoas ligadas à organização 95717730268 - Keyla Kiyoku criminosa investigada. Os criminosos invadiram os celulares de autoridades, tendo acessado e tomado conhecimento de informações, muito delas sensíveis, sem autorização dos respectivos proprietários. Nesse caso, é correto afirmar que o seguinte princípio básico da Segurança da Informação foi violado:",
+      "alternativas": {
+        "a": "Sigilo",
+        "b": "Integridade.",
+        "c": "Não repúdio.",
+        "d": "Autenticidade.",
+        "e": "Disponibilidade."
+      },
+      "gabarito": "A",
+      "comentario": "Se os criminosos tiveram acesso a dados sigilosos, foi violado o princípio do sigilo. Nenhum dos\noutros itens trata de quebra de confidencialidade."
+    },
+    {
+      "id": "info05_016",
+      "numero": 16,
+      "banca": "FUNDATEC / ISS-Porto Alegre – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / ISS-Porto Alegre – 2022) Um certificado digital \"e-CNPJ\", do tipo \"A1\", após devidamente emitido, pode ser armazenado: I. Diretamente no computador do titular do certificado. II. Em um token. III. Em um cartão smart card. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I.",
+        "b": "Apenas III.",
+        "c": "Apenas I e II. 95717730268 - Keyla Kiyoku",
+        "d": "Apenas II e III.",
+        "e": "I, II e III."
+      },
+      "gabarito": "A",
+      "comentario": "TIPO\nGERAÇÃO DO PAR\nDE CHAVEs\nTAMANHO DA\nCHAVE (BITS)\nARMAZENAMENTO\nVALIDADE\n(ANOS)\nCertificado A1/S1 Por software Rsa 1024 ou 2048 Disco Rígido (HD) e Pendrive 1\nCertificado A2/S2 Por software Rsa 1024 ou 2048 SmartCard (com chip) ou Token USB 2\nCertificado A3/S3 Por hardware Rsa 1024 ou 2048 SmartCard (com chip) ou Token USB 5\nCertificado A4/S4 Por hardware Rsa 2048 ou 4096 SmartCard (com chip) ou Token USB 6\n(I) Correto, ele pode ser armazenado no disco rígido do computador do titular do certificado; (II)\nErrado, não pode ser armazenado com um token; (III) Errado, não pode ser armazenado em um\nsmartcard."
+    },
+    {
+      "id": "info05_017",
+      "numero": 17,
+      "banca": "FUNDATEC / DPE SC – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / DPE SC – 2018) A certificação digital é utilizada para garantir, de forma eletrônica, a autoria de determinado documento, como por exemplo, o perito responsável por determinado laudo. Um dos componentes da certificação digital é a utilização de criptografia. Diante do exposto, é correto afirmar que, para verificar a assinatura digital de um perito em relação a um laudo pericial emitido por ele, a primeira etapa é a aplicação:",
+      "alternativas": {
+        "a": "Da chave criptográfica privada do perito.",
+        "b": "Da chave criptográfica pública do perito.",
+        "c": "Da chave criptográfica simétrica de quem quer validar.",
+        "d": "De um algoritmo de hash simétrico de tamanho qualquer.",
+        "e": "De um algoritmo de hash assimétrico de tamanho mínimo de 128 bits."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. Para verificar a assinatura digital do perito, eu não posso utilizar sua chave privada\nporque somente ele tem acesso a ela; (b) Correto. Para verificar a assinatura digital do perito,\nutiliza-se a chave pública dele correspondente à chave privada, de modo que seja possível\nidentificá-lo inequivocamente; (c) Errado. Não se utiliza criptografia simétrica na certificação\ndigital; (d) Errado. Algoritmo de Hash é apenas o algoritmo utilizado no processo de assinatura\ndigital e não é capaz de verificar a assinatura do perito – e não existe algoritmo de hash simétrico;\n(e) Errado. Algoritmo de Hash é apenas o algoritmo utilizado no processo de assinatura digital e\nnão é capaz de verificar a assinatura do perito – e não existe algoritmo de hash assimétrico;"
+    },
+    {
+      "id": "info05_018",
+      "numero": 18,
+      "banca": "CONSULPLAN / TJ-MG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(CONSULPLAN / TJ-MG – 2017) Segurança da informação é o mecanismo de proteção de um conjunto de informações com o objetivo de preservar o valor que elas possuem para uma pessoa ou organização. Está correto o que se afirma sobre princípios básicos de segurança da informação, EXCETO:",
+      "alternativas": {
+        "a": "Disponibilidade garante que a informação esteja sempre disponível.",
+        "b": "Integridade garante a exatidão da informação.",
+        "c": "Confidencialidade garante que a informação seja acessada somente por pessoas autorizadas.",
+        "d": "Não repúdio garante a informação é autêntica e que a pessoa recebeu a informação."
+      },
+      "gabarito": "D",
+      "comentario": "A Autenticidade garantir que quem envia a informação é quem diz ser. Uma maneira de garanti-la\né com a autenticação de usuários (Senhas ou Tokens). Já o Não-repúdio (ou irretratabilidade)\ngarante que o autor não negará ter criado e assinado o conteúdo da informação. Uma maneira de\ngaranti-la é com o uso de certificados digitais. O princípio que garante que a informação é autêntica\né o Princípio da Autenticidade."
+    },
+    {
+      "id": "info05_019",
+      "numero": 19,
+      "banca": "IBADE / PM-AC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / PM-AC – 2017) Quanto mais a tecnologia se desenvolve, mais atividades são feitas pelos computadores pessoais, como pagamento de contas e armazenamento de arquivos com informações pessoais. Diante disso, cada vez mais deve-se pensar na segurança da informação. A melhor maneira de um usuário proteger informações quando está longe de seu computador é:",
+      "alternativas": {
+        "a": "bloquear o computador com uma senha.",
+        "b": "deixar o computador em modo de baixa energia.",
+        "c": "ativar a proteção de tela.",
+        "d": "desligar a rede sem fio.",
+        "e": "desligar o monitor."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. Esse procedimento realmente protege informações do usuário; (b) Errado. Esse\nprocedimento não protege informações do usuário; (c) Errado. Esse procedimento não protege\ninformações do usuário; (d) Errado. Esse procedimento não protege informações do usuário; (e)\nErrado. Esse procedimento não protege informações do usuário;"
+    },
+    {
+      "id": "info05_020",
+      "numero": 20,
+      "banca": "IF-TO / IF-TO - 2016",
+      "tipo": "multipla",
+      "enunciado": "(IF-TO / IF-TO - 2016) O suporte para as recomendações de segurança da informação pode ser encontrado em controles físicos e controles lógicos. Existem mecanismos de segurança que apoiam os controles físicos assim como os controles lógicos. Das alternativas abaixo qual não é um mecanismo de segurança que apoia os controles lógicos?",
+      "alternativas": {
+        "a": "Assinatura digital. Um conjunto de dados criptografados, associados a um documento do qual são função, garantindo a integridade do documento associado, mas não a sua confidencialidade.",
+        "b": "Mecanismos de controle de acesso. Palavras-chave, sistemas biométricos, firewalls, cartões inteligentes.",
+        "c": "Sistema de controle de acesso eletrônico ao centro de processamento de dados, com senha de acesso ou identificações biométricas como digitais e íris.",
+        "d": "Mecanismos de certificação. Atesta a validade de um documento.",
+        "e": "Mecanismos de criptografia. Permitem a transformação reversível da informação de forma a torná-la ininteligível a terceiros."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, Assinatura Digital é um controle lógico; (b) Errado, mecanismos de controle de acesso\nsão controles lógicos; (c) Correto. Como a questão fala que é um sistema de controle de acesso\neletrônico ao Centro de Processamento de Dados (CPD) da organização, trata-se de um controle\nfísico. Lembrando que CPD é o local onde estão concentrados os sistemas computacionais de uma\norganização; (d) Errado, mecanismos de certificação é um controle lógico; (e) Errado, mecanismos\nde criptografia são controles lógicos."
+    },
+    {
+      "id": "info05_021",
+      "numero": 21,
+      "banca": "ESAF / CASSE/MS – 2016",
+      "tipo": "multipla",
+      "enunciado": "(ESAF / CASSE/MS – 2016) Ao receber uma mensagem eletrônica, deve-se fazer a verificação da assinatura digital. Nas alternativas, assinale a que indica a resposta correta para se efetuar esse procedimento.",
+      "alternativas": {
+        "a": "Ter acesso ao CPF e identidade do remetente.",
+        "b": "Ter acesso ao certificado digital do remetente.",
+        "c": "Ter acesso ao certificado digital do destinatário.",
+        "d": "Ter acesso à chave criptográfica dupla do destinatário."
+      },
+      "gabarito": "B",
+      "comentario": "A verificação da assinatura digital é feita por meio do certificado digital do remetente.==2f06f1=="
+    },
+    {
+      "id": "info05_022",
+      "numero": 22,
+      "banca": "INAZ do Pará / CRO RJ - 2016",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / CRO RJ - 2016) Quando navegamos na internet, sempre nos preocupamos na segurança das informações. Marque a alternativa correta em que o browser demonstra que o site está seguro.",
+      "alternativas": {
+        "a": "http",
+        "b": "https",
+        "c": "http://",
+        "d": "Antivírus",
+        "e": "Worm"
+      },
+      "gabarito": "B",
+      "comentario": "Pessoal, o protocolo de internet mais conhecido é o http. Quando navegamos de forma segura, em\nsites de compra ou no seu banco, por exemplo, é utilizado o https. Para não esquecer, lembre-se\nsempre de S de Segurança."
+    },
+    {
+      "id": "info05_023",
+      "numero": 23,
+      "banca": "ESAF / Ministério da Fazenda – 2014",
+      "tipo": "multipla",
+      "enunciado": "(ESAF / Ministério da Fazenda – 2014) Assinale a opção correta relativa à Segurança da Informação.",
+      "alternativas": {
+        "a": "Criptografia: técnica para converter uma mensagem de texto entre sistemas operacionais distintos.",
+        "b": "Autenticação: sequência de símbolos destinada a permitir que o algoritmo cifre uma mensagem em texto claro ou decifre uma mensagem criptografada.",
+        "c": "Autenticação: procedimento destinado a autorizar a sintaxe de determinada mensagem.",
+        "d": "Autenticação: procedimento destinado a verificar a validade de determinada mensagem.",
+        "e": "Inicializador: sequência de símbolos destinada a permitir que o algoritmo inicie uma mensagem em texto claro para decifrar uma mensagem criptografada."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errada. A criptografia é um método que codifica os dados do usuário para que só o destinatário\npossa ler, dessa maneira garantindo a confidencialidade da informação;\n(b) Errada. Autenticação é um procedimento que visa garantir que quem envia a informação é quem\ndiz ser. Lembrando que a sequência de símbolos na questão é chamada de chave de criptografia;\n(c) Errada. Autenticação é um procedimento que visa garantir que quem envia a informação é quem\ndiz ser;(d) Correto. Autenticação é um procedimento que visa garantir que quem envia a informação é\nquem diz ser. Ou seja, que verifica que uma mensagem é válida (verdadeira) ou não.\n(e) Errada. A sequência de símbolos em questão é chamada de chave de criptografia."
+    },
+    {
+      "id": "info05_024",
+      "numero": 24,
+      "banca": "INAZ do Pará / Prefeitura de Curuçá – 2014",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / Prefeitura de Curuçá – 2014) Em função de muitos ataques de hacker em diversos dados sigilosos, atualmente a maioria das empresas estão utilizando a certificação digital como uma forma de envio mais seguro das informações a diversos órgãos governamentais e privados. Qual a técnica que garante a veracidade do envio da informação pelo real remetente?",
+      "alternativas": {
+        "a": "VPN.",
+        "b": "Senha.",
+        "c": "Não repúdio.",
+        "d": "Integridade.",
+        "e": "Confidencialidade."
+      },
+      "gabarito": "C",
+      "comentario": "Galera, o princípio do não-repúdio é o que garante que a informação/mensagem foi realizada por\naquela pessoa determinada. Isto é, o autor não negará ter criado e assinado o conteúdo da\ninformação. Uma maneira de garanti-la é com o uso de certificados digitais."
+    },
+    {
+      "id": "info05_025",
+      "numero": 25,
+      "banca": "INAZ do Pará / BANPARÁ – 2014",
+      "tipo": "multipla",
+      "enunciado": "(INAZ do Pará / BANPARÁ – 2014) Segundo os padrões internacionais, o tripé da segurança da informação são:",
+      "alternativas": {
+        "a": "Antivírus, Firewall e Certificação Digital",
+        "b": "Senha, Antivírus e AntiSpam",
+        "c": "Consistência, Autenticidade, Integridade",
+        "d": "Confidencialidade, Disponibilidade e Integridade",
+        "e": "Navegabilidade, Acessibilidade e Usabilidade"
+      },
+      "gabarito": "D",
+      "comentario": "Os três princípios consagrados da segurança da informação são: Confidencialidade, Integridade e\nDisponibilidade – conhecidos como CID. Se um ou mais desses princípios forem desrespeitados em\nalgum momento, significa que houve um incidente de segurança da informação.Relembrando rapidamente o conceito de cada um, temos que a confidencialidade é o princípio de\nque a informação não esteja disponível ou seja revelada a indivíduos, entidades ou processos não\nautorizados; a integridade é o princípio de salvaguarda da exatidão e completeza de ativos de\ninformação; e a disponibilidade é o princípio da capacidade de estar acessível e utilizável quando\ndemandada por uma entidade autorizada."
+    },
+    {
+      "id": "info05_026",
+      "numero": 26,
+      "banca": "IDECAN / AGU – 2014",
+      "tipo": "multipla",
+      "enunciado": "(IDECAN / AGU – 2014) O recurso que estuda os princípios e técnicas pelas quais a informação pode ser transformada da sua forma original para outra ilegível, com o objetivo de dificultar a leitura de pessoas não autorizadas, denomina-se",
+      "alternativas": {
+        "a": "Backup.",
+        "b": "Webgrafia.",
+        "c": "criptografia.",
+        "d": "quarentena.",
+        "e": "endereçamento."
+      },
+      "gabarito": "C",
+      "comentario": "Quando necessitamos ocultar uma informação, deixando-a ilegível para pessoas não autorizadas\nutilizamos a criptografia."
+    },
+    {
+      "id": "info05_027",
+      "numero": 27,
+      "banca": "FUNDATEC / SEFAZ-RS – 2014",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / SEFAZ-RS – 2014) Considerando os aspectos da segurança da informação, a possibilidade de uma determinada ameaça explorar vulnerabilidades de um ativo ou de um conjunto de ativos, prejudicando a organização, é chamada de:",
+      "alternativas": {
+        "a": "Eventos de segurança da informação.",
+        "b": "Incidentes de segurança da informação.",
+        "c": "Riscos de segurança da informação.",
+        "d": "Impacto organizacional.",
+        "e": "Criticidade de ativo."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, evento é uma ocorrência identificada que indica uma possível violação de política de\nsegurança; (b) Errado, incidente é um evento considerado indesejado ou inesperado, com grande\npossibilidade de comprometer o negócio; (c) Correto, risco é a combinação da probabilidade de um\nevento e de suas consequências – a exploração de uma vulnerabilidade por parte de uma ameaça é\num evento de segurança específico que produz prejuízos à organização como consequência; (d)\nErrado, impacto é uma mudança adversa no nível de resultados obtidos para o alcance dos objetivosde negócio traçados; (e) Errado, criticidade é definição do quanto determinado ativo é crítico, ou\nseja, o quanto é importante para a concretização dos objetivos da organização."
+    },
+    {
+      "id": "info05_028",
+      "numero": 28,
+      "banca": "TJ-SC / TJ-SC – 2011",
+      "tipo": "multipla",
+      "enunciado": "(TJ-SC / TJ-SC – 2011) Em segurança da informação, “assinatura digital” diz respeito a:",
+      "alternativas": {
+        "a": "Ação de digitalizar uma assinatura em papel e incluí-la em documentos eletrônicos.",
+        "b": "Uma tecnologia que permite dar garantia de integridade a autenticidade a arquivos eletrônicos, através da aplicação de operações criptográficas e da utilização de chaves.",
+        "c": "Ação de escrever sobre a tela de um computador com uma caneta especial.",
+        "d": "Uma tecnologia que permite a digitalização das impressões digitais do usuário.",
+        "e": "Ação de digitar o nome completo do usuário no momento de escrever uma mensagem de email."
+      },
+      "gabarito": "B",
+      "comentario": "Assinatura digital é uma tecnologia que permite dar garantia de integridade e autenticidade a\narquivos eletrônicos, através da aplicação de operações criptográficas e da utilização de chaves."
+    },
+    {
+      "id": "info05_029",
+      "numero": 29,
+      "banca": "FUNDATEC / SEFAZ RS – 2009",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / SEFAZ RS – 2009) O Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal), em seu artigo 313-A, incluído pela Lei no 9.983, de 2000, diz o seguinte: \"Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou para causar dano: Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.\". Esse artigo do Código Penal auxilia na preservação das informações existentes nas entidades e órgãos públicos, através da fixação de pena de reclusão, caso seja violado, nas condições desse artigo, o(s) seguinte(s) princípio(s) fundamental(ais) da Segurança da Informação: I. Integridade. I. Disponibilidade. III. Confidencialidade. Quais estão corretas?",
+      "alternativas": {
+        "a": "Apenas I. 95717730268 - Keyla Kiyoku",
+        "b": "Apenas II.",
+        "c": "Apenas III.",
+        "d": "Apenas I e II.",
+        "e": "I, II e III."
+      },
+      "gabarito": "D",
+      "comentario": "Essa é uma questão polêmica! Fica evidente que não houve quebra da confidencialidade porque se\ntrata de um funcionário autorizado. Fica claro também que houve quebra da integridade porque\ndados foram inseridos, alterados ou excluídos – modificando a informação original. Por outro lado,\na análise da disponibilidade é complexa! Eu e o Prof. Renato da Costa discutimos e nós não\nconcordamos que tenha havido uma quebra da disponibilidade. A simples exclusão de um dado não\ncaracteriza a perda da disponibilidade. Caso assim fosse, toda quebra de integridade implicaria\nnecessariamente em quebra da disponibilidade. Dessa forma, eu discordo do gabarito oficial da\nbanca de que foram violados os princípios da integridade e disponibilidade."
+    },
+    {
+      "id": "info05_030",
+      "numero": 30,
+      "banca": "COPESE-UFPI / Prefeitura de Bom Jesus/PI – 2008",
+      "tipo": "multipla",
+      "enunciado": "(COPESE-UFPI / Prefeitura de Bom Jesus/PI – 2008) Com relação à segurança da informação, o evento decorrente da exploração de uma vulnerabilidade por uma ameaça é um:",
+      "alternativas": {
+        "a": "impacto.",
+        "b": "risco.",
+        "c": "antispyware.",
+        "d": "repúdio.",
+        "e": "ataque."
+      },
+      "gabarito": "E",
+      "comentario": "Um ataque é um evento decorrente da exploração de uma vulnerabilidade por uma ameaça com o\nintuito de obter, alterar, destruir, remover, implantar ou revelar informações sem autorização de\nacesso."
+    }
+  ]
+}

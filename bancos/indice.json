@@ -24,7 +24,8 @@
           "n": 14,
           "titulo": "Aspectos pedagógicos e sociais da prática educativa"
         }
-      ]
+      ],
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-01-planejamento-organizacao.json",
@@ -44,7 +45,8 @@
           "titulo": "Componentes do processo de ensino (objetivos, conteúdos, métodos)"
         }
       ],
-      "total": 8
+      "total": 8,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-02-teorias-curriculo.json",
@@ -64,7 +66,8 @@
           "titulo": "Interdisciplinaridade e transdisciplinaridade"
         }
       ],
-      "total": 40
+      "total": 40,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-03-tics-educacao.json",
@@ -79,7 +82,8 @@
           "titulo": "Tecnologias da informação e comunicação na educação (TICs)"
         }
       ],
-      "total": 6
+      "total": 6,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-04-planejamento-participativo-ppp.json",
@@ -99,7 +103,8 @@
           "titulo": "Papel político-pedagógico e organicidade do ensinar, aprender e pesquisar"
         }
       ],
-      "total": 18
+      "total": 18,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-05-educacao-integral.json",
@@ -114,7 +119,8 @@
           "titulo": "Educação integral"
         }
       ],
-      "total": 4
+      "total": 4,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-06-didatica.json",
@@ -134,7 +140,8 @@
           "titulo": "Didática na formação do professor"
         }
       ],
-      "total": 9
+      "total": 9,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-07-processos-ensino-aprendizagem.json",
@@ -149,7 +156,8 @@
           "titulo": "Processos de ensino e de aprendizagem"
         }
       ],
-      "total": 32
+      "total": 32,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-08-relacao-professor-aluno-etica.json",
@@ -169,7 +177,8 @@
           "titulo": "Compromisso social e ético do professor"
         }
       ],
-      "total": 14
+      "total": 14,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-09-sociologia-educacao.json",
@@ -184,7 +193,8 @@
           "titulo": "Educação/sociedade e prática escolar"
         }
       ],
-      "total": 19
+      "total": 19,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-10-projeto-politico-pedagogico.json",
@@ -199,7 +209,8 @@
           "titulo": "Projeto político-pedagógico da escola (PPP)"
         }
       ],
-      "total": 20
+      "total": 20,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-11-gestao-democratica.json",
@@ -214,7 +225,8 @@
           "titulo": "Gestão democrática"
         }
       ],
-      "total": 9
+      "total": 9,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-12-educacao-etnico-racial.json",
@@ -229,7 +241,8 @@
           "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
         }
       ],
-      "total": 5
+      "total": 5,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-13-educacao-campo-indigena-quilombola.json",
@@ -249,7 +262,8 @@
           "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
         }
       ],
-      "total": 12
+      "total": 12,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-14-educacao-ambiental.json",
@@ -264,7 +278,8 @@
           "titulo": "Educação ambiental"
         }
       ],
-      "total": 30
+      "total": 30,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-15-politicas-publicas-fundeb.json",
@@ -279,7 +294,8 @@
           "titulo": "Políticas públicas para a Educação Básica"
         }
       ],
-      "total": 23
+      "total": 23,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-16-dcn-etnico-raciais.json",
@@ -294,7 +310,8 @@
           "titulo": "Educação em Direitos Humanos e diversidade (étnico-racial, gênero, indígena/quilombola)"
         }
       ],
-      "total": 30
+      "total": 30,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-17-educacao-a-distancia.json",
@@ -309,7 +326,8 @@
           "titulo": "Educação para a diversidade, cidadania, direitos humanos e EaD"
         }
       ],
-      "total": 19
+      "total": 19,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-18-eja.json",
@@ -324,7 +342,8 @@
           "titulo": "Educação de Jovens e Adultos (EJA)"
         }
       ],
-      "total": 20
+      "total": 20,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-19-educacao-especial-inclusiva.json",
@@ -339,7 +358,8 @@
           "titulo": "Fundamentos legais da Educação especial/inclusiva"
         }
       ],
-      "total": 25
+      "total": 25,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-20-avaliacao-escolar.json",
@@ -354,7 +374,8 @@
           "titulo": "Avaliação escolar e suas implicações pedagógicas"
         }
       ],
-      "total": 25
+      "total": 25,
+      "disciplina": "Temas Educacionais e Pedagógicos"
     },
     {
       "arquivo": "aula-21-historico-cultural-fracasso.json",
@@ -374,7 +395,194 @@
           "titulo": "Didática na formação do professor"
         }
       ],
-      "total": 25
+      "total": 25,
+      "disciplina": "Temas Educacionais e Pedagógicos"
+    },
+    {
+      "arquivo": "info-aula-00-internet-conceitos.json",
+      "aula": "00",
+      "titulo": "Informática - AULA 00",
+      "disciplina": "Informática",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+        }
+      ],
+      "total": 65
+    },
+    {
+      "arquivo": "info-aula-01-protocolos-redes.json",
+      "aula": "01",
+      "titulo": "Informática - AULA 01",
+      "disciplina": "Informática",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+        }
+      ],
+      "total": 62
+    },
+    {
+      "arquivo": "info-aula-02-ferramentas-busca.json",
+      "aula": "02",
+      "titulo": "Informática - AULA 02",
+      "disciplina": "Informática",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+        }
+      ],
+      "total": 46
+    },
+    {
+      "arquivo": "info-aula-03-navegadores.json",
+      "aula": "03",
+      "titulo": "Informática - AULA 03",
+      "disciplina": "Informática",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+        }
+      ],
+      "total": 45
+    },
+    {
+      "arquivo": "info-aula-04-correio-eletronico.json",
+      "aula": "04",
+      "titulo": "Informática - AULA 04",
+      "disciplina": "Informática",
+      "itensEdital": [
+        4
+      ],
+      "tagsEdital": [
+        {
+          "n": 4,
+          "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+        }
+      ],
+      "total": 83
+    },
+    {
+      "arquivo": "info-aula-05-seguranca-principios.json",
+      "aula": "05",
+      "titulo": "Informática - AULA 05",
+      "disciplina": "Informática",
+      "itensEdital": [
+        1
+      ],
+      "tagsEdital": [
+        {
+          "n": 1,
+          "titulo": "Segurança da informação (vírus, pragas, backup)"
+        }
+      ],
+      "total": 30
+    },
+    {
+      "arquivo": "info-aula-06-malwares.json",
+      "aula": "06",
+      "titulo": "Informática - AULA 06",
+      "disciplina": "Informática",
+      "itensEdital": [
+        1
+      ],
+      "tagsEdital": [
+        {
+          "n": 1,
+          "titulo": "Segurança da informação (vírus, pragas, backup)"
+        }
+      ],
+      "total": 51
+    },
+    {
+      "arquivo": "info-aula-07-backup.json",
+      "aula": "07",
+      "titulo": "Informática - AULA 07",
+      "disciplina": "Informática",
+      "itensEdital": [
+        1
+      ],
+      "tagsEdital": [
+        {
+          "n": 1,
+          "titulo": "Segurança da informação (vírus, pragas, backup)"
+        }
+      ],
+      "total": 46
+    },
+    {
+      "arquivo": "info-aula-09-word.json",
+      "aula": "09",
+      "titulo": "Informática - AULA 09",
+      "disciplina": "Informática",
+      "itensEdital": [
+        3
+      ],
+      "tagsEdital": [
+        {
+          "n": 3,
+          "titulo": "Sistema operacional e ambiente Windows (edição de textos, planilhas, apresentações)"
+        }
+      ],
+      "total": 47
+    },
+    {
+      "arquivo": "info-aula-11-windows-arquivos.json",
+      "aula": "11",
+      "titulo": "Informática - AULA 11",
+      "disciplina": "Informática",
+      "itensEdital": [
+        3,
+        5
+      ],
+      "tagsEdital": [
+        {
+          "n": 3,
+          "titulo": "Sistema operacional e ambiente Windows (edição de textos, planilhas, apresentações)"
+        },
+        {
+          "n": 5,
+          "titulo": "Organização e gerenciamento de arquivos, pastas e programas"
+        }
+      ],
+      "total": 47
+    },
+    {
+      "arquivo": "info-aula-12-google-workspace.json",
+      "aula": "12",
+      "titulo": "Informática - AULA 12",
+      "disciplina": "Informática",
+      "itensEdital": [
+        2,
+        5
+      ],
+      "tagsEdital": [
+        {
+          "n": 2,
+          "titulo": "Conhecimento da plataforma Google (Sala de Aula, Documentos, Planilha)"
+        },
+        {
+          "n": 5,
+          "titulo": "Organização e gerenciamento de arquivos, pastas e programas"
+        }
+      ],
+      "total": 34
     }
   ]
 }

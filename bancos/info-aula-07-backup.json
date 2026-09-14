@@ -1,0 +1,549 @@
+{
+  "esquema": 1,
+  "id": "info-aula-07-backup",
+  "aula": "07",
+  "titulo": "Informática - AULA 07",
+  "subtitulo": "Procedimentos de Backup",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    1
+  ],
+  "tagsEdital": [
+    {
+      "n": 1,
+      "titulo": "Segurança da informação (vírus, pragas, backup)"
+    }
+  ],
+  "resumoMd": "- **Princípios Básicos da Segurança (`05.pdf`)**:\n  - **Confidencialidade**: Garantia de que a informação só é acessível por pessoas autorizadas.\n  - **Integridade**: Garantia de que a informação não foi alterada ou adulterada indevidamente.\n  - **Disponibilidade**: Garantia de que a informação está acessível quando necessária.\n  - **Autenticidade**: Confirmação da identidade da fonte emissora da informação.\n  - **Não Repúdio (Irretratabilidade)**: Impossibilidade de negar a autoria de uma ação ou mensagem enviada.\n- **Pragas Virtuais / Malwares (`06.pdf`)**:\n  - **Vírus**: Programa malicioso que necessita de um arquivo hospedeiro e de execução do usuário para se propagar.\n  - **Worm (Verme)**: Programa autônomo que se propaga automaticamente explorando vulnerabilidades de rede.\n  - **Trojan (Cavalo de Tróia)**: Programa que se passa por legítimo ou útil, mas executa funções maliciosas ocultas.\n  - **Ransomware**: Malware que criptografa os dados da vítima e exige resgate (*ransom*) para o fornecimento da chave de decodificação.\n  - **Spyware**: Software espião (ex.: *Keylogger*, *Screenlogger*) que monitora a atividade do usuário.\n  - **Phishing**: Técnica de engenharia social voltada a enganar o usuário para obter dados confidenciais (senhas, cartões).\n- **Procedimentos de Backup (`07.pdf`)**:\n  - **Backup Total (Completo)**: Copia todos os dados selecionados. Mais demorado, porém restauração rápida e direta.\n  - **Backup Incremental**: Copia apenas os arquivos alterados/criados desde o último backup (total ou incremental). Mais rápido para salvar, porém restauração requer o backup total + todas as etapas incrementais.\n  - **Backup Diferencial**: Copia todos os arquivos alterados desde o último backup total.\n\n---",
+  "total": 46,
+  "questoes": [
+    {
+      "id": "info07_001",
+      "numero": 1,
+      "banca": "CESPE / Prefeitura de Camaçari-BA – 2024",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / Prefeitura de Camaçari-BA – 2024) No ambiente Windows, para evitar a perda de informações em casos de falhas de hardware, erros do sistema e exclusões acidentais, recomenda-se a criação de cópias de segurança de arquivos e dados. Tal procedimento consiste em",
+      "alternativas": {
+        "a": "renomear arquivo.",
+        "b": "realizar becape de arquivo.",
+        "c": "criar atalho de arquivo.",
+        "d": "reiniciar o sistema operacional.",
+        "e": "compactar arquivo."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. Renomear um arquivo apenas altera seu nome, sem criar uma cópia de segurança;\n(b) Correto. Realizar backup cria uma cópia dos arquivos e dados, protegendo contra falhas de\nhardware, erros do sistema e exclusões acidentais;\n(c) Errado. Criar um atalho apenas gera um link para acessar o arquivo original, sem fazer uma cópia\nde segurança;\n(d) Errado. Reiniciar o sistema pode resolver alguns problemas temporários, mas não protege\ncontra perda de dados;\n(e) Errado. Compactar um arquivo reduz seu tamanho, mas não garante segurança contra perda de\ndados caso o arquivo original seja excluído."
+    },
+    {
+      "id": "info07_002",
+      "numero": 2,
+      "banca": "CESPE / PC-PE – 2024",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PC-PE – 2024) Assinale a opção que corresponde a uma prática recomendada em relação a backups.",
+      "alternativas": {
+        "a": "fazer backup apenas dos dados mais recentes",
+        "b": "usar um único método de backup",
+        "c": "armazenar todas as cópias de backup no mesmo local",
+        "d": "ter múltiplas cópias de backup em locais diferentes",
+        "e": "fazer backups uma vez por ano para economizar espaço"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Fazer backup apenas dos dados mais recentes pode comprometer a recuperação de\nversões anteriores ou de arquivos antigos, reduzindo a eficácia da proteção;\n(b) Errado. Usar um único método de backup pode ser arriscado, pois diferentes métodos oferecem\nvantagens complementares, como backups completos, diferenciais e incrementais;\n(c) Errado. Armazenar todas as cópias no mesmo local aumenta o risco de perda total dos dados em\ncaso de desastres, como incêndios ou falhas no hardware;\n(d) Correto. Ter múltiplas cópias de backup em locais diferentes (como armazenamento local e na\nnuvem) aumenta a segurança e garante recuperação mesmo em caso de falhas;\n(e) Errado. Fazer backups apenas uma vez por ano não protege adequadamente contra perdas\nfrequentes de dados. O ideal é seguir uma política regular de backup."
+    },
+    {
+      "id": "info07_003",
+      "numero": 3,
+      "banca": "CESPE / ITAIPU BINACIONAL – 2024",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / ITAIPU BINACIONAL – 2024) O procedimento de becape que salva os arquivos alterados desde o último becape completo, e que ocorre de acordo com o último becape completo e com sua alteração mais recente é o becape",
+      "alternativas": {
+        "a": "híbrido.",
+        "b": "diferencial.",
+        "c": "de imagem do sistema.",
+        "d": "incremental.",
+        "e": "em tempo real."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. O termo backup híbrido não é amplamente utilizado para descrever esse processo. Ele\npode se referir a backups que combinam armazenamento local e em nuvem;\n(b) Errado. O backup diferencial salva todas as alterações feitas desde o último backup completo,\nacumulando dados a cada execução;\n(c) Errado. O backup de imagem do sistema cria uma cópia exata de todo o sistema, incluindo o\nsistema operacional, configurações e arquivos, não apenas os alterados;\n(d) Correto. O backup incremental salva apenas os arquivos alterados desde o último backup (seja\nele completo ou incremental), otimizando espaço e tempo de execução;\n(e) Errado. O backup em tempo real (ou contínuo) salva as alterações imediatamente, sem\ndepender de backups anteriores."
+    },
+    {
+      "id": "info07_004",
+      "numero": 4,
+      "banca": "CESPE / ITAIPU BINACIONAL – 2024",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / ITAIPU BINACIONAL – 2024) O becape tem como finalidade salvar a cópia de arquivos, para que eles possam ser restaurados no caso de uma situação inesperada. Para isso, existem técnicas e procedimentos, como o becape incremental, cuja função é realizar a cópia",
+      "alternativas": {
+        "a": "de todos os arquivos uma vez por dia.",
+        "b": "dos arquivos que foram alterados desde a última cópia.",
+        "c": "dos arquivos novos, excluindo os alterados desde a última cópia.",
+        "d": "de arquivos considerados mais críticos para a organização.",
+        "e": "completa de todos os arquivos a cada execução do becape."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. O backup incremental não copia todos os arquivos diariamente, apenas os alterados\ndesde o último backup (completo ou incremental);\n(b) Correto. O backup incremental salva somente os arquivos modificados desde o último backup,\notimizando espaço e tempo de execução;\n(c) Errado. O backup incremental inclui arquivos novos e alterados, não exclui os modificados desde\na última cópia;\n(d) Errado. O backup incremental não se baseia na criticidade dos arquivos, mas sim na sua\nmodificação desde o último backup;\n(e) Errado. A cópia completa de todos os arquivos ocorre no backup completo, não no incremental."
+    },
+    {
+      "id": "info07_005",
+      "numero": 5,
+      "banca": "CESPE / MPE-TO – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MPE-TO – 2024) Algumas empresas, em razão das características de seus sistemas, fazem uso dos chamados hot backups, em que as cópias são feitas sem que o sistema interrompa o seu funcionamento.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O hot backup permite a realização de cópias de segurança sem interromper o funcionamento do\nsistema, sendo útil para bancos de dados e aplicações críticas que exigem alta disponibilidade. Esse\ntipo de backup evita downtime e garante a continuidade do serviço."
+    },
+    {
+      "id": "info07_006",
+      "numero": 6,
+      "banca": "CESPE / MPE-TO – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MPE-TO – 2024) O tipo de backup de dados que mais consome espaço de armazenamento no computador é o backup incremental.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O backup completo é o que mais consome espaço, pois copia todos os arquivos a cada execução. Já\no backup incremental salva apenas os arquivos alterados desde o último backup (completo ou\nincremental), otimizando o uso de armazenamento."
+    },
+    {
+      "id": "info07_007",
+      "numero": 7,
+      "banca": "CESPE / MPE-GO – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MPE-GO – 2024) Caso um backup completo seja executado aos domingos e, ao longo da semana, sejam executados backups diferenciais todos os dias até sábado, pode-se considerar que a criação dos backups diferenciais será mais rápida e estes consumirão menos espaço do que se fossem adotados backups incrementais ao longo da semana.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O backup diferencial copia todos os arquivos alterados desde o último backup completo,\nacumulando dados a cada dia, tornando-se mais lento e ocupando mais espaço com o tempo. Já o\nincremental copia apenas as mudanças desde o último backup (completo ou incremental), sendo\nmais rápido e consumindo menos espaço."
+    },
+    {
+      "id": "info07_008",
+      "numero": 8,
+      "banca": "CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) No backup incremental são copiados somente os dados modificados desde o último backup, enquanto no backup diferencial são copiados somente os dados recém-adicionados e alterados desde o último backup completo.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O backup incremental copia apenas os arquivos modificados desde o último backup (completo ou\nincremental), otimizando espaço e tempo. Já o backup diferencial copia os arquivos alterados desde\no último backup completo, acumulando dados a cada execução."
+    },
+    {
+      "id": "info07_009",
+      "numero": 9,
+      "banca": "CESPE / CODEVASF – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CODEVASF – 2024) O backup incremental, uma vez configurado e executado, fará uma cópia exata de arquivos e pastas selecionados, sendo especialmente útil quando se precisa de uma recuperação rápida e completa de dados em casos de falha de hardware.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O backup incremental copia apenas os arquivos alterados desde o último backup (completo ou\nincremental), otimizando tempo e espaço. Ele não cria uma cópia exata de todos os arquivos e\npastas selecionados, como faria um backup completo, tornando a recuperação mais complexa."
+    },
+    {
+      "id": "info07_010",
+      "numero": 10,
+      "banca": "CESPE / CODEVASF – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CODEVASF – 2024) Embora atenda à demanda pela restauração e transferência das informações que passaram por backup, o restore não assegura a integridade e a disponibilidade da informação registrada previamente.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O processo de restore tem como objetivo restaurar os dados a partir de um backup, garantindo sua\ndisponibilidade. Além disso, técnicas como verificação de integridade e validação dos backups\najudam a assegurar a recuperação correta dos dados."
+    },
+    {
+      "id": "info07_011",
+      "numero": 11,
+      "banca": "CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Uma das formas de fazer becape de arquivos é armazená-los na nuvem.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O armazenamento em nuvem é uma opção eficiente para backup, permitindo acesso remoto e\nproteção contra falhas físicas. Serviços como Google Drive, OneDrive e Dropbox oferecem essa\nfuncionalidade, garantindo segurança e recuperação dos dados."
+    },
+    {
+      "id": "info07_012",
+      "numero": 12,
+      "banca": "CESPE / SME do Recife-PE – 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SME do Recife-PE – 2023) Um usuário pode fazer o backup, ou a cópia de segurança, de arquivos por meio da ferramenta Google Drive.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O Google Drive permite armazenar arquivos na nuvem, funcionando como uma opção de backup\npara documentos, fotos e outros dados. Além disso, ferramentas como Google Drive para Desktop\npossibilitam sincronização automática de arquivos com a nuvem."
+    },
+    {
+      "id": "info07_013",
+      "numero": 13,
+      "banca": "CESPE / DPDF - 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / DPDF - 2022) O backup incremental tem como característica a cópia apenas dos dados alterados ou criados desde o último backup completo. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O backup incremental realiza a cópia de todos os dados que foram criados ou modificados desde o\núltimo backup completo ou incremental anterior, e não apenas do último backup completo."
+    },
+    {
+      "id": "info07_014",
+      "numero": 14,
+      "banca": "CESPE / SEFAZ-CE – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SEFAZ-CE – 2021) O backup incremental caracteriza-se pela cópia de todos os dados alterados ou criados desde o último backup completo.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Vamos partir do princípio de que o atributo de arquivamento indica que um arquivo sofreu backup (Bit\nArchive = 0) ou não sofreu backup (Bit Archive = 1). Sempre que um arquivo é criado ou alterado, o\natributo de arquivamento será igual a 1. Logo, temos duas opções: desmarcar/remover o atributo de\narquivamento para indicar que o arquivo sofreu backup (Bit Archive de 1 ↦ 0) ou não desmarcar/não\nremover o atributo de arquivamento para indicar que o arquivo não sofreu backup (Bit Archive = 1).\n(1) Backup Incremental: copia todos os dados que foram criados ou modificados desde o último\nbackup completo ou incremental anterior e desmarca o atributo de arquivamento (Bit Archive = 0).\n(2) Backup Diferencial: copia todos os dados que foram criados ou modificados desde o último\nbackup completo ou incremental anterior, mas não desmarca o atributo de arquivamento (Bit\nArchive = 1).\nNotem que ambos fazem exatamente o mesmo procedimento, com exceção da marcação ou não\ndo atributo de arquivamento. Logo, quando a questão afirma que o backup incremental se\ncaracteriza pela cópia de todos os dados alterados ou criados desde o último backup completo,\ntrata-se de uma definição incompleta. Alguns podem argumentar que, se ele copia todos os dados\nalterados ou criados desde o último backup completo ou incremental, então ele copia todos os\ndados alterados desde o último backup completo.\nEm um contexto em que o último backup tenha sido um backup completo, o próximo backup\nincremental copiará todos os dados criados ou modificados desde o backup completo; em um\ncontexto em que o último backup tenha sido um backup incremental, o próximo backup\nincremental copiará todos os dados criados ou modificados desde o último backup incremental.\nLogo, tudo dependerá do contexto (que a banca não informou)! Dessa forma, torna-se impossível\navaliar o item e acredito que ele deveria ser anulado.\nEdição: a banca alterou o gabarito de Errado para Correto sob a seguinte justificativa: “De fato, o\nbackup incremental é a cópia de todos os dados novos e que foram modificados desde o último\nbackup de qualquer tipo”."
+    },
+    {
+      "id": "info07_015",
+      "numero": 15,
+      "banca": "CESPE / Ministério da Economia - 2020",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Ministério da Economia - 2020) Um sistema de backup diferencial permite o salvamento apenas dos dados que tiverem sido alterados desde o último backup completo.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Questão absurda! Um sistema de backup diferencial permite o salvamento apenas dos dados que\ntiverem sido alterados desde o último backup completo? Não, ele permite o salvamento dos dados\nque tiverem sido alterados ou criados. Além disso, não é apenas desde o último backup completo –\né desde o último backup completo ou incremental anterior. Discordo do gabarito!"
+    },
+    {
+      "id": "info07_016",
+      "numero": 16,
+      "banca": "CESPE / Ministério da Economia – 2020",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Ministério da Economia – 2020) No backup diferencial, é realizada apenas a cópia dos arquivos alterados e que estiverem diferentes em relação ao último backup.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, é realizada a cópia dos arquivos alterados ou criados desde o último backup completo\nou incremental (diferencial, não)."
+    },
+    {
+      "id": "info07_017",
+      "numero": 17,
+      "banca": "CESPE / Ministério da Economia – 2020",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Ministério da Economia – 2020) O backup de dados de um computador pode ser feito de maneira simples: basta copiar os dados de uma unidade para outra, de preferência uma unidade removível externa como pendrives (baixa capacidade) ou HDs externos (alta capacidade).",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Recomenda-se fazer backup em mídias externas como pendrives, discos rígidos externos,\nfitas magnéticas, etc."
+    },
+    {
+      "id": "info07_018",
+      "numero": 18,
+      "banca": "CESPE / Ministério da Economia – 2020",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Ministério da Economia – 2020) Um sistema de backup incremental é capaz de armazenar os dados alterados desde um ponto de referência no tempo.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Um backup incremental copia arquivos criados ou alterados desde o último backup normal ou\nincremental. Ele é capaz de armazenar dados alterados desde um ponto de referência no tempo? Sim,\ndesde que esse ponto de referência tenha sido o momento em que ocorreu o último backup normal\nou incremental. Não gostei da redação dessa questão – qualquer gabarito teria como argumentar\ncontra ou a favor."
+    },
+    {
+      "id": "info07_019",
+      "numero": 19,
+      "banca": "CESPE / IFF – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / IFF – 2018) Na primeira vez que se realiza uma cópia de segurança, seja de um servidor ou de um computador pessoal, o tipo de becape mais indicado é o:",
+      "alternativas": {
+        "a": "diferencial.",
+        "b": "incremental",
+        "c": "periódico.",
+        "d": "diário.",
+        "e": "completo."
+      },
+      "gabarito": "E",
+      "comentario": "Tanto antes do Backup Incremental quanto antes do Backup Diferencial, recomenda-se fazer um\nBackup Completo."
+    },
+    {
+      "id": "info07_020",
+      "numero": 20,
+      "banca": "CESPE / FUB – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB – 2018) O becape diferencial, utilizado para diminuir a quantidade de fitas a serem lidas e gravadas, é feito a partir de um becape completo e, então, a cada dia, é feito um novo becape de todos os arquivos que foram alterados desde o último becape, seja ele completo ou não.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O becape diferencial é realmente utilizado para diminuir a quantidade de fitas a serem lidas. No\nentanto, a questão afirma que é feito um novo becape a cada dia (o que não é necessariamente\nverdadeiro) e que esse novo becape é de todos os arquivos que foram alterados desde o último\nbecape completo ou não (o que incluiria, por exemplo, um becape diferencial – isso é falso, ocorre\napenas em relação ao último becape completo ou incremental)."
+    },
+    {
+      "id": "info07_021",
+      "numero": 21,
+      "banca": "CESPE / EMAP – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / EMAP – 2018) Recomenda-se, para arquivos pequenos e dinâmicos, a tecnologia de becape em fita — devido às suas características de armazenamento de longo prazo, baixo custo inicial e rápida recuperação dos dados —, em vez do becape em disco. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O backup em fita é recomendável para grandes volumes de dados armazenados por longo prazo\ncom baixo custo. Como a gravação é sequencial, a recuperação de dados pode ser considerada\nlenta, já que a unidade precisa ler a fita inteira."
+    },
+    {
+      "id": "info07_022",
+      "numero": 22,
+      "banca": "CESPE / TRE-BA - 2017",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRE-BA - 2017) A política atual de becape de determinada organização consiste em um becape completo feito todos os domingos; e becapes incrementais realizados de segunda a sábado. Considerando que, todos os dias, haja entrada de novos dados e que, também todos os dias, seja efetuado becape, assinale a opção correta acerca dessa situação hipotética.",
+      "alternativas": {
+        "a": "Se o becape incremental for substituído pelo becape diferencial, passar-se-á a ocupar menos espaço de memória a cada becape diário, mas o tempo de execução do restore será aumentado.",
+        "b": "Sob a referida política atual de becape, para a garantia da totalidade e da integridade dos arquivos em eventual operação de restauração, será obrigatório acrescentar à rotina um becape diferencial para cada becape incremental.",
+        "c": "Se o becape incremental fosse substituído pelo becape completo, além da ocupação de menor espaço de memória a cada becape diário, a execução do restore seria mais rápida.",
+        "d": "Caso, em determinada semana, seja necessário restaurar o becape até quinta-feira, será suficiente o becape da sexta-feira dessa mesma semana.",
+        "e": "Caso se tivesse optado pelo becape diferencial em lugar do becape incremental e, nesse novo cenário hipotético, houvesse a necessidade de restaurar o becape até sexta-feira, bastaria, para isso, dispor dos arquivos completos e do dessa sexta-feira."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, o becape diferencial ocupa mais espaço; (b) Errado, o backup incremental permite a\nrecuperação e a integralidade dos dados recuperados, sem necessidade de que se faça qualquer\noutro tipo de backup diário além do previsto no método de backup incremental; (c) Errado, o\nbecape completo ocuparia mais espaço; (d) Errado, para uma política de backup incremental, a\nrestauração vai precisar do backup completo + todos backups incrementais; (e) Correto. Para a\nrecuperação de um backup diferencial, basta usar o último backup completo e o último backup\ndiferencial. No caso apresentado, será necessário utilizar o backup diferencial da própria sextafeira."
+    },
+    {
+      "id": "info07_023",
+      "numero": 23,
+      "banca": "CESPE / TRF – 1ª Região - 2017",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TRF – 1ª Região - 2017) Uma organização que prioriza a eficiência e a otimização no uso do espaço de armazenamento dos becapes de dados deve adotar estratégias embasadas em becapes completos e em becapes diferenciais combinados.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Claro que não! Deve-se priorizar estratégias embasadas em becapes diferenciais (ou incrementais)\ne, não, becapes completos."
+    },
+    {
+      "id": "info07_024",
+      "numero": 24,
+      "banca": "CESPE / SEDF - 2017",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SEDF - 2017) Situação hipotética: Uma organização realiza becape completo a cada 180 dias, becape incremental a cada 7 dias e realiza testes de recuperação total dos dados com restauração real do último becape a cada 45 dias. O último becape completo ocorreu há 64 dias e o último teste de recuperação total foi bem-sucedido. Assertiva: Nessa situação, se ocorrer, hoje, um desastre com o sistema de armazenamento, a organização poderá garantir, para efeitos de auditoria, que terá certeza de recuperar e restaurar os dados armazenados em becape até a data de 19 dias atrás.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "A questão parece complexa, mas é bem simples! Se o último becape completo ocorreu há 64 dias e\nos testes de recuperação ocorrem a cada 45 dias, então – em caso de desastres – a organização só\npoderá garantir a recuperação de 19 dias atrás (64-45 = 19). Vejam um exemplo:\nDia 001 – Backup Completo\n...\nDia 045 – Teste de Recuperação\n...\nDia 090 – Teste de Recuperação\n...\nDia 135 – Teste de Recuperação\n...\nDia 180 – Exemplo de Último Backup Completo\n...\nDia 225 – Teste de Recuperação\n...\nDia 244 – Dia Atual\n...\nDia 270 – Teste de Recuperação\n...Notem que, se o último backup completo ocorreu no dia 180, o último teste de recuperação total\nocorreu no dia 225 e o dia atual é o 244, um desastre hoje recuperaria dados armazenados até o dia\n225 – logo, 19 dias atrás!"
+    },
+    {
+      "id": "info07_025",
+      "numero": 25,
+      "banca": "",
+      "tipo": "multipla",
+      "enunciado": "CESPE / TRE-PE – 2017) Acerca da realização de cópias de segurança ou becape do Windows, assinale a opção correta.",
+      "alternativas": {
+        "a": "Para que sejam efetivamente recuperados, os dados do becape são armazenados em outra pasta da mesma unidade de armazenamento dos dados originais.",
+        "b": "O becape é uma atividade executada exclusivamente por administradores de redes.",
+        "c": "Após a realização da cópia de segurança, gera-se um arquivo em formato .bkf, o qual não pode ser alterado para outra extensão.",
+        "d": "Na cópia de segurança, são copiados todos os arquivos existentes no computador.",
+        "e": "No becape incremental, são copiados apenas os arquivos novos ou os que foram alterados a partir do último becape."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado, recomenda-se não fazer backup na mesma unidade, porque em caso de problema, o\nbackup estará comprometido também; (b) Errado, ele pode ser feito por qualquer usuário; (c)\nErrado, é possível ser alterado geralmente por meio de compactação, gerando arquivos .zip; (d)\nErrado, não são copiados programas, arquivos do sistema operacional, bibliotecas de sistema,\nentre outros – são copiados apenas arquivos de dados; (e) Correto, ele realmente copia apenas os\narquivos criados ou alterados desde o último backup (sendo mais preciso, desde o último backup\ncompleto ou incremental)."
+    },
+    {
+      "id": "info07_026",
+      "numero": 26,
+      "banca": "CESPE / PC-GO – 2016",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PC-GO – 2016) Com relação aos procedimentos de becape, assinale a opção correta.",
+      "alternativas": {
+        "a": "O becape incremental deve ser feito depois de realizada cópia completa de todos os arquivos de interesse.",
+        "b": "A cópia completa deve ser feita periodicamente, para copiar os arquivos que sofreram alguma modificação na última cópia incremental.",
+        "c": "Na cópia incremental, não é necessário especificar os intervalos de tempo em que houve alterações nos arquivos.",
+        "d": "O becape incremental não utiliza dados recuperados das cópias completas. 95717730268 - Keyla Kiyoku",
+        "e": "Na cópia incremental, os arquivos copiados anteriormente são recopiados, independentemente do ponto de recuperação definido."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, o becape incremental deve ser feito depois de realizada cópia completa de todos os\narquivos de interesse; (b) Errado, o becape completo é executado apenas no início de cada ciclo de\nbecape incremental. Após um backup incremental, são executados apenas outros backups\nincrementais; (d) Errado, todo ciclo de becape incremental se inicia com um becape completo; (e)\nErrado, essa é a definição de becape diferencial – o becape incremental não recopia dados já\ncopiados.\nA Letra C será comentada pelo Excelentíssimo Prof. Renato da Costa:\n“Sabemos que o becape incremental utiliza como critério para cópia o status do atributo de\narquivamento, copiando somente os arquivos que possuem atributo e retirando-os, marcando como\ntendo sofrido becape, logo, não há do que se falar acerca de tempo. Não há como se especificar tempo\nno becape incremental de nenhuma maneira (premissa)”.\nEm outras palavras, não faz nenhum sentido falar em tempo. O becape se dá pela marcação ou não\ndo Bit Archive. Por outro lado, dizer que \"não é necessário\" não está errado, é só uma redação\npéssima. De fato, não é necessário especificar os intervalos de tempo porque não fará a menor\ndiferença. Dessa forma, a questão possui duas respostas, mas a banca considerou apenas a Letra\nA."
+    },
+    {
+      "id": "info07_027",
+      "numero": 27,
+      "banca": "CESPE / TCE-SC - 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-SC - 2016) O becape do tipo incremental provê o uso mais eficiente do espaço de armazenamento, uma vez que não gera cópias duplicadas de arquivos, porém suas restaurações são mais lentas e mais complexas em comparação aos processos dos becapes full e diferencial.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, perfeito, perfeito! Item impecável... ele realmente faz um uso mais eficiente do espaço de\narmazenamento e não gera duplicações de arquivos, no entanto a restauração é mais lenta e\ncomplexa porque necessita do último becape completo e todos os becapes incrementais."
+    },
+    {
+      "id": "info07_028",
+      "numero": 28,
+      "banca": "CESPE / MEC - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MEC - 2015) Diferentemente dos becapes diferenciais, os becapes incrementais são acumulativos.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Não, a questão inverteu os conceitos: diferentemente dos becapes incrementais, os becapes\ndiferenciais são acumulativos."
+    },
+    {
+      "id": "info07_029",
+      "numero": 29,
+      "banca": "CESPE / MEC - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MEC - 2015) O becape incremental copia apenas os arquivos que não foram modificados desde o último becape.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, o becape incremental copia apenas os arquivos que foram modificados desde o último\nbecape."
+    },
+    {
+      "id": "info07_030",
+      "numero": 30,
+      "banca": "CESPE / MEC - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MEC - 2015) Um becape completo consiste na cópia de todos os arquivos para a mídia de becape.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, um becape completo copia tudo para a mídia de becape!"
+    },
+    {
+      "id": "info07_031",
+      "numero": 31,
+      "banca": "CESPE / EMAP - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / EMAP - 2015) O uso do becape em nuvem para sistemas de armazenamento de imagens tem como vantagem a salvaguarda das cópias em ambientes fisicamente seguros e geograficamente distantes.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, perfeito, perfeito! O armazenamento em nuvem nos dá essa grande vantagem!"
+    },
+    {
+      "id": "info07_032",
+      "numero": 32,
+      "banca": "CESPE / TRE-RS - 2015",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRE-RS - 2015) Assinale a opção correta relativamente a becapes.",
+      "alternativas": {
+        "a": "Compressão e encriptação são opções relevantes nas estratégias de becape para colaborar na economia de espaço de armazenamento e largura de banda e na confidencialidade de dados sensíveis da organização.",
+        "b": "As desvantagens dos becapes full incluem o demorado tempo para as restaurações e a complexidade de gerenciamento dos itens que devem ser incluídos nas cópias de segurança. 95717730268 - Keyla Kiyoku",
+        "c": "Os becapes incrementais incluem os arquivos que foram alterados desde o último becape full; os processos de restauração daqueles são mais rápidos que os destes.",
+        "d": "Nos becapes diferenciais, o uso do espaço de armazenamento é mais eficiente que nos incrementais: o modelo de organização da gravação nos becapes diferenciais favorece o uso das áreas contíguas dos dispositivos de armazenamento.",
+        "e": "Na estratégia de becape de dados críticos de uma organização, a opção sobre a frequência de realização do becape deve considerar o cenário mediano entre o pior e o melhor caso relativamente ao tempo, especificamente considerando o volume potencial de dados perdidos, a probabilidade estatística de um sinistro e o tempo médio para restauração do becape."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. Galera, esse item está impecável! A compressão de dados colabora para a economia de\nespaço de armazenamento e largura de banda, e a encriptação colabora na confidencialidade de\ndados sensíveis da organização; (b) Errado. Becape Full demoram pouco tempo para restaurar e\ntem uma baixa complexidade de gerenciamento – para restaurar, basta utilizar o último becape full;\n(c) Errado. Os processos de restauração de becapes incrementais são mais lentos que os de becape\nfull; (d) Errado. Nos becapes incrementais, o uso do espaço de armazenamento é mais eficiente que\nnos diferenciais; (e) Errado. A estratégia de becape de dados críticos de uma organização deve\nconsiderar o pior cenário."
+    },
+    {
+      "id": "info07_033",
+      "numero": 33,
+      "banca": "CESPE / TJ-SE - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-SE - 2015) Os níveis de granularidade de um becape são completo, diferencial e aleatório.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Os becapes podem ser classificados como completos, diferenciais e incrementais – aleatório, não!"
+    },
+    {
+      "id": "info07_034",
+      "numero": 34,
+      "banca": "CESPE / UNIPAMPA - 2015",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / UNIPAMPA - 2015) A frequência com que se realiza becape tende a variar conforme o nível de atualização e(ou) de criação de arquivos.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Galera, o ideal é que becapes estejam sempre atualizados! Se há um alto nível de atualização e/ou\ncriação de arquivos, a frequência de realização de becapes também tendem a variar."
+    },
+    {
+      "id": "info07_035",
+      "numero": 35,
+      "banca": "CESPE / TJ-CE - 2014",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TJ-CE - 2014) A respeito de becape, assinale a opção correta.",
+      "alternativas": {
+        "a": "No planejamento de uma política de becape, deve-se considerar a verificação da periodicidade e da quantidade de dados a serem armazenados.",
+        "b": "A realização periódica de teste de restauração não é considerada uma boa prática de becape, ainda que os dados estejam armazenados em fitas.",
+        "c": "Na medição do desempenho do becape, não se deve considerar a mídia utilizada.",
+        "d": "Não é recomendado que se utilizem discos rígidos para armazenar becapes.",
+        "e": "Os dispositivos ópticos são os melhores hardware disponíveis para a gravação de cópias de segurança no caso de ser necessário o armazenamento de grandes volumes de dados."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. É claro que se deve considerar a verificação da periodicidade e da quantidade de dados\na serem armazenados; (b) Errado. É claro que é recomendável! O teste de restauração testa a\neficiência da eventual restauração de um becape e é recomendável que seja realizado\nperiodicamente; (c) Errado. É claro que devemos considerar a mídia utilizada – para cada mídia, o\ndesempenho do becape é diferente; (d) Errado. Essa é uma das mídias recomendadas para\narmazenar becapes; (e) Errado. Para grandes volumes de dados, são recomendadas mídias como\nas fitas magnéticas."
+    },
+    {
+      "id": "info07_036",
+      "numero": 36,
+      "banca": "CESPE / TJ-SE - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-SE - 2014) Mesmo com a realização de becapes totais e incrementais dos bancos de dados, é possível haver perda de dados em casos de desastres.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Ué, galera... claro que é possível! Um becape não vai impedir a perda de dados em casos de becape."
+    },
+    {
+      "id": "info07_037",
+      "numero": 37,
+      "banca": "CESPE / TJ-SE - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-SE - 2014) O becape total de um banco de dados permite que esse banco seja restaurado a qualquer ponto temporal específico.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Qualquer ponto temporal? Não, não há como restaurar dados para um ponto temporal anterior ao\nbecape total, por exemplo! Ele só conseguirá recuperar dados até o momento da realização do\nbecape."
+    },
+    {
+      "id": "info07_038",
+      "numero": 38,
+      "banca": "CESPE / ICMBIO - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ICMBIO - 2014) O uso do becape do tipo incremental permite que sejam copiados apenas os arquivos gravados desde o último becape normal ou incremental.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O becape incremental copia os arquivos criados ou alterados desde o último becape\nnormal ou incremental."
+    },
+    {
+      "id": "info07_039",
+      "numero": 39,
+      "banca": "CESPE / TJ-SE - 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TJ-SE - 2014) Becapes podem ser realizados para atender a três propósitos distintos: recuperação de desastres, recuperação operacional e arquivamento.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito, são todos propósitos possíveis!"
+    },
+    {
+      "id": "info07_040",
+      "numero": 40,
+      "banca": "CESPE / MS - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MS - 2013) O becape incremental requer o uso de maior espaço para armazenamento que o becape diferencial.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Vamos partir do princípio de que o atributo de arquivamento indica que um arquivo sofreu backup (Bit\nArchive = 0) ou não sofreu backup (Bit Archive = 1). Sempre que um arquivo é criado ou alterado, o\natributo de arquivamento será igual a 1. Logo, temos duas opções: desmarcar/remover o atributo de\narquivamento para indicar que o arquivo sofreu backup (Bit Archive de 1 ↦ 0) ou não desmarcar/não\nremover o atributo de arquivamento para indicar que o arquivo não sofreu backup (Bit Archive = 1).\nNoooope! O becape diferencial não desmarca o atributo de arquivamento, logo ele acumula as\nmudanças. Já o becape incremental desmarca o atributo de arquivamento, logo ele não acumula as\nmudanças, ele só copia os arquivos salvos e modificados."
+    },
+    {
+      "id": "info07_041",
+      "numero": 41,
+      "banca": "CESPE / MPU - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MPU - 2013) O becape completo deve ser realizado com maior frequência que o becape incremental.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Galera, lembrem-se que o becape completo leva muuuuuito tempo para ser realizado, logo ele não\né indicado para ser realizado com grande frequência. O ideal é fazer um backup completo e vários\nbecapes incrementais ou diferenciais – esses, sim, devem ocorrer com maior frequência."
+    },
+    {
+      "id": "info07_042",
+      "numero": 42,
+      "banca": "CESPE / SESA-ES - 2013",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / SESA-ES - 2013) Com relação a procedimentos de segurança, assinale a opção correta.",
+      "alternativas": {
+        "a": "O becape mais seguro é o incremental, mediante o qual é copiado o arquivo original.",
+        "b": "A vantagem do becape incremental, em relação aos outros tipos de becape, é trabalhar independentemente de outros procedimentos de becape.",
+        "c": "O procedimento de becape completo consiste em copiar todos os arquivos para a mídia apropriada, previamente selecionada.",
+        "d": "Obtém-se maior eficiência na recuperação de dados e informações, mediante a utilização em conjunto de becapes diferenciais e becapes incrementais.",
+        "e": "Para que arquivos sejam salvos de maneira segura, o becape deve ser realizado tanto na memória ROM quanto na memória RAM."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, a questão não fala sob qual critério é mais seguro, logo é impossível afirmar; (b) Errado,\nele depende do becape completo inicial; (c) Correto, o becape completo realmente copia os\narquivos para a mídia apropriada, previamente selecionada; (d) Errado, é necessária a realização de\num becape completo inicial; (e) Errado, não faz sentido armazenar becapes na Memória RAM."
+    },
+    {
+      "id": "info07_043",
+      "numero": 43,
+      "banca": "CESPE / SERPRO - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SERPRO - 2013) Para recuperar um sistema em que eram feitos ciclos de becape compostos por becape normal e becapes incrementais, deve-se usar o último incremental, que conterá todos os dados.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, deve-se usar o último becape completo e todos os becapes incrementais."
+    },
+    {
+      "id": "info07_044",
+      "numero": 44,
+      "banca": "CESPE / MS - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MS - 2013) Se for executado, na segunda-feira, um becape completo e, nos outros dias em que a política ocorre, for feito becape diferencial, então um arquivo criado na terça-feira será incluído somente em um dos becapes.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Na verdade, os dados modificados da terça estarão em todos os becapes diferenciais da semana."
+    },
+    {
+      "id": "info07_045",
+      "numero": 45,
+      "banca": "CESPE / BACEN - 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BACEN - 2013) Tanto o becape incremental, quanto o diferencial copiam arquivos criados ou alterados desde o último becape normal, e o becape incremental não desmarca o atributo de arquivo.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Vamos partir do princípio de que o atributo de arquivamento indica que um arquivo sofreu backup (Bit\nArchive = 0) ou não sofreu backup (Bit Archive = 1). Sempre que um arquivo é criado ou alterado, o\natributo de arquivamento será igual a 1. Logo, temos duas opções: desmarcar/remover o atributo de\narquivamento para indicar que o arquivo sofreu backup (Bit Archive de 1 ↦ 0) ou não desmarcar/não\nremover o atributo de arquivamento para indicar que o arquivo não sofreu backup (Bit Archive = 1).\nNa verdade, o becape incremental desmarca o atributo de arquivo – é o becape diferencial que não\ndesmarca o atributo de arquivo."
+    },
+    {
+      "id": "info07_046",
+      "numero": 46,
+      "banca": "CESPE / SERPRO – 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SERPRO – 2013) Becape quente e frio são métodos utilizados em equipamentos com e sem refrigeração, respectivamente.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Hahaha... não, galera! Bacape Quente (Hot Backup) é aquele que pode ser executado sem que seja\nnecessário interromper as atividades do banco de dados (Online). Já o Becape Frio (Cold Backup)\nexige a parada das atividades do banco de dados (Offline) para a sua realização."
+    }
+  ]
+}

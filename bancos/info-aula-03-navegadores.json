@@ -1,0 +1,571 @@
+{
+  "esquema": 1,
+  "id": "info-aula-03-navegadores",
+  "aula": "03",
+  "titulo": "Informática - AULA 03",
+  "subtitulo": "Navegadores (Chrome, Edge, IE)",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    4
+  ],
+  "tagsEdital": [
+    {
+      "n": 4,
+      "titulo": "Conceitos, ferramentas e procedimentos de Internet"
+    }
+  ],
+  "resumoMd": "- **Navegadores de Internet (`03.pdf`)**:\n  - Principais navegadores avaliados: **Google Chrome**, **Microsoft Edge** e **Internet Explorer**.\n  - **Navegação Anônima / InPrivate**: Não salva histórico de navegação, *cookies* nem dados de formulários no dispositivo local, mas não torna o usuário invisível para provedores ou administradores de rede.\n  - **Cookies**: Pequenos arquivos de texto gravados no computador do usuário pelos sites para armazenar preferências e sessões de login.\n  - **Teclas de Atalho Comuns**:\n    - `Ctrl + T`: Nova guia.\n    - `Ctrl + N`: Nova janela.\n    - `Ctrl + Shift + N` / `Ctrl + Shift + P`: Nova janela anônima / InPrivate.\n    - `Ctrl + H`: Histórico.\n    - `Ctrl + J`: Downloads.\n    - `F5` / `Ctrl + R`: Atualizar página.\n- **Correio Eletrônico / E-mail (`04.pdf`)**:\n  - **Campos de Envio**: *Para* (destinatários principais), *Cc* (Com Cópia - visível), *Cco* / *Bcc* (Com Cópia Oculta - invisível para os demais).\n  - **Protocolos de E-mail**:\n    - **SMTP**: Envio (saída) de mensagens.\n    - **POP3**: Recebimento/Download de mensagens (geralmente baixa e remove do servidor).\n    - **IMAP**: Recebimento e sincronização bidirecional em tempo real entre servidor e cliente.\n  - **Microsoft Outlook**: Cliente de e-mail e gerenciador de informações pessoais (calendário, contatos e tarefas).\n\n---",
+  "total": 45,
+  "questoes": [
+    {
+      "id": "info03_001",
+      "numero": 1,
+      "banca": "CESPE / TCE-AC – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-AC – 2024) O histórico do navegador Microsoft Edge apresenta os sites visitados pelo usuário. C",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! O histórico do Microsoft Edge registra os sites visitados pelo usuário, armazenando\nURLs, datas e horários de acesso. O usuário pode visualizar, gerenciar e limpar esse histórico por\nmeio das configurações do navegador. Além disso, há modos como o InPrivate, que não salva o\nhistórico."
+    },
+    {
+      "id": "info03_002",
+      "numero": 2,
+      "banca": "CESPE / TCE-AC – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-AC – 2024) No navegador Microsoft Edge, é possível gravar o endereço de um sítio visitado para futura consulta na opção Histórico.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O histórico do Microsoft Edge armazena automaticamente os endereços dos sites visitados,\npermitindo consultas futuras. No entanto, para salvar um site de forma permanente, o mais\nadequado é utilizar a opção de Favoritos, e não o Histórico, que pode ser apagado manualmente\nou automaticamente."
+    },
+    {
+      "id": "info03_003",
+      "numero": 3,
+      "banca": "CESPE / Prefeitura do Cachoeiro do Itapemirim-ES – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura do Cachoeiro do Itapemirim-ES – 2024) O Microsoft Edge possui o recurso Edge Secure Network integrado e gratuito, que permite, por meio da tecnologia VPN, impedir que terceiros acessem informações confidenciais do usuário, criptografando a conexão com a Internet e ocultando a localização e o endereço IP do computador.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "O Microsoft Edge possui o recurso Edge Secure Network, que oferece uma VPN integrada para\ncriptografar a conexão e ocultar o IP do usuário. No entanto, essa VPN gratuita possui um limite\nde dados mensais e não é um serviço ilimitado. Assim, a afirmação está parcialmente correta,\npois não menciona essa limitação."
+    },
+    {
+      "id": "info03_004",
+      "numero": 4,
+      "banca": "CESPE / Prefeitura do Cachoeiro do Itapemirim-ES – 2024",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura do Cachoeiro do Itapemirim-ES – 2024) O modo de eficiência no Microsoft Edge permite maior eficácia e rapidez na navegação em sítios da Web, pois melhora a qualidade visual do fluxo de vídeo e de gráficos de jogos para tornar a experiência mais rápida e ao mesmo tempo mais nítida. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O Modo de Eficiência do Microsoft Edge reduz o consumo de recursos do sistema, como CPU e\nmemória, para economizar bateria e melhorar o desempenho geral. No entanto, ele pode reduzir\na qualidade de vídeos e gráficos para otimizar o uso de energia, o que contraria a afirmação da\nquestão."
+    },
+    {
+      "id": "info03_005",
+      "numero": 5,
+      "banca": "CESPE / Prefeitura de Recife – 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura de Recife – 2023) Um navegador da Internet, ou web browser em inglês, é uma ferramenta que apresenta uma aba que contém uma ou mais janelas que podem ser abertas cada uma com um endereço diferente para visitação.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Um navegador da Internet, ou web browser, é uma aplicação de software projetada para\nrecuperar, apresentar e percorrer informações na web. Uma característica importante dos\nnavegadores modernos é a capacidade de abrir múltiplas abas em uma única janela. Cada aba\npode conter uma página da web diferente, permitindo aos usuários visitar e interagir com\nmúltiplos sites simultaneamente sem precisar abrir várias janelas do navegador. Isso melhora a\nusabilidade e a eficiência na navegação na Internet, sendo um recurso amplamente utilizado\ntanto para fins pessoais quanto educacionais."
+    },
+    {
+      "id": "info03_006",
+      "numero": 6,
+      "banca": "CESPE / CBM-TO – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / CBM-TO – 2023) Em informática, cookies são:",
+      "alternativas": {
+        "a": "arquivos com tamanho padrão de 4 MB que são criados automaticamente pelo Windows quando este é iniciado.",
+        "b": "arquivos criados apenas quando o programa Microsoft Word é iniciado.",
+        "c": "arquivos de log que mantêm o registro de todos os usuários que se conectaram ao computador, inclusive o do administrador.",
+        "d": "arquivos de informação pequenos que são enviados para o computador do usuário quando ele visita um site na Web."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Cookies não têm um tamanho padrão de 4 MB e não são criados automaticamente\npelo Windows ao iniciar; (b) Errado. Cookies não estão relacionados especificamente com a\ninicialização do MS-Word; (c) Errado. Cookies não são arquivos de log que registram usuários\nconectados ao computador; (d) Correto. Cookies são pequenos arquivos de informação\nenviados ao computador do usuário quando este visita um site na Web. Eles são usados para\narmazenar dados sobre a navegação do usuário, como preferências de site, informações de\nlogin, e outros dados que podem ajudar a personalizar a experiência na web."
+    },
+    {
+      "id": "info03_007",
+      "numero": 7,
+      "banca": "CESPE / Prefeitura de Recife – 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Prefeitura de Recife – 2023) O Histórico de navegação do browser é a pasta em que ficam armazenados os arquivos baixados pelo usuário durante a navegação na Internet.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O Histórico de navegação em um navegador (browser) não é uma pasta para armazenar arquivos\nbaixados, mas sim um registro das páginas da web visitadas pelo usuário ao longo do tempo.\nEste histórico inclui URLs, datas e horários de visitas, e, em alguns casos, até mesmo imagens em\nminiatura das páginas visitadas.\nOs arquivos baixados durante a navegação são armazenados em uma pasta específica para\ndownloads no computador do usuário, que pode ser acessada através da funcionalidade de\ndownloads do navegador. Esta pasta é normalmente configurável e pode ser diferente do local\nonde o histórico de navegação é armazenado."
+    },
+    {
+      "id": "info03_008",
+      "numero": 8,
+      "banca": "CESPE / PM-SC – 2023",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PM-SC – 2023) No que se refere a ferramentas e aplicativos de navegação, bem como à segurança da informação, assinale a opção correta.",
+      "alternativas": {
+        "a": "Hiperlink é um programa de computador que habilita os usuários a interagir com documentos virtuais na Internet, também conhecidos como páginas da Web.",
+        "b": "Cookies são vírus que afetam arquivos executáveis e que funcionam apenas quando o usuário abre o arquivo infectado.",
+        "c": "Plug-ins são módulos de código instalados no browser que permitem a apresentação de arquivos com formatos diferentes do HTML.",
+        "d": "O uso do software TCP/IP evita a infecção de vírus ao se baixarem arquivos em páginas da Internet.",
+        "e": "O IP de um computador é uma ferramenta de busca que permite acessar informações de vídeos e imagens."
+      },
+      "gabarito": "C",
+      "comentario": "a) Errado. Hiperlink é uma referência em um documento eletrônico que o usuário pode seguir\npara acessar outro ponto no documento ou outro documento. Não é um programa de\ncomputador.\nb) Errado. Cookies não são vírus. São pequenos arquivos que um site salva no computador ou\ndispositivo móvel do usuário enquanto ele navega nesse site.\nc) Correto. Plug-ins são módulos de código adicionados a um navegador para estender suas\ncapacidades, como reprodução de vídeos, visualização de documentos PDF, entre outros.==2f06f1==\nd) Errado. O TCP/IP é um conjunto de protocolos de comunicação usados na Internet. Não tem\na função de evitar infecções por vírus ao baixar arquivos.\ne) Errado. O IP de um computador é um endereço numérico único que identifica um dispositivo\nem uma rede. Não é uma ferramenta de busca para vídeos e imagens."
+    },
+    {
+      "id": "info03_009",
+      "numero": 9,
+      "banca": "CESPE / CNMP - 2023",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CNMP - 2023) Programas de navegação na Internet oferecem a opção de salvar favoritos, em que as páginas visitadas ficam gravadas localmente na máquina do usuário para acesso futuro em modo offline.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Enquanto é verdade que os programas de navegação na Internet (navegadores) permitem salvar\npáginas web como favoritos (também conhecidos como bookmarks), essa funcionalidade não\nimplica que as páginas sejam gravadas localmente para acesso offline. Ao marcar uma página\ncomo favorita, o navegador simplesmente salva o link (URL) para fácil acesso futuro.\nIsso não significa que o conteúdo da página web seja baixado e armazenado localmente para\nvisualização offline. Para acessar as páginas favoritas, ainda é necessário ter uma conexão ativa\ncom a Internet, a menos que a página tenha sido especificamente salva para visualização offline\npor meio de outros recursos."
+    },
+    {
+      "id": "info03_010",
+      "numero": 10,
+      "banca": "CESPE / TRT8 – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRT8 – 2022) O Microsoft Edge é um navegador da Internet que, ao ser aberto, oferece um ambiente de consulta a conteúdos da Web. Esse ambiente é formado por:",
+      "alternativas": {
+        "a": "janelas e guias.",
+        "b": "localizar na página.",
+        "c": "captura da web.",
+        "d": "ferramentas Microsoft Office.",
+        "e": "caixas de entrada."
+      },
+      "gabarito": "A",
+      "comentario": "Como outros navegadores, o Microsoft Edge é um aplicativo que possui um ambiente formado\npor janelas e guias."
+    },
+    {
+      "id": "info03_011",
+      "numero": 11,
+      "banca": "CESPE / IBAMA – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / IBAMA – 2022) No Microsoft Edge, é possível optar pela navegação InPrivate, em que a consulta a páginas na Web é feita sem que sejam armazenados históricos de endereços ou cookies, por exemplo.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! A navegação privativa não armazena nem dados de histórico de endereços nem\ncookies, permitindo que o usuário possa realizar a navegação com mais privacidade."
+    },
+    {
+      "id": "info03_012",
+      "numero": 12,
+      "banca": "CESPE / PGE-RJ – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PGE-RJ – 2022) O Microsoft Edge, em sua versão mais atual, disponibiliza recurso que faz a leitura do texto de uma página da Web em voz alta.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Siiiiiiiiiiiiiiiiim! Eu, inclusive, uso bastante essa função! Sabe aquele dia em que você não consegue\nler mais nada porque a cabeça está doendo? Pois é, selecione o texto e utiliza o recurso de leitura\nem voz alta."
+    },
+    {
+      "id": "info03_013",
+      "numero": 13,
+      "banca": "CESPE / PC-PB – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PC-PB – 2022) Os navegadores ou browsers usados para acessar conteúdo da Internet possuem um recurso que permite visualizar a lista de sítios recentemente visitados pelo usuário. Esse recurso é denominado:",
+      "alternativas": {
+        "a": "buscar.",
+        "b": "favoritos.",
+        "c": "downloads.",
+        "d": "coleções.",
+        "e": "histórico."
+      },
+      "gabarito": "E",
+      "comentario": "O recurso de navegadores que permite visualizar a lista de sítios recentemente visitados pelo\nusuário é o Histórico."
+    },
+    {
+      "id": "info03_014",
+      "numero": 14,
+      "banca": "CESPE / APEX-Brasil – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / APEX-Brasil – 2022) Uma das características da navegação anônima dos browsers é:",
+      "alternativas": {
+        "a": "utilizar VPN para estabelecer conexão com outros equipamentos.",
+        "b": "impedir o rastreamento de atividades no computador.",
+        "c": "impedir o registro de informações de login no computador.",
+        "d": "tornar mais seguras as transações financeiras."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, a navegação anônima de navegadores não utiliza VPN; (b) Errado, a navegação\nanônima não impede o rastreamento de atividades; (c) Correto, a navegação anônima nãopermite o armazenamento das informações de login; (d) Errado, a navegação anônima não tem\nqualquer relevância sobre à segurança de transações financeiras."
+    },
+    {
+      "id": "info03_015",
+      "numero": 15,
+      "banca": "CESPE / MC – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / MC – 2022) O recurso de leitura avançada do Microsoft Edge, acionado pela tecla de atalho ou por meio de clique em ícone próprio na barra de endereço, remove anúncios e elementos estranhos do artigo acessado e reformata o texto e os gráficos, com a finalidade de facilitar a leitura da página.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Os recursos do Microsoft Edge visam tornar a Web mais acessível e inclusiva para todos. A\nLeitura Avançada é uma ferramenta interna que permite aos leitores personalizar como eles leem\nonline para uma experiência mais fácil e acessível para atender às suas necessidades. A Leitura\nAvançada no Microsoft Edge simplifica o layout de texto e imagens e fornece ferramentas\nincríveis de aprendizado e acessibilidade, como Leitura em voz alta, preferências de texto,\nferramentas de gramática e muito mais."
+    },
+    {
+      "id": "info03_016",
+      "numero": 16,
+      "banca": "CESPE / INSS – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / INSS – 2022) Os cookies, mencionados no texto da figura apresentada, podem salvar configurações dos usuários em um arquivo armazenado nos computadores desses usuários.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Cookies armazenam os dados que facilitam a navegação em um pequeno arquivo\nlocalizado no computador do usuário."
+    },
+    {
+      "id": "info03_017",
+      "numero": 17,
+      "banca": "CESPE / ABIN – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / ABIN – 2018) No ambiente Windows 10, a opção de atualização automática não está disponível para o Edge, então, para que o navegador seja atualizado, é necessário solicitação do administrador de redes.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Essa é uma questão mais de Windows do que de Navegadores! De todo modo, a opção de\natualização automática está – sim – disponível para o Edge. Você não precisa atualizar por si\nmesmo nem pedir para o administrador de redes, ele será atualizado automaticamente."
+    },
+    {
+      "id": "info03_019",
+      "numero": 19,
+      "banca": "FEPESE / CIDASC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / CIDASC – 2017) Ao navegar pela internet e tentar abrir um site utilizando o Microsoft Edge presente no Windows 10, você se depara com a mensagem: “você tropeçou em tecnologia web vintage”. Essa mensagem do MS Edge significa que o site:",
+      "alternativas": {
+        "a": "utiliza tecnologias de internet mais antigas e por isso não poderá ser aberto no MS Edge.",
+        "b": "possui algum código malicioso que pode comprometer a segurança do computador e por isso não poderá ser aberto no MS Edge.",
+        "c": "pertence a uma categoria especial de sites que a Microsoft promove e poderá ser aberto normalmente pelo MS Edge.",
+        "d": "possui performance superior e poderá ser aberto normalmente pelo MS Edge.",
+        "e": "possui um certificado digital vencido (vintage) e por isso o MS Edge não consegue verificar a autenticidade do conteúdo do site."
+      },
+      "gabarito": "A",
+      "comentario": "Essa mensagem é exibida quando se tenta acessar uma página que utiliza uma tecnologia legada\nou depreciada, que só é compatível com o navegador anterior. Nesse caso, não é possível abrir com\no MS-Edge, mas é possível com o Internet Explorer."
+    },
+    {
+      "id": "info03_020",
+      "numero": 20,
+      "banca": "FEPESE / CIDASC – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / CIDASC – 2017) Assinale a alternativa que indica uma forma válida para abrir um link html em uma nova guia utilizando o Microsoft Edge em um Windows 10.",
+      "alternativas": {
+        "a": "Clicar duas vezes sobre o link.",
+        "b": "Pressionar a tecla Ctrl ao clicar no link.",
+        "c": "Clicar com o botão direito do mouse sobre o link e selecionar ‘abrir link’.",
+        "d": "Clicar no ícone ‘aba adicional’ do MS Edge.",
+        "e": "Pressionar a tecla Alt ao clicar no link."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, o duplo clique abrirá o link na guia atual; (b) Correto, ao clicar no link enquanto pressiona\nCTRL, abre-se o link em uma nova guia; (c) Errado, não existe essa opção no menu de contexto\nexibido quando se clica com o botão direito do mouse sobre o link; (d) Errado, não existe ícone com\nesse nome; (e) Errado, o link é aberto na guia atual."
+    },
+    {
+      "id": "info03_021",
+      "numero": 21,
+      "banca": "AOCP / Prefeitura de João Pessoa-PB – 2018",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / Prefeitura de João Pessoa-PB – 2018) Em relação aos navegadores Internet Explorer e Edge do sistema operacional Windows, qual é o mecanismo de busca comumente utilizado como padrão por esses softwares?",
+      "alternativas": {
+        "a": "Google",
+        "b": "Yahoo!",
+        "c": "Cadê",
+        "d": "Bing"
+      },
+      "gabarito": "D",
+      "comentario": "No caso do Internet Explorer e do MS-Edge, o mecanismo de busca padrão utilizado nesses\nnavegadores é o Bing (que é a ferramenta de busca da Microsoft)."
+    },
+    {
+      "id": "info03_022",
+      "numero": 22,
+      "banca": "FADESP / DETRAN-PA – 2019",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / DETRAN-PA – 2019) No programa de navegação Microsoft Edge, a função que ajuda a detectar sites de phishing e a proteger contra a instalação de softwares maliciosos é o filtro:",
+      "alternativas": {
+        "a": "SmartScreen.",
+        "b": "WebNote.",
+        "c": "JavaScript.",
+        "d": "InPrivate. 95717730268 - Keyla Kiyoku",
+        "e": "InSider."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. No Internet Explorer e MS-Edge, o Filtro SmartScreen é um recurso que ajuda a\ndetectar sites de phishing e proteger contra download e instalação de malwares; (b) Errado.\nWebNote é um recurso que permite desenhar, realçar ou digitar em páginas da web e aplicativos\nweb; (c) Errado. JavaScript é uma tecnologia que permite tornar páginas web mais interativas; (d)\nErrado. InPrivate é o nome da janela privativa do navegador; (e) Errado, esse filtro não existe."
+    },
+    {
+      "id": "info03_023",
+      "numero": 23,
+      "banca": "FEPESE / Câmara de Ponte Nova/MG – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FEPESE / Câmara de Ponte Nova/MG – 2018) Qual o atalho de teclado que permite fechar uma aba do navegador Microsoft Edge em português do sistema operacional Windows?",
+      "alternativas": {
+        "a": "Alt + F",
+        "b": "Ctrl + F",
+        "c": "Ctrl + T",
+        "d": "Ctrl + W",
+        "e": "Ctrl + Alt + F"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, esse atalho permite abrir o painel Notas; (b) Errado, esse atalho permite pesquisar no\ndocumento; (c) Errado, esse atalho permite abrir uma nova aba; (d) Correto, esse atalho permite\nfechar a aba atual; (e) Errado, esse atalho não possui nenhuma função."
+    },
+    {
+      "id": "info03_024",
+      "numero": 24,
+      "banca": "CESPE / BANESE – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / BANESE – 2021) O navegador Chrome impede a instalação de qualquer extensão, por questões de segurança e privacidade na navegação dos usuários.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Opa... pelo contrário! Ele permite a instalação de diversas extensões que permitem incluir novas\nfuncionalidades não nativas do navegador."
+    },
+    {
+      "id": "info03_025",
+      "numero": 25,
+      "banca": "CESPE / STM – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STM – 2018) No Google Chrome, o Menu de Configurações oferece a opção de importar os arquivos de favoritos e configurações, no caso de se aproveitar a lista de sítios favoritos e a lista de senhas de acesso salvas, para uso em outros browsers ou outros dispositivos e computadores.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Essa questão foi polêmica! Há realmente uma opção para importar arquivos de favoritos e\nconfigurações de outros navegadores. No entanto, alguns alunos a consideram ambígua porque,\nse é para uso em outros browsers, dispositivos ou computadores, então se trata de uma\nexportação. A intenção do examinador foi boa, mas realmente ela pode gerar alguma dúvida\nnos alunos."
+    },
+    {
+      "id": "info03_026",
+      "numero": 26,
+      "banca": "CESPE / PC-MA – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / PC-MA – 2018) Ao se clicar com o botão direito do mouse sobre uma guia do programa de navegação Google Chrome, em sua versão mais recente, contendo determinada página da Internet, e selecionar a opção Fixar guia, na lista exibida, será possível.",
+      "alternativas": {
+        "a": "criar um ícone no canto superior esquerdo do navegador, o qual permitirá o acesso direto à página exibida.",
+        "b": "criar na área de trabalho do computador um ícone de atalho, o qual, ao ser selecionado, abrirá a página exibida.",
+        "c": "transformar a guia do navegador em uma nova janela.",
+        "d": "adicionar a página exibida pela guia à lista de páginas favoritas.",
+        "e": "duplicar a guia aberta, criando-se, assim, uma cópia da página exibida."
+      },
+      "gabarito": "A",
+      "comentario": "A funcionalidade \"Fixar Guia\" do Google Chrome serve para fixar uma guia no navegador em\num ícone no canto superior esquerdo que permite o acesso direto para sempre ou até\nrealizarmos o procedimento contrário de \"Liberar Guia\". Uma vez liberada, o ícone fixo é desfeito\ne a guia pode ser fechada."
+    },
+    {
+      "id": "info03_027",
+      "numero": 27,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Por meio do Google Chrome mais recente, André necessita acessar, a partir do seu dispositivo móvel, os dados armazenados na sua estação de trabalho, referentes à navegação que ele realizou também usando o Google Chrome mais recente. Nessa situação, André terá sucesso se efetuar login no Google Chrome com o mesmo usuário na estação de trabalho e no dispositivo móvel, o que lhe permite ter acesso às senhas, ao histórico e aos favoritos em todos os dispositivos configurados.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "De fato, se ele efetuar login com o mesmo usuário em ambos, isso permitirá que ele tenha acesso\nàs senhas, ao histórico, favoritos, etc porque o Google Chrome sincroniza os dados da conta\nentre os dispositivos."
+    },
+    {
+      "id": "info03_028",
+      "numero": 28,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Disponível exclusivamente no Google Chrome, o modo de navegação anônima permite ao usuário navegar pela Internet sem registrar as páginas acessadas.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Galera, todos os navegadores atuais disponibilizam a navegação anônima ou privativa – não se\ntrata de uma funcionalidade exclusiva do Google Chrome."
+    },
+    {
+      "id": "info03_029",
+      "numero": 29,
+      "banca": "CESPE / TCE-PA – 2016",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-PA – 2016) Como a instalação de plug-ins e complementos de instalação deve ser realizada automaticamente, de acordo com a orientação do sítio visitado, o nível de permissão no navegador deve ser mantido de inferior a médio.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Plug-ins e Complementos não são instalados automaticamente. Para que eles sejam instalados,\né necessária a anuência do usuário do navegador."
+    },
+    {
+      "id": "info03_030",
+      "numero": 30,
+      "banca": "CESPE / TCE-ES – 2012",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-ES – 2012) Uma página web inserida nativamente em Favoritos, no Google Chrome 21, será inserida automaticamente, e sem a necessidade de configurações adicionais, na nuvem do Google (Google Cloud), o que possibilita que o usuário tenha acesso a essa página em outro computador.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Sem a necessidade de configurações adicionais? Se fosse assim, como o Google saberia qual a\nconta do usuário ou se ele permitiu essa sincronização? O Google Chrome permite que as\npáginas adicionadas aos Favoritos sejam sincronizadas em todos os dispositivos que utilizem o\nGoogle Chrome, no entanto elas não serão inseridas automaticamente nem sem necessidade de\nconfigurações adicionais. Além disso, Google Cloud é uma plataforma destinada a\ndesenvolvedores que desejam testar suas aplicações utilizando a mesma tecnologia e\ninfraestrutura do Google – não há nenhuma relação com a questão."
+    },
+    {
+      "id": "info03_031",
+      "numero": 31,
+      "banca": "CESPE / TCE-ES – 2012",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TCE-ES – 2012) No Google Chrome 21 não é possível abrir duas janelas do navegador. Caso o usuário acesse duas URLs distintas, elas automaticamente serão abertas em abas.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "No Google Chrome 21, é possível abrir diversas janelas navegador (CTRL+N)!"
+    },
+    {
+      "id": "info03_032",
+      "numero": 32,
+      "banca": "CESPE / PC-AL – 2012",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PC-AL – 2012) O Google Chrome é um sítio de busca e pesquisa desenvolvido para as plataformas Windows, Linux e Mac OS X.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Google Chrome é um navegador web e, não, um sítio de busca e pesquisa. Não confundam\nGoogle com Google Chrome!"
+    },
+    {
+      "id": "info03_033",
+      "numero": 33,
+      "banca": "CESPE / STM – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STM – 2018) O Google Chrome e o Internet Explorer — programas para navegação na Web — possuem opção para se apagar o histórico de navegações, a qual faz que os sítios visitados sejam bloqueados e não mais sejam visitados pelo usuário.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "O Google Chrome e o Internet Explorer — programas para navegação na Web — possuem opção\npara se apagar o histórico de navegações? Sim, perfeito! Isso faz com que os sítios visitados sejam\nbloqueados e não mais sejam visitados pelo usuário? Não, de jeito algum – não existe nenhum\nbloqueio."
+    },
+    {
+      "id": "info03_034",
+      "numero": 34,
+      "banca": "CESPE / Polícia Federal – 2018",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / Polícia Federal – 2018) Os browsers Internet Explorer, Firefox e Chrome permitem a instalação de plugins para implementar proteção antiphishing.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Todos esses navegadores já possuem recursos nativos de proteção antiphishing, logo – sendo\nrigoroso – a instalação de plugins seria mais para complementá-la do que para implementá-la\n(procurei e encontrei diversas extensões de proteção antiphishing, mas não encontrei nenhum\nplugin - que inclusive é uma tecnologia que está morrendo). Agora efetivamente respondendo\nà questão: navegadores permitem a instalação de plug-ins para implementar proteção\nantiphishing? Sim, se alguém criar um plug-in para isso, ele poderá ser instalado no navegador\nsem problema. Logo, o que podemos concluir? Podemos concluir que essa é uma questão de\npéssima qualidade que poderia aceitar qualquer resposta. Questão deprimente, examinador...\ndeprimente!"
+    },
+    {
+      "id": "info03_035",
+      "numero": 35,
+      "banca": "CESPE / TRE-GO – 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / TRE-GO – 2013) No Google Chrome, é possível sincronizar, entre outros, marcadores, extensões da Web e histórico, a partir da iniciação de uma sessão no Chrome.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Essa é uma que poucas pessoas sabem! Primeiro, marcadores é sinônimo de favoritos! Segundo,\né possível sincronizar marcadores, históricos e – até mesmo – extensões da web. Sim, se você\ninstala uma extensão no navegador do seu computador pessoal sincronizado com sua conta, ao\nlogar em um outro computador, poderá sincronizar inclusive as extensões – elas também serão\ninstaladas no navagador do outro computador."
+    },
+    {
+      "id": "info03_036",
+      "numero": 36,
+      "banca": "CESPE / SUFRAMA – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / SUFRAMA – 2014) O Google Chrome 31 possui uma opção que permite alertar se um sítio falso está tentando enganar o usuário, de modo a levá-lo a compartilhar informações, ou ainda se determinado programa é considerado malicioso. 95717730268 - Keyla Kiyoku",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Alerta sobre sítio falso é basicamente um alerta antiphishing! Phishing é quando alguém tenta\nenganá-lo para o compartilhamento de informações, geralmente por meio de um site falso. O\nGoogle Chrome realmente possui esse recurso nativo e é capaz de alertar se um sítio falso está\ntentando enganar o usuário, de modo a levá-lo a compartilhar informações, ou ainda se\ndeterminado programa é considerado malicioso."
+    },
+    {
+      "id": "info03_037",
+      "numero": 37,
+      "banca": "CESPE / PM-AL – 2017",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PM-AL – 2017) Ainda que o usuário exclua o histórico de downloads do Google Chrome, os arquivos contidos nesse histórico não são removidos do computador.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Excluir o histórico de download é completamente diferente de excluir os arquivos\nbaixados em si. Logo, Ainda que o usuário exclua o histórico de downloads do Google Chrome,\nos arquivos contidos nesse histórico não são removidos do computador."
+    },
+    {
+      "id": "info03_038",
+      "numero": 38,
+      "banca": "CESPE / CODEVASF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / CODEVASF – 2021) O navegador Google Chrome dispõe de recursos para traduzir textos de uma página web acessada.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! Para tal, basta clicar com o botão direito do mouse em algum lugar da página que se\ndeseja traduzir e clicar na opção “Traduzir para o português” no menu de contexto que aparecerá\n– conforme é exibido na imagem seguinte. Considera-se que o Google Chrome seja o primeiro\nnavegador a incorporar tradução automática no próprio navegador, sem a necessidade de plugins\nou extensões adicionais."
+    },
+    {
+      "id": "info03_039",
+      "numero": 39,
+      "banca": "CESPE / PF – 2021",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / PF – 2021) A versão atual do Google Chrome dispõe de recurso que permite avisar o usuário sobre a possibilidade de ele estar utilizando uma combinação de senha e de 95717730268 - Keyla Kiyoku nome de usuário comprometida em um vazamento de dados em um sítio ou em um aplicativo de terceiros.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito! De fato, versões recentes do Chrome incluem um recurso de segurança que alerta os\nusuários caso as suas credenciais de login (nome de usuário e senha) tenham sido expostas em\nalgum vazamento de dados. Este recurso, conhecido como \"Verificação de Senha\", compara as\ncredenciais salvas no navegador com uma base de dados de informações comprometidas\nconhecidas. Se houver uma correspondência, o Chrome alerta o usuário para que ele possa\nalterar a senha. Esta funcionalidade é parte dos esforços contínuos para melhorar a segurança\nonline e proteger a privacidade do usuário."
+    },
+    {
+      "id": "info03_041",
+      "numero": 41,
+      "banca": "OBJETIVA / Prefeitura de Chapecó-SC – 2011",
+      "tipo": "multipla",
+      "enunciado": "(OBJETIVA / Prefeitura de Chapecó-SC – 2011) Analisar a figura abaixo, retirada da barra de botões padrão do Internet Explorer 6.0: De acordo com os botões apresentados, é correto afirmar que NÃO são utilizados para:",
+      "alternativas": {
+        "a": "Guardar, organizar e acessar uma lista de sites favoritos.",
+        "b": "Realizar uma busca na internet através de uma palavra-chave.",
+        "c": "Abrir o programa gerenciador de e-mail.",
+        "d": "Guardar os endereços das últimas páginas visitadas."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, o segundo ícone é utilizado para guardar, organizar e acessar uma lista de sites favoritos;\n(b) Errado, o primeiro ícone é utilizado para realizar uma busca na internet através de uma palavra-chave; (c) Correto, nenhum desses ícones é utilizado para abrir um programa gerenciador de e-mail;\n(d) Errado, o terceiro ícone é utilizado para guardar os endereços das últimas páginas visitadas."
+    },
+    {
+      "id": "info03_042",
+      "numero": 42,
+      "banca": "FADESP / COSANPA – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / COSANPA – 2017) Para efetuar a exclusão dos arquivos temporários, cookies, senhas salvas, histórico e informações de formulários da Web no Microsoft Internet Explorer 11 (instalação padrão), é necessário acessar o menu “Ferramentas”, clicar na opção “Opções da Internet”, a qual mostrará a Janela “Opções da Internet”, e pressionar o botão “Excluir...” na guia:",
+      "alternativas": {
+        "a": "“Privacidade”.",
+        "b": "“Conteúdo”.",
+        "c": "“Geral”.",
+        "d": "“Segurança”."
+      },
+      "gabarito": "C",
+      "comentario": "Vejam na imagem abaixo que esta configuração se encontra na aba “Geral”."
+    },
+    {
+      "id": "info03_043",
+      "numero": 43,
+      "banca": "FADESP / COSANPA – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / COSANPA – 2017) A tecnologia desenvolvida pela Microsoft, que permite a um navegador web apresentar documentos criados, por exemplo, pelo pacote Microsoft Office (Word, Excel, PowerPoint), é o:",
+      "alternativas": {
+        "a": "Shockwave.",
+        "b": "ActiveX.",
+        "c": "Acrobat Reader. 95717730268 - Keyla Kiyoku",
+        "d": "Cosmo Player."
+      },
+      "gabarito": "B",
+      "comentario": "Controles ActiveX são pequenos programas ou serviços – criados pela Microsoft – que fornecem\nbarras de ferramentas, animações, vídeos ou conteúdos dinâmicos a uma página web com o intuito\nde melhorar a experiência do usuário. Lembrando que o ActiveX não interage apenas com o Internet\nExplorer, mas também com outras aplicações da Microsoft, como Office Word, Office Excel, Office\nPowerpoint, entre outros."
+    },
+    {
+      "id": "info03_044",
+      "numero": 44,
+      "banca": "FADESP / COREN PA – 2013",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / COREN PA – 2013) No Microsoft Internet Explorer 8, a janela “Opções da Internet”, acionada através da opção “Opções da Internet” do menu “Ferramentas”, possui diversas fichas, dentre as quais uma que permite ao usuário excluir arquivos temporários, histórico, cookies, senhas salvas e informações de formulário web. Trata- se da ficha denominada:",
+      "alternativas": {
+        "a": "Geral.",
+        "b": "Conteúdo.",
+        "c": "Avançadas.",
+        "d": "Segurança."
+      },
+      "gabarito": "A",
+      "comentario": "Conforme é possível ver abaixo, a configuração se encontra na Aba Geral."
+    },
+    {
+      "id": "info03_045",
+      "numero": 45,
+      "banca": "FADESP / COREN PA – 2013",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / COREN PA – 2013) A sintaxe correta da URL de um site a ser informada no navegador Internet Explorer 8 é a:",
+      "alternativas": {
+        "a": "http:/:www.sitecorreto.eng.br",
+        "b": "thtp://www.sitecorreto.pro.br",
+        "c": "httt://www.sitecorreto.net",
+        "d": "http://www.sitecorreto.org.br"
+      },
+      "gabarito": "D",
+      "comentario": "Uma URL é formada pela seguinte estrutura:\nprotocolo-ou-esquema://ip-ou-domínio:porta/caminho/recurso?query_string#fragmento\n(a) Errado. Há erro de sintaxe – deveria ser: http:// e, não, http:/:.\n(b) Errado. Há erro de sintaxe – deveria ser: http:// e, não, thtp:/:.\n(c) Errado. Há erro de sintaxe – deveria ser: http:// e, não, httt://.\n(d) Correto. A questão está perfeita!"
+    },
+    {
+      "id": "info03_046",
+      "numero": 46,
+      "banca": "FADESP / MPE PA – 2012",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / MPE PA – 2012) No navegador Internet Explorer 7 (IE7), para localizar fragmentos de textos dentro do conteúdo da página atual, é necessário ativar a janela “Localizar” pressionando as teclas:",
+      "alternativas": {
+        "a": "CTRL + A.",
+        "b": "ALT + P.",
+        "c": "CTRL + F.",
+        "d": "ALT + L."
+      },
+      "gabarito": "C",
+      "comentario": "O atalho para localizar fragmentos de textos dentro do conteúdo da página atual é CTRL + F. O\natalho CTRL + A seleciona todos os itens de uma página web e os outros dois atalhos não existem\nno navegador Internet Explorer 7 (IE7)."
+    },
+    {
+      "id": "info03_047",
+      "numero": 47,
+      "banca": "FADESP / MPE PA – 2012",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / MPE PA – 2012) No Internet Explorer 8, para adicionar o site atual visitado na “Central de Favoritos” é necessário utilizar o recurso “Adicionar a Favoritos”. A mesma função pode ser realizada pressionando-se as teclas:",
+      "alternativas": {
+        "a": "CTRL + R. 95717730268 - Keyla Kiyoku",
+        "b": "ALT + C.",
+        "c": "CTRL + ALT + F.",
+        "d": "ALT + A."
+      },
+      "gabarito": "B",
+      "comentario": "O atalho para adicionar nos Favoritos do Internet Explorer 8 é o ALT + C (atenção, pois nas versões\nmais atuais é CTRL + D). As opções C e D não são atalhos definidos e o CTRL + R apenas recarrega\na página."
+    }
+  ]
+}

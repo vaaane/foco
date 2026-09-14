@@ -1,0 +1,554 @@
+{
+  "esquema": 1,
+  "id": "info-aula-12-google-workspace",
+  "aula": "12",
+  "titulo": "Informática - AULA 12",
+  "subtitulo": "Google Workspace (Drive, Docs, Classroom)",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    2,
+    5
+  ],
+  "tagsEdital": [
+    {
+      "n": 2,
+      "titulo": "Conhecimento da plataforma Google (Sala de Aula, Documentos, Planilha)"
+    },
+    {
+      "n": 5,
+      "titulo": "Organização e gerenciamento de arquivos, pastas e programas"
+    }
+  ],
+  "resumoMd": "- **Google Workspace (`12.pdf`)**:\n  - **Google Drive**: Armazenamento e sincronização de arquivos em nuvem com opções de compartilhamento (Leitor, Comentador, Editor).\n  - **Google Documentos (Docs)**, **Google Planilhas (Sheets)** e **Google Apresentações (Slides)**: Ferramentas colaborativas em tempo real.\n  - **Google Sala de Aula (Classroom)**: Plataforma de gestão de ambiente virtual de aprendizagem, criação de turmas e atribuição de tarefas.\n- **Uso da Tecnologia na Educação (`00.pdf`)**:\n  - Paradigmas educacionais e a inclusão de recursos computacionais nas práticas de ensino-aprendizagem.\n\n---",
+  "total": 34,
+  "questoes": [
+    {
+      "id": "info12_001",
+      "numero": 1,
+      "banca": "VUNESP / Prefeitura de São Bernardo do Campo-SP - 2023",
+      "tipo": "multipla",
+      "enunciado": "(VUNESP / Prefeitura de São Bernardo do Campo-SP - 2023) Um usuário do aplicativo Documentos do Google Apps, em sua configuração padrão, formatou três palavras do texto que está sendo elaborado conforme a seguir: ABÓBORA LARANJA MORANGO Sabe-se que o usuário utilizou três dos ícones da figura a seguir para realizar essa formatação. Assinale a alternativa que contém os números dos ícones que foram utilizados, respectivamente, na formatação das palavras ABÓBORA, LARANJA e MORANGO.:",
+      "alternativas": {
+        "a": "(I), (II) e (IV)",
+        "b": "(II), (I) e (III)",
+        "c": "(II), (III) e (I)",
+        "d": "(IV), (II) e (III)",
+        "e": "(V), (IV) e (III)"
+      },
+      "gabarito": "C",
+      "comentario": "ABÓBORA (Itálico, II)\nLARANJA (Sublinhado, III)\nMORANGO (Negrito, I)"
+    },
+    {
+      "id": "info12_002",
+      "numero": 2,
+      "banca": "CESPE / TRT8 – 2022",
+      "tipo": "multipla",
+      "enunciado": "(CESPE / TRT8 – 2022) No Google Drive, um arquivo da área de armazenamento pode ser disponibilizado para outro usuário poder baixar, acessar ou editar por meio da opção:",
+      "alternativas": {
+        "a": "Fazer uma cópia.",
+        "b": "Compartilhados comigo.",
+        "c": "Compartilhar.",
+        "d": "Disponível Offline.",
+        "e": "Fazer download."
+      },
+      "gabarito": "C",
+      "comentario": "Um arquivo da área de armazenamento pode ser disponibilizado para outro usuário poder baixar,\nacessar ou editar por meio da opção Compartilhar."
+    },
+    {
+      "id": "info12_003",
+      "numero": 3,
+      "banca": "COSEAC / Prefeitura de Niterói-RJ – 2014",
+      "tipo": "multipla",
+      "enunciado": "(COSEAC / Prefeitura de Niterói-RJ – 2014) Na Internet, é uma ferramenta que caracteriza, por si só, o uso da tecnologia cloud computing (computação na nuvem), disponibilizada para uso compartilhado:",
+      "alternativas": {
+        "a": "Google Docs.",
+        "b": "leitor PDF Acrobat Reader.",
+        "c": "cliente de correio eletrônico convencional.",
+        "d": "compactador de arquivos Winzip.",
+        "e": "sistema operacional Linux."
+      },
+      "gabarito": "A",
+      "comentario": "A ferramenta baseada em nuvem disponibilizada para uso compartilhado é o Google Docs."
+    },
+    {
+      "id": "info12_004",
+      "numero": 4,
+      "banca": "FCC / TRT - 20ª REGIÃO (SE",
+      "tipo": "multipla",
+      "enunciado": "(FCC / TRT - 20ª REGIÃO (SE) – 2011) Pedro e Tarcisa trabalham em escritórios da mesma empresa situados em cidades diferentes. Pedro criou um documento utilizando o Microsoft Word e deseja compartilhá-lo de forma que Tarcisa possa consultá-lo e editá-lo diretamente na web. Para isso Pedro pode utilizar a ferramenta:",
+      "alternativas": {
+        "a": "Google Docs.",
+        "b": "Microsoft Web Document Edition.",
+        "c": "Google Android.",
+        "d": "Yahoo WebOffice. 95717730268 - Keyla Kiyoku",
+        "e": "Microsoft WebOffice."
+      },
+      "gabarito": "A",
+      "comentario": "O Microsoft Word é equivalente ao Google Docs, isto é, são processadores de texto."
+    },
+    {
+      "id": "info12_005",
+      "numero": 5,
+      "banca": "COSEAC / UFF – 2017",
+      "tipo": "multipla",
+      "enunciado": "(COSEAC / UFF – 2017) O acesso ao pacote de aplicativos “Google Docs” é um exemplo de:",
+      "alternativas": {
+        "a": "serviço de proxy.",
+        "b": "computação nas nuvens.",
+        "c": "intranet.",
+        "d": "correio eletrônico.",
+        "e": "serviço de ensino a distância."
+      },
+      "gabarito": "B",
+      "comentario": "Google Docs é um exemplo de computação em nuvem – o usuário não precisa instalar nada e todo\nprocessamento é realizado na nuvem."
+    },
+    {
+      "id": "info12_006",
+      "numero": 6,
+      "banca": "FCC / SEMEF Manaus-AM – 2019",
+      "tipo": "multipla",
+      "enunciado": "(FCC / SEMEF Manaus-AM – 2019) O Google Documentos da plataforma G Suite permite criar e editar documentos de texto diretamente no navegador sem o uso de software dedicado, sendo possível",
+      "alternativas": {
+        "a": "importar documentos do Microsoft Word para torná-los instantaneamente editáveis e exportar documentos em diversos formatos (.docx, .odt, .rtf, .txt ou .html), exceto . pdf.",
+        "b": "trabalhar em um único documento, de forma compartilhada, em equipes, visualizando edições à medida que outras pessoas forem digitando e comunicando-se por meio do bate-papo integrado.",
+        "c": "controlar as alterações feitas em seus documentos e desfazer alterações, lembrando sempre que as versões anteriores do documento são mantidas por apenas 24 horas e usam parte do espaço de armazenamento disponível.",
+        "d": "decidir quem tem acesso a cada documento ou pasta e conceder a indivíduos ou grupos o direito de editar e visualizar documentos. Porém, não é possível conceder o direito de adicionar comentários. 95717730268 - Keyla Kiyoku",
+        "e": "criar, editar e compartilhar documentos em iPhone, iPad ou dispositivo Android. Porém, em navegadores como o Google Chrome só é possível trabalhar em documentos quando estiver online."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, também é possível exportar em .pdf; (b) Correto; (c) Errado, são mantidas por tempo\nindeterminado e não contam para o espaço de armazenamento disponível; (d) Errado, é possível\nconceder o direito de adicionar comentários; (e) Errado, também é possível trabalhar em\ndocumentos quando estiver off-line."
+    },
+    {
+      "id": "info12_007",
+      "numero": 7,
+      "banca": "CPCON / Prefeitura de Cuité - PB – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CPCON / Prefeitura de Cuité - PB – 2019) Para conferir o histórico e recuperar edições de um documento no Documentos Google (Google Docs), deve-se inicialmente; com o documento aberto, clicar em:",
+      "alternativas": {
+        "a": "“Complementos”, deslizar até “Histórico de revisões” e clicar em “Ver histórico de revisões”",
+        "b": "“Ferramentas”, deslizar até “Menu de versões” e clicar em “Ver histórico de versões”.",
+        "c": "“Arquivo”, deslizar até “Revisões” e clicar em “Ver versões”.",
+        "d": "“Arquivo”, deslizar até “Histórico de versões” e clicar em “Ver histórico de versões”.",
+        "e": "“Ferramentas”, deslizar até “Histórico de revisões” e clicar em “Ver histórico de revisões”."
+      },
+      "gabarito": "D",
+      "comentario": "“Arquivo”, deslizar até “Histórico de versões” e clicar em “Ver histórico de versões”."
+    },
+    {
+      "id": "info12_008",
+      "numero": 8,
+      "banca": "FCC / SEMEF Manaus - AM – 2019",
+      "tipo": "multipla",
+      "enunciado": "(FCC / SEMEF Manaus - AM – 2019) Na ferramenta Documentos Google Online é possível fazer download do documento em diversos formatos, como .docx e .pdf. A opção para realizar essa tarefa está no menu:",
+      "alternativas": {
+        "a": "Ferramentas",
+        "b": "Arquivo",
+        "c": "Complementos",
+        "d": "Baixar",
+        "e": "Editar"
+      },
+      "gabarito": "B",
+      "comentario": "Essa opção está no menu Arquivo – conforme podemos ver a seguir:"
+    },
+    {
+      "id": "info12_009",
+      "numero": 9,
+      "banca": "FAURGS / SES-RS – 2019",
+      "tipo": "multipla",
+      "enunciado": "(FAURGS / SES-RS – 2019) No editor de texto Google Docs, qual é o recurso utilizado para adicionar atalhos para partes específicas de documentos?",
+      "alternativas": {
+        "a": "Link",
+        "b": "Favorito",
+        "c": "Sumário",
+        "d": "Objetos vinculados",
+        "e": "Marcadores e numeração"
+      },
+      "gabarito": "B",
+      "comentario": "Trata-se do comando Inserir > Favorito."
+    },
+    {
+      "id": "info12_010",
+      "numero": 10,
+      "banca": "IBADE / Prefeitura de Cujubim - RO – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / Prefeitura de Cujubim - RO – 2018) No Google Docs, quando se manipula o editor de texto e se deseja salvar um documento utilizando teclas de atalho, deve-se digitar as teclas de atalho:",
+      "alternativas": {
+        "a": "CTRL + F",
+        "b": "ALT + ENTER",
+        "c": "CTRL + O",
+        "d": "ALT + SHIFT + 5",
+        "e": "CTRL + S"
+      },
+      "gabarito": "E",
+      "comentario": "O atalho para salvar um arquivo no Google Docs é o CTRL + S (Save)."
+    },
+    {
+      "id": "info12_011",
+      "numero": 11,
+      "banca": "FAURGS / SES-RS – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FAURGS / SES-RS – 2022) Considere a planilha a seguir, produzida no Google Planilhas, que contém dados sobre a vacinação de Covid-19 no RS, em determinada data. 95717730268 - Keyla Kiyoku Foi digitada em C4 uma fórmula para calcular o percentual de vacinados sobre a população estimada. Depois esta fórmula vai ser copiada e colada nas células C5 e C6. Ao final, a coluna C é formatada para formato de percentual. A fórmula que foi digitada em C4 e permite obter o resultado mostrado é:",
+      "alternativas": {
+        "a": "=B4/B1",
+        "b": "=B4/B$1",
+        "c": "=B$4/B$1",
+        "d": "=B$4/B1",
+        "e": "=$B4/B1"
+      },
+      "gabarito": "B",
+      "comentario": "Note que estamos calculando o percentual da população que foi vacinada com a primeira dose,\nsegunda dose e dose de reforço. Ora, a população estimada é fixa, logo podemos congelar essa\ncélula: $B$1 ou apenas B$1. Para calcular o percentual com a primeira dose, basta fazer =B4/B$1.\nAo copiarmos essa fórmula e colarmos nas outras linhas, teremos uma referência relativa, logo a\nprópria ferramenta alterará para: C5 = B5/B$1 e C6 = B6/B$1."
+    },
+    {
+      "id": "info12_012",
+      "numero": 12,
+      "banca": "CPCON / Prefeitura de São José de Piranhas - PB – 2016",
+      "tipo": "multipla",
+      "enunciado": "(CPCON / Prefeitura de São José de Piranhas - PB – 2016) Utilizando o programa Google Sheets (Planilhas Google), qual alternativa representa o resultado da fórmula “=IF(SUM(A1;A3)>5;MAX(B1:B3);MIN(C1:C3))” ao ser aplicada na planilha eletrônica abaixo?",
+      "alternativas": {
+        "a": "0 95717730268 - Keyla Kiyoku",
+        "b": "2",
+        "c": "4",
+        "d": "5",
+        "e": "1"
+      },
+      "gabarito": "E",
+      "comentario": "IF é a tradução em inglês do comando SE e SUM é a tradução em inglês do comando SOMA. Dito\nisso, temos que:\n- SUM(A1;A3) = A1 + A3 = 1 + 3 = 4;\n- MAX(B1:B3) = 7 (maior valor do intervalo B1 a B3);\n- MIN(C1:C3) = 1 (menor valor do intervalo C1 a C3);\nSe a Soma (4) for maior que 5, retorne 7; se não, retorne 1. Como 4 < 5, retornará 1."
+    },
+    {
+      "id": "info12_013",
+      "numero": 13,
+      "banca": "CPCON / Prefeitura de Riacho da Cruz - RN – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CPCON / Prefeitura de Riacho da Cruz - RN – 2019) Utilizando o programa Google Sheets (Planilhas Google), qual alternativa representa o resultado da fórmula “=IF(MULT(A1;A3)>5;MÍNIMO(B1:B3);MÁXIMO(C1:C3))” ao ser aplicada na planilha eletrônica abaixo?",
+      "alternativas": {
+        "a": "7",
+        "b": "2",
+        "c": "1",
+        "d": "5",
+        "e": "3"
+      },
+      "gabarito": "E",
+      "comentario": "IF é a tradução em inglês do comando SE. Logo, temos que:\n- MULT(A1;A3) = A1 * A3 = 1*3 = 3;\n- MÍNIMO(B1:B3) = 5 (menor valor do intervalo de B1 a B3);\n- MAXIMO(C1:C3) = 3 (maior valor do intervalo de C1 a C3);Se a Multiplicação (3) for maior que 5, retorne 5; se não, retorne 3. Como 3 < 5, retornará 3."
+    },
+    {
+      "id": "info12_014",
+      "numero": 14,
+      "banca": "FCM / IFF-RS - 2016",
+      "tipo": "multipla",
+      "enunciado": "(FCM / IFF-RS - 2016) Os Editores do Documentos Google permitem publicar arquivos. A sequência de passos para publicar uma planilha, utilizando o Planilhas Google, é descrita abaixo. Abra a planilha. Clique no menu______________ . Selecione____________ . Clique em Publicar. Copie o link e envie-o para quem você deseja que veja o arquivo. Os termos que preenchem corretamente as lacunas são:",
+      "alternativas": {
+        "a": "Dados; Compartilhar.",
+        "b": "Arquivo; Publicar na web.",
+        "c": "Ferramentas; Compartilhar.",
+        "d": "Ferramentas; Opções de acesso.",
+        "e": "Arquivo; Opções de compartilhamento."
+      },
+      "gabarito": "B",
+      "comentario": "Arquivo > Compartilhar > Publicar na Web."
+    },
+    {
+      "id": "info12_015",
+      "numero": 15,
+      "banca": "FAURGS / SES-RS - 2022",
+      "tipo": "multipla",
+      "enunciado": "(FAURGS / SES-RS - 2022) Considere uma planilha do Google Planilhas, na qual a célula B1 contém o seguinte conteúdo: =ABS(SOMA(A1:A3:A9:A10)) Assinale a alternativa que apresenta o descritivo do resultado da operação realizada na célula B1. 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "O valor do resultado da soma do conteúdo de todas as células de A1 até A10, sendo usados os valores sem sinal das células A1, A3, A9 e A10.",
+        "b": "O valor, sem sinal, do resultado da soma do conteúdo das células A1, A2, A3, A9 e A10.",
+        "c": "O valor do resultado da soma dos valores absolutos do conteúdo das células A1, A2, A3, A9 e A10.",
+        "d": "O valor, sem sinal, do resultado da soma do conteúdo de todas as células de A1 até A10.",
+        "e": "A lista dos valores, sem sinal, do resultado da soma das células A1, A2 e A3 e da soma das células A9 e A10."
+      },
+      "gabarito": "D",
+      "comentario": "A função ABS retorna o valor absoluto (positivo) de um número. Logo temos que:\nSOMA(A1:A3:A9:A10) = A1:A10. Isso é uma pegadinha: o intervalo A1:A3;A9:A10 é o mesmo que\nA1:A10 – não importa que tenha um A3:A9 no meio! Logo, temos que: ABS(SOMA(A1:A3;A9:A10))\n= ABS(SOMA(A1:A10)) = o valor absoluto (sem sinal) da soma de A1 + A2 + A3 + A4 + A5 + A6 + A7\n+ A8 + A9 + A10."
+    },
+    {
+      "id": "info12_016",
+      "numero": 16,
+      "banca": "FADESP / UEPA – 2020",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / UEPA – 2020) Considerando as funções do Google Planilhas, a sintaxe da função que calcula o número de dias, meses ou anos entre duas datas é:",
+      "alternativas": {
+        "a": "DIFDATA(data_de_inicio; data_de_termino; unidade).",
+        "b": "DATADIF(unidade; data_de_inicio; data_de_termino)",
+        "c": "DIFDATA(unidade; data_de_inicio; data_de_termino).",
+        "d": "DATADIF(data_de_inicio; data_de_termino; unidade)."
+      },
+      "gabarito": "D",
+      "comentario": "DATADIF\nDATADIF(data_de_inicio;\ndata_de_termino; unidade)\nCalcula o número de dias, meses ou anos entre\nduas datas.\nConforme podemos ver, trata-se do DATADIF()."
+    },
+    {
+      "id": "info12_017",
+      "numero": 17,
+      "banca": "FADESP / SES-RS – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FADESP / SES-RS – 2022) Deseja-se calcular quantas doses ainda faltam para vacinar 100% da população vacinável, que está na célula B1, com as 2 doses, sem considerar doses de reforço. A planilha, produzida no Google Planilhas, ficaria como se segue. Para obter as doses faltantes na coluna D, as fórmulas para o cálculo de D4 e D5 seriam, respectivamente,",
+      "alternativas": {
+        "a": "=(B1-C4*100)*2 e =(B1-C5).",
+        "b": "=(B1-C4)*2 e =(B1-C5)",
+        "c": "=(B1-B4)*2 e =(B1-B5)",
+        "d": "=(B1-B4) e =(B1-B5)*2",
+        "e": "=(B1- C4) e =(B1-B5)"
+      },
+      "gabarito": "C",
+      "comentario": "Essa é uma questão inteligente! Deseja-se calcular quantas doses ainda faltam para vacinar 100%\nda população vacinável, que está na célula B1, com as 2 doses, sem considerar doses de reforço.\nQuem ainda não tomou nem a primeira dose precisará de duas doses para estar completamente\nvacinado. Logo, temos que subtrair a quantidade de pessoas pela quantidade de pessoas que já\ntomaram uma dose.\nAssim vamos obter a quantidade de pessoas que não tomou nenhuma dose e que precisarão tomar\nduas doses para estar completamente vacinados. Logo, temos que: (B1 - B4)*2. A segunda parte é\nmais fácil porque basta subtrair a quantidade de pessoas pela quantidade de vacinados com a\nsegunda dose. Logo, temos que: (B1 - B5)"
+    },
+    {
+      "id": "info12_018",
+      "numero": 18,
+      "banca": "CPCON / Câmara de Pilõezinhos - PB – 2019",
+      "tipo": "multipla",
+      "enunciado": "(CPCON / Câmara de Pilõezinhos - PB – 2019) Utilizando o programa Google Sheets (Planilhas Google), qual alternativa representa o resultado da fórmula “=(D1+D4)+SUM(C1:C3;C4)+PRODUCT(B1;B3:B4)+MULTIPLY(A2;A4)”, ao ser aplicada na planilha eletrônica abaixo? 95717730268 - Keyla Kiyoku ==2f06f1==",
+      "alternativas": {
+        "a": "5",
+        "b": "1",
+        "c": "9",
+        "d": "10",
+        "e": "8"
+      },
+      "gabarito": "E",
+      "comentario": "A única diferença entre PRODUCT e MULTIPLY é que o primeiro permite multiplicar diversos\nnúmeros e o segundo permite multiplicar apenas dois números. Logo, temos que:\n“=(D1+D4)+SUM(C1:C3;C4)+PRODUCT(B1;B3:B4)+MULTIPLY(A2;A4)”,\n# (D1 + D4) = 1 + 1 = 2;\n# SUM(C1:C3;C4) = (C1 + C2 + C3) + C4 = 1 + 1 + 1 + 1 = 4;\n# PRODUCT(B1; B3:B4) = B1 * (B3*B4) = 1 * 1 * 1 = 1;\n# MULTIPLY(A2;A4) = A2 * A4 = 1 * 1 = 1\nPortanto, temos que: 2 + 4 + 1 + 1 = 8."
+    },
+    {
+      "id": "info12_019",
+      "numero": 19,
+      "banca": "IBADE / Prefeitura de Cujubim - RO – 2018",
+      "tipo": "multipla",
+      "enunciado": "(IBADE / Prefeitura de Cujubim - RO – 2018) Um usuário do Google Docs está manipulando uma planilha e deseja selecionar uma coluna utilizando teclas de atalho. As teclas de atalho para essa situação são:",
+      "alternativas": {
+        "a": "CTRL + ENTER",
+        "b": "CTRL + ESPAÇO",
+        "c": "CTRL + /",
+        "d": "SHIFT + Z",
+        "e": "SHIFT + ESPAÇO"
+      },
+      "gabarito": "B",
+      "comentario": "- CTRL + ESPAÇO = seleciona uma coluna inteira;\n- SHIFT + ESPAÇO = seleciona uma linha inteira;"
+    },
+    {
+      "id": "info12_020",
+      "numero": 20,
+      "banca": "CESGRANRIO / Banco do Brasil – 2021",
+      "tipo": "multipla",
+      "enunciado": "(CESGRANRIO / Banco do Brasil – 2021) No Google Drive, para acessar o item “Pesquisar” de forma direta, o usuário deve pressionar a seguinte combinação de teclas:",
+      "alternativas": {
+        "a": "Alt+E",
+        "b": "Ctrl+A",
+        "c": "Ctrl+F",
+        "d": "Ctrl+R",
+        "e": "Ctrl+Shift+K"
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Essa não é uma combinação de teclas utilizada no Google Drive para acessar a função\nde pesquisa;\nb) Errado. Esta combinação de teclas é usada para selecionar todos os itens em uma página ou\ndocumento, não para acessar a função de pesquisa.\nc) Correto. Esta é a combinação correta para acessar a função de pesquisa em muitos aplicativos,\nincluindo o Google Drive.\nd) Errado. Geralmente é usado para atualizar a página em navegadores da web. Não está\nrelacionado à pesquisa no Google Drive.\ne) Errado. Não é uma combinação de teclas comumente usada para pesquisa no Google Drive. Pode\nvariar dependendo das configurações e extensões do navegador."
+    },
+    {
+      "id": "info12_021",
+      "numero": 21,
+      "banca": "FCM / Prefeitura de Caranaíba/MG – 2019",
+      "tipo": "multipla",
+      "enunciado": "(FCM / Prefeitura de Caranaíba/MG – 2019) O Google Drive permite compartilhar arquivos ou pastas para que outras pessoas possam vê-los, comentá-los ou editá-los. Para ver os arquivos que outras pessoas compartilharam com você, abra o site drive.google.com, usando um computador, e acesse a seção:",
+      "alternativas": {
+        "a": "Permissões.",
+        "b": "Compartilhamentos.",
+        "c": "Compartilhados comigo.",
+        "d": "Compartilhar arquivos ou pastas."
+      },
+      "gabarito": "C",
+      "comentario": "Para visualizar arquivos compartilhados com você, basta acessar a seção compartilhados comigo\nconforme é apresentado na imagem a seguir."
+    },
+    {
+      "id": "info12_022",
+      "numero": 22,
+      "banca": "IADES / CAU-AC – 2019",
+      "tipo": "multipla",
+      "enunciado": "(IADES / CAU-AC – 2019) Considere hipoteticamente que Ana, analista do Conselho de Arquitetura e Urbanismo, emitiu um parecer de caráter público e, após a aprovação dele por instâncias superiores, disponibilizou-o, em formato PDF, no Google Drive, para acesso de todos os respectivos colegas de trabalho. No caso apresentado, o tipo de serviço que Ana utilizou se denomina:",
+      "alternativas": {
+        "a": "armazenamento em nuvem.",
+        "b": "armazenamento por correio eletrônico.",
+        "c": "armazenamento em pen drive.",
+        "d": "upload em rede social.",
+        "e": "upload por correio eletrônico."
+      },
+      "gabarito": "A",
+      "comentario": "Se ela disponibilizou um arquivo no Google Drive, então ela fez um armazenamento em nuvem."
+    },
+    {
+      "id": "info12_023",
+      "numero": 23,
+      "banca": "FCC / CLDF – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FCC / CLDF – 2018) Em relação aos programas proprietários de redação de texto, planilhas e apresentações, a principal diferença do Google Drive é que ele",
+      "alternativas": {
+        "a": "não permite a visualização e conversão dos arquivos no formato PDF, pois é um aplicativo utilizado para a redação e edição colaborativa de textos.",
+        "b": "é utilizado para a produção de textos compartilhados e que necessitam de edição colaborativa. Não é recomendado para apresentações de slides, planilhas, desenhos e formulários on-line.",
+        "c": "é um ambiente desenvolvido pela Google, principal concorrente da empresa que fornece os programas de redação e criação de planilhas e apresentações, o que inviabiliza a circulação de arquivos entre os usuários.",
+        "d": "depende da versão mais atualizada do aplicativo, enquanto que o programa proprietário, mesmo de versões anteriores, funciona normalmente com qualquer usuário.",
+        "e": "é um ambiente que armazena arquivos em nuvens, ou seja, utiliza memória de servidores online e permite o acesso remoto pela Internet sem a necessidade de instalação de programas ou armazenamento físico de dados."
+      },
+      "gabarito": "E",
+      "comentario": "(a) Errado. O Google Drive permite a visualização e conversão de arquivos no formato PDF, e você\npode armazenar e compartilhar arquivos PDF por meio do Google Drive.\n(b) Errado. O Google Drive não é apenas para redação colaborativa de textos, mas também para\nplanilhas, apresentações, desenhos, formulários e outros tipos de documentos.\n(c) Errado. O Google não é o concorrente principal das empresas que fornecem programas de\nredação e criação de planilhas e apresentações. O Google é uma empresa que oferece esses\nserviços, concorrendo principalmente com o Microsoft Office Online (por exemplo).\n(d) Errado. Os programas proprietários geralmente são compatíveis com versões anteriores e mais\nrecentes, embora possa haver algumas limitações.\n(e) Correto. O Google Drive é um serviço de armazenamento em nuvem que utiliza servidores online\npara armazenar arquivos, permitindo o acesso remoto pela Internet sem a necessidade de\ninstalação de programas ou armazenamento físico de dados."
+    },
+    {
+      "id": "info12_024",
+      "numero": 24,
+      "banca": "FCC / Câmara Legislativa do Distrito Federal – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FCC / Câmara Legislativa do Distrito Federal – 2018) Em relação aos programas proprietários de redação de texto, planilhas e apresentações, a principal diferença do Google Drive é que ele:",
+      "alternativas": {
+        "a": "não permite a visualização e conversão dos arquivos no formato PDF, pois é um aplicativo utilizado para a redação e edição colaborativa de textos.",
+        "b": "é utilizado para a produção de textos compartilhados e que necessitam de edição colaborativa. Não é recomendado para apresentações de slides, planilhas, desenhos e formulários on-line.",
+        "c": "é um ambiente desenvolvido pela Google, principal concorrente da empresa que fornece os programas de redação e criação de planilhas e apresentações, o que inviabiliza a circulação de arquivos entre os usuários.",
+        "d": "depende da versão mais atualizada do aplicativo, enquanto que o programa proprietário, mesmo de versões anteriores, funciona normalmente com qualquer usuário.",
+        "e": "é um ambiente que armazena arquivos em nuvens, ou seja, utiliza memória de servidores online e permite o acesso remoto pela Internet sem a necessidade de instalação de programas ou armazenamento físico de dados."
+      },
+      "gabarito": "CERTO",
+      "comentario": "(a) Errado, ele permite a visualização e conversão dos arquivos no formato PDF; (b) Errado, é claro\nque é recomendado para esses contextos por meio do Google Apresentação, Google Planilhas,\nGoogle Drawings e Google Forms; (c) Errado, não inviabiliza a circulação de arquivos entre usuários\nporque o Google Drive é capaz de manipular arquivos criados pela empresa concorrente – no caso,\nMicrosoft Office; (d) Errado, não é necessário ter a versão mais atualizada do aplicativo; (e) Correto."
+    },
+    {
+      "id": "info12_025",
+      "numero": 25,
+      "banca": "FCM / Prefeitura de Tabuleiro-MG – 2017",
+      "tipo": "multipla",
+      "enunciado": "(FCM / Prefeitura de Tabuleiro-MG – 2017) Uma funcionalidade fornecida pelo Google Drive é:",
+      "alternativas": {
+        "a": "manter os aplicativos do computador atualizados.",
+        "b": "personalizar as configurações da interface do Windows.",
+        "c": "compartilhar arquivos ou pastas para que outras pessoas possam vê-los.",
+        "d": "bloquear tentativas de invasão e de exploração de vulnerabilidades no computador."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. A atualização de aplicativos é uma prática importante para manter a segurança e o\ndesempenho do seu sistema operacional e programas, mas o Google Drive em si não é uma\nferramenta de atualização de aplicativos; (b) Errado. A personalização da interface do Windows não\né uma funcionalidade diretamente relacionada ao Google Drive; (c) Correto. Uma das principaisfuncionalidades do Google Drive é permitir que os usuários compartilhem arquivos ou pastas com\noutras pessoas. Você pode definir permissões para que outras pessoas possam visualizar, comentar\nou editar os arquivos que você compartilhou; (d) Errado. Embora a segurança seja uma preocupação\nao utilizar serviços de armazenamento em nuvem, a detecção e prevenção de invasões e exploração\nde vulnerabilidades geralmente não são funções diretas do Google Drive."
+    },
+    {
+      "id": "info12_026",
+      "numero": 26,
+      "banca": "QUADRIX / HCFMUSP – 2017",
+      "tipo": "multipla",
+      "enunciado": "(QUADRIX / HCFMUSP – 2017) No que se refere ao Google Drive, serviço de armazenamento de arquivos na nuvem, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "É um serviço que oferece ao usuário espaço para armazenamento de arquivos na nuvem de forma gratuita. Caso necessite de mais espaço, o usuário poderá efetuar uma compra junto ao Google Drive, aumentando, dessa forma, sua capacidade de armazenamento.",
+        "b": "As mensagens de e-mail do programa Gmail não consomem o espaço de armazenamento disponível no Google Drive.",
+        "c": "O usuário poderá fazer o upload dos arquivos de seu computador para o Google Drive. No entanto, nesse ambiente, não será permitido criar novos arquivos.",
+        "d": "Por se tratar de um serviço seguro, apenas o usuário poderá ter acesso a seus arquivos, não sendo possível compartilhar arquivos ou pastas com outros usuários.",
+        "e": "A única desvantagem desse serviço, apontada por diversos profissionais de informática, é o fato de ele não possuir recursos destinados a sincronizar os arquivos de um computador que utilize o sistema operacional Windows com o Google Drive."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. Ele oferece um espaço de armazenamento gratuito limitado para todos os usuários e\nse você precisar de mais, poderá adquiri-lo mediante pagamento;\n(b) Errado. As mensagens do Gmail (incluindo as pastas “Spam” e “Lixeira”) consomem espaço de\narmazenamento disponível no Google Drive;\n(c) Errado. Você pode não apenas fazer upload de arquivos do seu computador, mas também criar\ndocumentos, planilhas, apresentações e outros tipos de arquivos diretamente no serviço;\n(d) Errado. Ele permite que você compartilhe arquivos e pastas com outros usuários, definindo\nníveis de permissões para visualização, edição ou comentários;\n(e) Errado. Ele oferece aplicativos e recursos para sincronizar arquivos entre computadores que\nusam o sistema operacional Windows e o serviço."
+    },
+    {
+      "id": "info12_027",
+      "numero": 27,
+      "banca": "COMPERVE / Câmara de Currais Novos/RN – 2017",
+      "tipo": "multipla",
+      "enunciado": "(COMPERVE / Câmara de Currais Novos/RN – 2017) O Google Inc. é uma empresa que possui uma série de aplicações e projetos que normalmente funcionam integrados a partir de uma conta de e-mail, o Gmail. Um desses aplicativos é o Google Drive, que:",
+      "alternativas": {
+        "a": "permite aos seus usuários a edição simultânea de documentos de forma colaborativa.",
+        "b": "tem a finalidade de enviar e receber e-mails (correio eletrônico).",
+        "c": "permite o envio de arquivos a nuvem sem limite de armazenamento.",
+        "d": "tem por finalidade oferecer ao usuário dicas de melhores rotas quando ele está no trânsito."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto; (b) Errado, esse seria o Gmail; (c) Errado, há um limite de armazenamento; (d) Errado,\nesse seria o Google Maps."
+    },
+    {
+      "id": "info12_028",
+      "numero": 28,
+      "banca": "Prefeitura de Fortaleza-CE / Prefeitura de Fortaleza-CE – 2016",
+      "tipo": "multipla",
+      "enunciado": "(Prefeitura de Fortaleza-CE / Prefeitura de Fortaleza-CE – 2016) Assinale a alternativa que indica uma característica de serviços de armazenamento de dados na nuvem, como o Dropbox ou Google Drive.",
+      "alternativas": {
+        "a": "Restringir o compartilhamento, não sendo possível compartilhar pastas e arquivos com outros usuários.",
+        "b": "Manter seus arquivos em um servidor na rede local, impedindo o acesso não autorizado a partir de redes externas.",
+        "c": "Acessar os arquivos armazenados em qualquer lugar, desde que uma conexão à internet e um navegador WEB estejam disponíveis.",
+        "d": "Enviar dispositivos de segurança, conhecidos como tokens, para que o acesso aos arquivos armazenados seja liberado."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Item confuso! A ideia dessas ferramentas é justamente facilitar o compartilhamento de\npastas e arquivos com outros usuários. Por outro lado, é possível também restringi-lo. A banca\nentendeu como incorreto;(b) Errado. Isso não é característico de serviços de armazenamento na nuvem. Esses serviços\narmazenam arquivos em servidores remotos na nuvem e, não, em redes locais. Logo, os arquivos\nestão disponíveis de qualquer lugar com acesso à Internet;\n(c) Correto. Esta é uma característica fundamental dos serviços de armazenamento na nuvem. Você\npode acessar seus arquivos em qualquer lugar, desde que tenha uma conexão à Internet e um\nnavegador da web;\n(d) Errado. Os serviços de armazenamento na nuvem normalmente utilizam métodos de\nautenticação e segurança online, como senhas, autenticação de dois fatores, chaves de segurança,\nem vez de dispositivos físicos como tokens para conceder acesso aos arquivos."
+    },
+    {
+      "id": "info12_029",
+      "numero": 29,
+      "banca": "FCM / IF-MG – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FCM / IF-MG – 2016) O Google Drive permite que arquivos sejam compartilhados entre usuários. A respeito dos níveis de acesso aos arquivos compartilhados do Google Drive, analise as afirmativas abaixo e marque (V) para verdadeiro ou (F) para falso. ( ) No nível Pode editar, os usuários, com os quais o arquivo está compartilhado, podem compartilhar o arquivo com terceiros. ( ) No nível Pode comentar, os usuários, com os quais o arquivo está compartilhado, podem ver e comentar o arquivo, mas não podem fazer alterações. ( ) No nível Pode visualizar, os usuários, com os quais o arquivo está compartilhado, podem abrir o arquivo, mas não podem alterá-lo, nem comentar. A sequência correta é:",
+      "alternativas": {
+        "a": "F, F, F.",
+        "b": "F, V, F.",
+        "c": "V, F, V.",
+        "d": "F, V, V.",
+        "e": "V, V, V."
+      },
+      "gabarito": "E",
+      "comentario": "(V) Quando você compartilha um arquivo com permissão de edição (Pode editar), os usuários com\nquem o arquivo está compartilhado podem compartilhá-lo com outras pessoas;\n(V) Quando um arquivo é compartilhado com permissão de comentário (Pode comentar), os\nusuários podem ver o arquivo e adicionar comentários, mas não podem fazer alterações no\nconteúdo principal;(V) No nível Pode visualizar, os usuários podem apenas abrir e visualizar o arquivo, mas não têm\npermissão para fazer alterações ou adicionar comentários."
+    },
+    {
+      "id": "info12_030",
+      "numero": 30,
+      "banca": "FCM / IFF-RS – 2016",
+      "tipo": "multipla",
+      "enunciado": "(FCM / IFF-RS – 2016) O Google Drive, sendo utilizado por meio do site drive.google.com, em um computador com Windows 7, permite: ( ) Fazer upload de arquivos do Microsoft Word com a extensão .doc. ( ) Visualizar arquivos do tipo .pdf (formato de documento portátil). ( ) Compartilhar pastas com outras pessoas. Analise as afirmativas acima e marque (V) para verdadeiro ou (F) para falso. A sequência correta é:",
+      "alternativas": {
+        "a": "F, F, F.",
+        "b": "F, V, V.",
+        "c": "V, F, F.",
+        "d": "V, V, F.",
+        "e": "V, V, V."
+      },
+      "gabarito": "E",
+      "comentario": "(V) Ele realmente permite fazer upload de arquivos de diversos formatos; (V) É realmente possível\nvisualizar arquivos do tipo .pdf; (V) É realmente possível compartilhar pastas e arquivos com outras\npessoas."
+    },
+    {
+      "id": "info12_031",
+      "numero": 31,
+      "banca": "CESPE – TJDFT – 2015",
+      "tipo": "multipla",
+      "enunciado": "(CESPE – TJDFT – 2015) Com relação ao armazenamento em nuvem, analise as assertivas abaixo. I. Google Drive é um espaço de armazenamento em nuvem no qual é possível guardar, acessar e compartilhar arquivos (vídeos, fotos, Google Docs, PDFs). II. O Google Drive não possui limite de armazenamento e é totalmente gratuito, podendo ser utilizado facilmente por qualquer usuário que possua uma conta Google. III. O Drive também, praticamente, acaba com os anexos de e-mail, o que torna muito mais fácil compartilhar arquivos. Um usuário pode mostrar a um amigo um vídeo das suas férias através de um link para o arquivo, em vez de anexá-lo a um e-mail. É correto o que se afirma em: 95717730268 - Keyla Kiyoku",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "III, apenas."
+      },
+      "gabarito": "C",
+      "comentario": "(I) Correto; (II) Errado, a partir de um certo limite, há cobrança pelo armazenamento; (III) Correto."
+    },
+    {
+      "id": "info12_032",
+      "numero": 32,
+      "banca": "CESPE / FUB – 2014",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / FUB – 2014) O Google Drive é uma ferramenta que possibilita a criação e edição de documentos, planilhas e apresentações.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito... por meio do Google Documentos, Google Planilhas e Google Apresentações."
+    },
+    {
+      "id": "info12_033",
+      "numero": 33,
+      "banca": "CESPE / STF – 2013",
+      "tipo": "certo_errado",
+      "enunciado": "(CESPE / STF – 2013) Os serviços Google Docs e Google Drive são exemplos de aplicações em nuvem.",
+      "alternativas": {},
+      "gabarito": "CERTO",
+      "comentario": "Perfeito... são aplicações hospedadas na nuvem."
+    },
+    {
+      "id": "info12_034",
+      "numero": 34,
+      "banca": "Quadrix / CFP – 2012",
+      "tipo": "multipla",
+      "enunciado": "(Quadrix / CFP – 2012) Qual, dos seguintes serviços do Google, substituiu o pacote de aplicativos Google Docs?",
+      "alternativas": {
+        "a": "Google Search Appliance.",
+        "b": "Google AdWords.",
+        "c": "Google AdSense.",
+        "d": "Google Drive.",
+        "e": "Google Mini."
+      },
+      "gabarito": "D",
+      "comentario": "O Google Docs foi substituído pelo Google Drive."
+    }
+  ]
+}

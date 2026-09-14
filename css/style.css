@@ -1083,3 +1083,7 @@ a.mat-card:hover { border-color: var(--accent); transform: translateY(-1px); }
 }
 .bc-com-editor:focus { outline: none; border-color: var(--accent); }
 .bc-com-dica { color: var(--muted); font-size: .78rem; margin: 6px 0 0; }
+
+/* ---- Bancos: cabeçalho de disciplina ---- */
+.bc-disc-titulo { margin: 28px 0 14px; font-size: 1.25rem; }
+.bc-disc-titulo:first-child { margin-top: 0; }

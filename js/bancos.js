@@ -67,8 +67,24 @@ function renderLista() {
     return;
   }
 
-  // Lista simples: um card por banco (aula).
-  const html = `<div class="bc-grade">${bancos.map(cardBanco).join("")}</div>`;
+  // Agrupa por disciplina, preservando a ordem em que cada disciplina aparece.
+  const grupos = new Map(); // disciplina -> [bancos]
+  for (const b of bancos) {
+    const d = b.disciplina || "Outros";
+    if (!grupos.has(d)) grupos.set(d, []);
+    grupos.get(d).push(b);
+  }
+
+  let html = "";
+  if (grupos.size === 1) {
+    // uma só disciplina: lista simples, sem cabeçalho
+    html = `<div class="bc-grade">${bancos.map(cardBanco).join("")}</div>`;
+  } else {
+    for (const [disc, lista] of grupos) {
+      html += `<h2 class="titulo-secao bc-disc-titulo">${escapar(disc)}</h2>`;
+      html += `<div class="bc-grade">${lista.map(cardBanco).join("")}</div>`;
+    }
+  }
   conteudo.innerHTML = html;
   conteudo.querySelectorAll("[data-abrir]").forEach((el) =>
     el.addEventListener("click", () => abrirBanco(el.dataset.abrir))

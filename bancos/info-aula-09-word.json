@@ -1,0 +1,744 @@
+{
+  "esquema": 1,
+  "id": "info-aula-09-word",
+  "aula": "09",
+  "titulo": "Informática - AULA 09",
+  "subtitulo": "Editor de Textos (Microsoft Word)",
+  "disciplina": "Informática",
+  "concurso": "SEE-DF",
+  "fonte": "Estratégia Concursos — Informática (Diego Carvalho e Renato da Costa)",
+  "itensEdital": [
+    3
+  ],
+  "tagsEdital": [
+    {
+      "n": 3,
+      "titulo": "Sistema operacional e ambiente Windows (edição de textos, planilhas, apresentações)"
+    }
+  ],
+  "resumoMd": "- **Microsoft Word (`09.pdf`)**:\n  - Processador de textos baseado em Faixa de Opções (*Ribbon*).\n  - Recursos de formatação de parágrafo, estilos, inserção de quebras (de página e de seção), sumário automático e exportação para PDF.\n- **Microsoft Excel (`08.pdf`)**:\n  - Editor de planilhas eletrônicas estruturado em linhas (números) e colunas (letras).\n  - Principais Funções: `SOMA`, `MÉDIA`, `MÁXIMO`, `MÍNIMO`, `CONT.SE`, `SE` (lógica), `PROCV`, `CONCATENAR`.\n  - Operadores aritméticos e referências relativas (ex.: `A1`) versus referências absolutas (ex.: `$A$1`).\n- **Microsoft PowerPoint (`13.pdf`)**:\n  - Software para criação de apresentações eletrônicas e slides.\n  - Modos de Exibição: Normal, Classificação de Slides, Modo de Exibição de Leitura e Apresentação de Slides (`F5` a partir do início; `Shift + F5` a partir do slide atual).\n\n---",
+  "total": 47,
+  "questoes": [
+    {
+      "id": "info09_001",
+      "numero": 1,
+      "banca": "IBFC / DETRAN-AM – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / DETRAN-AM – 2022) Nas últimas versões do Microsoft Word é disponibilizado várias funções tais como: (1) o recurso denominado \"Quebra de Página\". (2) transformar um arquivo PDF no padrão do Word. (3) selecionar modelos de documentos online. Da relação apresentada:",
+      "alternativas": {
+        "a": "existem somente o 1 e 2",
+        "b": "existem somente o 1 e 3",
+        "c": "existem somente o 2 e 3",
+        "d": "existem todos"
+      },
+      "gabarito": "D",
+      "comentario": "Todos esses recursos são disponibilizados nas últimas versões do MS-Word. O gabarito preliminar\ntrouxe a segunda função como indisponível, mas o gabarito definitivo mudou dado que é possível\n– sim – transformar um arquivo PDF em Word."
+    },
+    {
+      "id": "info09_002",
+      "numero": 2,
+      "banca": "FUNDATEC / IPE SAÚDE – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IPE SAÚDE – 2022) No editor de textos Word 2016, para selecionar uma única palavra do texto, basta:",
+      "alternativas": {
+        "a": "Pressionar <Ins> com o cursor sobre a palavra.",
+        "b": "Pressionar <Delete> com o cursor sobre a palavra.",
+        "c": "Pressionar <Ctrl> com o cursor sobre a palavra.",
+        "d": "Clicar uma vez na palavra.",
+        "e": "Clicar duas vezes na palavra."
+      },
+      "gabarito": "E",
+      "comentario": "Dois cliques com o botão esquerdo seleciona a palavra inteira sobre a qual o cursor está\nposicionado. Ademais, um clique apenas posiciona o cursor!"
+    },
+    {
+      "id": "info09_003",
+      "numero": 3,
+      "banca": "FUNDATEC / IPE SAÚDE – 2022",
+      "tipo": "multipla",
+      "enunciado": "(FUNDATEC / IPE SAÚDE – 2022) A seleção de um texto específico em um documento, no editor de texto Word 2016, pode ser feito colocando o cursor na frente da primeira letra da palavra, frase ou parágrafo que deseja selecionar e depois:",
+      "alternativas": {
+        "a": "Pressionar a tecla <Ins> enquanto arrasta o cursor para selecionar o texto desejado.",
+        "b": "Pressionar a tecla <Enter> enquanto arrasta o cursor para selecionar o texto desejado.",
+        "c": "Clicar e manter pressionado enquanto arrasta o cursor para selecionar o texto desejado.",
+        "d": "Clicar uma vez para que o texto, a partir do cursor do mouse, seja selecionado.",
+        "e": "Arrastar o cursor para selecionar o texto desejado."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, a tecla <Ins> permite a inserção de caracteres em um texto com ou sem sobrescrita; (b)\nErrado, a tecla <Enter> serve para quebrar um parágrafo; (c) Correto, ao clicar e manter pressionado\no botão esquerdo do mouse é possível selecionar um texto; (d) Errado, nesse caso, apenas\nposicionará o cursor; (e) Errado, não haverá nenhuma ação, apenas a movimentação do cursor."
+    },
+    {
+      "id": "info09_004",
+      "numero": 4,
+      "banca": "REIS&REIS / PREFEITURA DE POTIM-SP – 2022",
+      "tipo": "multipla",
+      "enunciado": "(REIS&REIS / PREFEITURA DE POTIM-SP – 2022) No Word 2013, é possível apagar palavras selecionando-as no texto e em seguida pressionando a tecla <Del>. É possível apagar palavras no texto a partir da combinação de teclas e a combinação que apaga a palavra posicionada à esquerda do cursor é:",
+      "alternativas": {
+        "a": "CTRL + BackSpace",
+        "b": "CTRL + Tab",
+        "c": "CTRL + Del",
+        "d": "CTRL + End"
+      },
+      "gabarito": "A",
+      "comentario": "A tecla que apaga os caracteres à esquerda do cursor é tecla backspace."
+    },
+    {
+      "id": "info09_005",
+      "numero": 5,
+      "banca": "QUADRIX / CRF-GO – 2022",
+      "tipo": "certo_errado",
+      "enunciado": "(QUADRIX / CRF-GO – 2022) Os comandos , do Word 2013, disponíveis na guia Página Inicial > Parágrafo, possuem, respectivamente, as seguintes funções: alinhar à esquerda; justificar; e alinhar à direita.",
+      "alternativas": {},
+      "gabarito": "ERRADO",
+      "comentario": "Observem os ícones: o primeiro está alinhado à esquerda (vejam uma linha reta), o segundo está\nalinhado ao centro e o terceiro está alinhado à direita. E como seria um alinhamento justificado?\nEstaria alinhado à esquerda e à direita simultaneamente."
+    },
+    {
+      "id": "info09_006",
+      "numero": 6,
+      "banca": "IESES / PREFEITURA DE PALHOÇA-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / PREFEITURA DE PALHOÇA-SC – 2022) Quais etapas o usuário deverá seguir para inserir numeração de página em um arquivo de texto do Microsoft Word?",
+      "alternativas": {
+        "a": "Inserir - Número de Página.",
+        "b": "Referências - Sumário - Sumário Personalizado - Número de Página.",
+        "c": "Revisão - Número de Página.",
+        "d": "Layout - Quebras - Páginas pares/ímpares - Número de Página."
+      },
+      "gabarito": "A",
+      "comentario": "Para inserir numeração, devemos acessar: Guia Inserir > Grupo Cabeçalho > Rodapé e a opção\nNúmero de Página."
+    },
+    {
+      "id": "info09_007",
+      "numero": 7,
+      "banca": "IESES / PREFEITURA DE PALHOÇA-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / PREFEITURA DE PALHOÇA-SC – 2022) O Microsoft Word permite que as páginas dos documentos sejam numeradas. Nesse sentido, verifique as alternativas e assinale a correta.",
+      "alternativas": {
+        "a": "Uma vez numeradas as páginas, não há como remover a numeração de páginas.",
+        "b": "Não há como numerar páginas em documentos do Microsoft Word.",
+        "c": "É impossível alterar o formato do número da página.",
+        "d": "Existe um comando para que a primeira página não seja numerada."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, é possível inserir ou remover as numerações a qualquer momento; (b) Errado, é possível\nnumerar páginas do MS-Word a qualquer momento; (c) Errado, é possível alterar o formato do\nnúmero da página a qualquer momento; (d) Correto, é possível alterar a página inicial nas\nconfigurações da numeração."
+    },
+    {
+      "id": "info09_008",
+      "numero": 8,
+      "banca": "AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022",
+      "tipo": "multipla",
+      "enunciado": "(AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022) No MS-Word 2016 podemos encontrar várias funções prontas para vários tipos de uso. Essas funções são encontradas em qual guia de comando?",
+      "alternativas": {
+        "a": "Ajuda 95717730268 - Keyla Kiyoku",
+        "b": "Arquivo",
+        "c": "Fórmulas",
+        "d": "Inserir",
+        "e": "Layout da página"
+      },
+      "gabarito": "C",
+      "comentario": "Funções prontas são fórmulas que facilitam cálculos. Apesar disso, não existe a guia Fórmulas, mas\n– sim – o botão Fórmulas, que fica localizada no grupo Dados e na guia Layout."
+    },
+    {
+      "id": "info09_009",
+      "numero": 9,
+      "banca": "AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022",
+      "tipo": "multipla",
+      "enunciado": "(AVANÇA SP / PREFEITURA DE LOUVEIRA-SP – 2022) O atalho de teclado usado para recortar um item selecionado é:",
+      "alternativas": {
+        "a": "Alt + Ctrl.",
+        "b": "Alt + Tab.",
+        "c": "Ctrl + Alt.",
+        "d": "Ctrl + V.",
+        "e": "Ctrl + X."
+      },
+      "gabarito": "E",
+      "comentario": "O atalho CTRL+X é utilizado para recortar um item e o mantém na área a transferência."
+    },
+    {
+      "id": "info09_010",
+      "numero": 10,
+      "banca": "IESES / PREFEITURA DE PALHOÇA-SC – 2022",
+      "tipo": "multipla",
+      "enunciado": "(IESES / PREFEITURA DE PALHOÇA-SC – 2022) Assinale a afirmativa INCORRETA:",
+      "alternativas": {
+        "a": "O Word permite a alteração do tamanho da fonte através do menu Formatar + Fonte, ou na Barra de Ferramentas de Formatação.",
+        "b": "São recursos do Word: bordas simples ou duplas automáticas, criação automática de listas numeradas e verificação ortográfica ao digitar entre outros.",
+        "c": "No menu \"Inserir do Excel\" temos as opções: linha, coluna, função e tela inteira entre outros.",
+        "d": "No menu \"Inserir do Word\" temos as opções: quebra, símbolo e figura entre outros."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Correto, é possível alterar o tamanho da fonte no Word por meio do menu Formatar + Fonte, ou\nna barra de ferramentas; (b) Correto, são todos recursos do Word; (c) Errado, temos as opções linha,\ncoluna, célula e planilha."
+    },
+    {
+      "id": "info09_011",
+      "numero": 11,
+      "banca": "IDIB / Ministério da Economia – 2021",
+      "tipo": "multipla",
+      "enunciado": "(IDIB / Ministério da Economia – 2021) O MS Word é um dos editores de texto mais conhecidos e utilizados no mundo todo. Ele pertence à suíte de aplicativos Office da Microsoft. Sobre as funções do Word, assinale a alternativa correta:",
+      "alternativas": {
+        "a": "As tabelas possuem um número limitado de linhas.",
+        "b": "É possível numerar as páginas de um documento com numeração arábica e romana em um mesmo documento.",
+        "c": "Não é possível numerar as linhas de um documento.",
+        "d": "A régua horizontal é apresentada na parte inferior da área de trabalho do documento.",
+        "e": "Para inserir uma quebra de página em qualquer ponto de um documento, basta pressionar as teclas SHIFT+ENTER."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado, essa limitação existe apenas no MS-Excel; (b) Correto, desde que estejam em seções\ndiferentes; (c) Errado, é claro que é possível; (d) Errado, é apresentada na parte superior da área de\ntrabalho do documento; (e) Errado, o atalho é CTRL+ENTER."
+    },
+    {
+      "id": "info09_012",
+      "numero": 12,
+      "banca": "AOCP / ITEP RN - 2018",
+      "tipo": "multipla",
+      "enunciado": "(AOCP / ITEP RN - 2018) Considere um documento de texto sendo escrito no Microsoft Word 2010 (versão padrão em português do Brasil). Em dado momento, o cursor do mouse está posicionado em uma palavra específica de um parágrafo. Assinale a alternativa que apresenta a sequência correta de teclas de atalho para realizar os seguintes passos, consecutivamente: 1. Justificar parágrafo. 2. Deixar palavra sublinhada. 3. Salvar documento. 4. Imprimir Documento.",
+      "alternativas": {
+        "a": "CTRL + J, CTRL + S, CTRL + B, CTRL + P, e, por fim, a tecla ENTER.",
+        "b": "CTRL + J, CTRL + U, CTRL + S, CTRL + P, e, por fim, a tecla ENTER.",
+        "c": "CTRL + P, CTRL + U, CTRL + S, CTRL + I, e, por fim, a tecla ENTER.",
+        "d": "CTRL + P, CTRL + S, CTRL + B, CTRL + I, e, por fim, a tecla ENTER.",
+        "e": "CTRL + J, CTRL + U, CTRL + B, CTRL + P, e, por fim, a tecla ENTER."
+      },
+      "gabarito": "A",
+      "comentario": "ATALHO DESCRIÇÃO\nCTRL+J Alinhar justificado.CTRL+S Sublinhar.\nCTRL+B Salvar documento.\nCTRL+P Imprimir.\nPortanto, é CTRL + J, CTRL + S, CTRL + B, CTRL + P, e, por fim, a tecla ENTER."
+    },
+    {
+      "id": "info09_013",
+      "numero": 13,
+      "banca": "CEV UECE / DETRAN CE – 2018",
+      "tipo": "multipla",
+      "enunciado": "(CEV UECE / DETRAN CE – 2018) No Microsoft Word 2010, pode-se inserir uma tabela no documento de texto de acordo com os seguintes passos: acessar a aba.",
+      "alternativas": {
+        "a": "Página Inicial → Layout da Página → Tabela.",
+        "b": "Tabela → Criar → Nova Tabela.",
+        "c": "Inserir → Tabela → Inserir Tabela.",
+        "d": "Inserir → Formas → Tabela."
+      },
+      "gabarito": "C",
+      "comentario": "A opção para inserir uma tabela está na Guia Inserir, no segundo grupo Tabela. Apertando a seta\npara baixo, temos a opção de escolher a quantidade de linhas e colunas, ou de inserir uma tabela\nautomaticamente. Dessa forma, a alternativa correta é a Letra C."
+    },
+    {
+      "id": "info09_014",
+      "numero": 14,
+      "banca": "FUNDEP / CODEMIG – 2018",
+      "tipo": "multipla",
+      "enunciado": "(FUNDEP / CODEMIG – 2018) A aba “Inserir” do Word 2010 oferece recursos de edição de texto muito usados por seus usuários. A respeito dessa aba, analise as seguintes afirmativas. I. A inserção de cabeçalho inclui um texto na parte inferior de cada página. II. A inserção de rodapé inclui um texto no alto de cada página. III. Permite inserir números de página nos documentos. Está(ão) correta(s) a(s) afirmativa(s):",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "III, apenas.",
+        "c": "I e II, apenas.",
+        "d": "II e III, apenas. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "B",
+      "comentario": "(I) Errado. Os cabeçalhos o ajudam a repetir conteúdo na parte superior de cada página. (II) Errado.\nOs rodapés o ajudam a repetir conteúdo na parte inferior de cada página. (III) Correto. Por meio da\nopção Número de Página, no grupo Cabeçalho e Rodapé, é possível numerar as páginas do seu\ndocumento, podendo escolher entre diversas aparências predefinidas, ou selecionar o seu próprio\nformato. Assim, a alternativa correta é a Letra B."
+    },
+    {
+      "id": "info09_015",
+      "numero": 15,
+      "banca": "IESES / CRM SC - 2018",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRM SC - 2018) No Microsoft Word qual a combinação de teclas para selecionar todo o conteúdo do documento:",
+      "alternativas": {
+        "a": "CTRL+U",
+        "b": "ALT+X",
+        "c": "ALT+I",
+        "d": "CTRL+T"
+      },
+      "gabarito": "D",
+      "comentario": "ATALHO Descrição\nCTRL+T Seleciona tudo.\nO atalho para selecionar tudo é o CTRL+T."
+    },
+    {
+      "id": "info09_016",
+      "numero": 16,
+      "banca": "IBFC / CBM/SE - 2018",
+      "tipo": "multipla",
+      "enunciado": "(IBFC / CBM/SE - 2018) Quanto aos modos de exibição de um documento no MS-Word, do Microsoft Office 2003/2007/2010, analise os modos de exibição abaixo e assinale a alternativa correta: I. Layout de Impressão II. Leitura em Tela Inteira III. Estrutura de Tópicos.",
+      "alternativas": {
+        "a": "Apenas os modos de exibição I e II estão corretos.",
+        "b": "Apenas os modos de exibição II e III estão corretos.",
+        "c": "Apenas os modos de exibição I e III estão corretos.",
+        "d": "Os modos de exibição I, II e III estão correto."
+      },
+      "gabarito": "D",
+      "comentario": "As três alternativas estão corretas! Os modos de exibição podem ser encontrados na Guia Exibir.\nNo MS-Word 2003/2007/2010, os modos eram: Layout de Impressão, Leitura em Tela Inteira,\nLayout da Web, Estrutura de Tópicos e Rascunho. A partir do MS-Word 2013, o Layout em Tela\nInteira passou a se chamar Modo de Leitura."
+    },
+    {
+      "id": "info09_017",
+      "numero": 17,
+      "banca": "MS CONCURSOS / CRECI - 2018",
+      "tipo": "multipla",
+      "enunciado": "(MS CONCURSOS / CRECI - 2018) Se não quiser que o Word 2010 marque os possíveis erros com linhas onduladas enquanto estiver trabalhando, você pode desabilitar ________________________. Marque a alternativa que preenche a lacuna corretamente.",
+      "alternativas": {
+        "a": "a barra de correção ortográfica",
+        "b": "a linha de correção ortográfica e gramatical",
+        "c": "a verificação ortográfica e gramatical",
+        "d": "a barra de ortografia e gramatica"
+      },
+      "gabarito": "C",
+      "comentario": "OPÇÃO ATALHO DESCRIÇÃO\nOrtografia e\nGramática\nF7\nO Word vai verificar a ortografia e gramática no seu documento, além\nde erros de digitação.\nVocê pode desabilitar a verificação ortográfica e gramatical."
+    },
+    {
+      "id": "info09_018",
+      "numero": 18,
+      "banca": "FUNDEP / UFVJM - 2017",
+      "tipo": "multipla",
+      "enunciado": "(FUNDEP / UFVJM - 2017) Assinale a alternativa que apresenta uma ação que não pode ser realizada pelas opções da aba “Página Inicial” do Word 2010.",
+      "alternativas": {
+        "a": "Definir o tipo de fonte a ser usada no documento.",
+        "b": "Recortar um trecho do texto para incluí-lo em outra parte do documento.",
+        "c": "Definir o alinhamento do texto.",
+        "d": "Inserir uma tabela no texto."
+      },
+      "gabarito": "D",
+      "comentario": "Todas podem, exceto inserir uma tabela no texto, porque essa opção está na Guia Inserir."
+    },
+    {
+      "id": "info09_019",
+      "numero": 19,
+      "banca": "IESES / CRM SC - 2018",
+      "tipo": "multipla",
+      "enunciado": "(IESES / CRM SC - 2018) Qual a tecla de atalho para a Ajuda no Microsoft Word.",
+      "alternativas": {
+        "a": "F4 95717730268 - Keyla Kiyoku",
+        "b": "F7",
+        "c": "F9",
+        "d": "F1"
+      },
+      "gabarito": "D",
+      "comentario": "ATALHO Descrição\nF1 Obter Ajuda ou visitar o Office.com.\nO atalho para obter ajuda ou visitar a página oficial do Office é o F1."
+    },
+    {
+      "id": "info09_020",
+      "numero": 20,
+      "banca": "NC-UFPR / CM QUITANDINHA - 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / CM QUITANDINHA - 2018) Considere o Microsoft Word 2013 português (Brasil). É solicitado que você elabore um manual de usuário de um determinado site da Internet para novos servidores que é utilizado rotineiramente no Setor. Para tanto, deve ser incluída no documento uma imagem da tela que está sendo documentada e suas instruções de navegação. Assinale a alternativa contendo a ferramenta que adiciona uma captura de tela ou janela aberta ao documento (manual).",
+      "alternativas": {
+        "a": "Na guia Inserir, no grupo Imagens, clique em Clip-art e selecione Captura de Tela.",
+        "b": "Na guia Inserir, no grupo Ilustrações, clique em Imagem e selecione Instantâneo.",
+        "c": "Na guia Inserir, no grupo Ilustrações, clique em Captura de Tela.",
+        "d": "Na guia Inserir, vá até o grupo Ilustrações e clique em Instantâneo.",
+        "e": "Na guia Inserir, vá até o grupo Imagens e clique em Captura de Tela."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. A guia “Inserir” não possui o grupo “Imagens” e muito menos as opções de Clip-art e\nCaptura de Tela – não confundam guia, grupo e comando; (b) Errado. Ao clicar em Imagem, abrese\na janela para escolher uma imagem salva no seu computador; (c) Errado. Não existe a opção\n“Captura de Tela”, no grupo “Ilustrações”, no Microsoft Word 2013; (d) Correto. Ao clicar na opção\n“Instantâneo”, aparece a opção de janelas abertas disponíveis e a de Recorte de Tela; (e) Errado.\nNão existe o grupo Imagens e a opção de Captura de Tela no Microsoft Word 2013."
+    },
+    {
+      "id": "info09_021",
+      "numero": 21,
+      "banca": "NC-UFPR / CM QUITANDINHA - 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / CM QUITANDINHA - 2018) Considere o Microsoft Word 2013 versão português (Brasil). Assinale a alternativa na qual consta a sequência para adicionar uma marca d’água ao documento.",
+      "alternativas": {
+        "a": "Na guia Inserir, no grupo Ilustrações, escolha Marca d'água.",
+        "b": "Na guia Inserir, no grupo Plano de Fundo da Página, escolha Marca-d'água. 95717730268 - Keyla Kiyoku",
+        "c": "Na guia Design, no grupo Plano de Fundo da Página, escolha Marca d'água.",
+        "d": "Na guia Layout da Página, no grupo Plano de Fundo da Página, escolha Marca d'água.",
+        "e": "Na guia Layout da Página, no grupo Temas, escolha Marca d'água."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado. Na Guia Inserir, o Grupo Ilustrações não possui a opção Marca d’água; (b) Errado. A Guia\nInserir não possui o Grupo Plano de Fundo da Página; (c) Correto, lembrando que até o MS-Word\n2010, era na Guia Layout; (d) Errado. A Guia Layout da Página não possui o Grupo Plano de Fundo\nda Página; (e) Errado. A Guia Layout da Página não possui o Grupo Temas e nem a opção Marca\nd’água."
+    },
+    {
+      "id": "info09_022",
+      "numero": 22,
+      "banca": "NC-UFPR / FOZ PREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / FOZ PREV – 2018) Considere a figura abaixo, que representa o grupo Parágrafo do editor de texto do Microsoft Office: Sobre esse grupo, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Os três primeiros ícones, apresentados na segunda linha, são, respectivamente, alinhamento a esquerda, alinhamento centralizado e justificado.",
+        "b": "A lista de vários níveis é utilizada para a inserção e geração automática de sumários.",
+        "c": "O recurso “realce”, que permite fazer o texto parecer como se tivesse sido marcado com um marca-texto, é acionado pelo ícone com a imagem de um balde despejando tinta (penúltimo ícone da segunda linha).",
+        "d": "O penúltimo ícone da primeira linha permite classificar os parágrafos selecionados.",
+        "e": "O quinto ícone da segunda linha permite aumentar o recuo do texto."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado. Os três primeiros ícones da segunda linha são, respectivamente, Alinhar à Esquerda,\nCentralizar e Alinhar à Direita; (b) Errado. A lista de vários níveis é utilizada para organizar itens ou\ncriar uma estrutura de tópicos; (c) Errado. O ícone do recurso “realce” é , já o ícone de um balde\ndespejando tinta representa o recurso de “sombreamento”; (d) Correto, o ícone mencionado é\n; (e) Errado. O ícone permite escolher o espaçamento entre as linhas do texto ou entre\nparágrafos."
+    },
+    {
+      "id": "info09_023",
+      "numero": 23,
+      "banca": "NC-UFPR / FOZ PREV – 2018",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / FOZ PREV – 2018) Em relação aos recursos do editor de texto do Microsoft Office, é correto afirmar:",
+      "alternativas": {
+        "a": "As opções “esquerdo”, “centralizado”, “direito”, “decimal” e “barra” são opções de alinhamento das tabulações.",
+        "b": "As “margens” são classificadas em retrato ou paisagem.",
+        "c": "As “marcas d’água” são caixas de texto dispostas no formato “Quadrado”.",
+        "d": "As “quebras” são organizadas em dois grupos: quebras de seção e quebras de linhas.",
+        "e": "As opções “antes” e “depois” no grupo “espaçamento” da caixa “Parágrafo” permitem definir o espaço entre linhas."
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto. Para acessá-las, é necessário clicar com o botão direito do mouse em algum lugar da\npágina, depois clicar em Parágrafo... e depois em Tabulações.... ; (b) Errado. As “margens” são\nclassificadas como Normal, Estreita, Moderada, Larga, Espelhada e ainda existe a opção de\nMargem Personalizada; (c) Errado. As “marcas d’água” são imagens ou textos que se encontram\nem todas as páginas do documento, atrás do texto principal; (d) Errado. Esse recurso não é dividido\nem dois grupos e se resume a “Quebras de Linhas e de Páginas”; (e) Errado. Permite definir o espaço\nentre parágrafos."
+    },
+    {
+      "id": "info09_024",
+      "numero": 24,
+      "banca": "NC-UFPR / ITAIPU - 2017",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / ITAIPU - 2017) O Microsoft Word possui um recurso que controla as alterações efetuadas em um documento. Quando esse recurso é ativado, o Word marca as alterações feitas no documento; quando esse recurso é desativado, o Word deixa de registrar as novas alterações, mas aquelas já efetuadas continuam marcadas. Como remover essas marcações do documento final?",
+      "alternativas": {
+        "a": "Na guia “Revisão”, no grupo “Alterações”, escolha a opção “Próxima”. 95717730268 - Keyla Kiyoku",
+        "b": "Na guia “Revisão”, no grupo “Alterações”, escolha a opção “Aceitar Todas as Alterações no Documento” ou “Rejeitar Todas as Alterações no Documento”.",
+        "c": "Na guia “Revisão”, no grupo “Comentários”, escolha a opção “Excluir”.",
+        "d": "Na guia “Revisão”, no grupo “Controle”, na lista “Marcação simples”, escolha a opção “Sem marcação”.",
+        "e": "Na guia “Revisão”, na lista “Controlar alterações”, escolha a opção “Bloqueio de controle”."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Errado. Essa opção permite escolher a próxima marcação; (b) Correto. Ambas as opções\nremovem as marcações do documento, porém a opção de Rejeitar Todas as Alterações no\nDocumento descarta todas alterações feitas no documento; (c) Errado. Na guia Revisão, grupo\nComentários, não há a opção de Excluir; (d) Errado. A lista Marcação simples permite escolher como\nvocê gostaria de ver as alterações neste documento; (e) Errado. A guia Revisão, na lista Controlar\nAlterações, não possui a opção Bloqueio de Controle."
+    },
+    {
+      "id": "info09_025",
+      "numero": 25,
+      "banca": "NC-UFPR / ITAIPU - 2017",
+      "tipo": "multipla",
+      "enunciado": "(NC-UFPR / ITAIPU - 2017) Em uma instalação padrão do Microsoft Word 2010, há funcionalidades relacionadas às teclas de atalho. Qual é o comando que faz com que sejam visualizadas na tela as teclas de atalho das ferramentas da Guia “Inserir”?",
+      "alternativas": {
+        "a": "Alt + Y",
+        "b": "Ctrl + I",
+        "c": "Alt + S",
+        "d": "Ctrl + N",
+        "e": "Shift + N"
+      },
+      "gabarito": "A",
+      "comentario": "(a) Correto, esse atalho seleciona a Guia Inserir no MS-Word 2010/2013 – Alt + T no MS-Word\n2016/2019; (b) Errado, o atalho CTRL + I aplica o itálico em uma palavra ou frase; (c) Errado, esse\natalho seleciona a Guia Referências; (d) Errado, o atalho CTRL + N aplicar negrito em uma palavra\nou frase; (e) Errado, esse atalho não possui nenhuma funcionalidade."
+    },
+    {
+      "id": "info09_026",
+      "numero": 26,
+      "banca": "DÉDALUS CONCURSOS / IPRED-SP - 2018",
+      "tipo": "multipla",
+      "enunciado": "(DÉDALUS CONCURSOS / IPRED-SP - 2018) No Microsoft Word 2010, o hiperlink tem como função:",
+      "alternativas": {
+        "a": "Criar um link de controle padrão para realização de backup.",
+        "b": "Criar um link de acesso para planilhas do Excel.",
+        "c": "Criar um link para acesso remoto para a página do documento Word. 95717730268 - Keyla Kiyoku",
+        "d": "Criar um link de acesso para as pastas de arquivos do computador.",
+        "e": "Criar um link de acesso direto para uma página web."
+      },
+      "gabarito": "E",
+      "comentario": "Hiperlink é sinônimo de “link”. É utilizado para criar um link no documento para ter rápido acesso a\npáginas da web e a outros arquivos. Cuidado para não confundir com a função do Indicador, que\npermite levar o usuário a um ponto específico no próprio documento. Professor, qual seria o erro da\nletra (d)? Nenhum! Apesar de ser menos comum, é possível criar um link de acesso para as pastas\nde arquivos do computador. Logo, a questão deveria ter sido anulada, mas não foi :("
+    },
+    {
+      "id": "info09_027",
+      "numero": 27,
+      "banca": "DÉDALUS CONCURSOS / IPRED-SP - 2018",
+      "tipo": "multipla",
+      "enunciado": "(DÉDALUS CONCURSOS / IPRED-SP - 2018) No Microsoft Word 2010, as teclas de atalho “Ctrl + S” quando selecionadas, tem como função:",
+      "alternativas": {
+        "a": "Sublinhar o texto selecionado",
+        "b": "Tornar o texto selecionado tachado.",
+        "c": "Selecionar um trecho do texto.",
+        "d": "Inserir SmatArt no texto selecionado."
+      },
+      "gabarito": "A",
+      "comentario": "O atalho CTRL + S é utilizado para sublinhar o texto selecionado. Não é utilizado somente no Word,\nmas nas demais ferramentas de escritório, como o Excel e o Powerpoint."
+    },
+    {
+      "id": "info09_028",
+      "numero": 28,
+      "banca": "DÉDALUS CONCURSOS / CORE/BA - 2018",
+      "tipo": "multipla",
+      "enunciado": "(DÉDALUS CONCURSOS / CORE/BA - 2018) No Microsoft Word 2010, ao pressionar as teclas Alt+Ctrl+F o usuário:",
+      "alternativas": {
+        "a": "Irá inserir uma imagem ao texto.",
+        "b": "Irá inserir uma nota de rodapé.",
+        "c": "Irá inserir marca d’água.",
+        "d": "Irá realizar a revisão ortográfica do texto."
+      },
+      "gabarito": "B",
+      "comentario": "Pessoal, o atalho questionado serve para inserir uma nota de rodapé. A Nota de Rodapé (ALT +\nCTRL + F) é uma anotação no pé da página, que fornece mais informações sobre algo no documento\ne acompanha a página de sua inserção."
+    },
+    {
+      "id": "info09_029",
+      "numero": 29,
+      "banca": "COPERVE / UFSC - 2018",
+      "tipo": "multipla",
+      "enunciado": "(COPERVE / UFSC - 2018) A respeito do Microsoft Word 2013, analise as afirmativas abaixo e assinale a alternativa correta. I. O sumário de um documento pode ser gerado automaticamente com base nos estilos de título (Título 1, Título 2, Título 3 etc.) utilizados. II. O sumário de um documento será atualizado automaticamente sempre que um novo parágrafo formatado com um dos estilos de título for inserido. III. Ao criar uma legenda para uma imagem contida em um documento, torna-se possível inserir, em qualquer parte do texto, uma referência cruzada para a imagem em questão. IV. O índice de ilustrações de um documento pode ser gerado com base nas legendas associadas a imagens contidas nele. V. O índice de ilustrações de um documento será atualizado automaticamente sempre que uma nova imagem for inserida.",
+      "alternativas": {
+        "a": "Somente as afirmativas I, III e IV estão corretas.",
+        "b": "Todas as afirmativas estão corretas.",
+        "c": "Nenhuma das afirmativas está correta.",
+        "d": "Somente as afirmativas I e II estão corretas.",
+        "e": "Somente as afirmativas IV e V estão corretas."
+      },
+      "gabarito": "A",
+      "comentario": "(I) É isso mesmo. Inclusive, é a forma em que as aulas são feitas. Após colocarmos os títulos no\ntexto, basta atualizar o sumário que ele ficará correspondente com as informações do texto. (II)\nErrado, ele não atualiza automaticamente. Como dissemos na alternativa anterior, é preciso\nselecionar a opção para a sua atualização. (III). É isso mesmo, a referência cruzada serve\nexatamente para mencionar lugares específicos no documento, como títulos, ilustrações ou\ntabelas. (IV) Correto! O índice de ilustrações serve para adicionar uma lista de objetos legendados\ne seus números de páginas para uma referência rápida, facilitando o acesso. Ele pode ser gerado\ncom base nas legendas associadas. (V) Errado, o índice não atualiza automaticamente."
+    },
+    {
+      "id": "info09_030",
+      "numero": 30,
+      "banca": "UFPEL / UFPEL / 2016",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2016) No Microsoft Word, as teclas de atalho para desfazer a última ação e para copiar um texto selecionado são, respectivamente:",
+      "alternativas": {
+        "a": "Ctrl + ESC e Ctrl + C.",
+        "b": "Ctrl + S e Ctrl + P. 95717730268 - Keyla Kiyoku",
+        "c": "Ctrl + A e Ctrl + N.",
+        "d": "Ctrl + Z e Ctrl + C.",
+        "e": "Ctrl + C e Ctrl + Z."
+      },
+      "gabarito": "D",
+      "comentario": "Para desfazer a última ação, utilizamos o atalho CTRL + Z; e para copiar um texto selecionado,\nutilizamos o atalho CTRL + C."
+    },
+    {
+      "id": "info09_031",
+      "numero": 31,
+      "banca": "UFPEL / UFPEL / 2013",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2013) No Microsoft Word 2007 e no BrOffice.org Writer 3.2.1, com um documento editado, utiliza-se a opção CTRL + P para:",
+      "alternativas": {
+        "a": "abrir novo documento.",
+        "b": "imprimir o documento editado.",
+        "c": "excluir o documento editado.",
+        "d": "selecionar todo o documento.",
+        "e": "salvar o documento editado."
+      },
+      "gabarito": "B",
+      "comentario": "A opção CTRL + P (Print = Imprimir) é utilizada para imprimir o documento editado."
+    },
+    {
+      "id": "info09_032",
+      "numero": 32,
+      "banca": "UFPEL / UFPEL / 2013",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2013) No Microsoft Word 2007, para configurar a fonte como sobrescrita, sem o uso do mouse, pode-se utilizar o atalho teclando simultaneamente as teclas:",
+      "alternativas": {
+        "a": "CTRL + +",
+        "b": "CTRL + SHIFT + -",
+        "c": "CTRL + SHIFT + *",
+        "d": "CTRL + ALT + DEL",
+        "e": "CTRL + SHIFT + +"
+      },
+      "gabarito": "E",
+      "comentario": "O atalho utilizado para sobrescrita é o CTRL + SHIFT + +, lembrando que sobrescrita é isso!"
+    },
+    {
+      "id": "info09_033",
+      "numero": 33,
+      "banca": "UFPEL / UFPEL / 2012",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2012) No texto abaixo, o alinhamento do título, do corpo do texto e do nome do autor são, respectivamente,",
+      "alternativas": {
+        "a": "centralizado, alinhado à esquerda, alinhado à direita.",
+        "b": "justificado, justificado, alinhado à direita.",
+        "c": "centralizado, justificado, alinhado à direita.",
+        "d": "alinhado à direta, centralizado, justificado.",
+        "e": "justificado, alinhado à esquerda, alinhado à direita."
+      },
+      "gabarito": "C",
+      "comentario": "O alinhamento do título está centralizado; o alinhamento do corpo do texto está justificado; e o\nalinhamento do nome do autor está alinhado à direita."
+    },
+    {
+      "id": "info09_034",
+      "numero": 34,
+      "banca": "UFPEL / UFPEL / 2008",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2008) Se, no MS Word, quero ter num mesmo arquivo, configurações de páginas diferentes, posso criar:",
+      "alternativas": {
+        "a": "divisões e subdivisões.",
+        "b": "formatos diferentes.",
+        "c": "novas páginas.",
+        "d": "seções.",
+        "e": "novo layout."
+      },
+      "gabarito": "D",
+      "comentario": "Opa... para manter configurações de páginas diferentes, basta criar seções. Dentro de cada seção,\nas configurações podem ser completamente distintas."
+    },
+    {
+      "id": "info09_035",
+      "numero": 35,
+      "banca": "UFPEL / UFPEL / 2008",
+      "tipo": "multipla",
+      "enunciado": "(UFPEL / UFPEL / 2008) No MS Word, um índice ........... lista os termos e os tópicos abordados em um documento, juntamente com as páginas em que eles aparecem. Qual palavra completa a afirmativa acima?",
+      "alternativas": {
+        "a": "analítico",
+        "b": "terminológico",
+        "c": "por tópicos",
+        "d": "remissivo",
+        "e": "por termos"
+      },
+      "gabarito": "D",
+      "comentario": "O índice remissivo lista os termos e os tópicos abordados em um documento, juntamente com as\npáginas em que eles aparecem. O Word automatiza a maior parte do trabalho envolvido na criação\nde um índice remissivo e permite-lhe facilmente fazer atualizações ou aplicar alterações de\nformatação. Para criar um índice remissivo, tem primeiro de marcar as entradas que pretende\nincluir e, em seguida, construir o índice remissivo."
+    },
+    {
+      "id": "info09_036",
+      "numero": 36,
+      "banca": "CEFET-BA / CREF/13ª - 2012",
+      "tipo": "multipla",
+      "enunciado": "(CEFET-BA / CREF/13ª - 2012) Na elaboração de documentos usando o Microsoft Word, muitas vezes, é necessário copiar trechos de textos disponíveis na Internet. Em alguns casos, no entanto, os textos encontram-se formatados de forma específica e, ao copiá-los, os formatos da página Web são aplicados também no documento do Word. Para resolver esse problema, mantendo a formatação originalmente adotada no Microsoft Word, é correto afirmar:",
+      "alternativas": {
+        "a": "O texto precisaria ser redigitado, pois não é possível eliminar o formato original.",
+        "b": "Antes de copiar o texto para o Word, é fundamental copiá-lo para o Microsoft Excel, que eliminará os formatos específicos de modo que, a partir do bloco de notas, o texto possa ser copiado de novo.",
+        "c": "Para colar o texto, usar a combinação de teclas “Ctrl + F1”, pois ela eliminará o formato original do texto. 95717730268 - Keyla Kiyoku",
+        "d": "Ao copiar o texto, usar a opção “Editar – Colar Especial”, selecionando “texto não formatado”.",
+        "e": "No navegador de Internet, é importante acionar a opção “Eliminar Formatos” antes de copiar o trecho do texto."
+      },
+      "gabarito": "D",
+      "comentario": "(a) Errado, é possível, sim, eliminar o formato original; (b) Errado, não é necessário copiá-lo para o\nMicrosoft Excel – isso não faz o menor sentido; (c) Errado, esse atalho é utilizado para esconder a\nfaixa de opções; (d) Correto, basta escolher a opção “Texto não formatado” como mostra a imagem\nacima; (e) Errado, essa opção sequer existe."
+    },
+    {
+      "id": "info09_037",
+      "numero": 37,
+      "banca": "FGR / PREF CABECEIRA GRANDE - MG / 2018",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF CABECEIRA GRANDE - MG / 2018) Por padrão, a extensão de salvamento dos arquivos relativos à versão Microsoft Word 2010 é “docx”. Marque a alternativa INCORRETA sobre as características dessa extensão:",
+      "alternativas": {
+        "a": "O arquivo gerado no formato “docx” é baseado em XML, fato que traz uma série de benefícios para o usuário. Um deles é a compactação automática do arquivo no momento em que é salvo utilizando a tecnologia ZIP, fazendo com que os arquivos sejam até 75% menores que aquelas no formato antecessor.",
+        "b": "São mais seguros, uma vez que arquivos com o “x”, como DOCX, XLSX (do Excel) e PPTX (do PowerPoint), não podem conter macros VBA (Visual Basic for Applications), nem controles ActiveX.",
+        "c": "Recuperação de arquivos danificados melhorada. Os arquivos estão estruturados de uma forma modular que mantém os diferentes componentes de dados no arquivo separados uns dos outros. Isto permite que eles sejam abertos mesmo que um componente dentro dele (por exemplo, um gráfico ou uma tabela) se encontre danificado ou corrompido.",
+        "d": "O arquivo gerado no formato antecessor: “doc”, ocupa menos espaço na unidade onde ele será salvo ou armazenado. 95717730268 - Keyla Kiyoku"
+      },
+      "gabarito": "D",
+      "comentario": "(a) Correto. Os arquivos são automaticamente comprimidos e podem ser, em alguns casos, 75\nporcento menores. O Formato Open XML utiliza tecnologia de compressão zip para armazenar\ndocumentos, oferecendo potenciais reduções de custos, uma vez que reduzem o espaço de disco\nnecessário para armazenar arquivo e diminuem a largura de banda necessária para enviar arquivos\natravés de correio eletrônico, de redes e da Internet. Ao abrir um arquivo, este é automaticamente\ndescompactado. Ao guardar um arquivo, este é compactado novamente de forma automática. Não\né necessário instalar quaisquer utilitários zip especiais para abrir e fechar arquivos no Office;\n(b) Correto. Os arquivos guardados utilizando o sufixo \"x\" predefinido (Ex: .docx, .xlsx e .pptx) não\npodem conter macros VBA (Visual Basic for Applications) e macros XML. Apenas os arquivos cuja\nextensão de nome de arquivo termina com um \"m\" (Ex: .docm, .xlsm e .pptm) podem conter\nmacros.\n(c) Correto. Os arquivos estão estruturados de uma forma modular que mantém os diferentes\ncomponentes de dados no arquivo separados uns dos outros. Isto permite que os arquivos sejam\nabertos mesmo que um componente dentro do arquivo (por exemplo, um gráfico ou uma tabela)\nse encontre danificado ou corrompido.\n(d) Errado. Arquivos no formato .doc eram maiores do que no formato .docx porque ocupavam\nmais espaço no meio de armazenamento onde será gravado."
+    },
+    {
+      "id": "info09_038",
+      "numero": 38,
+      "banca": "FGR / PREF CABECEIRA GRANDE - MG / 2018",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF CABECEIRA GRANDE - MG / 2018) Tabelas fazem parte das funcionalidades da guia Inserir no grupo Tabela do Microsoft Word 2010 e servem para organizar informações correspondentes em linhas e em colunas. Todas as alternativas abaixo são opções disponíveis no grupo acima descrito para incluir uma tabela, EXCETO:",
+      "alternativas": {
+        "a": "Inserir Tabela (selecionando Colunas e Linhas visualmente).",
+        "b": "Desenhar tabela.",
+        "c": "Arquivo PDF.",
+        "d": "Planilha do Excel."
+      },
+      "gabarito": "C",
+      "comentario": "O comando Tabela do Grupo Tabelas da Guia Inserir permite Inserir uma tabela (selecionando\ncolunas e linhas visualmente), permite Desenhar uma Tabela e permite importar uma Planilha do\nExcel – a opção Arquivo PDF não existe!"
+    },
+    {
+      "id": "info09_039",
+      "numero": 39,
+      "banca": "FGR / PREF CABECEIRA GRANDE - MG / 2018",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF CABECEIRA GRANDE - MG / 2018) Qual a ação realizada ao se pressionar a tecla de atalho <CTRL> + S no Microsoft Word 2010:",
+      "alternativas": {
+        "a": "Salvar o arquivo.",
+        "b": "Sair do Microsoft Word 2010.",
+        "c": "Sublinhar o texto selecionado.",
+        "d": "Nenhuma das alternativas acima."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Errado, é CTRL + B; (b) Errado, é CTRL + W; (c) Correto, é CTRL + S; (d) Errado."
+    },
+    {
+      "id": "info09_040",
+      "numero": 40,
+      "banca": "FGR / CM CARMO DE MINAS - MG / 2016",
+      "tipo": "multipla",
+      "enunciado": "(FGR / CM CARMO DE MINAS - MG / 2016) Dentre as alternativas abaixo, que detalham funções e atalhos de teclado no Microsoft Word 2007, todas são corretas, EXCETO:",
+      "alternativas": {
+        "a": "F12 - exibe a caixa de diálogo Salvar como.",
+        "b": "CTRL+Z - desfaz uma ação.",
+        "c": "CTRL+B - formata as letras com negrito.",
+        "d": "CTRL+S - formata as letras com sublinhado."
+      },
+      "gabarito": "C",
+      "comentario": "(a) Correto, esse atalho exibe a caixa de diálogo Salvar Como; (b) Correto, esse atalho desfaz uma\nação; (c) Errado, esse atalho permite salvar um arquivo; (d) Correto, esse atalho formata as letras\ncom sublinhado."
+    },
+    {
+      "id": "info09_041",
+      "numero": 41,
+      "banca": "FGR / CM CARMO DE MINAS - MG / 2016",
+      "tipo": "multipla",
+      "enunciado": "(FGR / CM CARMO DE MINAS - MG / 2016) Considere a necessidade de inserir, em um documento do Microsoft Word 2007, uma tabela de três colunas e cinco linhas, tendo, cada coluna, a largura de 5 cm. Para se efetivar tal inserção, marque, dentre os procedimentos a seguir indicados, a alternativa CORRETA:",
+      "alternativas": {
+        "a": "na guia “Inserir”, grupo “Tabelas”, clique em “Tabela” e, em seguida, clique em “Inserir Tabela”. Em “Tamanho da tabela”, insira o número de colunas e de linhas e, em “Comportamento de ajuste automático”, em “Largura de coluna fixa”, ajuste o valor da largura da coluna para 5 cm.",
+        "b": "na guia “Layout da página”, grupo “Organizar”, clique em “Alinhar” e, em seguida, clique em “Inserir Tabela”. Em “Tamanho da tabela”, insira o número de colunas e de linhas e, em “Comportamento de ajuste automático”, especifique o valor da largura da coluna em 5 cm.",
+        "c": "na guia “Inserir”, grupo “Tabelas”, clique em “Tabela” e, em seguida, clique em “Desenhar Tabela”. Em “Tamanho da tabela”, insira o número de colunas e linhas e, em “Comportamento de ajuste automático”, em “Largura de coluna fixa”, ajuste o valor da largura da coluna para 5 cm.",
+        "d": "na guia “Início”, grupo “Parágrafo”, no botão “Desenhar tabela”, escolha a opção de menu de “Desenhar tabela”, insira o número de colunas e de linhas e especifique o valor da largura da coluna em 5 cm."
+      },
+      "gabarito": "A",
+      "comentario": "Para realizar esse procedimento, devemos ir na guia Inserir, grupo Tabelas, clique em Tabela e, em\nseguida, clique em Inserir Tabela. Em Tamanho da tabela, insira o número de colunas e de linhas e,\nem Comportamento de ajuste automático, em Largura de coluna fixa, ajuste o valor da largura da\ncoluna para 5 cm."
+    },
+    {
+      "id": "info09_042",
+      "numero": 42,
+      "banca": "FGR / CM CARMO DE MINAS - MG / 2016",
+      "tipo": "multipla",
+      "enunciado": "(FGR / CM CARMO DE MINAS - MG / 2016) Suponha-se a hipótese de se necessitar inserir um cabeçalho e um rodapé específico na primeira página de um documento do Microsoft Word 2007, e outro cabeçalho e rodapé – diferente do disposto na primeira página -, em todas as demais páginas do documento. Nas opções a seguir indicadas, marque, para a realização da operação de inserção requerida, a alternativa CORRETA:",
+      "alternativas": {
+        "a": "na guia “Inserir”, grupo “Cabeçalho e Rodapé”, clica-se em “Cabeçalho” ou “Rodapé” e, no design que se deseja, elabora-se o cabeçalho ou rodapé que se queira. Em seguida, clica-se na guia “Inserir” e, no grupo “Páginas”, clica-se em “Folha de Rosto” e no design que se deseja, elaborando-a.",
+        "b": "na guia “Inserir”, grupo “Cabeçalho e Rodapé”, clica-se em “Cabeçalho” ou “Rodapé” e, no design que se deseja, elabora-se o respectivo cabeçalho ou rodapé. Em seguida, clica-se na guia “Layout da Página”, no inicializador de caixa de diálogo de “Configurar Página” e, em seguida, na guia “Layout”, marcando-se a caixa de seleção “Diferentes em páginas pares e ímpares”, seguindo-se a elaboração no cabeçalho e rodapé específicos para a primeira página do documento.",
+        "c": "na guia “Inserir”, grupo “Cabeçalho e Rodapé”, clica-se em “Cabeçalho” ou “Rodapé” e, no design que se deseja, elabora-se o respectivo cabeçalho ou rodapé. Em seguida, clica-se na guia “Layout da Página”, no inicializador de caixa de diálogo “Configurar Página” e, após, na guia “Layout”, desmarcando-se a caixa de seleção “Diferente na primeira página”, em “Cabeçalhos e rodapés”, seguindo-se a elaboração do cabeçalho e rodapé específicos para a primeira página do documento.",
+        "d": "na guia “Inserir”, grupo “Cabeçalho e Rodapé”, clica-se em “Cabeçalho” ou “Rodapé” e, no design que se deseja, elabora-se o respectivo cabeçalho ou rodapé de todas as páginas. Em 95717730268 - Keyla Kiyoku seguida, clica-se na guia “Layout da Página”, no inicializador de caixa de diálogo de “Configurar Página” e, após, na guia “Layout”, marcando-se a caixa de seleção “Diferente na primeira página” em “Cabeçalhos e rodapés”, seguindo-se a elaboração do cabeçalho e rodapé específicos para a primeira página do documento."
+      },
+      "gabarito": "D",
+      "comentario": "Galera, não se estressem caso errem esse tipo de questão decoreba – isso não avalia nada. De todo\nmodo, o caminho correto é: Na guia Inserir, grupo Cabeçalho e Rodapé, clica-se em Cabeçalho ou\nRodapé e, no design que se deseja, elabora-se o respectivo cabeçalho ou rodapé de todas as\npáginas. Em seguida, clica-se na guia Layout da Página, no inicializador de caixa de diálogo de\nConfigurar Página e, após, na guia Layout, marcando-se a caixa de seleção Diferente na primeira\npágina em Cabeçalhos e rodapés, seguindo-se a elaboração do cabeçalho e rodapé específicos para\na primeira página do documento."
+    },
+    {
+      "id": "info09_043",
+      "numero": 43,
+      "banca": "FGR / PREF BELO HORIZONTE - MG / 2010",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF BELO HORIZONTE - MG / 2010) O ambiente de trabalho do Microsoft Word é constituído dos recursos abaixo, EXCETO:",
+      "alternativas": {
+        "a": "Barra de Ferramentas Padrão.",
+        "b": "Réguas.",
+        "c": "Barra de Fórmulas.",
+        "d": "Área de Digitação."
+      },
+      "gabarito": "C",
+      "comentario": "Todas as opções apresentam recursos, exceto a Barra de Fórmulas (que é do MS-Office Excel)."
+    },
+    {
+      "id": "info09_044",
+      "numero": 44,
+      "banca": "FGR / PREF BELO HORIZONTE - MG / 2010",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF BELO HORIZONTE - MG / 2010) Dentre as alternativas abaixo, assinale a que seria CORRETA para se criar um documento em branco no Microsoft Word.",
+      "alternativas": {
+        "a": "Selecionar, no Menu Arquivo, a opção Novo.",
+        "b": "No Painel de Tarefas, clicar na opção Documento em Branco, do itemNovo.",
+        "c": "Clicar no botão Novo, da barra de ferramentas Padrão.",
+        "d": "Todas as alternativas acima estão corretas."
+      },
+      "gabarito": "D",
+      "comentario": "Todas as alternativas estão corretas para se criar um documento em branco no Microsoft Word."
+    },
+    {
+      "id": "info09_045",
+      "numero": 45,
+      "banca": "FGR / PREF BELO HORIZONTE - MG / 2010",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF BELO HORIZONTE - MG / 2010) Todas as alternativas abaixo de operações no Microsoft Word são corretas, EXCETO:",
+      "alternativas": {
+        "a": "Para mudar o nome de um arquivo, deve-se ir ao Menu Arquivo/Abrir, localizar e selecionar o arquivo, clicar com o botão direito do mouse e escolher a opção Renomear.",
+        "b": "Para selecionar três ou mais arquivos adjacentes, após acionar o Menu Arquivo/Abrir, clique no primeiro arquivo e, mantendo a tecla Ctrl pressionada, clique no último arquivo de sua seleção. Se você selecionou um arquivo que não queria, mantenha pressionada a tecla Shift e clique no arquivo para retirar a seleção.",
+        "c": "Para excluir um arquivo, deve-se clicar em Abrir, do Menu Arquivo, da Barra de Ferramentas Padrão, localizar o arquivo a ser excluído, clicar com o botão direito do mouse sobre ele e, em seguida, em Excluir no menu de atalho.",
+        "d": "Para mover um arquivo entre pastas, clica-se no Menu Arquivo/Abrir, localiza-se o arquivo, clica-se nele uma vez com o botão esquerdo e uma com o botão direito do mouse e, em seguida, escolhe-se Recortar no menu de atalho. Após escolher a nova pasta onde o arquivo ficará, clicase com o botão direito do mouse e escolhe Colar."
+      },
+      "gabarito": "B",
+      "comentario": "(a) Correto. Ao clicar com o botão direito do mouse em um dos arquivos listados na janela Abrir,\nacionada através do menu Arquivo, será exibido um menu, no qual haverá a opção Renomear; (b)\nErrado. Para selecionar arquivos adjacentes, o usuário deve clicar no primeiro arquivo a ser\nselecionado, pressionar e manter pressionada a tecla shift, e clicar no último arquivo a ser\nselecionado. Desta forma, todos os arquivos que estiverem entre o primeiro e o último clicado,\nserão selecionados. A tecla Ctrl é usada para selecionar arquivos não adjacentes; (c) Correto. Ao\nclicar com o botão direito do mouse em um dos arquivos listados na janela Abrir, acionada através\ndo menu Arquivo, será exibido um menu, no qual haverá a opção Excluir; (d) Correto. Um clique\ncom o botão esquerdo seleciona o arquivo listado na janela Abrir. Ao clicar com o botão direito\nneste arquivo, será exibido um menu, no qual constará o comando Recortar, que envia o arquivo\nselecionado para a Área de Transferência. O próximo passo é clicar a pasta de destino com o botão\ndireito do mouse e clicar em Colar, para que o conteúdo da Área de Transferência seja enviado para\na pasta atual."
+    },
+    {
+      "id": "info09_046",
+      "numero": 46,
+      "banca": "FGR / PREF BELO HORIZONTE - MG / 2010",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF BELO HORIZONTE - MG / 2010) O Microsoft Word possui um recurso em que sugere ao digitador a finalização da palavra ou termo que este tenha começado a digitar, com a 95717730268 - Keyla Kiyoku finalidade de agilizar a digitação. Marque abaixo a designação CORRETA deste recurso do editor de texto.",
+      "alternativas": {
+        "a": "Autotexto.",
+        "b": "Autocorreção.",
+        "c": "Autoformatação.",
+        "d": "Verificação ortográfica e gramatical."
+      },
+      "gabarito": "A",
+      "comentario": "Autotexto permite substituir uma sequência de caracteres por um texto, que pode ter mais do que\n255 caracteres, ou ainda figuras ou gráficos. Após a correta configuração do recurso, ao digitar o\ninício da sequência, o texto completo será automaticamente exibido em uma pequena caixa e, ao\ndigitar Enter, a complementação automática será completada."
+    },
+    {
+      "id": "info09_047",
+      "numero": 47,
+      "banca": "FGR / PREF BELO HORIZONTE - MG / 2010",
+      "tipo": "multipla",
+      "enunciado": "(FGR / PREF BELO HORIZONTE - MG / 2010) Para salvar um documento utilizando teclas de atalho do Microsoft Word, pode-se usar a combinação de teclas abaixo indicada, EXCETO:",
+      "alternativas": {
+        "a": "Crtl + B",
+        "b": "Crtl + S",
+        "c": "Shift + F12",
+        "d": "Alt + Shift + F2"
+      },
+      "gabarito": "B",
+      "comentario": "O atalho Ctrl + S permite aplicar o efeito sublinhado ao trecho selecionado. Todos os demais atalhos\npermitem salvar o documento que estiver sendo editado."
+    }
+  ]
+}
