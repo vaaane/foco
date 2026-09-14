@@ -527,6 +527,14 @@
       "total": 46
     },
     {
+      "arquivo": "info-aula-08.json",
+      "aula": "08",
+      "titulo": "Informática - AULA 08",
+      "disciplina": "Informática",
+      "soConteudo": true,
+      "total": 0
+    },
+    {
       "arquivo": "info-aula-09-word.json",
       "aula": "09",
       "titulo": "Informática - AULA 09",
@@ -583,6 +591,14 @@
         }
       ],
       "total": 34
+    },
+    {
+      "arquivo": "info-aula-13.json",
+      "aula": "13",
+      "titulo": "Informática - AULA 13",
+      "disciplina": "Informática",
+      "soConteudo": true,
+      "total": 0
     },
     {
       "arquivo": "mat-aula-00.json",
